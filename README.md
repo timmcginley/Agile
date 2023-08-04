@@ -6,6 +6,13 @@ Architectural engineering with uncertainty requires agile thinking, in order to 
 
 This course aims to provide ‘future tools’ to enable participants to design ‘in the future’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a clearly defined future scenario. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they develop an ‘Agile Prototype’ of a building system or product that includes 100 years of the building system or products past, as well as 100 years of its future.
 
+Agile Prototyping focuses on
+
+- Focus on 'meta disciplinary' Building Elements
+- identification of common analysis methods
+- Building systems should be 'hot swappable' in a design process.
+- We should make the future design experience we want
+
 ## Methodology
 The Agile Prototyping methodology synthesises:
 - agile design processes
@@ -13,23 +20,34 @@ The Agile Prototyping methodology synthesises:
 - biomimetics and
 - future forecasting
 
-It provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
+The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
 
 
 ## Assignments
+There are four assignments.
 
 ## A1 Futures
-Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping. Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
+- Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping.
+- Define a specific building system, that you will develop an agile prototype of in the course.
+- Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
 
 ## A2 Needs
-Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions. The concepts are based in traditional in requirements engineering but they extended so that they can used in meta disciplinary analysis of the selected building system. This stage intorduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
+- Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions.
+- Traditional requirements engineering concepts are extended here so that they can used in meta disciplinary analysis of a selected building system.
+- This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
 
 ## A3 Analysis
-Focus on the modelling of the agile Prototype using biodigital prototyping methods. Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product). Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases. This applies the concepts of biological development to inform the development of our agile biodigtal prototype. This follows the design and development and demonstration stages of DSRM.
+- Focus on the modelling of the agile Prototype using biodigital prototyping methods.
+- Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
+- Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
+- This applies the concepts of biological development to inform the development of our agile biodigtal prototype.
+- This follows the design and development and demonstration stages of DSRM.
 
 ## A4 Change
-Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory. This happens by applying the biological concept of evolutionary development to the
-‘Overarching concept for this assignment is the future concept of recasting with the purpose of evoking imagination and in our case imagining the future trajectory of building system features based on their current ‘genes’ identified in assignment 2 and future needs. This follows the evaluate and communicate steps of the DSRM.
+- Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory.
+- This happens by applying the biological concept of evolutionary development to the
+‘Overarching concept for this assignment is the future concept of recasting with the purpose of evoking imagination and in our case imagining the future trajectory of building system features based on their current ‘genes’ identified in assignment 2 and future needs.
+- This follows the evaluate and communicate steps of the DSRM.
 
 ## Learning Objectives
 - Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
