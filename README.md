@@ -1,20 +1,18 @@
 # Agile Prototyping
 
-The future is uncertain. Architectural engineering with uncertainty requires agile thinking, in order to model, adapt and redesign building systems and products fast. The course aims to provide ‘future tools’ to enable participants to design ‘in the future’. The focus of the course is to support participants to model, design and analyse building systems, fast for a clearly defined future scenario.
-
-## Overview
-In the course, students use these tools to extend their view of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they develop an ‘Agile Prototype’ of a building system or product that includes 100 years of the building system or products past, as well as 100 years of its future.
+The future is uncertain. Architectural engineering with uncertainty requires agile thinking, in order to model, adapt and redesign building systems and products fast. The course aims to provide ‘future tools’ to enable participants to design ‘in the future’. The focus of the course is to support participants to model, design and analyse building systems, fast for a clearly defined future scenario. In the course, students use these tools to extend their view of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they develop an ‘Agile Prototype’ of a building system or product that includes 100 years of the building system or products past, as well as 100 years of its future.
 
 ## Methodology
-The Agile Prototyping methodology used in the course synthesises agile design processes, computational design, biomimetics and future forecasting to provide participants with a future focused design, analysis and modelling skills in architectural engineering.
+The Agile Prototyping methodology used in the course synthesises:
+- agile design processes
+- computational design
+- biomimetics and
+- future forecasting
 
-Architectural Engineering requires that we not only design solutions to built environment challenges, but also that we can identify the existing problems and design a test to see if our solutions address them. 
+It provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
 
-The course builds on students’ prior domain knowledge of the problem to be addressed and then invites them to identify any further required learning. Students then design a test to satisfy the proposed prototype. The form of the prototype should be appropriate to the identified challenge but could for instance be a digital tool for design or analysis, or a physical prototype of a building component or a hybrid or interface of these.
 
-Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
-
-Agile Prototyping has four stages: 
+## Assignment
 
 ## A1 #FORECAST FUTURES: 
 Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping. Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
