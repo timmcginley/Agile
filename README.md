@@ -14,14 +14,19 @@ The Agile Prototyping methodology used in the course synthesises agile design pr
 
 Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
 
-Agile Prototyping has four stages: A1 #FORECAST FUTURES: Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping. Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
+Agile Prototyping has four stages: 
 
-A2 #WHATS NEEDED?
+## A1 #FORECAST FUTURES: 
+Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping. Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
+
+## A2 #WHATS NEEDED?
 Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions. The concepts are based in traditional in requirements engineering but they extended so that they can used in meta disciplinary analysis of the selected building system. This stage intorduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
 
-(3) #DISCOVER GENES: Focus on the modelling of the agile Prototype using biodigital prototyping methods. Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product). Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases. This applies the concepts of biological development to inform the development of our agile biodigtal prototype. This follows the design and development and demonstration stages of DSRM.
+## A3 #DISCOVER GENES: 
+Focus on the modelling of the agile Prototype using biodigital prototyping methods. Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product). Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases. This applies the concepts of biological development to inform the development of our agile biodigtal prototype. This follows the design and development and demonstration stages of DSRM.
 
-(4) #COMPUTE VECTORS: Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory. This happens by applying the biological concept of evolutionary development to the
+## A4 #COMPUTE VECTORS: 
+Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory. This happens by applying the biological concept of evolutionary development to the
 ‘Overarching concept for this assignment is the future concept of recasting with the purpose of evoking imagination and in our case imagining the future trajectory of building system features based on their current ‘genes’ identified in assignment 2 and future needs. This follows the evaluate and communicate steps of the DSRM.
 
 ## Learning Objectives
