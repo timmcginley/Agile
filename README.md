@@ -1,6 +1,6 @@
 # Agile Prototyping
 
-The aim of the course is to teach ....
+The aim of the course is to teach a methodolgy that enables participants to indentify, forecast the future of anf align future devleopment of specific architectural engineering systems.
 
 Architectural Engineering requires that we not only design solutions to built environment challenges, but also that we can identify the existing problems and design a test to see if our solutions address them. 
 
