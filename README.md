@@ -12,7 +12,7 @@ The Agile Prototyping methodology used in the course synthesises:
 It provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
 
 
-## Assignment
+## Assignments
 
 ## A1 Futures
 Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping. Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
