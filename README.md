@@ -1,5 +1,7 @@
 # Agile Prototyping
 
+The aim of the course is to teach ....
+
 Architectural Engineering requires that we not only design solutions to built environment challenges, but also that we can identify the existing problems and design a test to see if our solutions address them. 
 
 This course provides a framework to support learners to (1) identify existing built environment engineering challenges, (2) synthesise solutions to address these based on the (3) development of tests to assess the appropriateness of the proposed solution to the identified challenge.
