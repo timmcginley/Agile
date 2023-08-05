@@ -1,10 +1,10 @@
 # Agile Prototyping
 
-**The future is uncertain. So how can we design buildings for their future?**
+**The future is uncertain. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future**
 
-**Can we design in the future?**
 
->Architectural engineering with uncertainty requires agile thinking to; model, adapt and redesign building systems and products fast.
+
+>Design in the future is orchestrating diverse disciplinary needs with uncertainty.  This requires agile thinking to; model, adapt and redesign building systems and products fast.
 
 This course aims to provide ‘future tools’ to enable participants to design ‘in the future’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a clearly defined future scenario. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they develop an ‘Agile Prototype’ of a building system or product that includes 100 years of the building system or products past, as well as 100 years of its future.
 
