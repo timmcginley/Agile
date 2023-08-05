@@ -1,6 +1,8 @@
 # Agile Prototyping
 
-**The future is uncertain.**
+**The future is uncertain. So how can we design buildings forit?**
+
+**Can we design in the future?**
 
 >Architectural engineering with uncertainty requires agile thinking to; model, adapt and redesign building systems and products fast.
 
