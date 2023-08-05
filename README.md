@@ -1,7 +1,6 @@
 # Agile Prototyping
 
-**The future is uncertain. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future**
-
+**The future is uncertain. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future.**
 
 
 >Design in the future is orchestrating diverse disciplinary needs with uncertainty.  This requires agile thinking to; model, adapt and redesign building systems and products fast.
