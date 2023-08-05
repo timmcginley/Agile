@@ -15,10 +15,10 @@ Agile Prototyping focuses on
 
 ## Methodology
 The Agile Prototyping methodology synthesises:
-- agile design processes
-- computational design
-- biomimetics and
-- future forecasting
+- [agile design processes](Concepts/Agile) 
+- [computational design](Concepts/ComputationalDesign)
+- [biomimetics](Concepts/Biomimetics) / [Morphogenetic Prototyping](Concepts/MorphogeneticPrototyping)
+- [future forecasting](Concepts/Futures)
 
 The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to identify the ‘genes’ of the built environment. This will enable future architectural engineers to hack the pseudo genetic code of our built environment. To enable the fast (re)design and analysis of our built environment.
 
