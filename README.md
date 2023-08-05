@@ -1,6 +1,6 @@
 # Agile Prototyping
 
-**The future is uncertain. So how can we design buildings forit?**
+**The future is uncertain. So how can we design buildings for their future?**
 
 **Can we design in the future?**
 
