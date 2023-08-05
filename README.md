@@ -27,19 +27,19 @@ The course provides participants with a future focused design, analysis and mode
 There are four assignments.
 
 ## A1 Futures
-- Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping.
-- Define a specific building system, that you will develop an agile prototype of in the course.
-- Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
+- FORECASTING: Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping.
+- META DISCIPLINARY SYSTEMS: Define a specific building system, that you will develop an agile prototype of in the course.
+- TARGET: Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
 
 ## A2 Needs
-- Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions.
-- Traditional requirements engineering concepts are extended here so that they can used in meta disciplinary analysis of a selected building system.
-- This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
+- BACKCASTING: Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions.
+- REQUIREMENTS ENGINEERING: Traditional requirements engineering concepts are extended here so that they can used in meta disciplinary analysis of a selected building system.
+- DESIGN SCIENCE RESEARCH METHODOLOGY (DSRM): This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
 
 ## A3 Analysis
-- Focus on the modelling of the agile Prototype using biodigital prototyping methods.
-- Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
-- Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
+- AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
+- REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
+- PASTCASTING: Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
 - This applies the concepts of biological development to inform the development of our agile biodigtal prototype.
 - This follows the design and development and demonstration stages of DSRM.
 
