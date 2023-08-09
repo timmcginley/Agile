@@ -9,6 +9,7 @@ This part identifies the near, medium and long term futures that will provide th
 
 # Needs *Backcast*
 This part identifies the requirements of the future product / system in you defined future.
+
 2. identify the challenges of this future for a specific building system or product.
 
 # Analyse *Pastcast*
