@@ -9,7 +9,7 @@ Identify artefact or system from contexts and its 'features'.
 Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rationing (3) Martian building boom.
 1. Plan for the course
 2. Focus Areas
-3. Future
+3. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
 4. Agile Prototyping - include paper.
 5. Architectural Engineering
 6. Previous Approaches
