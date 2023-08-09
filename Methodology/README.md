@@ -3,8 +3,9 @@
 The Methodology has 4 parts:
 
 ## Future *Forecast*
-This part identifies the near, medium and long term futures that will provide the future context of your groups agile prototype. Introduce Agile Principles and Processes
-Identify artefact or system from contexts and its 'features'.
+This part identifies the near, medium and long term futures that will provide the future context of the agile prototype. It has the following substeps:
+1. forecast future using 3 horizons framework
+2. identify the challenges of this future for a specific building system or product.
 
 # Needs *Backcast*
 This part identifies the requirements of the future product / system in you defined future.
