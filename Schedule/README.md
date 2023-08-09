@@ -1,7 +1,7 @@
 # Course Schedule
 
 -------------------------------------
-# Future Forecast
+# Future *Forecast*
 This part identifies the near, medium and long term future that will provide the future context of your groups agile prototype. Introduce Agile Principles and Processes
 Identify artefact or system from contexts and its 'features'.
 
@@ -19,7 +19,7 @@ Identify artefact or system from contexts and its 'features'.
 3. other thing
 
 -------------------------------------
-# Needs Backcast
+# Needs *Backcast*
 This part identifies the requirements of the future product / system in you defined future.
 
 ## Week 3 - Meta Disciplinary
@@ -31,7 +31,7 @@ This part identifies the requirements of the future product / system in you defi
 2. document the needs
 
 -------------------------------------
-# Analyse Pastcast
+# Analyse *Pastcast*
 Introduce Agile Principles and Processes
 Identify artefact or system from contexts and its 'features'
 
@@ -57,7 +57,7 @@ Identify artefact or system from contexts and its 'features'
 2. other thing
 
 -------------------------------------
-# Change Recast
+# Change *Recast*
 
 ## Week 10 - Trajectories
 1. thing
