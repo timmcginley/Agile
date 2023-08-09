@@ -10,7 +10,7 @@ Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rat
 1. Plan for the course
 2. Focus Areas
 3. Future
-4. Agile
+4. Agile Prototyping - include paper.
 5. Architectural Engineering
 6. Previous Approaches
 
