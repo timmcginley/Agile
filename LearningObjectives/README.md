@@ -1,14 +1,14 @@
-[41934](/)
+[41938](/)
 ## Learning Objectives
-1. Create and manage a BIM Execution Plan based on the OpenBIM standard ISO 19650
-2. Identify, locate and extract information from an IFC model in OpenBIM tools
-3. Apply appropriate OpenBIM standards and guidelines to support open and FAIR data, tools and processes.
-4. Provide professional disciplinary guidance based on OpenBIM analysis.
-5. Apply domain specific [linked data] ontologies(Concepts/LinkedData).
-6. Create, fork, branch and collaborate on the development of an OpenBIM tool in Python with peers in a [code repository](Concepts/Github).
-7. Identify BIM challenges by analysing OpenBIM data.
-8. Teach an advanced BIM concept you have learned in the course to your peers and reflect on peer feedback on this.
-9. Identify and model a BIM use case based on the BIM challenges identified from analysis of an OpenBIM project in [BPMN].
-10. Identify an appropriate development methodology for an OpenBIM tool or model to different use cases.
-11. Apply and improve programming skills in Python to develop an OpenBIM tool or modelling skills in OpenBIM using your engineering domain expertise.
-12. Evaluate [software licensing](Concepts/SoftwareLicences) suitability and implications for the OpenBIM tool you develop or modelling tool you use.
+1. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
+1. Identify the ‘phenotypic’ features of a building system or product.
+1. Reverse engineer the pseudo biological developmental stages of the system based on the identified features to transform the building system or product into an ‘Agile Prototype' (AP).
+1. Model and traverse a phylogenetic tree of the features of AP to identify new solutions.
+1. Apply computational modelling techniques to model the evolution of the AP.
+1. Extrapolate the future features of the AP based on its evolution.
+1. Reflect on the APs genetic future trajectory.
+1. Define the three horizons of a future scenario and explore the future of the AP.
+1. Adapt the AP to the three horizons of the future scenario.
+1. Define an agile roadmap for the AP to solve the identified problem.
+1. Evaluate their proposed AP.
+1. Reflect on the process of developing the AP and communicate this for current and future students.
