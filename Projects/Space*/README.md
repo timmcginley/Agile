@@ -1,11 +1,14 @@
 # Space habitation
-## Do you want to design the first step of the journey to a new planet? If so we need designs for designs on both the moon and mars.
+## Do you want to design the first step of the journey to a new planet? 
 
 The journey earth like planets outside of our solar system is not possible today, but a journey of a thousand steps ([or 4 light years]) starts with just 1 step.
 
+#First step
+The first step requires a moon base. Your task will therefore be to mkae sure that the agile prototype you develop in this course could be adapted to support a moon base.
+
 Criterias: 
 
-The pavilion must:
+The BASE must:
 * serve as a DTU landmark at the festival (signal innovative thinking and have a discreet DTU logo)
 * (for the most parts) be constructed from recyclable materials
 * be reusable at least three times (preferably more)
