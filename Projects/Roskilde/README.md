@@ -1,4 +1,6 @@
 # Roskilde Pavilion
+![Roskilde Pavilion](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/1fc53437-1382-44b7-bc6a-4cc9a5f329ae)
+
 ## Do you want to develop DTU’s landmark at Roskilde Festival 2024?
 
 DTU needs a new FrontLab pavilion, which represents the university's presence at Roskilde Festival.
