@@ -3,10 +3,10 @@
 
 The journey earth like planets outside of our solar system is not possible today, but a journey of a thousand steps ([or 4 light years]) starts with just 1 step.
 
-#First step
+## First step
 The first step requires a moon base. Your task will therefore be to mkae sure that the agile prototype you develop in this course could be adapted to support a moon base.
 
-Criterias: 
+## Project Criterias: 
 
 The BASE must:
 * serve as a DTU landmark at the festival (signal innovative thinking and have a discreet DTU logo)
