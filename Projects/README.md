@@ -2,13 +2,13 @@
 
 Your task in your group is to develop Agile Prototype systems that can adapt to 3 different contexts. This does not mean necessarilt that the constructed prototype
 
-1. [Roskilde Pavilion]
-2. [Mars base]
+1. [Roskilde]
+2. [Space]
 4. [Skylab]
 
 Finally you must make a [physical prototype]
 
 [physical prototype]: /Concepts/PhysicalPrototype
-[Roskilde Pavilion]: /Projects/Roskilde
-[Mars base]: /Projects/Space
+[Roskilde]: /Projects/Roskilde
+[Space]: /Projects/Space
 [Skylab]: /Projects/Skylab
