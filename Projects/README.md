@@ -6,4 +6,6 @@ Your task in your group is to develop Agile Prototype systems that can adapt to 
 2. Mars base
 4. Skylab
 
-Finally you must make a scale model (using rapid prototyping or manual
+Finally you must make a [physical prototype]
+
+[physical prototype]: /Concepts/PhysicalPrototype
