@@ -40,25 +40,27 @@ This part 'reverse engineers' the selected system to develop a recomposable 'agi
 ## Week 5 - Reverse 1
 1. [Biomimicry](Concepts/Biomimicry)
 2. [Morphogenetic Prototyping](Concepts/MorphogeneticPrototyping)
-3. other thing
+3. [Computational Design 1](Concepts/ComputationalDesign)
 
 ## Week 6 - Reverse 2
 1. thing
-2. other thing
+2. [Computational Design 2](Concepts/ComputationalDesign)
 
 ## Week 7 - Genes 1
 1. thing
-2. other thing
+2.  [Computational Design 3](Concepts/ComputationalDesign)
+
 
 ## Week 8 - Genes 2
 1. thing
-2. other thing
+2.  [Computational Design 4](Concepts/ComputationalDesign)
 
 ## Week 9 - Evolution
 1. thing
-2. other thing
+2. [Computational Design 5](Concepts/ComputationalDesign)
 
--------------------------------------
+
+------------------------------------
 # Change *Recast*
 Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
 
