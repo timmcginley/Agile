@@ -8,11 +8,12 @@ Identify artefact or system from contexts and its 'features'.
 ## Week 1 - Scenario / Prototyping the future
 Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rationing (3) Martian building boom.
 1. Plan for the course
-2. Focus Areas
-3. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
-4. Agile Prototyping - include paper.
-5. Architectural Engineering
-6. Previous Approaches
+1. Focus Areas
+1. projects
+1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
+1. Agile Prototyping - include paper.
+1. Architectural Engineering
+1. Previous Approaches
 
 ## Week 2 - Future Problems
 identify a system that will be different from today, based on your prototyped future. What specific problems and challenges will it face?
