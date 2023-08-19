@@ -1,9 +1,10 @@
 # Space habitation
+![NASA lunar habitation concept art](https://upload.wikimedia.org/wikipedia/commons/6/6b/Entering_a_Lunar_Outpost.jpg)
 ## Do you want to design the first step of the journey to a new planet? 
 
 The journey to earth like planets outside of our solar system is not possible today, but a journey of a thousand steps ([or 4 light years]) starts with just 1 step.
 
-![NASA lunar habitation concept art](https://upload.wikimedia.org/wikipedia/commons/6/6b/Entering_a_Lunar_Outpost.jpg)
+
 
 ## First step
 The first step requires a moon base. Your task will therefore be to adapt your agile prototype you develop in this course to support a building system on a moon base.
