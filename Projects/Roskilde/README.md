@@ -1,5 +1,6 @@
 # Roskilde Pavilion
-![Roskilde Pavilion](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/1fc53437-1382-44b7-bc6a-4cc9a5f329ae)
+![image](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/3d47dea5-2d94-43be-bc5e-6db37bcf2487)
+
 
 ## Do you want to develop DTU’s landmark at Roskilde Festival 2024?
 
