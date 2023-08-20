@@ -2,7 +2,7 @@
 
 An exciting discovery of morphogenetic Prototyping was that the idea that
 
-$Phenotype=genotype+environment
+$Phenotype=genotype+environment$
 
 could be rearranged to:
 
