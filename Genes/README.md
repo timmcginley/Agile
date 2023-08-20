@@ -1,14 +1,31 @@
-# Agile Prototyping Gene Spaces
+# Design Genes
 
-Design Gene Extraction
+* The design of buildings finds it difficult to  reach automation etc. becuase projects are always taken as unique. There are good reasons for this. 
 
-An exciting discovery of morphogenetic Prototyping was that the idea that
+* But as Architectural Engineers iwe need to find a more scientific way to understand, model, design and analyse buildings, whilst not reducing their architectural 'uniqueness'.
 
-$Phenotype=genotype+environment$
+The diverse disciplines of the building industry make it difficult to have a singular approach.
+
+Therefore we borrow the concepts of 'genes' from Biology to help. 
+
+The metaphor of genes in design solves the problem of ... The problem is therefore how to extract the 'design' genes so we can manipulate it.
+
+## Design Gene Extraction.
+
+* need to extract the genes
+* need a method to do this.
+* pre genetic sequencing biologists used to infer genetics from measuring the 'phenotypic characteristics' of organisms.
+* Morphogenetic Prototyping allows us to do the same in design.
+
+An exciting discovery of morphogenetic Prototyping [McGinley et. al, 2016] was that the idea that
+
+$Phenotype=Genotype+Environment$
 
 could be rearranged to:
 
-$Genotype=phenotype-environment$
+$Genotype=Phenotype-Environment$
+
+
 
 ## Genes
 In biology genes have been described as 'expressing' at specific developmental stages. This means that instead of an explicit spatial plan, construction diagram or system. 
@@ -19,6 +36,7 @@ They are defined in code
 >McGinley, 2016
 
 
+## Agile Prototyping Gene Spaces
 
 This will include all the genes from last year...
 
@@ -63,3 +81,7 @@ Includes the skin concept. Biologically it is the blastoderm.
 
 
 ## GS8. Build
+
+
+<!-- links -->
+[McGinley et. al, 2016]: researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture
