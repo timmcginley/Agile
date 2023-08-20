@@ -70,20 +70,19 @@ The rows in the table above are not chronological but could be thought of spaces
 The project Gene Space contains genes that respond to the cost and time of the project. These have an influence on all the other genes in a project.
 
 ## GS2. Location
+The location gene space contains genes that respond to the site and contextual decisions. These could query external data. They will also inform the extents of the boundinng conditions and inform the genes in GS3.
 
-
-## GS3. External
-Includes the skin concept. Biologically it is the blastoderm.
-
-
-## GS4. Function / Space
-
-
+## GS3. Function / Space
+The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
 
 ## GS5. Structure
 
 
 ## GS6. Internal
+
+
+## GS3. External
+Includes the skin concept. Biologically it is the blastoderm.
 
 
 ## GS7. Material
