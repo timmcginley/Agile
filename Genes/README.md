@@ -1,5 +1,13 @@
 # Agile Prototyping Gene Spaces
 
+An exciting discovery of morphogenetic Prototyping was that the idea that
+
+Phenotype = genotype + environment
+
+could be rearranged to:
+
+Genotype = phenotype - environment
+
 ## Genes
 (Design)Genes are defined here as 
 They are defined in code 
