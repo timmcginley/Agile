@@ -2,13 +2,14 @@
 
 An exciting discovery of morphogenetic Prototyping was that the idea that
 
-Phenotype = genotype + environment
+$Phenotype=genotype+environment
 
 could be rearranged to:
 
 Genotype = phenotype - environment
 
 ## Genes
+In biology genes have been described as 'expressing' at specific developmental stages. This means that instead of an explicit spatial plan, construction diagram or system. 
 (Design)Genes are defined here as 
 They are defined in code 
 >The role of the architect in this scenario could be to both ‘write’ the designGenes and adopt Kai’s role as the ‘carver’ that triggers them to define the spatial programme, experience and materiality of the building organism.
