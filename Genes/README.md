@@ -1,12 +1,21 @@
-# Design Genes
+# Building Design Genes
 
-* The design of buildings finds it difficult to  reach automation etc. becuase projects are always taken as unique. There are good reasons for this. 
+* The design of buildings finds it difficult to reach automation etc. becuase projects are always taken as unique. There are good reasons for this. 
 
 * But as Architectural Engineers iwe need to find a more scientific way to understand, model, design and analyse buildings, whilst not reducing their architectural 'uniqueness'.
 
 The diverse disciplines of the building industry make it difficult to have a singular approach.
 
-Therefore we borrow the concepts of 'genes' from Biology to help. 
+Architectural and building science represents a dvierse collection of perspectives, that lack a common core perspective.
+
+To address this, morphogenetic prototyping uses the lens of biology to support structured analysis of design. It is less about bio mimicry and more about imagining how a biologist how had never experienced artificial design would explain it.
+
+This raises a number of questions, not least of which is:
+1. using the lens of biology could we identify the genetic code of buildings?
+2. Could we edit that code to create new improved designs?
+3. having modelled the code of one buldign code we do it for older buildings, to create an evolutionary model of buildings?
+
+we borrow the concepts of 'genes' from Biology to help. 
 
 The metaphor of genes in design solves the problem of ... The problem is therefore how to extract the 'design' genes so we can manipulate it.
 
