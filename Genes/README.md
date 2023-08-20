@@ -6,7 +6,7 @@ $Phenotype=genotype+environment$
 
 could be rearranged to:
 
-Genotype = phenotype - environment
+$Genotype=phenotype-environment$
 
 ## Genes
 In biology genes have been described as 'expressing' at specific developmental stages. This means that instead of an explicit spatial plan, construction diagram or system. 
