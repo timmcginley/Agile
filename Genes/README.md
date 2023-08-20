@@ -9,7 +9,7 @@ This will include all the genes from last year...
 |---|---|---|---|---|---|---|---|---|
 |  Project | X |   |   |   |   |   |   |   |
 |  Location |   |   |   |   |   |   |   |   |
-|  External |   |   |   |   |   |   |   |   |
+|  External |   |   |  X |   |   |   |   |   |
 |  Function / Space |   |   | X | X |   |   |   |   |
 |  Structure |   |   |   |   | X |   |   |   |
 |  Internal |   |   |   |   | X |   |   |   |
