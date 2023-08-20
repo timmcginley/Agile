@@ -6,12 +6,12 @@
 
 
 ## Carver
+This is an extension of the [OpenBIM Ontologist] role, but it focuses on the Morphogenetic Carving.
 
 
 ## Analyst
 
 This shares some similarities to the [OpenBIM Analyst] role, but it focuses on the Morphogenetic analysis.
-
 
 
 ## Modeller
