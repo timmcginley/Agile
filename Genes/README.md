@@ -91,6 +91,9 @@ Includes the skin concept. Biologically it is the blastoderm.
 
 ## GS8. Build
 
+<img width="100%" alt="Screenshot 2023-08-20 at 19 51 33" src="https://github.com/timmcginley/Agile-Prototyping/assets/1415855/1de35740-1864-4c8b-bbb2-663fdf08baa6">
+
+
 
 <!-- links -->
 [McGinley et. al, 2016]: researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture
