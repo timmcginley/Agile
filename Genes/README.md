@@ -7,14 +7,14 @@ This will include all the genes from last year...
 
 |  Gene Space |  BDS1 |  BDS2 | BDS3  | BDS4  | BDS5  | BDS6  | BDS7  | BDS8  |
 |---|---|---|---|---|---|---|---|---|
-|  Project |   |   |   |   |   |   |   |   |
+|  Project | X |   |   |   |   |   |   |   |
 |  Location |   |   |   |   |   |   |   |   |
 |  External |   |   |   |   |   |   |   |   |
-|  Function / Space |   |   |   |   |   |   |   |   |
-|  Structure |   |   |   |   |   |   |   |   |
-|  Internal |   |   |   |   |   |   |   |   |
-|  Material |   |   |   |   |   |   |   |   |
-|  Build |   |   |   |   |   |   |   |   |
+|  Function / Space |   |   | X |   |   |   |   |   |
+|  Structure |   |   |   |   | X |   |   |   |
+|  Internal |   |   |   |   | X |   |   |   |
+|  Material |   |   |   |   |   | X  |   |   |
+|  Build |   |   |   |   |   |   | X  |   |
 
 The list below are not chronological but could be thought of spaces or channels that flow through a probject. In this way they are analagous to subjects in 41936.
 
