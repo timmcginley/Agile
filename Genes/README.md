@@ -56,10 +56,10 @@ This will include all the genes from last year...
 |---|---|---|---|---|---|---|---|---|
 |  Project | X |   |   |   |   |   |   |   |
 |  Location |   |   |   |   |   |   |   |   |
-|  External |   |   |  X |   |   |   |   |   |
+|  External |   |   |  X |   |   |  X |   |   |
 |  Function / Space |   |   | X | X |   |   |   |   |
-|  Structure |   |   |   |   | X |   |   |   |
-|  Internal |   |   |   |   | X |   |   |   |
+|  Structure |   |   |   |   | X |  X |   |   |
+|  Internal |   |   |   |   | X |  X |   |   |
 |  Material |   |   |   |   |   | X  |   |   |
 |  Build |   |   |   |   |   |   | X  |   |
 
