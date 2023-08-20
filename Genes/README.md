@@ -42,7 +42,7 @@ In biology genes have been described as 'expressing' at specific developmental s
 They are defined in code 
 >The role of the architect in this scenario could be to both ‘write’ the designGenes and adopt Kai’s role as the ‘carver’ that triggers them to define the spatial programme, experience and materiality of the building organism.
 >
->McGinley, 2016
+>[McGinley et. al, 2016]
 
 
 ## Agile Prototyping Gene Spaces
