@@ -1,9 +1,9 @@
 # Agile Prototyping
 
-**The future is uncertain. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future.**
+**The future is [uncertain]. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future.**
 
 
->Design in the future is synthesising meta disciplinary systems from diverse disciplinary needs with uncertainty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
+>Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
 
 This course provides ‘future tools’ to enable participants to design ‘in the future’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a clearly defined future scenario. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
 
@@ -81,3 +81,7 @@ The table below describes how these projects in combination with your chosen foc
 
 ## Agile Prototyping Methodology
 More detail about the future Engineering methodology used in the course to support you to develop solutions to one of the projects from the perspective of your focus area is provided below. Here you can also see how this is lined up to the course weeks. N.B. it is a moebius strip not a circle. Remember, to forecast the future, we first have to learn the past
+
+<!-- link -->
+[meta disciplinary systems]: /Concepts/MetaDisciplinary
+[uncertain]: /Concepts/Future
