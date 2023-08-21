@@ -8,9 +8,9 @@ Identify artefact or system from contexts and its 'features'.
 ## Week 1 - Scenario / Prototyping the future
 Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rationing (3) Martian building boom.
 
-1. Architectural engineering
+1. Architectural engineering in an uncertain future.
 1. Focus Areas Inc. roles
-1. uncertainty
+1. uncertaintya
 1. Plan for the course 
 1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
 1. Agile Prototyping - include paper - hit all targets.
