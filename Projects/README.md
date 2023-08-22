@@ -15,7 +15,7 @@ but the that the design of the agile prototype can using [Computational and Para
 Finally you must make a [physical prototype]
 
 [physical prototype]: /Concepts/PhysicalPrototype
-[Roskilde]: /Projects/Roskilde
-[Space]: /Projects/Space
-[Skylab]: /Projects/Skylab
+[Roskilde]: /Agile-Prototyping/Projects/Roskilde
+[Space]: /Agile-Prototyping/Projects/Space
+[Skylab]: /Agile-Prototyping/Projects/Skylab
 [Computational and Parametric Design]: /Concepts/ComputationalDesign
