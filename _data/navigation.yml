@@ -1,15 +1,21 @@
+- name: Projects
+  link: /Projects
+- name: Futures
+  link: /Futures
 - name: Concepts
   link: /Concepts
   dropdown: 
     - name: Concept 1
       link: /Concepts/BIM
+- name: Genes
+  link: /Genes
 - name: Roles
   link: /Roles
 - name: Examples
   link: /Examples
-- name: Uses
-  link: /Uses
 - name: Schedule
   link: /Schedule
 - name: Assignments
   link: /Assignments
+- name: Learning
+  link: /learningObjectives
