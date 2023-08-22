@@ -70,9 +70,12 @@ The rows in the table above are not chronological but could be thought of spaces
 
 ## GS1. Project
 The project Gene Space contains genes that respond to the cost and time of the project. These have an influence on all the other genes in a project.
+* [Author Cost Estimate B-18](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
 
 ## GS2. Location
 The location gene space contains genes that respond to the site and contextual decisions. These could query external data. They will also inform the extents of the boundinng conditions and inform the genes in GS3.
+* [Analyse Site Selection Criteria B-22](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
+* [Capture Existing Conditions B-21](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-capture-existing-conditions/)
 
 ## GS3. Function / Space
 The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
@@ -91,6 +94,8 @@ Includes the skin concept. Biologically it is the blastoderm.
 
 
 ## GS8. Build
+
+* [Author 4D Model B-17](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-author-4d-modling/)
 
 <img width="100%" alt="Screenshot 2023-08-20 at 19 51 33" src="https://github.com/timmcginley/Agile-Prototyping/assets/1415855/1de35740-1864-4c8b-bbb2-663fdf08baa6">
 
