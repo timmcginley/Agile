@@ -34,10 +34,11 @@ identify a system that will be different from today, based on your prototyped fu
 3. Elements / Systems
 4. other thing
 
-Exercise
+### Exercise
 * identify the different elements / systems in a building.
 * identify the system they will focus on for their future.
-* identify the challenges this element / system will face in the future.
+* Choosing a [project](/Projects).
+* identify the challenges this element / system will face in the future for the chosen project in all three futures (near, mid and far).
 
 -------------------------------------
 # Needs *Backcast*
