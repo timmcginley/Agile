@@ -10,7 +10,8 @@ Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rat
 
 1. Architectural engineering in an uncertain future.
 1. Focus Areas Inc. roles
-1. uncertaintya
+2. 3 horizons framework
+1. uncertainty
 1. Plan for the course
 2. Science Fiction Prototyping
 1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
@@ -18,6 +19,11 @@ Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rat
 1. project targets
 change 
 1. Previous Approaches (pepper with)
+
+Exercise
+* Skylab tour
+* Designing in the future with Kristian Brink (present to the future)
+* in class presentation of your futures
 
 ## Week 2 - Future Problems
 identify a system that will be different from today, based on your prototyped future. What specific problems and challenges will it face?
