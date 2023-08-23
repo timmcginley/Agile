@@ -6,7 +6,7 @@ This part identifies the near, medium and long term future that will provide the
 Identify artefact or system from contexts and its 'features'.
 
 ## Week 1 - Scenario / Prototyping the future
-Choose a future scenario (1) extreme carbon and resource rationing (Planet A only) (2) Martian building boom (Planet B only)
+Choose a future scenario (1) extreme carbon and resource rationing (Planet A only) (2) Lunar building boom (Planet B only)
 
 1. Architectural engineering in an uncertain future.
 1. Focus Areas Inc. roles
