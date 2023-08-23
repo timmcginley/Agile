@@ -35,7 +35,9 @@ identify a system that will be different from today, based on your prototyped fu
 4. other thing
 
 Exercise
-* ide
+* identify the different elements / systems in a building.
+* identify the system they will focus on for their future.
+* identify the challenges this element / system will face in the future.
 
 -------------------------------------
 # Needs *Backcast*
@@ -45,9 +47,15 @@ This part identifies the requirements of the future product / system in you defi
 1. Meta Disciplinary framework
 2. other thing
 
+Exercise
+* Identify how we might adapt our current systems to teh needs of the future scenario.
+
 ## Week 4 - Requirements
 1. thing
 2. document the needs
+
+Exercise
+* formalise the requirements (requirements engineering) for the four different scenarios.
 
 -------------------------------------
 # Analyse *Pastcast*
