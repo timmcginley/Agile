@@ -11,7 +11,8 @@ Choose a future scenario (1) metaverse wins, (2) extreme carbon and resource rat
 1. Architectural engineering in an uncertain future.
 1. Focus Areas Inc. roles
 1. uncertaintya
-1. Plan for the course 
+1. Plan for the course
+2. Science Fiction Prototyping
 1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
 1. Agile Prototyping - include paper - hit all targets.
 1. project targets
