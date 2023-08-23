@@ -1,6 +1,8 @@
 # Projects 23
 
-Your agile prototype needs to be able to support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario.
+Your agile prototype needs to be able to:
+
+* support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Assignments/A1)
 
 This does *not mean* that the constructed prototype has to adapt like a transformer...
 
