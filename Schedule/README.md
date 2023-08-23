@@ -23,6 +23,7 @@ change
 Exercise
 * Skylab tour (Digital Lab and Start Up opportunities)
 * Designing in the future with Kristian Brink (present to the future)
+* Choose Planet A or Planet B future.
 * in class presentation of your futures
 
 ## Week 2 - Future Problems
