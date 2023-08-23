@@ -21,7 +21,7 @@ change
 1. Previous Approaches (pepper with)
 
 Exercise
-* Skylab tour
+* Skylab tour (Digital Lab and Start Up opportunities)
 * Designing in the future with Kristian Brink (present to the future)
 * in class presentation of your futures
 
