@@ -65,6 +65,6 @@ The table below describes how these projects in combination with your chosen foc
 More detail about the future Engineering methodology used in the course to support you to develop solutions to one of the projects from the perspective of your focus area is provided below. Here you can also see how this is lined up to the course weeks. N.B. it is a moebius strip not a circle. Remember, to forecast the future, we first have to learn the past
 
 <!-- link -->
-[meta disciplinary systems]: /Concepts/MetaDisciplinary
-[uncertain]: /Concepts/Futures
-[future]: /Concepts/Futures
+[meta disciplinary systems]: Concepts/MetaDisciplinary
+[uncertain]: Concepts/Futures
+[future]: Concepts/Futures
