@@ -66,5 +66,5 @@ More detail about the future Engineering methodology used in the course to suppo
 
 <!-- link -->
 [meta disciplinary systems]: /Concepts/MetaDisciplinary
-[uncertain]: /Concepts/Future
-[future]: /Concepts/Future
+[uncertain]: /Concepts/Futures
+[future]: /Concepts/Futures
