@@ -4,6 +4,12 @@ Here are some futures that can act as inspiration for the course. Each has a use
 
 [Future paper](https://www.sciencedirect.com/science/article/abs/pii/S0016328723001246?via%3Dihub)
 
+## Future Seeds
+* Embrace 'everything as a service'
+* Increased corporatisation of universities
+*
+
+
 ## Planet A
 
 
