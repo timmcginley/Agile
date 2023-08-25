@@ -70,30 +70,52 @@ The rows in the table above are not chronological but could be thought of spaces
 
 ## GS1. Project
 The project Gene Space contains genes that respond to the cost and time of the project. These have an influence on all the other genes in a project.
+* what is the project?
+* Is you design based on analysis of previous projects of this type?
+* what did you learn from previous projects?
+* what are the challenges of this type of building?
+  
 * [Author Cost Estimate B-18](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
 
 ## GS2. Location
 The location gene space contains genes that respond to the site and contextual decisions. These could query external data. They will also inform the extents of the boundinng conditions and inform the genes in GS3.
 * [Analyse Site Selection Criteria B-22](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
+* We prefer to think of the site as the 'platform' for the building. This is also true for an extension to an existing building or even to the refurbishment of an offshore oil platform. 
+* where is the site centre? it does not need to be the exact centre, but it is where the core will grow from.
 * [Capture Existing Conditions B-21](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-capture-existing-conditions/)
+* If there is an exisitng building how will your buildign, what will be your projevcts relationship to this.
 
 ## GS3. Function / Space
 The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
+* what building functions does the project ask for?
+* how do these spaces map to floors in your project (if you have multiple floors)
 
 ## GS5. Structure
+* How high should the core / structural frame be to house the 
 
 
 ## GS6. Internal
+* how does it keep the heat in?
+* how does it let the heat out?
+* how does it control moisture?
+* 
 
 
 ## GS3. External
 Includes the skin concept. Biologically it is the blastoderm.
+* hor does it keep the weather outside?
+* how does it attrct people to visit it
+* how does it communicate what it is?
+* how does it know that the envelope is the right size?
 
 
 ## GS7. Material
-
+* how does it maximise local material use?
+* 
 
 ## GS8. Build
+* what is the construction sequence?
+* Where doe the components sit on the fabrication continuum?
 
 * [Author 4D Model B-17](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-author-4d-modling/)
 
