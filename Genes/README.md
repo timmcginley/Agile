@@ -56,19 +56,19 @@ Previously we have left it open to you to define the focus and problem of your a
 
 |  Gene Space |  BDS1 |  BDS2 | BDS3  | BDS4  | BDS5  | BDS6  | BDS7  | BDS8  |
 |---|---|---|---|---|---|---|---|---|
-|  Project | X |   |   |   |   |   |   |   |
-|  Location |   |   |   |   |   |   |   |   |
-|  External |   |   |  X |   |   |  X |   |   |
-|  Function / Space |   |   | X | X |   |   |   |   |
-|  Structure |   |   |   |   | X |  X |   |   |
-|  Internal |   |   |   |   | X |  X |   |   |
-|  Material |   |   |   |   |   | X  |   |   |
-|  Build |   |   |   |   |   |   | X  |   |
+|  G1: Project | X |   |   |   |   |   |   |   |
+|  G2: Location |   |   |   |   |   |   |   |   |
+|  G3: External |   |   |  X |   |   |  X |   |   |
+|  G4: Function / Space |   |   | X | X |   |   |   |   |
+|  G5: Structure |   |   |   |   | X |  X |   |   |
+|  G6: Internal |   |   |   |   | X |  X |   |   |
+|  G7: Material |   |   |   |   |   | X  |   |   |
+|  G8: Build |   |   |   |   |   |   | X  |   |
 
 ## Gene Space
 The rows in the table above are not chronological but could be thought of spaces or channels that flow through a project. In this way they are analagous to meta disciplinary subjects. Each gene is therefore assigned to a specific Gene Space. The *'genetic control of the system'* then determines the timing (building development stage) that the gene expresses at.
 
-## GS1. Project
+## G1. Project
 The project Gene Space contains genes that respond to the cost and time of the project. These have an influence on all the other genes in a project.
 * what is the project?
 * Is you design based on analysis of previous projects of this type?
@@ -77,7 +77,7 @@ The project Gene Space contains genes that respond to the cost and time of the p
   
 * [Author Cost Estimate B-18](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
 
-## GS2. Location
+## G2. Location
 The location gene space contains genes that respond to the site and contextual decisions. These could query external data. They will also inform the extents of the boundinng conditions and inform the genes in GS3.
 * [Analyse Site Selection Criteria B-22](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-analyze-site-selection-criteria/)
 * We prefer to think of the site as the 'platform' for the building. This is also true for an extension to an existing building or even to the refurbishment of an offshore oil platform. 
@@ -85,23 +85,23 @@ The location gene space contains genes that respond to the site and contextual d
 * [Capture Existing Conditions B-21](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-capture-existing-conditions/)
 * If there is an exisitng building how will your buildign, what will be your projevcts relationship to this.
 
-## GS3. Function / Space
+## G3. Function / Space
 The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
 * what building functions does the project ask for?
 * how do these spaces map to floors in your project (if you have multiple floors)
 
-## GS5. Structure
+## G5. Structure
 * How high should the core / structural frame be to house the 
 
 
-## GS6. Internal
+## G6. Internal
 * how does it keep the heat in?
 * how does it let the heat out?
 * how does it control moisture?
 * 
 
 
-## GS3. External
+## G3. External
 Includes the skin concept. Biologically it is the blastoderm.
 * hor does it keep the weather outside?
 * how does it attrct people to visit it
@@ -109,11 +109,11 @@ Includes the skin concept. Biologically it is the blastoderm.
 * how does it know that the envelope is the right size?
 
 
-## GS7. Material
+## G7. Material
 * how does it maximise local material use?
 * 
 
-## GS8. Build
+## G8. Build
 * what is the construction sequence?
 * Where doe the components sit on the fabrication continuum?
 
