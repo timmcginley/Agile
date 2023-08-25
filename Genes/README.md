@@ -71,7 +71,7 @@ The rows in the table above are not chronological but could be thought of spaces
 ## G1. Project
 The project Gene Space contains genes that respond to the cost and time of the project. These have an influence on all the other genes in a project.
 * what is the project?
-* Is you design based on analysis of previous projects of this type?
+* Is your design based on analysis of previous projects of this type?
 * what did you learn from previous projects?
 * what are the challenges of this type of building?
   
