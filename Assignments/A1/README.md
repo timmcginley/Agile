@@ -14,3 +14,8 @@ Detail:
 
 All work should be compiled into a single [markdown] document. This can be directly submitted on Learn, or better you could share a link to your groups own github repository. Please see this link on the parallel advnaced BIM course for information about using [github].
 
+[future design experience]: /Concepts/DesignExperience
+[Reverse engineer]: Concepts/ReverseEngineer
+[markdown]: Concepts/MarkDown
+[github]: Concepts/Github
+
