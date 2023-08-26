@@ -28,10 +28,6 @@
       link: /Projects/Space
     - name: Skylab
       link: /Projects/Skylab
-- name: Schedule
-  link: /Schedule
-#- name: Futures
-#  link: /Futures
 - name: Genes
   link: /Genes
   dropdown: 
@@ -51,6 +47,10 @@
       link: /Genes/Material
     - name: Build
       link: /Genes/Build
+- name: Schedule
+  link: /Schedule
+#- name: Futures
+#  link: /Futures
 #- name: Roles
 #  link: /Roles
 #  dropdown: 
