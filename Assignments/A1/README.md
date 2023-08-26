@@ -16,8 +16,8 @@ All work should be compiled into a single [markdown] document. This can be direc
 1. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 8. Define the three horizons of a future scenario and explore the future of the AP.
 
-[future design experience]: .././Concepts/DesignExperience
-[Reverse engineer]: .././Concepts/ReverseEngineer
-[markdown]: .././Concepts/MarkDown
-[github]: .././Concepts/Github
+[future design experience]: /41934/Concepts/DesignExperience
+[Reverse engineer]: /41934/Concepts/ReverseEngineer
+[markdown]: /41934/Concepts/MarkDown
+[github]: /41934/Concepts/Github
 

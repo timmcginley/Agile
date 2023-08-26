@@ -26,6 +26,6 @@ This shares some similarities to the [OpenBIM Modeller] role, but it focuses on 
 
 ## Computational Designer
 
-[OpenBIM Modeller]: https://github.com/timmcginley/41934/tree/main/Roles/Modeller
-[OpenBIM Analyst]: https://github.com/timmcginley/41934/tree/main/Roles/Analyst
-[OpenBIM Ontologist]: https://github.com/timmcginley/41934/tree/main/Roles/Ontologist
+[OpenBIM Modeller]: /41934/Roles/Modeller
+[OpenBIM Analyst]: /41934/Roles/Analyst
+[OpenBIM Ontologist]: /41934/Roles/Ontologist
