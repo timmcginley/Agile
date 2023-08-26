@@ -1,14 +1,3 @@
-- name: Projects
-  link: /Projects
-  dropdown: 
-    - name: Roskilde
-      link: /Projects/Roskilde
-    - name: Space
-      link: /Projects/Space
-    - name: Skylab
-      link: /Projects/Skylab
-- name: Futures
-  link: /Futures
 - name: Concepts
   link: /Concepts
   dropdown: 
@@ -30,6 +19,17 @@
       link: /Concepts/PhysicalPrototyping
     - name: Reverse Engineering
       link: /Concepts/ReverseEngineering
+- name: Projects
+  link: /Projects
+  dropdown: 
+    - name: Roskilde
+      link: /Projects/Roskilde
+    - name: Space
+      link: /Projects/Space
+    - name: Skylab
+      link: /Projects/Skylab
+- name: Futures
+  link: /Futures
 - name: Genes
   link: /Genes
   dropdown: 
