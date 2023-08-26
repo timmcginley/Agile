@@ -96,15 +96,15 @@
 - name: Assignments
   link: /Assignments
   dropdown: 
-    - name: Assignment 1
+    - name: A1 Future
       link: /Assignments/A1
-    - name: Assignment 2
+    - name: A2 Need
       link: /Assignments/A2
-    - name: Assignment 3
+    - name: A3 Analyse
       link: /Assignments/A3
-    - name: Assignment 4
+    - name: A4 Change
       link: /Assignments/A4
-    - name: Assignment 5
+    - name: A5 Reflect
       link: /Assignments/A5
 - name: Examples
   link: /Examples
