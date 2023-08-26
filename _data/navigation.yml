@@ -95,6 +95,17 @@
 #      link: /Roles/ComputationalDesigner
 - name: Assignments
   link: /Assignments
+  dropdown: 
+    - name: Assignment 1
+      link: /Assignments/A1
+    - name: Assignment 2
+      link: /Assignments/A2
+    - name: Assignment 3
+      link: /Assignments/A3
+    - name: Assignment 4
+      link: /Assignments/A4
+    - name: Assignment 5
+      link: /Assignments/A5
 - name: Examples
   link: /Examples
 - name: Learning
