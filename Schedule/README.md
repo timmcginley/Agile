@@ -5,7 +5,8 @@
 This part identifies the near, medium and long term future that will provide the future context of your groups agile prototype. Introduce Agile Principles and Processes
 Identify artefact or system from contexts and its 'features'.
 
-## Week 1 - Scenario / Prototyping the future
+
+## Week 1 - Future
 
 *29th August 2023*
 
@@ -29,7 +30,7 @@ Exercise
 * Choose Planet A or Planet B future.
 * in class presentation of your futures
 
-## Week 2 - Future Problems
+## Week 2 - Problems
 
 *5th September 2023*
 
@@ -50,7 +51,7 @@ identify a system that will be different from today, based on your prototyped fu
 # Needs *Backcast*
 This part identifies the requirements of the future product / system in you defined future.
 
-## Week 3 - Meta Disciplinaryy
+## Week 3 - Meta Disciplinary
 
 *12th September 2023*
 
@@ -123,21 +124,21 @@ Consider the link between the 'current' trajectory you defined for your prototyp
 1. thing
 2. other thing
 
-## Week 11 - 
+## Week 11 - Project
 
 *14th November 2023*
 
 1. thing
 2. other thing
 
-## Week 12 - 
+## Week 12 - Project
 
 *21st November 2023*
 
 1. thing
 2. other thing
 
-## Week 13 - 
+## Week 13 - Presentation
 
 *28th November 2023*
 
