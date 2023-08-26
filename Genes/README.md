@@ -85,22 +85,6 @@ The location gene space contains genes that respond to the site and contextual d
 * [Capture Existing Conditions B-21](https://psu.pb.unizin.org/bimprojectexecutionplanning/back-matter/use-capture-existing-conditions/)
 * If there is an exisitng building how will your buildign, what will be your projevcts relationship to this.
 
-## G3. Function / Space
-The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
-* what building functions does the project ask for?
-* how do these spaces map to floors in your project (if you have multiple floors)
-
-## G5. Structure
-* How high should the core / structural frame be to house the 
-
-
-## G6. Internal
-* how does it keep the heat in?
-* how does it let the heat out?
-* how does it control moisture?
-* 
-
-
 ## G3. External
 Includes the skin concept. Biologically it is the blastoderm.
 * hor does it keep the weather outside?
@@ -108,10 +92,21 @@ Includes the skin concept. Biologically it is the blastoderm.
 * how does it communicate what it is?
 * how does it know that the envelope is the right size?
 
+## G4. Function / Space
+The Gene set is the functional / space requirements. These will include genes for inividual spaces and much more.
+* what building functions does the project ask for?
+* how do these spaces map to floors in your project (if you have multiple floors)
+
+## G5. Structure
+* How high should the core / structural frame be to house the 
+
+## G6. Internal
+* how does it keep the heat in?
+* how does it let the heat out?
+* how does it control moisture?
 
 ## G7. Material
 * how does it maximise local material use?
-* 
 
 ## G8. Build
 * what is the construction sequence?
