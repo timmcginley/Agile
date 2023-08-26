@@ -1,1 +1,25 @@
 # Session 01
+
+### 8:00 – 8:30
+* Watch introduction video individually - headphones :)
+### 8:30 – 9:00 
+* Kristian presentation
+* Introduce session exercise.
+* Everyone check their skylab visit group
+### 9:00 - 9:30
+* Group A and B walk to skylab.
+* Group C and D do session exercise with Kristian in 127/014
+### 9.30 – 10:00
+* Kristian walk with group C and D to skylab
+* Group A and B get their skylab introduction in Skylab. 
+### 10:00 – 10:30
+* Kristian meets group A and B at Skylab and walk with them back to 127/014
+* Group C and D get their skylab introduction in Skylab. 
+### 10:30 – 11:00
+* Group A and B do session exercise with Kristian in 127/014
+* Groups C and D walk back to 127/014 from Skylab
+### 11:00 – 12:00
+* All back in 127, Kristian helps class divide into groups based on their project interests
+* Kristian talking with the groups (tutorials)
+
+## Session Exercise
