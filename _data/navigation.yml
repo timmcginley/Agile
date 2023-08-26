@@ -50,25 +50,25 @@
 - name: Schedule
   link: /Schedule
   dropdown: 
-    - name: 01 - OpenBIM
+    - name: 01 - Future
       link: /Schedule/01
-    - name: 02 - Management
+    - name: 02 - Problems
       link: /Schedule/02
-    - name: 03 - Classification
+    - name: 03 - Meta Disciplinary
       link: /Schedule/03
-    - name: 04 - use Cases
+    - name: 04 - Requirements
       link: /Schedule/04
-    - name: 05 - Analysis
+    - name: 05 - Reverse 1
       link: /Schedule/05
-    - name: 06 - ML/AI
+    - name: 06 - Reverse 2
       link: /Schedule/06
-    - name: 07 - Drawings
+    - name: 07 - Genes 1
       link: /Schedule/07
-    - name: 08 - linked Data
+    - name: 08 - Genes 2
       link: /Schedule/08
-    - name: 09 - Speckle
+    - name: 09 - Evolution
       link: /Schedule/09
-    - name: 10 - Node-RED
+    - name: 10 - Trajectories
       link: /Schedule/10
     - name: 11 - Project
       link: /Schedule/11
