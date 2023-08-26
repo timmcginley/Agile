@@ -28,6 +28,10 @@
       link: /Projects/Space
     - name: Skylab
       link: /Projects/Skylab
+- name: Schedule
+  link: /Schedule
+- name: Assignments
+  link: /Assignments
 - name: Futures
   link: /Futures
 - name: Genes
@@ -66,9 +70,5 @@
 #      link: /Roles/ComputationalDesigner
 - name: Examples
   link: /Examples
-- name: Schedule
-  link: /Schedule
-- name: Assignments
-  link: /Assignments
 - name: Learning
   link: /learningObjectives
