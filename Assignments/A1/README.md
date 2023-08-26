@@ -1,4 +1,4 @@
-# A1 Future Forecaster
+# A1 Future
 ![METHOD_01](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ac03d956-ba92-4f61-8026-1a3a81bf6086)
 
 
