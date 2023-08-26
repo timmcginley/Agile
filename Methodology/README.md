@@ -1,6 +1,8 @@
 # Agile Prototyping Methodology
 
 The Methodology has 4 parts:
+![METHOD](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/8d743541-73eb-4064-b199-5551860b1b1c)
+
 
 ## Future *Forecast*
 This part identifies the near, medium and long term futures that will provide the future context of the agile prototype. It has the following substeps:
