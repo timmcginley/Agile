@@ -1,6 +1,8 @@
 # A1 Future
 ![METHOD_01](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ac03d956-ba92-4f61-8026-1a3a81bf6086)
 
+This part identifies the near, medium and long term future that will provide the future context of your groups agile prototype. Introduce Agile Principles and Processes
+Identify artefact or system from contexts and its 'features'.
 
 ### Learning Objectives
 1. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
