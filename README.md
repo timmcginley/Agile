@@ -5,19 +5,12 @@
 
 >Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
 
-This course provides ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a clearly defined [future] scenario. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
+This course provides ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a [future] scenario that they have defined. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
 
 - forecast a future
-- needs
-- mp and develop an ‘Agile Prototype’ of a building system or product that includes 100 years of the building system or products past, as well as 100 years of its future.
-- work out the changes
-
-Agile Prototyping focuses on
-
-- Focus on 'meta disciplinary' Building Elements
-- identification of common analysis methods
-- Building systems should be 'hot swappable' in a design process.
-- We should make the future design experience we want
+- identify the requirements of this future on our building systems.
+- Reverse engineer existing building systems
+- Re engineer those systems so they are adapted to their future.
 
 ## Methodology
 The Agile Prototyping methodology synthesises:
