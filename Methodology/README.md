@@ -2,7 +2,7 @@
 
 Agile Prototyping focuses on
 
-- Focus on '[meta disciplinary]' Building Elements
+- '[meta disciplinary]' Building Elements / systems
 - identification of common analysis methods
 - Building systems should be 'hot swappable' in a design process.
 - We should make the future design experience we want
