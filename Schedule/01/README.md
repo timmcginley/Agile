@@ -2,6 +2,7 @@
 
 ### 8:00 – 8:30
 * Watch introduction video individually - headphones :)
+* Link to follow.
 ### 8:30 – 9:00 
 * Kristian presentation
 * Introduce session exercise.
