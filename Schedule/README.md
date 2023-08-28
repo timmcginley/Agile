@@ -28,7 +28,7 @@ Exercise
 * Skylab tour (Digital Lab and Start Up opportunities)
 * Designing in the future with Kristian Brink (present to the future)
 * Choose Planet A or Planet B future.
-* in class presentation of your futures
+* In class presentation of your futures
 
 ## Week 2 - Problems
 
@@ -44,7 +44,7 @@ identify a system that will be different from today, based on your prototyped fu
 ### Exercise
 * identify the different elements / systems in a building.
 * identify the system they will focus on for their future.
-* Choosing a [project](/Projects).
+* Choosing a [project](Agile-Prototyping/Projects).
 * identify the challenges this element / system will face in the future for the chosen project in all three futures (near, mid and far).
 
 -------------------------------------
