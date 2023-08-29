@@ -51,6 +51,11 @@ This will include all the genes from last year...
 
 <img width="100%" alt="Screenshot 2023-08-20 at 12 23 39" src="https://github.com/timmcginley/Agile-Prototyping/assets/1415855/c58110be-34c8-404b-946e-4ac325787e36">
 
+These developed into the metadisciplinary eleements shown here.
+
+![image](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/a7165851-deaf-497d-94ab-ac548948009a)
+
+
 ## So what are the genes of architectural engineering?
 Previously we have left it open to you to define the focus and problem of your agile prototypes. This helped you to define your project later at thesis, however we learnt from the course feedback, that it would be helpful to reduce the options a bit :) Therefore we analysed the project choices from last year and checked based on your feedback in the recent google form. We will therefore offer nine focus areas this semester, which you can see below. There are still a lot of areas and some will be better supported than others, but we hope this reflects your diverse interests. It is also very appropriate to consider a 'major' and 'minor' in your projects. The feedback from the industry is that they want graduates that have a deep specialisation 'a major' that they can integrate with another aspect 'a minor'. An example would be the ability to perform both advanced structural and LCA analysis in a project.
 
