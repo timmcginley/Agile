@@ -59,71 +59,52 @@ Create a dedicated area or docking mechanism to house lunar rovers or other vehi
 
 Define Objectives and Constraints:
 
-Clearly outline the objectives of the lunar base, including its purpose, functions, and the number of astronauts it needs to support.
-Identify constraints such as budget, materials, available technology, and lunar environmental factors.
-Conduct Research:
+### Future
 
-Study lunar conditions, including temperature variations, radiation levels, and soil composition.
-Research architectural and engineering solutions suitable for space environments.
-Conceptualization:
 
-Brainstorm ideas and concepts for the base's layout, structures, and features.
-Consider the modular design to accommodate future expansion and ease of assembly.
-Site Selection:
+### Need
 
-Choose a suitable location on the lunar surface that offers safety, accessibility, and resource availability.
-Architectural Design:
+* Clearly outline the objectives of the lunar base, including its purpose, functions, and the number of astronauts it needs to support.
 
-Develop the layout of the base, including the arrangement of living quarters, laboratories, common areas, and utility spaces.
-Apply Universal Design Principles to ensure accessibility for all astronauts.
-Structural Engineering:
+* Location: Choose a suitable location on the lunar surface that offers safety, accessibility, and resource availability.
+* Integrate in-situ resource utilization (ISRU) systems to extract water ice and other resources for life support and construction.
+* Function Design: Develop the layout of the base, including the arrangement of living quarters, laboratories, common areas, and utility spaces.
+* Brainstorm ideas and concepts for the base's layout, structures, and features.
+* Consider the modular design to accommodate future expansion and ease of assembly.
 
-Design structures that can withstand lunar conditions, including temperature extremes, seismic activity, and micrometeoroid impacts.
-Consider modular construction methods for ease of assembly.
-Material Selection:
+### Change
+* Gather input from experts in various fields and stakeholders to refine the design.
+* Iterate the design based on feedback and findings from simulations.
+* Identify constraints such as budget, materials, available technology, and lunar environmental factors.
+* Apply Universal Design Principles to ensure accessibility for all astronauts.
+* Design structures that can withstand lunar conditions, including temperature extremes, seismic activity, and micrometeoroid impacts.
+* Consider modular construction methods for ease of assembly.
+* Choose materials available on the Moon, such as regolith, for construction to reduce the need for transporting materials from Earth.
+* Select radiation shielding materials to ensure astronaut safety.
+* Include airlocks, hatches, and docking mechanisms to enable astronaut ingress and egress.
+* Design pathways and docking points for lunar rovers and vehicles.
 
-Choose materials available on the Moon, such as regolith, for construction to reduce the need for transporting materials from Earth.
-Select radiation shielding materials to ensure astronaut safety.
-Energy Systems:
-
-Plan for energy generation using solar panels or other sustainable sources.
-Incorporate energy storage solutions to provide power during lunar nights.
-Life Support Systems:
-
-Design air recycling, water purification, waste management, and thermal control systems to maintain suitable living conditions.
-Accessibility and Mobility:
-
-Include airlocks, hatches, and docking mechanisms to enable astronaut ingress and egress.
-Design pathways and docking points for lunar rovers and vehicles.
-Sustainability and Resource Utilization:
-
-Integrate in-situ resource utilization (ISRU) systems to extract water ice and other resources for life support and construction.
-Modularity and Expansion:
+### Analyse
+* Study lunar conditions, including temperature variations, radiation levels, and soil composition.
+* Research architectural and engineering solutions suitable for space environments.
+* Plan for energy generation using solar panels or other sustainable sources.
+* Incorporate energy storage solutions to provide power during lunar nights.
+* Design air recycling, water purification, waste management, and thermal control systems to maintain suitable living conditions.
+* Testing and Simulation: Use Earth-based simulations and testing to validate design concepts and assembly processes.
 
 Design modules that can be connected and disconnected easily for future expansion.
 Consider the placement of docking ports for additional modules.
-Construction and Assembly:
+Build: Plan step-by-step assembly procedures for astronauts, considering the lunar environment and limitations.
+* Safety and Contingencies: Include redundancy in critical systems to ensure reliability.
+* Develop emergency response plans for unforeseen situations.
 
-Plan step-by-step assembly procedures for astronauts, considering the lunar environment and limitations.
-Safety and Contingencies:
 
-Include redundancy in critical systems to ensure reliability.
-Develop emergency response plans for unforeseen situations.
-Testing and Simulation:
 
-Use Earth-based simulations and testing to validate design concepts and assembly processes.
-Feedback and Iteration:
 
-Gather input from experts in various fields and stakeholders to refine the design.
-Iterate the design based on feedback and findings from simulations.
 Documentation and Presentation:
-
 Create detailed design documentation including drawings, schematics, and plans.
 Prepare presentations to communicate the design to stakeholders and decision-makers.
-Collaboration and Approval:
 
-Collaborate with space agencies, engineers, architects, and other experts to gain approval and support for the design.
-Remember that designing a lunar base is a complex and collaborative effort that requires expertise from various fields. The design process will involve iterative steps, feedback loops, and adjustments to ensure that the final design meets the objectives and requirements of supporting astronauts on the Moon for the long term.
-
+Collaborate with DTU Space? other engineers and architects?
 
 [or 4 light years]: https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/#:~:text=At%20only%20four%20light%2Dyears,orbits%20a%20M%2Dtype%20star.
