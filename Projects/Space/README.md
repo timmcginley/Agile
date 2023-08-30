@@ -4,8 +4,6 @@
 
 The journey to earth like planets outside of our solar system is not possible today, but a journey of a thousand steps ([or 4 light years]) starts with just 1 step.
 
-
-
 ## First step
 The first step requires a moon base. Your task will therefore be to adapt your agile prototype you develop in this course to support a building system on a moon base.
 Of course this will be a DTU base...
@@ -15,10 +13,10 @@ Of course this will be a DTU base...
 The Lunar Base Must:
 
 ### 01. Accommodate 8 Astronauts:
-Design living quarters, sleeping areas, workspaces, and recreation areas to comfortably support 8 astronauts at a time.
+Design living quarters, sleeping areas, workspaces, and recreation areas to comfortably support 8 astronauts at a time. Each person in your group should imagine a day in the lives of one of the astronauts, develop personas / user stories for them. Do this exercise early and reflect back on it throughout the project. You are also welcome to change it as you go.
 
 ### 02. Use Local Recyclable Materials:
-Utilize lunar regolith (local soil) and other available resources to construct the base as much as possible, reducing the need to transport materials from Earth.
+Utilize lunar regolith (local soil) and other available resources to construct the base as much as possible, reducing the need to transport materials from Earth. We have a handbook of lunar design and you we now have 'real' designs that you can learn from, you do not need to start from scratch.
 
 ### 03. Have a 100-Year Lifespan:
 Design for long-term durability, with materials and structures that can withstand lunar conditions for a century.
@@ -60,12 +58,10 @@ Create a dedicated area or docking mechanism to house lunar rovers or other vehi
 Define Objectives and Constraints:
 
 ### Future
-
+Considering the near mid and far future, will help to frame the design of your building systems for this project. What are the external constraints, does space become highly regulated, or very free, what role do governments play? how are disagreements resolved. where do you go for holiday? what is the motivation to go to space in the future? In this exercise you are developing a narrative which provides an opportunity to analyse its problems in the next part, look to the past following that and then propose chanes to your agile prototypes to meet the stated demands of your desired / feared futures. Remember that the future lock when you submit it.
 
 ### Need
-
 * Clearly outline the objectives of the lunar base, including its purpose, functions, and the number of astronauts it needs to support.
-
 * Location: Choose a suitable location on the lunar surface that offers safety, accessibility, and resource availability.
 * Integrate in-situ resource utilization (ISRU) systems to extract water ice and other resources for life support and construction.
 * Function Design: Develop the layout of the base, including the arrangement of living quarters, laboratories, common areas, and utility spaces.
@@ -91,10 +87,9 @@ Define Objectives and Constraints:
 * Incorporate energy storage solutions to provide power during lunar nights.
 * Design air recycling, water purification, waste management, and thermal control systems to maintain suitable living conditions.
 * Testing and Simulation: Use Earth-based simulations and testing to validate design concepts and assembly processes.
-
-Design modules that can be connected and disconnected easily for future expansion.
-Consider the placement of docking ports for additional modules.
-Build: Plan step-by-step assembly procedures for astronauts, considering the lunar environment and limitations.
+* Design modules that can be connected and disconnected easily for future expansion.
+* Consider the placement of docking ports for additional modules.
+* Build: Plan step-by-step assembly procedures for astronauts, considering the lunar environment and limitations.
 * Safety and Contingencies: Include redundancy in critical systems to ensure reliability.
 * Develop emergency response plans for unforeseen situations.
 
