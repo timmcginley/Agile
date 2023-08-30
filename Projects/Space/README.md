@@ -18,8 +18,8 @@ Design living quarters, sleeping areas, workspaces, and recreation areas to comf
 ### 02. Use Local Recyclable Materials:
 Utilize lunar regolith (local soil) and other available resources to construct the base as much as possible, reducing the need to transport materials from Earth. We have a handbook of lunar design and you we now have 'real' designs that you can learn from, you do not need to start from scratch.
 
-### 03. Have a 100-Year Lifespan:
-Design for long-term durability, with materials and structures that can withstand lunar conditions for a century.
+### 03. Have a 100-Year Lifespan (2024 - 2124):
+Design for long-term durability, specify materials and design structures and sysetems that can withstand lunar conditions for a century
 
 ### 04. Require 3 Supply Trips or Less:
 Plan for modular construction that can be assembled using a limited number of supply trips to the Moon.
@@ -58,7 +58,7 @@ Create a dedicated area or docking mechanism to house lunar rovers or other vehi
 Define Objectives and Constraints:
 
 ### Future
-Considering the near mid and far future, will help to frame the design of your building systems for this project. What are the external constraints, does space become highly regulated, or very free, what role do governments play? how are disagreements resolved. where do you go for holiday? what is the motivation to go to space in the future? In this exercise you are developing a narrative which provides an opportunity to analyse its problems in the next part, look to the past following that and then propose chanes to your agile prototypes to meet the stated demands of your desired / feared futures. Remember that the future lock when you submit it.
+Considering the near mid and far future, will help to frame the design of your building systems for this project. What are the external constraints, does space become highly regulated, or very free, what role do governments play? how are disagreements resolved. where do you go for holiday? what is the motivation to go to space in the future? In this exercise you are developing a narrative which provides an opportunity to analyse its problems in the next part, look to the past following that and then propose chanes to your agile prototypes to meet the stated demands of your desired / feared futures. Remember that the future lock when you submit it. In the case of the lunar base the future must extend at least 100 years, as this is the service life of your systems.
 
 ### Need
 * Clearly outline the objectives of the lunar base, including its purpose, functions, and the number of astronauts it needs to support.
