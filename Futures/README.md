@@ -15,4 +15,6 @@ Here are some futures that can act as inspiration for the course. Each has a use
 
 ## Planet B
 
+* Arguments for [Moon settlement](https://explorersweb.com/should-we-create-a-permanent-base-on-the-moon/)
+
 [building gene systems]: /Agile-Prototying/Genes
