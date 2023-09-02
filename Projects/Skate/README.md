@@ -2,7 +2,7 @@
 
 ## How could a skate park double up and have a second function in an urban environment?
 
-Ebbe Lykke from [Glifberg-Lykke](https://www.glifberglykke.com/) Skatepark Architecture Design are intersted in the ideas that you can come up to integrate Skateparks into other built environment functions. Ebbe would like to come and talk wiht us soon, so we can find out more about the awesome work they do.
+Ebbe Lykke from [Glifberg-Lykke](https://www.glifberglykke.com/) Skatepark Architecture Design are intersted in the ideas that you can come up to integrate Skateparks into other built environment functions. This will build on the success of their work at Høje Taatrup on the [worlds longest skatepark](https://www.slabzoo.com/all-articles/the-worlds-longest-skatepark) that also doubles as cloud burst infrastructure. Ebbe would like to come and talk with us soon, so we can find out more about the awesome work they do.
 
 ![image](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/7c0f4c64-989e-4adf-96e9-221d9a44271a)
 
