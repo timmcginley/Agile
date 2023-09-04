@@ -7,7 +7,7 @@ The coder designs and edits the design genes, they also might configure design s
 
 
 ## Carver
-This is an extension of the [OpenBIM Ontologist] role, but it focuses on the Morphogenetic Carving.
+This is an extension of the [OpenBIM Ontologist] role, but it focuses on the Morphogenetic Carving. This is best described as using a [TUI] (tangible user interface) to augment the future desing experience. Linked Data is touted as a future information technology for the AECO however most implimentations focus on using it for analysis. The potential of operating directly on linked data graphs to design has yet to be fully explored. This is expllored in speculative papers employing a ['katana' TUI to carve the graph](https://www.researchgate.net/publication/282664175_MorphoCarve_Carving_Morphogenetic_Prototypes) in an XR environment.
 
 
 ## Analyst
@@ -32,3 +32,4 @@ This rooe 'will' become increasingly useful in the future. Whether it is predict
 [OpenBIM Analyst]: /41934/Roles/Analyst
 [OpenBIM Ontologist]: /41934/Roles/Ontologist
 [Systems Designer]: /Roles/SystemsDesigner
+[TUI]: https://en.wikipedia.org/wiki/Tangible_user_interface
