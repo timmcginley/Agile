@@ -13,4 +13,4 @@ This part 'reverse engineers' the selected system to develop a recomposable 'agi
 ## A4 - Change
 Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
 
-[project]: /41934/Projects
+[project]: /Agile-Prototyping/Projects
