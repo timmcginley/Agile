@@ -3,7 +3,9 @@
 ## A1 - Future
 In this part you will:
 * identify the near, medium and long term future that will provide the future context of your groups agile prototype.
-* Select a [project]. Introduce Agile Principles and Processes
+* Select a [project].
+* Select a [gene system] to focus on.
+* Introduce Agile Principles and Processes
 Identify artefact or system from contexts and its 'features'.
 
 ## A2 - Needs
@@ -20,3 +22,4 @@ In this part you will:
 
 [project]: /Agile-Prototyping/Projects
 ['Reverse engineer']: /Agile-Prototyping/Concepts/ReverseEngineer
+[gene system]: /Agile-Prototyping/Concepts/Genes
