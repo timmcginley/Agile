@@ -7,7 +7,7 @@ Here are some futures that can act as inspiration for the course. Each has a use
 ## Future Seeds
 * Embrace 'everything as a service'
 * Increased corporatisation of universities
-*
+* Don't forget to define your frame of reference.
 
 
 ## Planet A
