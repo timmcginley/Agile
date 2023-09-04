@@ -1,4 +1,28 @@
-# Session 01
+# Week 1 - Future
+
+*29th August 2023*
+
+Choose a future scenario (1) extreme carbon and resource rationing (Planet A only) (2) Lunar building boom (Planet B only)
+
+## Lecture
+
+1. Architectural engineering in an uncertain future.
+1. Focus Areas Inc. roles
+1. 3 horizons framework
+1. uncertainty
+1. Plan for the course
+2. Science Fiction Prototyping
+1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
+1. Agile Prototyping - include paper - hit all targets.
+1. project targets
+
+## Exercise
+* Skylab tour (Digital Lab and Start Up opportunities)
+* Designing in the future with Kristian Brink (present to the future)
+* Choose Planet A or Planet B future.
+* In class presentation of your futures
+
+Detailed Schedule
 
 ### 8:00 – 8:30
 * Watch introduction video individually - headphones :)
