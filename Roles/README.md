@@ -1,8 +1,8 @@
 # Roles
 Architectural Engineering roles in the future will be different from today. This section describes 5 emerging roles that you could consider in your future. The roles below are derived from two papers:
 
-Morphogenetic Architecture for Intelligent Buildings[(McGinley, 2015)](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
-Supporting the OpenBIM Transition [(McGinley et. al. 2023)](https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition)
+* Morphogenetic Architecture for Intelligent Buildings[(McGinley, 2015)](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
+* Supporting the OpenBIM Transition [(McGinley et. al. 2023)](https://www.researchgate.net/publication/372244146_Supporting_the_OpenBIM_transition)
 
 ## Analyst
 This shares some similarities to the [OpenBIM Analyst] role, but it focuses on the [Morphogenetic] analysis of the [Agile Prototypes].
