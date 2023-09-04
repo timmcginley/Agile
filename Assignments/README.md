@@ -1,7 +1,7 @@
 # Assignments
 
 ## A1 - Future
-This part identifies the near, medium and long term future that will provide the future context of your groups agile prototype. It is also important to select a [project] here. Introduce Agile Principles and Processes
+In this part you willl This part identifiesthe near, medium and long term future that will provide the future context of your groups agile prototype. It is also important to select a [project] here. Introduce Agile Principles and Processes
 Identify artefact or system from contexts and its 'features'.
 
 ## A2 - Needs
