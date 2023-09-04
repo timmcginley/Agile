@@ -13,7 +13,7 @@
 [Week 3](/41938/Schedule/03) Meta Disciplinary |
 [Week 4](/41938/Schedule/04) Requirements |
 
-### [A3] Analyse
+### [A3] Analyse (includes 3 sprints)
 
 [Week 5](/41938/Schedule/05) Reverse 1 |
 [Week 6](/41938/Schedule/06) Reverse 2 |
