@@ -8,7 +8,7 @@ Identify artefact or system from contexts and its 'features'.
 
 ## A2 - Needs
 In this part you will:
-* identify the requirements of the future product / system in you defined future.
+* identify the requirements of the future product / system in your defined future(s).
 
 ## A3 - Analyse
 In this part you will:
