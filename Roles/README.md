@@ -2,6 +2,7 @@
 
 
 ## Coder
+The coder designs and edits the design genes, they also might configure design systems although this is mostly taken by the [Systems Designer]
 
 
 
@@ -19,6 +20,7 @@ This shares some similarities to the [OpenBIM Modeller] role, but it focuses on 
 
 
 ## Futurologist
+This rooe 'will' become increasingly useful in the future. Whether it is predicting the future life cycles of prodcuts and materials or defining the future challenges to the built and natural environments.
 
 
 ## Systems Designer
@@ -29,3 +31,4 @@ This shares some similarities to the [OpenBIM Modeller] role, but it focuses on 
 [OpenBIM Modeller]: /41934/Roles/Modeller
 [OpenBIM Analyst]: /41934/Roles/Analyst
 [OpenBIM Ontologist]: /41934/Roles/Ontologist
+[Systems Designer]: /Roles/SystemsDesigner
