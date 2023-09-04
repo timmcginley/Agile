@@ -14,8 +14,8 @@ All work should be compiled into a single [markdown] document. This can be direc
 
 A markDown File that includes.
 
-1. one paragraph for each future near mid and far (you will use these to generate needs in [A2])
-1. a timeline diagram that tells us the year of the 3 futures
+1. At least one paragraph for each future near mid and far (you will use these to generate needs in [A2])
+1. A timeline diagram that tells us the year of the 3 futures
 1. System selection
 1. [Gene] System focus with justification
 1. Project Selection and justification
@@ -26,11 +26,11 @@ A markDown File that includes.
 1. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 8. Define the three horizons of a future scenario and explore the future of the AP.
 
-[future design experience]: /41934/Concepts/DesignExperience
-[Reverse engineer]: /41934/Concepts/ReverseEngineer
-[markdown]: /41934/Concepts/MarkDown
-[github]: /41934/Concepts/Github
-[A2]: /41934/Assignments/A2
-[Gene]: /41934/Genes
+[future design experience]: /Agile-Prototyping/Concepts/DesignExperience
+[Reverse engineer]: /Agile-Prototyping/Concepts/ReverseEngineer
+[markdown]: /Agile-Prototyping/Concepts/MarkDown
+[github]: /Agile-Prototyping/Concepts/Github
+[A2]: /Agile-Prototyping/Assignments/A2
+[Gene]: /Agile-Prototyping/Genes
 
 
