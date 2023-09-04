@@ -11,8 +11,7 @@ This part identifies the requirements of the future product / system in you defi
 This part 'reverse engineers' the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
 
 ## A4 - Change
-
-## A5 - Reflect
+Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
 
 
 
