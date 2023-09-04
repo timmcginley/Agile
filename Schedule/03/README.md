@@ -1,6 +1,9 @@
-## Week 3 - Meta Disciplinary
+# Week 3 - Meta Disciplinary
 
 *12th September 2023*
 
 1. Meta Disciplinary framework
 2. other thing
+
+## Exercise
+* Identify how we might adapt our current systems to teh needs of the future scenario.
