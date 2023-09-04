@@ -8,6 +8,7 @@ Identify artefact or system from contexts and its 'features'.
 This part identifies the requirements of the future product / system in you defined future.
 
 ## A3 - Analyse
+This part 'reverse engineers' the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
 
 ## A4 - Change
 
