@@ -15,15 +15,17 @@
 
 ### [A3] Analyse (includes 3 sprints)
 
+Sprint 1
+
 [Week 5](/41938/Schedule/05) Reverse 1 |
 [Week 6](/41938/Schedule/06) Reverse 2 |
 
-Feedback
+Sprint 2
 
 [Week 7](/41938/Schedule/07) Genes 1|
 [Week 8](/41938/Schedule/08) Genes 2 |
 
-Feedback
+Sprint 3
 
 [Week 9](/41938/Schedule/09) Evolution |
 [Week 10](/41938/Schedule/10) Trajectories|
