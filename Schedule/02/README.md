@@ -1,4 +1,4 @@
-## Week 2 - Problems
+# Week 2 - Problems
 
 *5th September 2023*
 
