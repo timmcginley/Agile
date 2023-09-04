@@ -19,12 +19,14 @@ MorphoPrototyping:
 3.	Imagine that the artefact ‘developed’ as if it were a biological organism
 4.	Identify when the artefact ‘expressed’ these features by working out pseudo developmental stages for the artefact.
 5.	Imagine there are genes that trigger the expression of the features.
-Assignment
+
+### Details
 This assignment should include:
-•	The problem you have identified
-•	The ‘prototype’ that you have identified (the system / artefact)
-•	Its pseudo developmental features and stages.
-•	The features of the system you have identified.
-•	How far back into the past you have gone (twice as far as you forecast).
-•	A conceptual model showing how the object has been defined over time.
+*	The problem you have identified
+*	The ‘prototype’ that you have identified (the system / artefact)
+*	Its pseudo developmental features and stages.
+*	The features of the system you have identified.
+*	How far back into the past you have gone (twice as far as you forecast).
+*	A conceptual model showing how the object has been defined over time.
+
 This should be an A4 report containing the sections above. The length is up to you but clarity is favoured over length.
