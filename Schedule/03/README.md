@@ -6,4 +6,4 @@
 2. other thing
 
 ## Exercise
-* Identify how we might adapt our current systems to teh needs of the future scenario.
+* Identify how we might adapt our current systems to the needs of the future scenario.
