@@ -5,7 +5,7 @@ This part identifies the near, medium and long term future that will provide the
 Identify artefact or system from contexts and its 'features'.
 
 Detail:
-* Define your [future design experience] (individual)
+* Define your [future design experience]
 * Define your building sytem for your group - individually gather the challenges to this system and hwo you will support your group.
 
 All work should be compiled into a single [markdown] document. This can be directly submitted on Learn, or better you could share a link to your groups own github repository. Please see this link on the parallel advnaced BIM course for information about using [github].
