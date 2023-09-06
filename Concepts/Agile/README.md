@@ -1,6 +1,6 @@
 # Agile
 
-> In response to an increase in the control of project managers and creativity crippling documentation requirements in software development at the turn of the 21st century, programmers developed a series of methodologies which were united under the manifesto of agile software development (Beck et al. 2001). The story of the development of Agile is well documented as are the techniques to employ it (Martin 2003). Agile is often compared to the more traditional ‘waterfall’ model (figure 2) wherein each of the main tasks are completed sequentially and are all planned up front. In Agile development, the design progresses in sprints and the tasks are reviewed on a daily basis. These ideas were incorporated in the four values of the Agile Software Development Manifesto (Beck et al. 2001)
+> In response to an increase in the control of project managers and creativity crippling documentation requirements in software development at the turn of the 21st century, programmers developed a series of methodologies which were united under the manifesto of agile software development [(Beck et al. 2001)]. The story of the development of Agile is well documented as are the techniques to employ it (Martin 2003). Agile is often compared to the more traditional ‘waterfall’ model (figure 2) wherein each of the main tasks are completed sequentially and are all planned up front. In Agile development, the design progresses in sprints and the tasks are reviewed on a daily basis. These ideas were incorporated in the four values of the Agile Software Development Manifesto (Beck et al. 2001)
 > 
 ![image](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/a437319f-ffc6-40ae-84ab-29d8cc943863)
 
@@ -29,3 +29,8 @@
 
 
 (PDF) Agile X UniSA Pavilion: Agile Principles and the Parametric Paradox. Available from: https://www.researchgate.net/publication/315689068_Agile_X_UniSA_Pavilion_Agile_Principles_and_the_Parametric_Paradox [accessed Sep 05 2023].
+
+## References
+Martin, R.C.: 2003, Agile Software Development: Principles, Patterns, and Practices,, Pearson
+
+[(Beck et al. 2001)]: https://agilemanifesto.org/
