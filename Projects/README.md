@@ -2,7 +2,7 @@
 
 Your agile prototype needs to be able to:
 
-* support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Assignments/A1)
+* support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Agile/Assignments/A1)
 
 This does *not mean* that the constructed prototype has to adapt like a transformer...
 
@@ -17,9 +17,9 @@ but that **the design of the agile prototype can** using [Computational and Para
 
 Finally you must make a [physical prototype]
 
-[physical prototype]: /Concepts/PhysicalPrototype
-[Roskilde]: /Agile-Prototyping/Projects/Roskilde
-[Space]: /Agile-Prototyping/Projects/Space
-[Skate]: /Agile-Prototyping/Projects/Skate
-[Skylab]: /Agile-Prototyping/Projects/Skylab
-[Computational and Parametric Design]: /Concepts/ComputationalDesign
+[physical prototype]: /Agile/Concepts/PhysicalPrototype
+[Roskilde]: /Agile/Projects/Roskilde
+[Space]: /Agile/Projects/Space
+[Skate]: /Agile/Projects/Skate
+[Skylab]: /Agile/Projects/Skylab
+[Computational and Parametric Design]: /Agile/Concepts/ComputationalDesign

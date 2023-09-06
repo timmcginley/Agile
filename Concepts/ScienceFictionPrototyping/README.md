@@ -7,3 +7,5 @@ Hvaing done this it is then possible to develop designs and imagine how they per
 You can read more about SFP [here](https://en.wikipedia.org/wiki/Science_fiction_prototyping).
 
 Also the original [Morphogenetic Prototyping] paper
+
+[Morphogenetic Prototyping]: /Agile/Concepts/MorphogeneticPrototyping

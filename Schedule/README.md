@@ -5,41 +5,41 @@
 
 ### [A1] Future
 
-[Week 1](/41938/Schedule/01)  Future  |
-[Week 2](/41938/Schedule/02)  Problems |
+[Week 1](Agile/Schedule/01)  Future  |
+[Week 2](Agile/Schedule/02)  Problems |
 
 ### [A2] Needs
 
-[Week 3](/41938/Schedule/03) Meta Disciplinary |
-[Week 4](/41938/Schedule/04) Requirements |
+[Week 3](Agile/Schedule/03) Meta Disciplinary |
+[Week 4](Agile/Schedule/04) Requirements |
 
 ### [A3] Analyse
 
 Sprint 1
 
-[Week 5](/41938/Schedule/05) Reverse 1 |
-[Week 6](/41938/Schedule/06) Reverse 2 |
+[Week 5](Agile/Schedule/05) Reverse 1 |
+[Week 6](Agile/Schedule/06) Reverse 2 |
 
 Sprint 2
 
-[Week 7](/41938/Schedule/07) Genes 1|
-[Week 8](/41938/Schedule/08) Genes 2 |
+[Week 7](Agile/Schedule/07) Genes 1|
+[Week 8](Agile/Schedule/08) Genes 2 |
 
 Sprint 3
 
-[Week 9](/41938/Schedule/09) Evolution |
-[Week 10](/41938/Schedule/10) Trajectories|
+[Week 9](Agile/Schedule/09) Evolution |
+[Week 10](Agile/Schedule/10) Trajectories|
 
 ### [A4] Change
 
-[Week 11](/41938/Schedule/11) Project |
-[Week 12](/41938/Schedule/12) Project |
-[Week 13](/41938/Schedule/13) Presentation
+[Week 11](Agile/Schedule/11) Project |
+[Week 12](Agile/Schedule/12) Project |
+[Week 13](Agile/Schedule/13) Presentation
 
 
 <!-- LINKS -->
-[A1]: /41938/Assignments/A1
-[A2]: /41938/Assignments/A2
-[A3]: /41938/Assignments/A3
-[A4]: /41938/Assignments/A4
+[A1]: Agile/Assignments/A1
+[A2]: Agile/Assignments/A2
+[A3]: Agile/Assignments/A3
+[A4]: Agile/Assignments/A4
 [BIM]: /41934/Concepts/BIM

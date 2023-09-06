@@ -35,5 +35,5 @@ Submit: [A1]: 10th September
 * Support from Tim and Kristian
 
 
-[A1]: /Agile-Prototyping/Assignments/A1
-[Parametric Paradox]: /Agile-Prototyping/Concepts/ParametricParadox
+[A1]: Agile/Assignments/A1
+[Parametric Paradox]: Agile/Concepts/ParametricParadox

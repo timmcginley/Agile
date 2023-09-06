@@ -36,9 +36,9 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 
 <!-- LINKS -->
 
-[Assignment 1]: /Agile-Prototyping/Assignments/A1
-[Assignment 2]: /Agile-Prototyping/Assignments/A2
-[Assignment 3]: /Agile-Prototyping/Assignments/A3
-[Assignment 4]: /Agile-Prototyping/Assignments/A4
-[Assignment 5]: /Agile-Prototyping/Assignments/A5
-[meta disciplinary]: /Agile-Prototyping/Concepts/MetaDisciplinary
+[Assignment 1]: /Agile/Assignments/A1
+[Assignment 2]: /Agile/Assignments/A2
+[Assignment 3]: /Agile/Assignments/A3
+[Assignment 4]: /Agile/Assignments/A4
+[Assignment 5]: /Agile/Assignments/A5
+[meta disciplinary]: /Agile/Concepts/MetaDisciplinary

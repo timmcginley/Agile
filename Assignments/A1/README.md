@@ -26,11 +26,11 @@ A markDown File that includes.
 1. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 8. Define the three horizons of a future scenario and explore the future of the AP.
 
-[future design experience]: /Agile-Prototyping/Concepts/DesignExperience
-[Reverse engineer]: /Agile-Prototyping/Concepts/ReverseEngineer
-[markdown]: /Agile-Prototyping/Concepts/MarkDown
-[github]: /Agile-Prototyping/Concepts/Github
-[A2]: /Agile-Prototyping/Assignments/A2
-[Gene]: /Agile-Prototyping/Genes
+[future design experience]: /Agile/Concepts/DesignExperience
+[Reverse engineer]: /Agile/Concepts/ReverseEngineer
+[markdown]: /Agile/Concepts/MarkDown
+[github]: /Agile/Concepts/Github
+[A2]: /Agile/Assignments/A2
+[Gene]: /Agile/Genes
 
 

@@ -20,6 +20,6 @@ In this part you will:
 In this part you will:
 * Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
 
-[project]: /Agile-Prototyping/Projects
-['Reverse engineer']: /Agile-Prototyping/Concepts/ReverseEngineer
-[gene system]: /Agile-Prototyping/Concepts/Genes
+[project]: /Agile/Projects
+['Reverse engineer']: /Agile/Concepts/ReverseEngineer
+[gene system]: /Agile/Concepts/Genes

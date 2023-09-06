@@ -30,7 +30,7 @@ This rooe 'will' become increasingly useful in the future. Whether it is predict
 [OpenBIM Modeller]: /41934/Roles/Modeller
 [OpenBIM Analyst]: /41934/Roles/Analyst
 [OpenBIM Ontologist]: /41934/Roles/Ontologist
-[Systems Designer]: /Roles/SystemsDesigner
-[Morphogenetic]: /Concepts/MorphogeneticPrototyping
-[Agile Prototypes]: /Methodology
+[Systems Designer]: Agile/Roles/SystemsDesigner
+[Morphogenetic]: Agile/Concepts/MorphogeneticPrototyping
+[Agile Prototypes]: Agile/Methodology
 [TUI]: https://en.wikipedia.org/wiki/Tangible_user_interface
