@@ -1,6 +1,6 @@
 # Agile Prototyping
 
-**The future is [uncertain]. So how can we design buildings for the future? Agile Prototyping is a [methodology] for designing building systems in the future.**
+**The future is [unknowable]. So how can we design buildings for the future? Agile Prototyping is a [methodology] for designing building systems in the future.**
 
 
 >Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
@@ -59,6 +59,6 @@ More detail about the future Engineering methodology used in the course to suppo
 
 <!-- link -->
 [meta disciplinary systems]: Agile-Prototyping/Concepts/MetaDisciplinary
-[uncertain]: Agile-Prototyping/Concepts/Futures
+[unknowable]: Agile-Prototyping/Concepts/Futures
 [future]: Agile-Prototyping/Concepts/Futures
 [methodology]: Agile-Prototyping/Methodology
