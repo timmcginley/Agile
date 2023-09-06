@@ -11,8 +11,9 @@
 >To address this, we need to apply robust and flexible development methodologies that produce high quality outputs and are appropriate to the design process.
 
 ## References
-* Yu, R., Gero, J. and Gu, N.: 2015, Architects’ Cognitive Behaviour in Parametric Design, In-ternational Journal of Architectural Computing, 1(13), 83-101
+* Davis, D., Burry, J. and Burry, M.: 2011, Untangling Parametric Schemata : Enhancing Collab-oration through Modular Programming DAVIS, Proceedings of CAAD Futures 2011, 55-68. 
 * (McGinley, T. Abroe, B. Kroll, D. Murphy, M. Sare, T. Gu, N., (2017) [Agile X Pavilion and the Parametric Paradox], Computer-Aided Architectural Design Research in Asia (CAADRIA) 2017, Suzhou, China.
+* Yu, R., Gero, J. and Gu, N.: 2015, Architects’ Cognitive Behaviour in Parametric Design, In-ternational Journal of Architectural Computing, 1(13), 83-101
 
 [(McGinley et. al. 2017)]: https://www.researchgate.net/publication/315689068_Agile_X_UniSA_Pavilion_Agile_Principles_and_the_Parametric_Paradox
 [Agile X Pavilion and the Parametric Paradox]: https://www.researchgate.net/publication/315689068_Agile_X_UniSA_Pavilion_Agile_Principles_and_the_Parametric_Paradox
