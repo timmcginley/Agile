@@ -1,16 +1,16 @@
 # Agile Prototyping
 
-**The future is [uncertain]. So how can we design buildings for the future? This course  teaches a methodology for designing building systems in the future.**
+**The future is [uncertain]. So how can we design buildings for the future? Agile Prototyping is a [methodology] for designing building systems in the future.**
 
 
 >Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
 
-This course provides ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, for a [future] scenario that they have defined. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
+This course provides the ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, in the near, mid and far [future] scenario that they define. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
 
-- forecast a future
-- identify the requirements of this future on our building systems.
-- Reverse engineer existing building systems
-- Re engineer those systems so they are adapted to their future.
+1. forecast a near, mid and far future
+2. identify the requirements of this future on our building systems.
+3. Reverse engineer existing building systems
+4. Re engineer those systems to their proposed futures.
 
 ## Methodology
 The Agile Prototyping methodology synthesises:
@@ -61,3 +61,4 @@ More detail about the future Engineering methodology used in the course to suppo
 [meta disciplinary systems]: Agile-Prototyping/Concepts/MetaDisciplinary
 [uncertain]: Agile-Prototyping/Concepts/Futures
 [future]: Agile-Prototyping/Concepts/Futures
+[methodology]: Agile-Prototyping/Methodology
