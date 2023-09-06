@@ -6,7 +6,7 @@
 [(McGinley et. al. 2017)]
 
 ## Spaghettimetrics
->The argument for parametric systems is that they can augment a designer’s ability to explore an opportunity space that can be predicted in advance. Furthermore, the development of robust parametric design systems could be used to adapt the design proposals in response to a required change in strategy from late emerging information. However, parametric design systems are frequently developed in an ad hoc manner that means we end up with ‘spaghetti parametrics’ that can be difficult to reconfigureto an adjusted design strategy beyond the scope of the parameters defined in thesystem (Davis et al. 2011).
+>The argument for parametric systems is that they can augment a designer’s ability to explore an opportunity space that can be predicted in advance. Furthermore, the development of robust parametric design systems could be used to adapt the design proposals in response to a required change in strategy from late emerging information. However, parametric design systems are frequently developed in an ad hoc manner that means we end up with ‘spaghetti parametrics’ that can be difficult to reconfigure to an adjusted design strategy beyond the scope of the parameters defined in thesystem (Davis et al. 2011).
 
 >To address this, we need to apply robust and flexible development methodologies that produce high quality outputs and are appropriate to the design process.
 
