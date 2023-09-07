@@ -1,9 +1,15 @@
 # Building Requirements
 >Building Design and Engineering is not possible without requirements for the building. We know requirements are important, but how should we capture, store, check and maintain them?
 
-To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future' the requirements like the future, are unknowable.
+To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future' the requirements like the future, are unknowable. 
 <!--- 2023 SPECIFIC - PLEASE CHAECK IN FUTURE ITERATIONS!!! -->
 That is why in [A1] we asked you to define your near, mid and far futures.
+
+So to support this process in this course we haev asked you to describe and 'fix' your three futures to give you a chance to deisgn to those futures. This however runs the dahnger of reinforcing an older mindest of fixed requirements rather than using the requiremtns as a livign document that learns fom the results of the deisgn iterations to get closer to what the client 'really wants' from a sea of 'unknown unknowns' in the early stages of the design.
+
+So the methodology we choose for our requiremetns in this course is important. ON the one hand we could choose a traditional approach susch as Requirments Engineering whihc is outlined below, but that would not help you once the 'training wheels' of this course are released and you need to manage building design requirements in real projects with uncertain futures.
+
+Agile methodologies that inform the methodology for the course are not naturally strong on requirements engineering, therfore lets start by looking the strong requirments methodology of requirements engineering.
 
 ## Requirements Engineering (RE)
 [wikipedia link]: https://en.wikipedia.org/wiki/Requirements_engineering
