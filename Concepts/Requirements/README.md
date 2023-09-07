@@ -15,12 +15,12 @@ On the one hand we could choose a traditional approach such as Requirments Engin
 Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requirements as the focus of a design process. Although some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, parts of it maybe useful in our [Agile Prototyping] approach. 
 
 ### Strengths
-* On the positive side it does encourage stakeholders and developers to meet,
-* a focus on the requirements can indeed lead to better requirements - supporting higher quality design
+* It does encourage stakeholders and developers to meet even if only in the pre design stages.
+* The methodological focus on requirements can indeed lead to better requirements - supporting higher quality design.
 * Explicitly modelling requirments in UML would support automated checking and increase the quality of automated feedback and guidance in the deisgn process (before it is too late to make changes).
 
 ### Challenges 
-* REs focus on capturing static requirments fails to challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it), that worked in a classical sense but is not as effective in the complex multi faceted work of 21st century deisgn and engineering.
+* RE focuses on capturing static requirments fails to challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it), that worked in a classical sense but is not as effective in the complex multi faceted work of 21st century deisgn and engineering.
 * It does not support changes in the requirements (as much as agile does). this also means that it is more difficult for the design team to absorb each others changes and advice, reducing design integration.
 
  although unlike in Agile methodologies where frequent meetings are required, in Requirements Engineering the idea is to try and capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage. It is then not normally deemed necessary to question the requirements. 
