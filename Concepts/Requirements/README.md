@@ -14,8 +14,8 @@ On the one hand we could choose a traditional approach such as Requirments Engin
 
 ### Strengths
 * It does encourage stakeholders and developers to meet even if only in the pre design stages.
-* The methodological focus on requirements can indeed lead to better requirements - supporting higher quality design.
-* Explicitly modelling requirments in UML would support automated checking and increase the quality of automated feedback and guidance in the deisgn process (before it is too late to make changes).
+* The methodological focus on requirements can indeed lead to better requirements - supporting higher quality design, if the requirements are well captured and do not change.
+* Explicitly modelling requirments in [UML] as supported by RE would support automated checking and increase the quality of automated feedback and guidance in the deisgn process (before it is too late to make changes).
 
 ### Challenges 
 * RE focuses on capturing static requirments fails to challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it), that worked in a classical sense but is not as effective in the complex multi faceted work of 21st century deisgn and engineering.
@@ -35,3 +35,4 @@ However our 'requirements engineering' approach is further complicated byt the c
 [Agile Prototypes]: /Agile/Concepts/MorphogeneticPrototyping
 [A1]: /Agile/Assignments/A1
 [Agile]: /Agile/Concepts/Agile
+[UML]: https://en.wikipedia.org/wiki/Unified_Modeling_Language
