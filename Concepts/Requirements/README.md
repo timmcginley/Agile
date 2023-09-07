@@ -1,7 +1,7 @@
 # Building Requirements
 >Building Design and Engineering is not possible without requirements for the building. We know requirements are important, but how should we capture, store, check and maintain them?
 
-To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future'. Therfore the requirements for your project like the futures you are designing them in, are unknowable. 
+To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future'. Therfore the requirements for your project, like the futures you are designing them in, are unknowable. 
 <!--- 2023 SPECIFIC - PLEASE CHAECK IN FUTURE ITERATIONS!!! -->
 That is why in [A1] we asked you to define your near, mid and far futures.
 
