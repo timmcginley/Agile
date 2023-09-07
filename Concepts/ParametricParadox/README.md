@@ -1,4 +1,7 @@
 # Parametric Paradox
+The paradox can be beest defined as
+
+>the function of parametrics is to support change; but parametric models are difficult to change.
 
 
 ## Parametric Models in Architectural Engineering
