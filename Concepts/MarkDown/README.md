@@ -4,7 +4,7 @@
 
 This can also be expressed as
 
-$Markdown > PDF
+$Markdown > PDF$
 
 
 MarkDown solves the problem of having a standard formatted easily editable text.
