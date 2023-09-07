@@ -1,5 +1,12 @@
 # Science Fiction Prototyping Example
 
+Science Fiction Prototyping is a creative, and future focused approach that can you to explore the future design expereince of architectural engineering. You can use it envision near, mid or far future scenarios and technologies suing science fiction narrative techniques. For example, a science fiction prototyping exercise could involve designing a sustainable, self-sustaining lunar colony that relies on advanced material, energy and construction systems that are not available or nascent today. 
+
+Such an exercise helps you to imagine new construction techniques, such as 3D printing with lunar regolith or harnessing solar power in a unique way, ultimately influencing real-world lunar or on earth architectural engineering.
+
+The following example is taken from the original morphogenetic engineering paper. To paraphrise this article
+>the premise is to extend Ray Kurweil’s concept of the [‘singularity’] that can be roughly interpretted as that by 2045, computers will be more intelligent than humans. This paper proposes that, whatever the date, at some point the idea of an ‘architectural singularity’ wherein buildings will be more intelligent than people – will have big implications for the role of the human design team. The paper proposes a science fiction prototyping scenario to explore the role of an architectural intern after the ‘architectural’ singularity.
+
 The abstract for the whole paper is here..
 
 >The architectural singularity is approaching. It is the point at which buildings become more intelligent than their occupants and designers. This will significantly change the roles of the built-environment professions in the design, fabrication, construction and operation of buildings. By exploring self-organizing behaviour in biological development this article describes the approaching challenges of this architectural singularity. Elements of morphogenetic design have been applied in various disciplines associated with intelligent building (IB), including architecture, engineering and computing. However, these previous discipline-specific approaches have not considered the trans-disciplinary implications of morphogenetic growth processes on the role of the disciplines associated with IB. Therefore, this article introduces a science fiction prototyping (SFP) scenario that proposes a morphogenetic design process for IBs based on Drosophila melanogaster development and grounded in the contemporary technologies of Building Information Modelling, digital fabrication and parametric design. Based on a discussion of the implications for the design team a morphogenetic architecture framework for IB is proposed.
@@ -20,7 +27,7 @@ And then the prototype can be read below
 >
 >That’s the bit she enjoys most . . . It distracts her from the current fashion to render antiquated modules and sheet sizes into pure surfaces which drives her crazy. Kai spent all day trying to develop a new [glass] prototype that didn’t look fake. Through the mod she can grow perfect homeostatic vasculature adaptable conditioning (HVAC) systems for the building but the contemporary architectural preoccupation of style over content masks the beauty of the morphogenetic processes which sculpt the internal systems. People don’t talk about the architectural singularity so much these days but Kai can feel its cold reality fused in her brain; it creates buildings that have more in common with their past than her future. In an age where we can do anything, to be restricted to allusions of archaic construction and maintenance techniques, is such an inefficient way to build. She can’t wait for the buildings to realise.
 
-This prototype was published in the this [paper](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
+This prototype was originally published in the this [paper](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
 and open access in this [blog](https://morphotype.wordpress.com/2014/12/16/the-implications-of-the-morphogenetic-architectural-singularity-for-the-design-team/)
 
 
