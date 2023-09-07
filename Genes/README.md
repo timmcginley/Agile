@@ -1,6 +1,15 @@
 # Building Design Genes
 
-* The design of buildings finds it difficult to reach automation etc. becuase projects are always taken as unique. There are good reasons for this. 
+## Architectural Gentype
+‘The [architectural] types that are physically created support and promote the values, social relationships,and patterns of activities that are dominant in that society at that time’ (Franck, 1994, p. 345). Hence it is only when the dominant values of a society change that the types of buildings can change. It therefore matters where the genotype is stored. Is it cultural, inside the user, the environment, the designer or encapsulated in our common understanding of the architectural typology as a conveyer of cultural values? Hillier (2007) presents the idea of architectural genotypes as an underlying spatial logic of architecture. Inthis sense the phenotype is the material architecture. In biology the phenotype is the result of thegenotype and epigenetic and non-inherited environmental factors. The biological phenotype’sevolutionary response is imprinted in the organism’s DNA genotype. In addition, the organism’s‘phenotypic plasticity’ - or ability to adapt to its environment during its development – would need to beaccommodated in a genotypical description of architectural typologies. From an architectural perspective,Gero and Kazakov (1998) presented the idea of ‘design genes’ which they proposed could be used toinform spatial organisation. Architectural genotypes could provide a wholly new way of looking atarchitecture. 
+
+(8) (PDF) Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture. Available from: https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture [accessed Sep 07 2023].
+
+The phenotype and genotype have been previously discussed in architecture through the lens of genetic algorithms (Maher and Poon, 1994) (Damsky and Gero, 1997). [Morphogenetic Prototyping] revisits these terms in their source discipline. In biology a phenotype describes an organism’s observable traits that can bemeasured. These observable traits are the result of genotypic expression. In this way the traits that wecan observe in an animal or plant can be thought of as the result of the expression of genes. Beforebiologists could sequence (read) an organism’s genotype directly they had to infer the expression of genesby making comparisons of similar phenotypes. Developmental biology knowledge has itself grown frombeing able to make phenotypic observations through comparative biology combined with anunderstanding of the role of genes in the development of the organism. In comparison to architecture,the challenge is that we are still in the process of identifying and comparing (pheno)types and have notyet progressed to a genotypic analysis. Traditionally in biology the relationship between these conceptsis expressed as:genotype + environment → phenotypeTherefore, if we know the phenotype (presuming that we take this to be an architectural typology)and we imagine that we could encode the influence of the environment, the bit left over must be thegenotype. So the equation above could be rearranged as:Architectural (pheno)type – environment → (Architectural) genotype 
+
+(8) (PDF) Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture. Available from: https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture [accessed Sep 07 2023].
+
+* The design of buildings finds it difficult to reach automation etc. because projects are always taken as unique. There are good reasons for this. 
 
 * But as Architectural Engineers iwe need to find a more scientific way to understand, model, design and analyse buildings, whilst not reducing their architectural 'uniqueness'.
 
@@ -8,7 +17,7 @@ The diverse disciplines of the building industry make it difficult to have a sin
 
 Architectural and building science represents a dvierse collection of perspectives, that lack a common core perspective.
 
-To address this, morphogenetic prototyping uses the lens of biology to support structured analysis of design. It is less about bio mimicry and more about imagining how a biologist how had never experienced artificial design would explain it.
+To address this, [Morphogenetic Prototyping] uses the lens of biology to support structured analysis of design. It is less about bio mimicry and more about imagining how a biologist how had never experienced artificial design would explain it.
 
 This raises a number of questions, not least of which is:
 1. using the lens of biology could we identify the genetic code of buildings?
@@ -121,7 +130,11 @@ The Gene set is the functional / space requirements. These will include genes fo
 
 <img width="100%" alt="Screenshot 2023-08-20 at 19 51 33" src="https://github.com/timmcginley/Agile-Prototyping/assets/1415855/1de35740-1864-4c8b-bbb2-663fdf08baa6">
 
-
+## References
+Franck, K.A. (1994) Types are Us. In K. Franck and L. Schneekloth (Eds.), Ordering Space: Types in Architecture andDesign (pp. 345–372). New York: Van Nostrand Reinhold. 
+Hillier, B. (2007) Space is the machine - a configurational theory of architecture. Space Syntax - UCL.
 
 <!-- links -->
 [McGinley et. al, 2016]: researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture
+[morphogenetic prototyping]: /Agile/Concepts/MorphogeneticPrototyping
+[Morphogenetic Prototyping]: /Agile/Concepts/MorphogeneticPrototyping
