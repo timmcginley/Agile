@@ -20,6 +20,9 @@ And then the prototype can be read below
 >
 >That’s the bit she enjoys most . . . It distracts her from the current fashion to render antiquated modules and sheet sizes into pure surfaces which drives her crazy. Kai spent all day trying to develop a new [glass] prototype that didn’t look fake. Through the mod she can grow perfect homeostatic vasculature adaptable conditioning (HVAC) systems for the building but the contemporary architectural preoccupation of style over content masks the beauty of the morphogenetic processes which sculpt the internal systems. People don’t talk about the architectural singularity so much these days but Kai can feel its cold reality fused in her brain; it creates buildings that have more in common with their past than her future. In an age where we can do anything, to be restricted to allusions of archaic construction and maintenance techniques, is such an inefficient way to build. She can’t wait for the buildings to realise.
 
+This prototype was published in the this [paper](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
+and open access in this [blog](https://morphotype.wordpress.com/2014/12/16/the-implications-of-the-morphogenetic-architectural-singularity-for-the-design-team/)
+
 
 [designGenes]: /Agile/Genes
 [cold of the outside]: /Agile/Genes/External
