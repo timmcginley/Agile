@@ -12,7 +12,7 @@ On the one hand we could choose a traditional approach such as Requirments Engin
 ## Requirements Engineering (RE)
 [wikipedia link]: https://en.wikipedia.org/wiki/Requirements_engineering
 
-Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requiremetns as the focus of a design process. Some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our [Agile Prototyping] approach. 
+Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requirements as the focus of a design process. Although some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, parts of it maybe useful in our [Agile Prototyping] approach. 
 
 ### Strengths
 * On the positive side it does encourage stakeholders and developers to meet,
