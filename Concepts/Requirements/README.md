@@ -21,18 +21,20 @@ On the one hand we could choose a traditional approach such as Requirments Engin
 * RE focuses on capturing static requirments fails to challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it), that worked in a classical sense but is not as effective in the complex multi faceted work of 21st century deisgn and engineering.
 * It does not support changes in the requirements (as much as agile does). this also means that it is more difficult for the design team to absorb each others changes and advice, reducing design integration.
 
- although unlike in Agile methodologies where frequent meetings are required, in Requirements Engineering the idea is to try and capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage. It is then not normally deemed necessary to question the requirements. 
+## Agile Requirements?
+Unlike in Agile methodologies where frequent meetings are required, RE tries to capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage. It is then not normally deemed necessary to question the requirements. 
 
-This is similar in some ways to traditional buildign design, wherein the requirements of the client and stakeholders are captured in the initial stages of the design process and then synthesised into a design model whose engineering is then tested.
+This is similar in some ways to traditional building design, wherein the requirements of the client and stakeholders are captured in the initial stages of the design process and then synthesised into a design model whose engineering is then tested.
 
 Unlike in a true [Agile] Process which appropriated elements of participatory design, the traditional building requirements disconnect the client, user, design team and stakeholders in the design process, until they have a result they would like approved by the client.
 
+An alternative approach is further complicated by the context of 'designing in the future'. 
 
-
-However our 'requirements engineering' approach is further complicated byt the context of 'designing in the future'. 
+This is what we will look at in [Assigngment 2]
 
 
 [Agile Prototypes]: /Agile/Concepts/MorphogeneticPrototyping
 [A1]: /Agile/Assignments/A1
 [Agile]: /Agile/Concepts/Agile
 [UML]: https://en.wikipedia.org/wiki/Unified_Modeling_Language
+[Assigngment 2]: /Agile/Assignments/A2
