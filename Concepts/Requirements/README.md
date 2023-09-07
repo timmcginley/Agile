@@ -8,9 +8,19 @@ That is why in [A1] we asked you to define your near, mid and far futures.
 ## Requirements Engineering
 [wikipedia link]: https://en.wikipedia.org/wiki/Requirements_engineering
 
-Requirements Engineering is an approach to suppport the modelling of requirements to help drive the design. However some Agile purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our Agile Prototyping approach. On the positive side it does encourage stakeholders and developers to meet, although un liked Agile where frequent meetings are required. In Requirements Engineering the idea is to try and capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage.
+Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requiremetns as the focus of a design process. Some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our [Agile Prototyping] approach. 
 
-This is similar in some ways to buildign design, wherein the requirements of the client and stakeholders are captured in the initial stages of the design process and then synthesised into a design model whose engineering is then tested.
+## Strengths
+* On the positive side it does encourage stakeholders and developers to meet,
+* a focus on the requirements can indeed lead to better requirements - supporting higher quality design
+
+## Challenges 
+* The focus on capturing static requirments does not challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it)
+* It does not support changes in the requirements (as much as agile does).
+
+ although unlike in Agile methodologies where frequent meetings are required, in Requirements Engineering the idea is to try and capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage. It is then not normally deemed necessary to question the requirements. 
+
+This is similar in some ways to traditional buildign design, wherein the requirements of the client and stakeholders are captured in the initial stages of the design process and then synthesised into a design model whose engineering is then tested.
 
 Unlike in a true [Agile] Process which appropriated elements of participatory design, the traditional building requirements disconnect the client, user, design team and stakeholders in the design process, until they have a result they would like approved by the client.
 
@@ -19,6 +29,6 @@ Unlike in a true [Agile] Process which appropriated elements of participatory de
 However our 'requirements engineering' approach is further complicated byt the context of 'designing in the future'. 
 
 
-[Agile Prototypes]: /Agile/Concepts/Agile
+[Agile Prototypes]: /Agile/Concepts/MorphogeneticPrototyping
 [A1]: /Agile/Assignments/A1
 [Agile]: /Agile/Concepts/Agile
