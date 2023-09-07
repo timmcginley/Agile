@@ -13,6 +13,7 @@ Requirements Engineering frames the elicitation, analysis, modelling, specificat
 ### Strengths
 * On the positive side it does encourage stakeholders and developers to meet,
 * a focus on the requirements can indeed lead to better requirements - supporting higher quality design
+* Explicitly modelling requirments in UML would support automated checking and increase the quality of automated feedback and guidance in the deisgn process (before it is too late to make changes).
 
 ### Challenges 
 * REs focus on capturing static requirments fails to challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it), that worked in a classical sense but is not as effective in the complex multi faceted work of 21st century deisgn and engineering.
