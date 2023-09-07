@@ -1,5 +1,5 @@
 # Building Requirements
-Building Design and Engineering is not possible without requirements. We know requirements are important but do we think about how we get them?
+>Building Design and Engineering is not possible without requirements for the building. We know requirements are important, but how should we capture, store, check anc maintain them?
 
 To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future' the requirements like the future, are unknowable.
 <!--- 2023 SPECIFIC - PLEASE CHAECK IN FUTURE ITERATIONS!!! -->
