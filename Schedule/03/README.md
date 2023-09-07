@@ -5,9 +5,9 @@
 ## Lecture 
 *8:00 - 8:30*
 
-1. Meta Disciplinary framework
-2. Feedback on [A1]
-3. Introduction to [A2]
+1. Feedback on [A1]
+1. Introduction to [A2]
+2. Meta Disciplinary framework
 
 ## Exercise
 *8:30 - 9:30*
