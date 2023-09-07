@@ -7,7 +7,7 @@ That is why in [A1] we have asked you to define your near, mid and far futures.S
 
 This however runs the danger of reinforcing a fixed requirements mindset missing the opportunity to use the requirements as a living document that learns from the design interation result what the client 'really wants'. What methodlogy supports us to get from a sea of 'unknown unknowns' in the early stages of the design to 'what the client really wants?'
 
-So the methodology we choose for our requiremetns in this course is important. ON the one hand we could choose a traditional approach susch as Requirments Engineering whihc is outlined below, but that would not help you once the 'training wheels' of this course are released and you need to manage building design requirements in real projects with uncertain futures.
+So the methodology we choose for our requirements in this course is important. On the one hand we could choose a traditional approach susch as Requirments Engineering whihc is outlined below, but that would not help you once the 'training wheels' of this course are released and you need to manage building design requirements in real projects with uncertain futures.
 
 Agile methodologies that inform the methodology for the course are not naturally strong on requirements engineering, therfore lets start by looking the strong requirments methodology of requirements engineering.
 
