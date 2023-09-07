@@ -3,7 +3,7 @@
 
 To test the [Agile Prototypes] we develop in this course it is important that we have clearly defined requirements. This can be challenging as we are 'designing in the future'. Therfore the requirements for your project, like the futures you are designing them in, are unknowable. 
 <!--- 2023 SPECIFIC - PLEASE CHAECK IN FUTURE ITERATIONS!!! -->
-That is why in [A1] we asked you to define your near, mid and far futures.
+That is why in [A1] we have asked you to define your near, mid and far futures.
 
 So to support this process in this course we haev asked you to describe and 'fix' your three futures to give you a chance to deisgn to those futures. This however runs the dahnger of reinforcing an older mindest of fixed requirements rather than using the requiremtns as a livign document that learns fom the results of the deisgn iterations to get closer to what the client 'really wants' from a sea of 'unknown unknowns' in the early stages of the design.
 
