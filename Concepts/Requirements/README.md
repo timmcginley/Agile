@@ -8,7 +8,13 @@ That is why in [A1] we asked you to define your near, mid and far futures.
 ## Requirements Engineering
 [wikipedia link]: https://en.wikipedia.org/wiki/Requirements_engineering
 
-Requirements Engineering is an approach to suppport the modelling of requirements to help drive the design. However some Agile purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our Agile Prototyping approach.
+Requirements Engineering is an approach to suppport the modelling of requirements to help drive the design. However some Agile purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our Agile Prototyping approach. On the positive side it does encourage stakeholders and developers to meet, although un liked Agile where frequent meetings are required. In Requirements Engineering the idea is to try and capture 'high quality' requirements following the acceptance of the draft requirements at the requriements validation stage.
+
+This is similar in some ways to buildign design, wherein the requirements of the client and stakeholders are captured in the initial stages of the design process and then synthesised into a design model whose engineering is then tested.
+
+Unlike in a true [Agile] Process which appropriated elements of participatory design, the traditional building requirements disconnect the client, user, design team and stakeholders in the design process, until they have a result they would like approved by the client.
+
+
 
 However our 'requirements engineering' approach is further complicated byt the context of 'designing in the future'. 
 
