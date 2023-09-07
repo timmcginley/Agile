@@ -1,5 +1,5 @@
 # Parametric Paradox
-The paradox can be beest defined as
+The paradox can be best defined as
 
 >the function of parametrics is to support change; but parametric models are difficult to change.
 
