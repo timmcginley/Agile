@@ -10,11 +10,11 @@ That is why in [A1] we asked you to define your near, mid and far futures.
 
 Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requiremetns as the focus of a design process. Some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, it is useful in our [Agile Prototyping] approach. 
 
-## Strengths
+### Strengths
 * On the positive side it does encourage stakeholders and developers to meet,
 * a focus on the requirements can indeed lead to better requirements - supporting higher quality design
 
-## Challenges 
+### Challenges 
 * The focus on capturing static requirments does not challenge the classical engineering mindset (tell me the problem and then shut up and let me fix it)
 * It does not support changes in the requirements (as much as agile does).
 
