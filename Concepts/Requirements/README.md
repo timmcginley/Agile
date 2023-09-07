@@ -10,9 +10,7 @@ This however runs the danger of reinforcing a fixed requirements mindset missing
 On the one hand we could choose a traditional approach such as Requirments Engineering which is outlined below, but that would not help you once the 'training wheels' of this course are released and you need to manage building design requirements in real projects with uncertain futures. Agile methodologies that inform the methodology for this course are not naturally strong on requirements engineering, therfore lets start by looking the strong requirments methodology of requirements engineering.
 
 ## Requirements Engineering (RE)
-[Requirements Engineering Wikipedia link](https://en.wikipedia.org/wiki/Requirements_engineering)
-
-Requirements Engineering frames the elicitation, analysis, modelling, specification, validation and management of design requirements as the focus of a design process. Although some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, parts of it maybe useful in our [Agile Prototyping] approach. 
+[Requirements Engineering](https://en.wikipedia.org/wiki/Requirements_engineering) frames the elicitation, analysis, modelling, specification, validation and management of design requirements as the focus of a design process. Although some [Agile] purists may regard this as 'out of step' to the [Agile] priniciples, parts of it maybe useful in our [Agile Prototyping] approach. 
 
 ### Strengths
 * It does encourage stakeholders and developers to meet even if only in the pre design stages.
