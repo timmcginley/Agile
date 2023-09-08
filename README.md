@@ -18,26 +18,12 @@ The Agile Prototyping methodology synthesises:
 - [biomimetics](Concepts/Biomimetics) / [Morphogenetic Prototyping](Concepts/MorphogeneticPrototyping)
 - [future forecasting](Concepts/Futures)
 
-The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to extract and modify the ‘genes’ of the built environment. This enable future architectural engineers to hack the pseudo genetic code of our built environment for the fast (re)design and analysis of our built environment.
+The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to extract and modify the ‘genes’ of the built environment. This enable future architectural engineers to hack the pseudo genetic code of our built environment for the fast (re)design and analysis of our built environment. This year we have four exciting [projects] that you can contribute to this semester.
 
-
-## A4 Change
-- **RECASTING** / CHANGE:  Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory.
-- This happens by applying the biological concept of evolutionary development to the
-‘Overarching concept for this assignment is the future concept of recasting with the purpose of evoking imagination and in our case imagining the future trajectory of building system features based on their current ‘genes’ identified in assignment 2 and future needs.
-- This follows the evaluate and communicate steps of the DSRM.
-
-## Project Options
-This year we have three exciting options for different projects that you can contribute to this semester.
-
-## Project examples
-The table below describes how these projects in combination with your chosen focus area(s) are combined in the course to generate interesting questions to get your teeth into over a series of four agile sprints. More information about this method is provided after the table.
-
-## Agile Prototyping Methodology
-More detail about the future Engineering methodology used in the course to support you to develop solutions to one of the projects from the perspective of your focus area is provided below. Here you can also see how this is lined up to the course weeks. N.B. it is a moebius strip not a circle. Remember, to forecast the future, we first have to learn the past
 
 <!-- link -->
 [meta disciplinary systems]: Agile/Concepts/MetaDisciplinary
 [unknowable]: Agile/Concepts/Futures
 [future]: Agile/Concepts/Futures
 [methodology]: Agile/Methodology
+[projects]: /Agile/Projects
