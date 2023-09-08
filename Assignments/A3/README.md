@@ -2,6 +2,13 @@
 ![METHOD_03](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ed16a76b-d6c3-4697-9a1e-f1fdd5cb361d)
 
 
+## A3 Analysis
+7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
+8. BIO REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
+- PASTCASTING: Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
+9. This applies the concepts of biological development to inform the development of our agile biodigtal prototype.
+- This follows the design and development and demonstration stages of DSRM.
+
 ### Learning Objectives
 3. [Reverse engineer](/Agile/Concepts/ReverseEngineer) the pseudo biological developmental stages of the system based on the identified features to transform the building system or product into an ‘Agile Prototype' (AP).
 5. Model and traverse a phylogenetic tree of the features of AP to identify new solutions.
