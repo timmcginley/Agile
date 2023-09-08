@@ -1,6 +1,6 @@
 # Singularity
 
->Important note: when we ask ChatGPT about the date fo the singularity, it does not like to say, but rather that the singularity concept in contencious and that AI will probably not be apocolyptic....
+>Important note: when we ask ChatGPT about the date of the singularity, it did not like to say, but rather it thought that the singularity concept was contentious and that AI will probably not be apocolyptic....
 
 The Singularity is a concept proposed by Ray Kurzweil who claimed that by 2045, we can increase our computers will be more intelligent than humans. 
 ## Architectural Singularity
