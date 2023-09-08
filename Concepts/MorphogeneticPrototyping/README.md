@@ -4,9 +4,7 @@
 <https://www.researchgate.net/publication/308466538_Carving_Morphogenetic_Prototypes_with_a_Katana>
 
 ## Morphogenetic Protoyping Lab
-In 2016 I co-founded the Morphogenetic Protootyping Lab with colleagues at UNISA in Australia.
-<https://www.youtube.com/watch?v=Jn2irE3RV3EZ>
-Whilst in Denamrk I have been working on how these ideas fit into contemporary design and engineering systems.
+In 2016 I co-founded the [Morphogenetic Protootyping Lab](https://www.youtube.com/watch?v=Jn2irE3RV3EZ) with colleagues at UNISA in Australia. Whilst in Denamrk I have been working on how these ideas fit into contemporary design and engineering systems.
 This Agile Prototyping Course is the result of these experiments.
 
 ## Morphogenesis
