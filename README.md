@@ -24,11 +24,6 @@ The course provides participants with a future focused design, analysis and mode
 ## Assignment
 There are four assignments.
 
-## A1 Futures
-1. **FORECASTING** / FUTURES : Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping.
-2. META DISCIPLINARY SYSTEMS: Define a specific building system, that you will develop an agile prototype of in the course.
-3. TARGET: Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
-
 ## A3 Analysis
 7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
 8. BIO REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
