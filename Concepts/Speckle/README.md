@@ -1,7 +1,9 @@
 # Speckle
 
-Speckle has been one of the core technologies of Agile Prototyping since the first iteration at DTU in 2018. Using Speckle 1.0 we used the streams as a container of an anlaytical service to template the deisgn system.
+## Speckle 1.0
+Speckle has been one of the core technologies of Agile Prototyping since the first iteration at DTU in 2018. Using Speckle 1.0 we used the streams as a container of an anlaytical service to template the design system.
 
+## Speckle 2.0
 The updates in Speckle 2.0 changed the way it worked (for the better) and we are exctied to see how you use this new approach in your work in this semester.
 
 Specific questions for Agile Prototyping with Speckle include:
