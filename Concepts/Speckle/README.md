@@ -7,7 +7,7 @@ The updates in Speckle 2.0 changed the way it worked (for the better) and we are
 Specific questions for Agile Prototyping with Speckle include:
 
 * What is a gene system? is it a stream, branch or something else?
-* How can we sue GraphQL to reframe model data
+* How can we use GraphQL to reframe model data?
 * Can we use GraphQL to generate new options?
 * How can we recompose the systems / streams in an AP Project? should we use [Node-RED](https://nodered.org/)?
 
