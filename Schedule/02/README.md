@@ -8,9 +8,6 @@
 * Course Schedule
 * Three Horizons [Future] Framework
 * [Parametric Paradox]
-* 
-
-
 
 ### Exercise
 identify a system that will be different from today, based on your prototyped future. What specific problems and challenges will it face?
