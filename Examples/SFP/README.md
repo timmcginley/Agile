@@ -2,7 +2,7 @@
 
 Science Fiction Prototyping is a creative, and future focused approach that can you to explore the future design expereince of architectural engineering. You can use it envision near, mid or far future scenarios and technologies suing science fiction narrative techniques. For example, a science fiction prototyping exercise could involve designing a sustainable, self-sustaining lunar colony that relies on advanced material, energy and construction systems that are not available or nascent today. 
 
-Such an exercise helps you to imagine new construction techniques, such as 3D printing with lunar regolith or harnessing solar power in a unique way, ultimately influencing real-world lunar or on earth architectural engineering.
+Such an exercise could help you imagine new materials, construction techniques, or [design experiences] such as 3D printing with lunar regolith or harnessing solar power in a unique way, ultimately influencing real-world lunar or on earth architectural engineering.
 
 I wrote my first science fiction prototype for my first [master's thesis] in 2003. Therefore, this science fiction prototype is now 20 years old, but it still feels futuristic to me. It attempats to describe a future universal design engine. The engine is inspired by morphogenesis. Specifically it explores the idea that Alan Turing the father of the modern computer, before his death had started researching morphogenesis. If he had continued this work, considering the implication of his contriutions to computing, what might he have conceived for the fusion of computation, design and morphogenesis?
 
@@ -44,3 +44,4 @@ and open access in this [blog](https://morphotype.wordpress.com/2014/12/16/the-i
 [draws fast]: /Agile/Concepts/MorphogeneticPrototyping
 [master's thesis]: https://www.researchgate.net/publication/289523200_MORPHOGENESIS_Extracting_Morphogens_for_a_Universal_Design_Engine
 [2015]: https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings
+[design experiences]: /Agile/Concepts/DesignExperience
