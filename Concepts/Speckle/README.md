@@ -10,3 +10,6 @@ Specific questions for Agile Prototyping with Speckle include:
 * How can we sue GraphQL to reframe model data
 * Can we use GraphQL to generate new options?
 * How can we recompose the systems / streams in an AP Project? should we use [Node-RED](https://nodered.org/)?
+
+## GraphQL
+You can read more abotu GraphQL [here](https://speckle.guide/dev/server-graphql-api.html).
