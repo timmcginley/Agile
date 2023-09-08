@@ -4,6 +4,8 @@ Here are some futures that can act as inspiration for the course. Each has a use
 
 [Future paper](https://www.sciencedirect.com/science/article/abs/pii/S0016328723001246?via%3Dihub)
 
+Check out the [Future AEC Software Specification](https://future-aec-software-specification.com/data-framework/)
+
 ## Future Seeds
 * Embrace 'everything as a service'
 * Increased corporatisation of universities
