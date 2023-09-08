@@ -1,9 +1,6 @@
 # Agile Prototyping
 
-ok
-
 **The future is [unknowable]. So how can we design buildings for the future? Agile Prototyping is a [methodology] for designing building systems in the future.**
-
 
 >Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
 
@@ -31,11 +28,6 @@ There are four assignments.
 1. **FORECASTING** / FUTURES : Define 3 future scenarios near, medium and far using the 3 Horizons Framework and Science Fiction Prototyping.
 2. META DISCIPLINARY SYSTEMS: Define a specific building system, that you will develop an agile prototype of in the course.
 3. TARGET: Overarching concept for this assignment is the future concept of Forecasting with the purpose of guiding innovation by creating a target that you can use to test your agile prototypes later in the course.
-
-## A2 Needs
-4. **BACKCASTING** / NEEDS: Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions.
-5. REQUIREMENTS ENGINEERING: Traditional requirements engineering concepts are extended here so that they can used in meta disciplinary analysis of a selected building system.
-6. DESIGN SCIENCE RESEARCH METHODOLOGY (DSRM): This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
 
 ## A3 Analysis
 7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
