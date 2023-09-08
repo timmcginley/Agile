@@ -21,16 +21,6 @@ The Agile Prototyping methodology synthesises:
 The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to extract and modify the ‘genes’ of the built environment. This enable future architectural engineers to hack the pseudo genetic code of our built environment for the fast (re)design and analysis of our built environment.
 
 
-## Assignment
-There are four assignments.
-
-## A3 Analysis
-7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
-8. BIO REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
-- PASTCASTING: Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
-9. This applies the concepts of biological development to inform the development of our agile biodigtal prototype.
-- This follows the design and development and demonstration stages of DSRM.
-
 ## A4 Change
 - **RECASTING** / CHANGE:  Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory.
 - This happens by applying the biological concept of evolutionary development to the
