@@ -26,7 +26,7 @@ We do this in [Assignment 2]. This part identifies the requirements of the futur
 2. identify the challenges of this future for a specific building system or product.
 
 ## 3. Analyse *Pastcast*
-We do this in [Assignment 3]. This part 'reverse engineers' the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
+We do this in [Assignment 3]. This part ['reverse engineers'] the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
 
 ## 4. Change *Recast*
 We do this in [Assignment 4]. Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
@@ -42,3 +42,4 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [Assignment 4]: /Agile/Assignments/A4
 [Assignment 5]: /Agile/Assignments/A5
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
+['reverse engineers']: /Agile/Concepts/ReverseEngineer
