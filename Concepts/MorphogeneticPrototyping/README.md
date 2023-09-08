@@ -1,4 +1,7 @@
 # Morphogenetic Prototyping
+>Morphogenetic prototyping supports the mapping of transdisciplinary models of biological system development to real world challenges in design and engineering disciplines. The ontogenetical focus of this research moves beyond the traditional mechanistic interest of biomimetics in design and engineering.
+>
+<https://www.researchgate.net/publication/283889718_Morphogenetic_Prototyping_Towards_5D_Transdisciplinary_Ontogenetical_Models>
 
 
 ## Morphogenesis
@@ -32,3 +35,18 @@ Links to the neural Crest Cells
 
 
 ### Use?
+
+## Glossary of terms
+
+* Body Plan: An anatomical pattern.
+* Building Development Stage: A morphogenetic architecture development stageanalogous to Bownes development stages.
+* Dorsal and Ventral: The back and front of an organism respectively.
+* Fate Map: A diagram that expresses the embryonic origin of tissues and their path to theirposition in the body plan.
+* HOX genes: A set of genes responsible for regulation of anatomical development
+* In-vivo: Commonly tissue that is developed on or in an existing organism.
+* Model Organism: Extensively studied organism, i.e. Drosophila melanogaster
+* Morphogens: A substance governing patterning in tissue development.
+* Morphogenetic Architecture: A holistic approach to architecture that informs the development of all the buildings spatial, material, informational, structural, experiential,service and intelligence systems.
+* Neural Crest: A group of cells that develop the neural tube of the organism. 
+
+(13) (PDF) A Morphogenetic Architecture for Intelligent Buildings. Available from: https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings [accessed Sep 08 2023].
