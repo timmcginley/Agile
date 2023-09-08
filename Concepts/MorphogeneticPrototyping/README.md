@@ -1,8 +1,7 @@
 # Morphogenetic Prototyping
->Morphogenetic prototyping supports the mapping of transdisciplinary models of biological system development to real world challenges in design and engineering disciplines. The ontogenetical focus of this research moves beyond the traditional mechanistic interest of biomimetics in design and engineering.
+>Morphogenetic prototyping provides a method for designers to manipulate a design over a series of pseudo 'developmental' stages as if it had grown biologically. Designers can then manipulate the development by carving the design. Carving alludes a surfer defining a path in the water with their board. It requires an alternative design metaphor to the antiquated drawing board metaphor used in traditional digital design systems. 
 >
-<https://www.researchgate.net/publication/283889718_Morphogenetic_Prototyping_Towards_5D_Transdisciplinary_Ontogenetical_Models>
-
+<https://www.researchgate.net/publication/308466538_Carving_Morphogenetic_Prototypes_with_a_Katana>
 
 ## Morphogenesis
 
