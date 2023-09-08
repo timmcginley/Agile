@@ -1,6 +1,6 @@
 # Future Design Experience
 
-We normally talk about the user experience, which as designers and engineers wokrin in the built environment is very important.
+We normally talk about the user experience, which as designers and engineers working in the built environment is very important.
 
 User experience typically also refers to our own experience of using design tools, however it is necessary to make a distinction between passive tool use, and creative design experience.
 
