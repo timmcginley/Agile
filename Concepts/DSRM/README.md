@@ -17,3 +17,6 @@ The DSRM process model [(Peffers et. al. 2007)]
 ### Evaluation
 
 ### Communication
+
+
+[(Peffers et. al. 2007)]: /https://www-tandfonline-com.proxy.findit.cvt.dk/doi/abs/10.2753/MIS0742-1222240302
