@@ -4,6 +4,8 @@ Computational Design also sometimes called Parametric Design, is an essential in
 
 To support this, 6 computational design exercises are provided here.
 
+This will involve some visual programming most probably in [Grasshopper] and utilising the analysis tools in [BOHM] and then linking it all together in [Speckle].
+
 ## Computational Design 1
 * also biomimicry and MP
 * reverse engineer 1
@@ -21,3 +23,6 @@ To support this, 6 computational design exercises are provided here.
 ## Computational Design 5
 * week 9 Evolution
 
+[Grasshopper]: /Agile/Concepts/Grasshopper
+[BOHM]: /Agile/Concepts/BOHM
+[Speckle]: /Agile/Concepts/Speckle
