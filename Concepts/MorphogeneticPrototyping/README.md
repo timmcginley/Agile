@@ -52,5 +52,5 @@ This course identifies the genes of building design and categorises them in one 
 * McGinley, T., Hoshi, K., Haddy, S., Zavoleas, Y., Tan, L., Blaiklock, D., Gruber, P. (2018) *A Katana Design Experience*. In book: SimTect/ISAGA. Lecture Notes in Computer Science. Publisher: Springer
 
 ## Thesis
-Tim McGinley (2003) [**MORPHOGENESIS: Extracting Morphogens for a Universal Design Engine**](https://www.researchgate.net/publication/289523200_MORPHOGENESIS_Extracting_Morphogens_for_a_Universal_Design_Engine)
-Simon Muff Laporte (2022) [**Using biologically inspired multi-agent models to solve engineering problems in construction**](https://findit.dtu.dk/en/catalog/621f5ea386059754d89e89ad)
+* Tim McGinley (2003) [**MORPHOGENESIS: Extracting Morphogens for a Universal Design Engine**](https://www.researchgate.net/publication/289523200_MORPHOGENESIS_Extracting_Morphogens_for_a_Universal_Design_Engine)
+* Simon Muff Laporte (2022) [**Using biologically inspired multi-agent models to solve engineering problems in construction**](https://findit.dtu.dk/en/catalog/621f5ea386059754d89e89ad)
