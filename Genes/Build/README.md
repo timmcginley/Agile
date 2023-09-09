@@ -1,6 +1,7 @@
 # Build
 
 ## Thesis
+* Theodor Valentin Gerard (2023) [**Including architectural engineering input in architectural design through photorealistic visualization**](https://findit.dtu.dk/en/catalog/649ccbe34b688d017cda3ca1)
 * Aline Caroline E Verwilghen (2023) [**Exploration of Architectural Building Design for multi-axial 3D Printing**](https://findit.dtu.dk/en/catalog/64c6fc27c51ad51f4f141715)
 * Jacob Pedersen (2021) [**The Framework for Optimised Construction Progress Tracking**](https://findit.dtu.dk/en/catalog/604f4eb8d9001d0165750e3b)
 * Christian Carlos Mamede Hansen (2021) [**Automation in Construction; A Business Process Management Perspective**](https://findit.dtu.dk/en/catalog/60421fb4d9001d016e358134)
