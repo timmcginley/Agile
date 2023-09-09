@@ -93,9 +93,6 @@ Considering the near mid and far future, will help to frame the design of your b
 * Safety and Contingencies: Include redundancy in critical systems to ensure reliability.
 * Develop emergency response plans for unforeseen situations.
 
-
-
-
 Documentation and Presentation:
 Create detailed design documentation including drawings, schematics, and plans.
 Prepare presentations to communicate the design to stakeholders and decision-makers.
@@ -103,3 +100,6 @@ Prepare presentations to communicate the design to stakeholders and decision-mak
 Collaborate with DTU Space? other engineers and architects?
 
 [or 4 light years]: https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/#:~:text=At%20only%20four%20light%2Dyears,orbits%20a%20M%2Dtype%20star.
+
+## Thesis
+Mustafa Mahdi Ali (2021) [**An architecture framework for the design of future spaceports**](https://findit.dtu.dk/en/catalog/617a8516d9001d01645dddcb)
