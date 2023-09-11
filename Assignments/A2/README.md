@@ -25,9 +25,8 @@ for each of your selected gene systems:
 * 1-2 pages that describes one of your Futures including the feature(s) you have described for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
 
-
 ### Learning Objectives
 3. Identify the ‘phenotypic’ features of a building system or product.
-
+4. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 
 [science fiction prototype]: /Agile/Concepts/ScienceFictionPrototype
