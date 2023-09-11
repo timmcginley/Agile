@@ -13,27 +13,32 @@ questions:
 * what is novel?
 * how can we test it?
 
-## Defines the future gap(s)
+## AFDP_01 
+* Defines the future gap(s), these are the things that do not exist today in the building industry that we need to meet or avoid your speculative future(s).
 * what do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
 * this will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
   
-## Defines the System Requirements 
+## AFDP_02 Defines the System Requirements 
 for each of your selected [gene systems]:
 * define the environmental impacts.
 * remember gene = environment + phenotypic.
 * How do these requirements change over your stated futures?
 * Identify the
   
-## Proposes System Features
-* speculate features your prototype gene system could to address the requirements. when would these features be needed.
+## AFDP_03 Proposes System Features
+* Speculate features your prototype gene system could to address the requirements. when would these features be needed.
 * provide a timeline for the development of each of the features and include this in your AFDP.
 * This can include both product and design system features.
 
-## Define a Science Fiction Prototype for the features
+## AFDP_04 Define System Examples
+* Identify specific products or systems that exist today that could be adapted to address the identified gaps and develop teh rewquiremetns to meet the required features.
+* This could be more than one product or system that you imagine will synthesis into a hyrbid solution in your future(s).
+
+## AFDP_ 05 Define a Science Fiction Prototype for the features
 * A future case is a 'use case' set in a speculative future.
 * We can use techniques sucha as [science fiction prototype] to describe one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * Provides either a hard or soft science fiction prototype, that defines the vision for the future case(s).
-Produce a 1-2 page  that des
+* Produce a 1 page narrative that des
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
 
 ### Learning Objectives
