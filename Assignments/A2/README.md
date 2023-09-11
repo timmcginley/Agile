@@ -14,9 +14,9 @@ this involves a number of stages.
 * what do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
 * this will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
 ## 2.2 System requirements. 
-* for each of your selected gene systems:
-  - define the environmental impacts.
-  - remember gene = environment + phenotypic.
+for each of your selected gene systems:
+* define the environmental impacts.
+* remember gene = environment + phenotypic.
 ## 2.3 system features
 * speculate features your prototype gene system could to address the requirements. when would these features be needed.
 ## 2.4 how would this happen? 
