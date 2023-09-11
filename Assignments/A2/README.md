@@ -19,9 +19,8 @@ for each of your selected gene systems:
 * remember gene = environment + phenotypic.
 ## 2.3 System features
 * speculate features your prototype gene system could to address the requirements. when would these features be needed.
-## 2.4 How would this happen? 
 * provide a timeline for the development of each of the features and includ this in your AFDP.
-## 2.5 Science Fiction Prototype
+## 2.4 Science Fiction Prototype
 * Produce a 1-2 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
 
