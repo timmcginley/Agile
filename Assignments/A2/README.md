@@ -21,9 +21,14 @@ for each of your selected gene systems:
 * Speculate features your prototype gene system could to address the requirements.
 * When would these features be needed.
 * Provide a timeline for the development of each of the features and includ this in your AFDP.
-## 2.4 Create a Science Fiction Prototype
-* Produce a 1-2 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
+## 2.4 Define System Examples
+* Identify specific products or systems that exist today that could be adapted to address the identified gaps and develop teh rewquiremetns to meet the required features.
+* This could be more than one product or system that you imagine will synthesis into a hyrbid solution in your future(s).
+## 2.5 Create a Science Fiction Prototype
+* Produce a 1 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
+* It should introduce a character that acts as the future user in your future case. Develop this persona so that it helps you to understand how you want your agile prototype to adpat to their future needs.
+* It should describe the products of your selected gene systems in the future.
 
 ## Submission details
 Simple report docuemnting the four stages in [Markdown] format.
