@@ -25,7 +25,7 @@ We do this in [Assignment 1]. This part identifies the near, medium and long ter
 We do this in [Assignment 2]. This part identifies the requirements of the future product / system in you defined future.
 
 * identify the challenges of this future for a specific building system or product.
-* This follows the **Agile Future Design Plan (AFDP).**
+* This follows the **[Agile Future Design Plan (AFDP)]**.
 
 ## 3. Analyse *Pastcast*
 We do this in [Assignment 3]. This part ['reverse engineers'] the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
@@ -45,3 +45,4 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [Assignment 5]: /Agile/Assignments/A5
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 ['reverse engineers']: /Agile/Concepts/ReverseEngineer
+[Agile Future Design Plan (AFDP)]: /Agile/Concepts/AFDP
