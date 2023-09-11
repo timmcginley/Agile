@@ -43,3 +43,4 @@ Simple report docuementing the five AFDP stages in [Markdown] format. If doing i
 [Agile Future Design Plan]: /Agile/Concepts/AFDP
 [futures]: /Agile/Futures
 [gene systems]: /Agile/Genes
+[A1]: /Agile/Assignments/A1
