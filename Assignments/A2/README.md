@@ -1,11 +1,11 @@
 # A2 Needs
 ![METHOD_02](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/23c41df7-b987-4d23-9c3a-8144a56c896b)
 
->Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting codesign of solutions.
+>Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting the codesign of solutions.
 
 In this part you will:
-* identify the requirements of the future product / system in your defined future(s).
-* Extend traditional requirements engineering concepts so that they can used in meta disciplinary analysis of a selected building system.
+* Identify the requirements and features of the future product / system in your defined future(s).
+* Extend traditional requirements engineering concepts to include [meta disciplinary analysis] of a selected building system.
 * This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
 
 this involves a number of stages.
@@ -29,3 +29,4 @@ for each of your selected gene systems:
 4. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 
 [science fiction prototype]: /Agile/Concepts/ScienceFictionPrototype
+[meta disciplinary analysis]: /Agile/Concepts/MetaDisciplinary
