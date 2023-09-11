@@ -10,7 +10,7 @@ In this part you will:
 
 this involves a number of stages.
 
-## 2.1 Define the gap
+## 2.1 Define the future gap(s)
 * what do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
 * this will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
 ## 2.2 Define System requirements. 
