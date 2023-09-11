@@ -25,9 +25,13 @@ for each of your selected gene systems:
 * Produce a 1-2 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
 
-### Learning Objectives
+## Submission details
+Simple report docuemnting the four stages in [Markdown] format.
+
+## Learning Objectives
 3. Identify the ‘phenotypic’ features of a building system or product.
 4. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 
 [science fiction prototype]: /Agile/Concepts/ScienceFictionPrototype
 [meta disciplinary analysis]: /Agile/Concepts/MetaDisciplinary
+[MarkDown]: /Agile/Concepts/MarkDown
