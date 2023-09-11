@@ -17,9 +17,9 @@ this involves a number of stages.
 for each of your selected gene systems:
 * define the environmental impacts.
 * remember gene = environment + phenotypic.
-## 2.3 system features
+## 2.3 System features
 * speculate features your prototype gene system could to address the requirements. when would these features be needed.
-## 2.4 how would this happen? 
+## 2.4 How would this happen? 
 * provide a timeline for the development of each of the features and includ this in your AFDP.
 ## 2.5 Produce a [science fiction prototype]
 * 1-2 pages that describes one of your Futures including the feature(s) you have described for that future.
