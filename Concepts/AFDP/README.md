@@ -13,7 +13,7 @@ questions:
 * what is novel?
 * how can we test it?
 
-## AFDP_01 
+## AFDP_01 FUTURE GAPS
 * Defines the future gap(s), these are the things that do not exist today in the building industry that we need to meet or avoid your speculative future(s).
 * what do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
 * this will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
