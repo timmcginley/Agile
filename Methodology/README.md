@@ -18,12 +18,14 @@ Its process is described in the digram below:
 
 ## 1. Forecast *Futures*
 We do this in [Assignment 1]. This part identifies the near, medium and long term futures that will provide the future context of the agile prototype. It has the following substeps:
-1. forecast future using 3 horizons framework
+* forecast future using 3 horizons framework
+* This follows the **Design Gene Indentification Process (DGIP).**
 
 ## 2. Needs *Backcast*
 We do this in [Assignment 2]. This part identifies the requirements of the future product / system in you defined future.
 
-2. identify the challenges of this future for a specific building system or product.
+* identify the challenges of this future for a specific building system or product.
+* This follows the **Agile Future Design Plan (AFDP).**
 
 ## 3. Analyse *Pastcast*
 We do this in [Assignment 3]. This part ['reverse engineers'] the selected system to develop a recomposable 'agile prototype'. It identifies the features of the systems and disconnects these from its context.
