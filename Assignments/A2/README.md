@@ -11,15 +11,16 @@ In this part you will:
 this involves a number of stages.
 
 ## 2.1 Define the future gap(s)
-* what do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
-* this will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
+* What do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
+* This will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
 ## 2.2 Define System requirements. 
 for each of your selected gene systems:
-* define the environmental impacts.
-* remember gene = environment + phenotypic.
+* Define the environmental impacts.
+* Remember gene = environment + phenotypic.
 ## 2.3 Define System features
-* speculate features your prototype gene system could to address the requirements. when would these features be needed.
-* provide a timeline for the development of each of the features and includ this in your AFDP.
+* Speculate features your prototype gene system could to address the requirements.
+* When would these features be needed.
+* Provide a timeline for the development of each of the features and includ this in your AFDP.
 ## 2.4 Create a Science Fiction Prototype
 * Produce a 1-2 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
