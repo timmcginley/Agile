@@ -10,20 +10,23 @@ In this part you will:
 
 This assignment results in the production of the Agile Future Design Plan. This involves a number of stages.
 
-## 2.1 Define the future gap(s)
-* What do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
-* This will form the basis of your agile future development plan (AFDP). this should cover your selected gene systems from [A1].
-## 2.2 Define System requirements. 
+## 2.1 AFDP_01 Future Gaps
+for each of your futures:
+* Address the points from the [AFDP] description.
+  
+## 2.2 AFDP_02 System Requirements 
 for each of your selected gene systems:
-* Define the environmental impacts.
-* Remember gene = environment + phenotypic.
+* Address the points from the [AFDP] description.
+  
 ## 2.3 Define System features
 * Speculate features your prototype gene system could to address the requirements.
 * When would these features be needed.
 * Provide a timeline for the development of each of the features and includ this in your AFDP.
+  
 ## 2.4 Define System Examples
 * Identify specific products or systems that exist today that could be adapted to address the identified gaps and develop teh rewquiremetns to meet the required features.
 * This could be more than one product or system that you imagine will synthesis into a hyrbid solution in your future(s).
+  
 ## 2.5 Create a Science Fiction Prototype
 * Produce a 1 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have idenitified for that future.
 * This is a creative exercise it should be grounded in the thinking you have developed in the rest of the exercise.
@@ -40,3 +43,4 @@ Simple report docuemnting the four stages in [Markdown] format.
 [science fiction prototype]: /Agile/Concepts/ScienceFictionPrototype
 [meta disciplinary analysis]: /Agile/Concepts/MetaDisciplinary
 [MarkDown]: /Agile/Concepts/MarkDown
+[AFDP]: /Agile/Concepts/AFDP
