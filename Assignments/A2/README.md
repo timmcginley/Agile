@@ -6,9 +6,9 @@
 In this part you will:
 * Identify the requirements and features of the future product / system in your defined future(s).
 * Extend traditional requirements engineering concepts to include [meta disciplinary analysis] of a selected building system.
-* This stage introduces the design science research methodology (DSRM) so that students define their solution objectives, based on then problem identification in the previous stage.
+* This stage introduces the design science research methodology (DSRM) so that you can define your solution objectives, based on your problem identification process in the previous stage.
 
-this involves a number of stages.
+This assignment results in the production of the Agile Future Design Plan. This involves a number of stages.
 
 ## 2.1 Define the future gap(s)
 * What do we need to design / invent/ improve/ stop / discover or start to adapt to each of the Futures. please present the gaps for each.
