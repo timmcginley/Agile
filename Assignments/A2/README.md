@@ -26,7 +26,7 @@ for each of your selected [gene systems] from [A1]:
 for each of your selected [gene systems] from [A1]:
 * Address the points from the [AFDP] (AFDP_04) description.
   
-## 2.5 AFDP_04 Create a *Future Case*
+## 2.5 AFDP_05 Create a *Future Case*
 * Address the points from the [AFDP] (AFDP_04) description in a 1 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have identified for that future.
 
 ## Submission Details
