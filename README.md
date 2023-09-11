@@ -22,8 +22,8 @@ The course provides participants with a future focused design, analysis and mode
 
 
 <!-- link -->
-[meta disciplinary systems]: Agile/Concepts/MetaDisciplinary
-[unknowable]: Agile/Concepts/Futures
-[future]: Agile/Concepts/Futures
-[methodology]: Agile/Methodology
+[meta disciplinary systems]: /Agile/Concepts/MetaDisciplinary
+[unknowable]: /Agile/Concepts/Futures
+[future]: /Agile/Concepts/Futures
+[methodology]: /Agile/Methodology
 [projects]: /Agile/Projects
