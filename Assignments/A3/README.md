@@ -1,7 +1,7 @@
 # A3 Analyse
 ![METHOD_03](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ed16a76b-d6c3-4697-9a1e-f1fdd5cb361d)
 
->Overarching concept for this assignment is the future concept of Pastcasting with the purpose of supporting the codesign of solutions.
+>Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
 
 In this part you will:
 * Identify the requirements and features of the future product / system in your defined future(s).
@@ -10,16 +10,17 @@ In this part you will:
 
 This assignment results in the production of your [Agile Prototype](/Agile/Concepts/AgilePrototype)(s). This involves a number of stages.
 
-## 2.1 AFDP_01 identify *Future Gaps*
-for each of your [futures] from [A1]:
+## 3.1 xxx identify xxx
+For each of your [requirements] from [A2] :
+
 * Address the points from the [AFDP] (AFDP_01) description.
 
 We have expanded out this assingnment to give you the maximum time possible to play in it as we see that this is the 'funnest' part.
 
 
 7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
-8. BIO REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
-- PASTCASTING: Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
+
+
 9. This applies the concepts of biological development to inform the development of our agile biodigtal prototype.
 - This follows the design and development and demonstration stages of DSRM.
 
@@ -40,6 +41,8 @@ MorphoPrototyping:
 4.	Identify when the artefact ‘expressed’ these features by working out pseudo developmental stages for the artefact.
 5.	Imagine there are genes that trigger the expression of the features.
 
+6.	Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
+
 ### Details
 This assignment should include:
 *	The problem you have identified
@@ -50,3 +53,5 @@ This assignment should include:
 *	A conceptual model showing how the object has been defined over time.
 
 This should be an A4 report containing the sections above. The length is up to you but clarity is favoured over length.
+
+[A2]: /Agile/Assignments/A2
