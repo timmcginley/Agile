@@ -2,8 +2,16 @@
 
 *19th September 2023*
 
-1. thing
+## Lecture
+1. [Morphogenetic Prototyping](Agile/Concepts/MorphogeneticPrototying)
 2. [Computational Design 0](Agile/Concepts/ComputationalDesign)
 
-Exercise
-* formalise the requirements (requirements engineering) for the four different scenarios.
+Submit [A2].
+
+## Exercise
+* Introduction exercise to Copmutational / Parametric Design
+* Start to think about how to develop Agile Prototypes using Computational Design
+* Continue working on A2
+
+
+[A2]: /Agile/Assignments/A2
