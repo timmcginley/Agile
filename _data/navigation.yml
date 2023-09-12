@@ -110,5 +110,10 @@
       link: /Assignments/A5
 - name: Examples
   link: /Examples
+  dropdown: 
+    - name: SFP
+      link: /Concepts/SFP
+    - name: BOHM
+      link: /Concepts/BOHM
 - name: Learning
   link: /learningObjectives
