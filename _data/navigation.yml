@@ -113,6 +113,8 @@
   dropdown: 
     - name: SFP
       link: /Examples/SFP
+    - name: Agile X Pavilion
+      link: /Examples/AgileXPavilion
     - name: BOHM
       link: /Examples/BOHM
 - name: Learning
