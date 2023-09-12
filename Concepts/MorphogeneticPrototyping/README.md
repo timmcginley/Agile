@@ -1,3 +1,7 @@
+# Morphogenetic Prototyping
+
+> Morphogenetic Prototyping is the methodology that we use to define our [Agile Prototypes]
+
 ## Morphogenesis
 >Morphogenesis which is derived from the Greek, morphê (form) and genesis(creation). In developmental biology morphogenesis describes how a single cell organism can self-organise and grow into a complex multicellular organism that is capable of a variety of functions.
 >
@@ -31,7 +35,7 @@ This course identifies the genes of building design and categorises them in one 
 ## Glossary of terms
 
 * Body Plan: An anatomical pattern.
-* Building Development Stage: A morphogenetic architecture development stageanalogous to Bownes development stages.
+* [Building Development Stage]: A morphogenetic architecture development stageanalogous to Bownes development stages.
 * Dorsal and Ventral: The back and front of an organism respectively.
 * Fate Map: A diagram that expresses the embryonic origin of tissues and their path to theirposition in the body plan.
 * HOX genes: A set of genes responsible for regulation of anatomical development
@@ -55,3 +59,8 @@ This course identifies the genes of building design and categorises them in one 
 * Tim McGinley (2003) [**MORPHOGENESIS: Extracting Morphogens for a Universal Design Engine**](https://www.researchgate.net/publication/289523200_MORPHOGENESIS_Extracting_Morphogens_for_a_Universal_Design_Engine)
 * Simon Muff Laporte (2022) [**Using biologically inspired multi-agent models to solve engineering problems in construction**](https://findit.dtu.dk/en/catalog/621f5ea386059754d89e89ad)
 * Nikolai Skorpe Aasprong (2020) [**Bio Digital Architecture System**](https://findit.dtu.dk/en/catalog/5f312bb6d9001d016b4e2420)
+
+<!-- links --->
+
+[Agile Prototypes]: /Agile/Concepts/AgilePrototype
+[Building Development Stage]: /Agile/Concepts/DevelopmentStage
