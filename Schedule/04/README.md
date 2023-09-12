@@ -3,8 +3,8 @@
 *19th September 2023*
 
 ## Lecture
-1. [Morphogenetic Prototyping](Agile/Concepts/MorphogeneticPrototying)
-2. [Computational Design 0](Agile/Concepts/ComputationalDesign)
+1. [Computational Design 0](Agile/Concepts/ComputationalDesign)
+2. [Grasshopper introduction](Agile/Concepts/Grasshopper)
 
 Submit [A2].
 
