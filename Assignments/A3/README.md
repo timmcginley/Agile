@@ -1,6 +1,8 @@
 # A3 Analyse
 ![METHOD_03](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ed16a76b-d6c3-4697-9a1e-f1fdd5cb361d)
 
+We have expanded out this assingnment to give you the maximum time possible to play in it as we see that this is the 'funnest' part.
+
 
 7. **PASTCASTING** / AGILE PROTOTYPE: Focus on the modelling of the agile Prototype using biodigital prototyping methods.
 8. BIO REVERSE ENGINEERING: Reverse engineer the features (genes) and pseudo developmental stages of the agile prototype (building system or product).
@@ -13,7 +15,6 @@
 5. Model and traverse a phylogenetic tree of the features of AP to identify new solutions.
 6. Apply computational modelling techniques to model the evolution of the AP.
 7. Extrapolate the future features of the AP based on its evolution.
-
 
 ### Assignment
 Exercise(s)
