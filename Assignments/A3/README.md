@@ -1,6 +1,19 @@
 # A3 Analyse
 ![METHOD_03](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ed16a76b-d6c3-4697-9a1e-f1fdd5cb361d)
 
+>Overarching concept for this assignment is the future concept of Pastcasting with the purpose of supporting the codesign of solutions.
+
+In this part you will:
+* Identify the requirements and features of the future product / system in your defined future(s).
+* Extend traditional requirements engineering concepts to include [meta disciplinary analysis] of a selected building system.
+* This stage introduces the design science research methodology (DSRM) so that you can define your solution objectives, based on your problem identification process in the previous stage.
+
+This assignment results in the production of your [Agile Prototype](/Agile/Concepts/AgilePrototype)(s). This involves a number of stages.
+
+## 2.1 AFDP_01 identify *Future Gaps*
+for each of your [futures] from [A1]:
+* Address the points from the [AFDP] (AFDP_01) description.
+
 We have expanded out this assingnment to give you the maximum time possible to play in it as we see that this is the 'funnest' part.
 
 
