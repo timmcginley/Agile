@@ -20,7 +20,7 @@ Agile Software development as defined in the Agile Software Development Manifest
 ## Agile Prototyping Principles
 Agile development covers a range of approaches including, XP [(extreme programming)], Scrum, (Erickson et al. 2005) as well as others. Droste (2010) describes a process of applying agile development methodologies from computer science in the architectural design process that we could use in architetcural engineering. However the limitation of Droste is that it focusses on XP rather than more broadly on the principles of Agile development. This is important because there is much discussion in computer science about the most appropriate method of agile development. Therefore, this course follows the principles of agile prototyping [(McGinley et. al. 2017)]. These were adapted from the original [12 priniciples of agile software](https://agilemanifesto.org/principles.html) to be relevant to architectural engineering. 
 
-Seven Agile Principles slightly adapted from [(McGinley et. al. 2017)] are summarised here:
+Based on the experience of developing the [Agile X Pavilion] we distilled these down into Seven Agile Prototyping Principles [(McGinley et. al. 2017)]. They are summarised here as:
 
 1. **Maintain a constant sustainable pace (avoid burn out)**
 It is necessary to take frequent breaks and adjust project constraints and load if required in order to main-tain the health of the team.
@@ -39,6 +39,10 @@ This provides an opportunity to capture and reuse valuable design tools and proc
 
 ## References
 * Droste, S.: 2010, Extreme Designing: Proposal for the transfer of concepts from the agile de-velopment to the architectural design process, Proceedings of eCAADe 2010.
+
+<!-- links -->
+
+[Agile X Pavilion]: /Agile/Examples/AgileXPavilion
 * Erickson, J., Lyytinen, K. and Siau, K.: 2005, Agile Modeling, Agile Software Development,and Extreme Programming, Journal of Database Management, 16(4), 18-100. 
 * Martin, R.C.: 2003, Agile Software Development: Principles, Patterns, and Practices,, Pearson
 
