@@ -112,8 +112,8 @@
   link: /Examples
   dropdown: 
     - name: SFP
-      link: /Concepts/SFP
+      link: /Examples/SFP
     - name: BOHM
-      link: /Concepts/BOHM
+      link: /Examples/BOHM
 - name: Learning
   link: /learningObjectives
