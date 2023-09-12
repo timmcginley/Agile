@@ -3,13 +3,13 @@
 > Morphogenetic Prototyping is the methodology that we use to define our [Agile Prototypes]
 
 ## Morphogenesis
->Morphogenesis which is derived from the Greek, morphê (form) and genesis(creation). In developmental biology morphogenesis describes how a single cell organism can self-organise and grow into a complex multicellular organism that is capable of a variety of functions.
+>" Morphogenesis which is derived from the Greek, morphê (form) and genesis(creation). In developmental biology morphogenesis describes how a single cell organism can self-organise and grow into a complex multicellular organism that is capable of a variety of functions. "
 >
 >McGinley (2015).
 
 Wouldn't it be cool if we could control this process and apply it in the design, construction and operation of buildings?
 
->There are examples of applying morphogenetic principles from biology in botharchitecture and engineering. These include morphogenetic engineering (Doursat, Sayama, and Michel 2012) and digital morphogenesis (Leach 2009; Kolarevic 2009). Many of these studies do not explore the potential of the morphogenetic growth process. Previous approaches to employ morphogenetic approaches in buildings have tended todraw on general concepts of evolutionary development as an analogy to design based oncomputational processes and geometrical systems however these models are not specificrepresentations of morphogenetic (biological) processes. For instance Lynn (1994) proposes an embryological house. Lynn advocates the importance of animation in thedesign process and the existence of forces or actions and force fields on the form and thatthese should be expressed in the design. However despite a biological reference to the two poles of the house, the embryogenetic metaphor is not explored from a developmental biology perspective. An alternative approach is proposed by Beal et al. (2011) who use the developmental stages to describe the morphogenetic development of a robot. Lynn’s concept could be expanded for architecture to include an explanation of the phenotype (the resulting organism) as a result of the ‘interaction of its genotype with its environment’ as discussed by Roudavski (2009).
+>" There are examples of applying morphogenetic principles from biology in both architecture and engineering. These include morphogenetic engineering (Doursat, Sayama, and Michel 2012) and digital morphogenesis (Leach 2009; Kolarevic 2009). Many of these studies do not explore the potential of the morphogenetic growth process. Previous approaches to employ morphogenetic approaches in buildings have tended to draw on general concepts of evolutionary development as an *analogy* to design based on [computational processes] and geometrical systems, however these models are not specific representations of morphogenetic (biological) processes. For instance Lynn (1994) proposes an embryological house. Lynn advocates the importance of animation in the design process and the existence of forces or actions and force fields on the form and that these should be expressed in the design. However, despite a biological reference to the two poles of the house, the embryogenetic metaphor is not explored from a developmental biology perspective. An alternative approach is proposed by Beal et al. (2011) who use the [developmental stages] to describe the morphogenetic development of a robot. Lynn’s concept could be expanded for architecture to include an explanation of the phenotype (the resulting organism) as a result of the ‘interaction of its genotype with its environment’ as discussed by Roudavski (2009). "
 >
 >McGinley (2015).
 
@@ -23,7 +23,7 @@ Wouldn't it be cool if we could control this process and apply it in the design,
 In 2016 I co-founded the [Morphogenetic Protootyping Lab](https://www.youtube.com/watch?v=Jn2irE3RV3EZ) with colleagues at UNISA in Australia. Whilst in Denamrk I have been working on how these ideas fit into contemporary design and engineering systems. This Agile Prototyping Course is the result of these experiments.
 
 ## DesignGenes
-This course identifies the genes of building design and categorises them in one of 8 gene systems
+This course identifies the genes of building design and categorises them in one of 8 [Gene Systems] :
 * Project
 * Location
 * Exterior
@@ -64,3 +64,6 @@ This course identifies the genes of building design and categorises them in one 
 
 [Agile Prototypes]: /Agile/Concepts/AgilePrototype
 [Building Development Stage]: /Agile/Concepts/DevelopmentStage
+[developmental stages]: /Agile/Concepts/DevelopmentStage
+[computational processes]: /Agile/Concepts/ComputationalDesign
+[Gene Systems]: /Agile/Genes
