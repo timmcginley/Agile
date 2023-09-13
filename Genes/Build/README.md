@@ -5,7 +5,7 @@ Order: 8
 Name: Build
 ---
 
-* What is the construction sequence?
+* What is the Construction Sequence?
 * How does the [location] affect your Build system?
 * Where does the components sit on the fabrication continuum?
 
