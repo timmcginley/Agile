@@ -8,7 +8,8 @@ Agile Prototypes therefore need to be:
 * Transportable
 * Replaceable
 * Every AP should fit into one of the 8 [gene system spaces]
-* The prototype is then 
+* The prototype is then
+* Decoupled from other systems
 
 Then the Agile Prototyping Architecture is responsible for enabling the recomposition of the Agile Prototypes. One challenge of recomposition is what happens to the system if; the *agile prototype* informing that [gene space] is removed from the project?
 
