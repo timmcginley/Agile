@@ -33,21 +33,21 @@
 - name: Genes
   link: /Genes
   dropdown: 
-    - name: Project
+    - name: GS1 Project
       link: /Genes/Project
-    - name: Location
+    - name: GS2 Location
       link: /Genes/Location
-    - name: Function
+    - name: GS3 Function
       link: /Genes/Function
-    - name: Structure
+    - name: GS4 Structure
       link: /Genes/Structure
-    - name: Internal
+    - name: GS5 Internal
       link: /Genes/Internal
-    - name: External
+    - name: GS6 External
       link: /Genes/External
-    - name: Material
+    - name: GS7 Material
       link: /Genes/Material
-    - name: Build
+    - name: GS8 Build
       link: /Genes/Build
 - name: Schedule
   link: /Schedule
