@@ -1,5 +1,7 @@
 # Build
 
+G8: 
+
 ## Thesis
 * Theodor Valentin Gerard (2023) [**Including architectural engineering input in architectural design through photorealistic visualization**](https://findit.dtu.dk/en/catalog/649ccbe34b688d017cda3ca1)
 * Aline Caroline E Verwilghen (2023) [**Exploration of Architectural Building Design for multi-axial 3D Printing**](https://findit.dtu.dk/en/catalog/64c6fc27c51ad51f4f141715)
