@@ -2,7 +2,7 @@
 
 >An Agile Prototype is a 'hot' replaceable design system that can integrate with other systems to create a 'complete' design. Agile Prototypes have different development stages. They operate within specific [gene system spaces]
 
-Agile Prototypes therefore need to be:
+Agile Prototypes (AP)s therefore need to be:
 * [Isomorphic](https://en.wikibooks.org/wiki/Systems_Theory/Isomorphic_Systems)
 * Clearly Bounded
 * Transportable
