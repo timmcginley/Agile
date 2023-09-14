@@ -6,7 +6,6 @@ This can also be expressed as:
 
 $Markdown > PDF$
 
-
 MarkDown solves the problem of having a standard formatted easily editable text. But the real reason we love it is that it is soooo easy :)
 
 *That is why we prefer that all documentation and reports for this course are provided in MarkDown format.*
