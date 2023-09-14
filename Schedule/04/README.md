@@ -9,7 +9,7 @@
 Submit [A2].
 
 ## Exercise
-* Introduction exercise to Copmutational / Parametric Design
+* Introduction exercise to Computational / Parametric Design
 * Start to think about how to develop Agile Prototypes using Computational Design
 * Continue working on A2
 
