@@ -34,7 +34,7 @@ for each of your selected [gene systems] from [A1]:
 Address the points from the [AFDP] (AFDP_05) description in a 1 page [science fiction prototype] that describes one of your Futures and how the feature(s) satisfy the requirement(s) you have identified for that future.
 
 ## Submission Details
-Simple report docuementing the five AFDP stages in [Markdown] format. If doing it Github, please remember to make the repository public so we can give your feedback. You are also welcom to upload it to Learn if you prefer.
+Simple report docuementing the five AFDP stages in [Markdown] format (called A1-Team-XX). If doing it [Github], please remember to make the repository public so we can give your feedback. You are also welcome to upload it to Learn if you prefer.
 
 ## Learning Objectives
 3. Identify the ‘phenotypic’ features of a building system or product.
