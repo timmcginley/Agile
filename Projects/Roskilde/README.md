@@ -17,6 +17,7 @@ The pavilion must:
 * be durable and stable (able to withstand wind, weather and the curiosity of festival-goers)
 * be accessible for all (follow Universal Design Principles)
 * be inexpensive (the cost of the materials can’t exceed 150.000 DKK)
+* NEW REQUIREMENT! The construction needs to be able to be transported in a 20 foot container. 
 
 It would also be great if the pavilion:
 * provides some shade and shelter
