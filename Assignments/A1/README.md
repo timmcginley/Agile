@@ -12,7 +12,7 @@ All work should be compiled into a single [markdown] document. This can be direc
 
 ## Submission Details
 
-A markDown File that includes.
+A markDown File (called A1-Team-XX) that includes:
 
 1. At least one paragraph for each future near mid and far (you will use these to generate needs in [A2])
 1. A timeline diagram that tells us the year of the 3 futures
