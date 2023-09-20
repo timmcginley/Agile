@@ -2,5 +2,4 @@
 
 *7th November 2023*
 
-1. thing
-2. other thing
+1. The medical link to agile prototyping.
