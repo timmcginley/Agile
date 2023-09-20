@@ -2,7 +2,9 @@
 
 Includes tour of the old pavilion container, for the Roskilde Group. Hanna Juul-Andersen will update this page wiht the details for the day.
 
+From Hanna: 
 We'll meet at 8 at Centrifugevej 374 and walk together to the container. Here we'll look at the size of the continer as well as the modules of the Paper Pavilion. It is outside so remember to bring a jacket if necessary! 
+You'll be back with Kristian at 9.30 :) 
 
 *26th September 2023*
 
