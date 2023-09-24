@@ -4,16 +4,17 @@
 >Overarching concept for this assignment is the future concept of Pastcasting with the purpose of revealing biases.
 
 In this part you will:
-* Identify the requirements and features of the future product / system in your defined future(s).
-* Extend traditional requirements engineering concepts to include [meta disciplinary analysis] of a selected building system.
-* This stage introduces the design science research methodology (DSRM) so that you can define your solution objectives, based on your problem identification process in the previous stage.
+* Identify the genes of existing systems.
+* continuing with the design science research methodology (DSRM) in this stage you will get to design and develop soutions to address the requirements you identifeid in [A2] 
 
 This assignment results in the production of your [Agile Prototype](/Agile/Concepts/AgilePrototype)(s). This involves a number of stages.
 
-## 3.1 xxx identify xxx
-For each of your [requirements] from [A2] :
+## 3.1 AP identify Design Genes
 
-* Address the points from the [AFDP] (AFDP_01) description.
+For each of your system [requirements] from [A2].1 :
+
+* Address the gaps from the [AFDP] (AFDP_01) description.
+* 
 
 We have expanded out this assingnment to give you the maximum time possible to play in it as we see that this is the 'funnest' part.
 
