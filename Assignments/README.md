@@ -6,7 +6,7 @@ In this part you will:
 * Select a [project].
 * Select a [gene system] to focus on.
 * Introduce Agile Principles and Processes
-Identify artefact or system from contexts and its 'features'.
+* Identify artefact or system from contexts and its 'features'.
 
 ## A2 - Needs
 In this part you will:
