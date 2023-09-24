@@ -18,7 +18,9 @@ In this part you will:
 
 ## A4 - Change
 In this part you will:
-* Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios. Is your agile prototype aligned? if not can you align it?
+* Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios.
+* Is your agile prototype aligned?
+* if not can you align it?
 
 [project]: /Agile/Projects
 ['Reverse engineer']: /Agile/Concepts/ReverseEngineer
