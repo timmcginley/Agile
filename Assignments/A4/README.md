@@ -1,12 +1,13 @@
 # A4 Change
 ![METHOD_04](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/efe89844-a66d-45e7-91ee-6342e27fb47a)
 
-- **RECASTING** / CHANGE:  Model the history (evolution) of the prototype and use this to determine the prototype’s current future trajectory.
-- This happens by applying the biological concept of evolutionary development to the
-‘Overarching concept for this assignment is the future concept of recasting with the purpose of evoking imagination and in our case imagining the future trajectory of building system features based on their current ‘genes’ identified in assignment 2 and future needs.
-- This follows the evaluate and communicate steps of the DSRM.
+- **RECASTING** / CHANGE:  Compute future vectors.
+In this assignment we will be looking at the application of your AP. The assignment is open, meaning it is up to you to define how you see your AP being applied.
+Some examples of what you could consider:
 
-### Learning Objectives
-7. Reflect on the APs genetic future trajectory.
-9. Adapt the AP to the three horizons of the future scenario. (and the projects)
-10. Define an agile roadmap for the AP to solve the identified problem.
+- How will the users interact with it?
+- Will any user behaviour need to change, or will the AP change to the users needs?
+- What is the link between your prototype and a full scale solution?
+- What potential issues will your AP create in the future?
+
+If you feel you have already covered this in A3, you are also free to continue to develop your solution based on the feedback from A3.
