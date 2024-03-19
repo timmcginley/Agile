@@ -1,5 +1,5 @@
 ## Week 10 - Trajectories
 
-*7th November 2023*
+*12th November 2024*
 
-1. The medical link to agile prototyping.
+1. The futures link to agile prototyping.
