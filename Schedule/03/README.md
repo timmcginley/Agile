@@ -1,6 +1,6 @@
 # Week 3 - Meta Disciplinary
 
-*12th September 2023*
+*17th September 2024*
 
 ## Lecture 
 *8:00 - 8:30*
