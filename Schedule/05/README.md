@@ -1,4 +1,8 @@
-[Designmanual_GROUP15 (2).pdf](https://github.com/timmcginley/Agile/files/12724398/Designmanual_GROUP15.2.pdf)## Week 5 - Reverse 1 - might change
+## Week 5 - Reverse 1
+
+*1st October 2024*
+
+[Designmanual_GROUP15 (2).pdf](https://github.com/timmcginley/Agile/files/12724398/Designmanual_GROUP15.2.pdf)
 
 Great work on submitting your visions!! in [A2] now hard work begins: trying to deliver on them, and prove it :)
 
