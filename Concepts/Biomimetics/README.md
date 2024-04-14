@@ -1,5 +1,5 @@
 # Biomimetics
-Defined in ISO 18458:2105 as *'interdisciplinary cooperation of biology and technology or other fields of innovation with the goal of solving practical problems through the function analysis of biological systems, their abstraction into models, and the transfer into and application of these models to the solution'*
+Defined in ISO 18458:2105 as the *'interdisciplinary cooperation of biology and technology or other fields of innovation with the goal of solving practical problems through the function analysis of biological systems, their abstraction into models, and the transfer into and application of these models to the solution'*
 
 
 ## Strengths
