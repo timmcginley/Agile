@@ -24,24 +24,25 @@ Project
 
 ### [A1] Future
 
-[Week 1](Agile/Schedule/01)  Future  |
-[Week 2](Agile/Schedule/02)  Problems |
+[Week 1](Agile/Schedule/01)  Future Problems in Buildings |
+    * Great idea
+[Week 2](Agile/Schedule/02)  Biology |
 
 ### [A2] Needs
 
-[Week 3](Agile/Schedule/03) Meta Disciplinary |
-[Week 4](Agile/Schedule/04) Requirements |
+[Week 3](Agile/Schedule/03) Biomimetics |
+[Week 4](Agile/Schedule/04) Disciplinary Systems |
 
 ### [A3] Analyse
 
 Sprint 1
 
-[Week 5](Agile/Schedule/05) Reverse 1 |
-[Week 6](Agile/Schedule/06) Reverse 2 |
+[Week 5](Agile/Schedule/05) Meta disciplinary systems |
+[Week 6](Agile/Schedule/06) Reverse |
 
 Sprint 2
 
-[Week 7](Agile/Schedule/07) Genes 1|
+[Week 7](Agile/Schedule/07) Genes 1 |
 [Week 8](Agile/Schedule/08) Genes 2 |
 
 Sprint 3
