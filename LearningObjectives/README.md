@@ -5,7 +5,7 @@
 
 1. Identify a [building system] or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
 1. Identify the ‘[phenotypic]’ features of a [building system] or product.
-1. [Reverse engineer] the pseudo biological [developmental stages] of the [system] based on the identified [features] to transform the building system or product into an ‘Agile Prototype' (AP).
+1. [Reverse engineer] the pseudo biological [developmental stages] of the [system] based on the identified [features] to transform the building system or product into an ‘[Agile Prototype]' (AP).
 1. Model and traverse a phylogenetic tree of the features of AP to identify new solutions.
 1. Apply computational modelling techniques to model the evolution of the AP.
 1. Extrapolate the future features of the AP based on its evolution.
@@ -31,6 +31,7 @@
 [phenotypic]: /Agile/Concepts/Phenotype
 [developmental stages]: /Agile/Concepts/DevelopmentStages
 [features]: /Agile/Concepts/Features
+[Agile Prototype]: /Agile/Concepts/AgilePrototype
 
 [A1]:/Agile/Assignments/A1
 [A2]:/Agile/Assignments/A2
