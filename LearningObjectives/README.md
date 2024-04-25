@@ -26,3 +26,8 @@
 | [A4] |    |    |    |    |    |    |    |    |    |     |     |     |
 
 [Reverse engineer]: /Agile/Concepts/ReverseEngineer
+
+[A1]:/Agile/Assignments/A1
+[A2]:/Agile/Assignments/A2
+[A3]:/Agile/Assignments/A3
+[A4]:/Agile/Assignments/A4
