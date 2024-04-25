@@ -5,4 +5,4 @@ This course course considers the idea of Generative Design to trying to develop 
 There is a rich history of these approaches stretching back to the early [Architecture Machine] experiments.
 
 
-[Architecture Machine]
+[Architecture Machine]:/Agile/Concepts/ArchitectureMachine
