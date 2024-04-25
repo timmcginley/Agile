@@ -16,5 +16,13 @@
 1. Evaluate their proposed AP.
 1. Reflect on the process of developing the AP and communicate this for current and future students.
 
+# Assignment Mapping
+
+|      | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 | L11 | L12 |
+|------|----|----|----|----|----|----|----|----|----|-----|-----|-----|
+| [A1] |    |    |    |    |    |    |    |    |    |     |     |     |
+| [A2] |    |    |    |    |    |    |    |    |    |     |     |     |
+| [A3] |    |    |    |    |    |    |    |    |    |     |     |     |
+| [A4] |    |    |    |    |    |    |    |    |    |     |     |     |
 
 [Reverse engineer]: /Agile/Concepts/ReverseEngineer
