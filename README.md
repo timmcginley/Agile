@@ -6,8 +6,8 @@
 
 This course provides the ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, in the near, mid and far [future] scenario that they define. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
 
-1. forecast a near, mid and far future
-2. identify the requirements of this future on our building systems.
+1. Forecast a near, mid and far future
+2. Identify the requirements of this future on our building systems.
 3. Reverse engineer existing building systems
 4. Re engineer those systems to their proposed futures.
 
