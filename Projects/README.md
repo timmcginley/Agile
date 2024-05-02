@@ -1,6 +1,11 @@
-# Projects 23
+# Projects 24
 
-Your agile prototype needs to be able to:
+Your agile prototype needs to be able to: take a building:
+
+* The designs from the Advanced Building Design Course (41936)
+* The model for the Skylab building on campus.
+
+This cuorse is different in that we start wiht teh design and then try and improvement it.
 
 * support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Agile/Assignments/A1)
 
