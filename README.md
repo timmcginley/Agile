@@ -2,7 +2,7 @@
 
 **The future is [unknowable]. So how can we design buildings for the future? Agile Prototyping is a [methodology] for designing building systems in the future.**
 
->Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertain]ty.  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
+>Design in the future requires the synthesis of [meta disciplinary systems] from diverse disciplinary needs with [uncertainty].  This requires an agile, fast and robust approach to; model, adapt and redesign building systems and products.
 
 This course provides the ‘future tools’ to enable participants to design ‘in the [future]’. The focus of the course is to support participants to model, design and analyse building systems, fast, in the near, mid and far [future] scenario that they define. In the course, students extend their perspective of the present towards Elise Boulding’s idea of a 200 year present. Working in groups, they:
 
@@ -24,6 +24,7 @@ The course provides participants with a future focused design, analysis and mode
 <!-- link -->
 [meta disciplinary systems]: Concepts/MetaDisciplinary
 [unknowable]: Concepts/Futures
+[uncertainty]: Concepts/uncertainty
 [future]: Concepts/Futures
 [methodology]: Methodology
 [projects]: Projects
