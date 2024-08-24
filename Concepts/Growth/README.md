@@ -9,11 +9,11 @@ we also think of growth in terms of our educational, personal, educational and m
 ## Biological growth
 biological growth provides useful concepts for how to understand the 'developmental' growth of biological organisms.
 
-## Building *design* as Growing
-This applies building development stages (BDS) to buildings and their systems, to expand the design space.
-
 ## Building *Construction* as growing
 we can also consider the physical construction of the building as growth. this would sit on the construction paradigm outlined in McGinley (2015).
+
+## Building *design* as Growing
+This applies building development stages (BDS) to buildings and their systems, to expand the design space.
 
 
 
