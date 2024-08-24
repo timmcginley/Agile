@@ -5,7 +5,9 @@ Your agile prototype needs to be able to: take a building:
 * The designs from the Advanced Building Design Course (41936)
 * The model for the Skylab building on campus.
 
-This course is different in that we start with the design and then reverse it, to better understand its component systems. The aim is that haivng doen this we will be able to design the systems as 'agile prototypes' that we can adapt to different project requirements.
+This course starts wiht a finished design and then we work togther to reverse engineer it. This enbales us to understand how the same building system can support different building projects.
+
+Based on this we can then design the bulding system as a reconfigurable 'agile prototype' that we can integrate with other systems to adapt to different project requirements.
 
 * support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Agile/Assignments/A1)
 
