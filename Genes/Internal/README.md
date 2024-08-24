@@ -7,4 +7,4 @@
 
 
 ## Systems
-HVAC - static vascular adaptive conditioning
+HVAC - Homeostatic vascular adaptive conditioning
