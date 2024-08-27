@@ -1,12 +1,34 @@
 # Assignments
 
+[project]: /Agile/Projects
+['Reverse engineer']: /Agile/Concepts/ReverseEngineer
+[gene system]: /Agile/Concepts/Genes
+
+## A1 - The cup
+|       |  how to grow a cup   |
+|----   |-----|
+|  aim  |   Run through agile prototyping methods with a simple example  |
+| Tools | Pen and paper|
+| Case: | Cup |
+| Practice: | In class activity in week 1 and 2|
+| Output: | Drawings|
+| Submit: | Digital drawings or photos / scans of physical drawings |
+
+
+In this assignment you will:
+
+## A2 - Building Systems Features
+
+## A3 - Building Systems Features
+
+<!--
+
 ## A1 - Future
 In this part you will:
 * Envision a system that enables 'instant buildings'.
 * Select a specific [gene system] to focus on.
 * Explore the implications of instant buildings for different stakaholders.
 * identify the near, medium and long term future that will provide the future context of your group's agile prototype.
-<!--- * Select a [project]. --->
 
 
 ## A2 - Needs
@@ -27,7 +49,6 @@ In this part you will:
 * Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios.
 * Is your agile prototype aligned?
 * if not can you align it?
+-->
 
-[project]: /Agile/Projects
-['Reverse engineer']: /Agile/Concepts/ReverseEngineer
-[gene system]: /Agile/Concepts/Genes
+
