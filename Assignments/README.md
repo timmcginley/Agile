@@ -6,7 +6,7 @@
 
 |       |  How to grow a cup   |
 |----   |-----|
-|  Aim  |   Run through agile prototyping methods with a simple example  |
+|  Aim  |   learn agile prototyping methods with a simple example  |
 | Tools | Pen and paper|
 | Case | Cup |
 | Practice | In class activity in week 1 and 2|
