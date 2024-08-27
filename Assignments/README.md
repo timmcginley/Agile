@@ -4,7 +4,7 @@
 
 ## A1 - The Cup
 
-|       |  how to grow a cup   |
+|       |  How to grow a cup   |
 |----   |-----|
 |  Aim  |   Run through agile prototyping methods with a simple example  |
 | Tools | Pen and paper|
