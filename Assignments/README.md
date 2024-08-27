@@ -1,25 +1,31 @@
 # Assignments
 
-[project]: /Agile/Projects
-['Reverse engineer']: /Agile/Concepts/ReverseEngineer
-[gene system]: /Agile/Concepts/Genes
-
-## A1 - The cup
+## A1 - The Cup
 |       |  how to grow a cup   |
 |----   |-----|
-|  aim  |   Run through agile prototyping methods with a simple example  |
+|  Aim  |   Run through agile prototyping methods with a simple example  |
 | Tools | Pen and paper|
-| Case: | Cup |
-| Practice: | In class activity in week 1 and 2|
-| Output: | Drawings|
-| Submit: | Digital drawings or photos / scans of physical drawings |
-
+| Case | Cup |
+| Practice | In class activity in week 1 and 2|
+| Output | Drawings|
+| Submit | Digital drawings or photos / scans of physical drawings |
 
 In this assignment you will:
+* Define the functions of a cup
+* Imagine a universal cup designing system;
+  * for different cups what variables would these functions need?
+  * Could you define the range of the variables - to support any cup?
+* Thinking procedurally, in what order would we apply those functions to the design?
+* Can we find a universal 'pseudo' developmental sequence for any cup?
+* Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
 
 ## A2 - Building Systems Features
 
 ## A3 - Building Systems Features
+
+[project]: /Agile/Projects
+['Reverse engineer']: /Agile/Concepts/ReverseEngineer
+[gene system]: /Agile/Concepts/Genes
 
 <!--
 
