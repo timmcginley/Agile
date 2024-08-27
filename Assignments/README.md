@@ -1,5 +1,7 @@
 # Assignments
 
+![image](/Agile/img/cup.avif)
+
 ## A1 - The Cup
 |       |  how to grow a cup   |
 |----   |-----|
