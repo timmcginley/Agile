@@ -52,29 +52,29 @@
 - name: Schedule
   link: /Schedule
   dropdown: 
-    - name: 01 - Future
+    - name: 01 - Agile Prototyping
       link: /Schedule/01
-    - name: 02 - Problems
+    - name: 02 - Cup Development
       link: /Schedule/02
-    - name: 03 - Meta Disciplinary
+    - name: 03 - Building / System Functions
       link: /Schedule/03
-    - name: 04 - Requirements
+    - name: 04 - System Features
       link: /Schedule/04
-    - name: 05 - Reverse 1
+    - name: 05 - System Growth
       link: /Schedule/05
-    - name: 06 - Reverse 2
+    - name: 06 - Common System Growth Specification
       link: /Schedule/06
-    - name: 07 - Genes 1
+    - name: 07 - System Integration
       link: /Schedule/07
-    - name: 08 - Genes 2
+    - name: 08 - Tutorials 1
       link: /Schedule/08
-    - name: 09 - Evolution
+    - name: 09 - Interaction
       link: /Schedule/09
-    - name: 10 - Trajectories
+    - name: 10 - Tutorials 2
       link: /Schedule/10
-    - name: 11 - Project
+    - name: 11 - Peer Feedback
       link: /Schedule/11
-    - name: 12 - Project
+    - name: 12 - Tutorials 3
       link: /Schedule/12
     - name: 13 - Presentation
       link: /Schedule/13
@@ -98,13 +98,13 @@
 - name: Assignments
   link: /Assignments
   dropdown: 
-    - name: A1 Future
+    - name: A1 How to Grow a Cup
       link: /Assignments/A1
-    - name: A2 Need
+    - name: A2 Building System Needs
       link: /Assignments/A2
-    - name: A3 Analyse
+    - name: A3 Building System Growth
       link: /Assignments/A3
-    - name: A4 Change
+    - name: A4 How to Grow a Building
       link: /Assignments/A4
     - name: A5 Reflect
       link: /Assignments/A5
