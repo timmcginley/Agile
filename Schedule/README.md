@@ -22,38 +22,40 @@ Project
 
  -->
 
-### [A1] Future
+### [A1] How to Grow a Cup
 
-[Week 1](Agile/Schedule/01)  Future
+[Week 1](Agile/Schedule/01)  Agile Prototypes
 * Future | Problems | Buildings
 * Instant Buildings
 * Interdisciplinary Challenge
 
-[Week 2](Agile/Schedule/02)  Biology
+[Week 2](Agile/Schedule/02)  How to grow any Cup
 * Biology
 * Biomimetics | Biomimetic Architecture
 * Interdisciplinary solutions?
 
-### [A2] Needs
+### [A2] Building System Needs
 
-[Week 3](Agile/Schedule/03) Computational Design
+[Week 3](Agile/Schedule/03) Building Functions - build system types
+* From cups to buildings
+* Building Design Grid
 * Parametric design
 * Computational Design
 
-[Week 4](Agile/Schedule/04) Disciplinary Systems |
+[Week 4](Agile/Schedule/04) System Features / Functions |
 * Everyone wants different things
 
-### [A3] Analyse
+### [A3] Building System Growth
 
-Sprint 1
-
-[Week 5](Agile/Schedule/05) Meta disciplinary systems |
+[Week 5](Agile/Schedule/05) System Growth |
+* Meta disciplinary systems
 * Meta Disciplinary elements
 * 
-[Week 6](Agile/Schedule/06) Reverse |
+[Week 6](Agile/Schedule/06) Sys Dev common spec |
+* Combine different stages of systems.
 * Reverse Engineering Buildings
 
-Sprint 2
+### [A3] How to Grow a Building
 
 [Week 7](Agile/Schedule/07) Genes 1 |
 * Building Environment
@@ -63,17 +65,13 @@ Sprint 2
 [Week 8](Agile/Schedule/08) Genes 2 |
 * Building Genes
 
-Sprint 3
-
-[Week 9](Agile/Schedule/09) Evolution |
-* Building Type Evolution
-* Building System Evolution
+[Week 9](Agile/Schedule/09) Design Pasts |
+* Building System History as Evolution
+* Roman / Greek and Early 20thC Building Systems
 
 [Week 10](Agile/Schedule/10) Trajectories|
 * Building Type Future Trajectories
 * Building System Future Trajectories
-
-### [A4] Change
 
 [Week 11](Agile/Schedule/11) Project |
 * Change Building System or Type
