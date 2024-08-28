@@ -1,8 +1,6 @@
-# Week 1 - Future
+# Week 1 - Agile Prototypes
 
 *3rd September 2024*
-
-Choose a future scenario (1) extreme carbon and resource rationing (Planet A only) (2) Lunar building boom (Planet B only)
 
 ## Lecture
 
