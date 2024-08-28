@@ -1,3 +1,16 @@
+## A3 - Building System Growth Stages
+
+|          |  Building System Growth Stages   |
+|----      |-----|
+|  Aim     | Define the growth stage of a building system (agile prototype)  |
+| Tools    | Pen and paper / computational design |
+| Case     | Building System (for focus area) |
+| Practice | In class activity in week 5 and 6|
+| Output   | Final spec for the system including the standardized development stages |
+| Submit   | Markdown file |
+
+
+<!--
 # A3 Analyse
 ![METHOD_03](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/ed16a76b-d6c3-4697-9a1e-f1fdd5cb361d)
 
@@ -54,5 +67,7 @@ This assignment should include:
 *	A conceptual model showing how the object has been defined over time.
 
 This should be an A4 report containing the sections above. The length is up to you but clarity is favoured over length.
+
+-->
 
 [A2]: /Agile/Assignments/A2
