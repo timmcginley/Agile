@@ -2,7 +2,7 @@
 
 |          |  How to Grow a Cup   |
 |----      |-----|
-|  Aim     |   learn agile prototyping methods with a simple example  |
+|  Aim     | Learn Agile Prototyping Methods with a simple example  |
 | Tools    | Pen and paper|
 | Case     | Cup |
 | Practice | In class activity in week 1 and 2|
@@ -10,12 +10,24 @@
 | Submit   | Digital drawings or photos / scans of physical drawings |
 
 In this assignment you will:
+
+### 1. Identify the functions
 * Define the functions of a cup
+* What features of a cup support these functions?
+
+### 2. Feature variables
 * Imagine a universal cup designing system;
-  * for different cups what variables would these functions need?
-  * Could you define the range of the variables - to support any cup?
+  * The system could design any cup.
+  * How would the features for different cups
+  * What variables would these features have?
+  * Could you define the range of the variables that could support any cup?
+ 
+### 3. Out of order?
 * Thinking procedurally, in what order would we apply those functions to the design?
 * Can we find a universal 'pseudo' developmental sequence for any cup?
+* Which feature would happen first?
+
+### 4. Is it biological?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
 
 <!--
