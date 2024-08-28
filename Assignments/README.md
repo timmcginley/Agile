@@ -1,10 +1,10 @@
 # Assignments
 
-* [A1] - How to Grow a Cup
-* [A2] - Building System Needs
-* [A3] - Building System Growth
-* [A4] - How to grow a building
-* [A5] - Reflect
+* [A1] How to Grow a Cup
+* [A2] Building System Needs
+* [A3] Building System Growth
+* [A4] How to grow a building
+* [A5] Reflect
 
 
 ## A2 - Building Systems Features
