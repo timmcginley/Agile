@@ -7,9 +7,6 @@
 * [A5] Reflect
 
 
-## A2 - Building Systems Features
-
-
 ## A3 - Building System Growth Stages
 
 |          |  Building System Growth Stages   |
