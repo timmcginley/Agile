@@ -1,10 +1,20 @@
-# A5: Project Reflection
+## A5 - Reflect
+
+|          |  Reflect |
+|----      |-----|
+|  Aim     | Reflect on learning through the course  |
+| Tools    | Critical Reflection |
+| Case     | Learning |
+| Practice | Throughout |
+| Output   | Game (digital or photos of physical), parametric design system or manual |
+| Submit   | Markdown file |
+
 
 Individual reflection submitted togther in one file.
 
 You should reflect on the following:
 
-* What you haev learnt in the course
+* What you have learnt in the course
 * How you might apply this in the future
 * Further challenges that the Agile Prototyping Methodology raises that need to be solved.
 
