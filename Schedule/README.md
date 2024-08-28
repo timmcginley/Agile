@@ -27,16 +27,16 @@
 
 [W4](Agile/Schedule/04) System Features / Functions |
 * Everyone wants different things
+* Reverse Engineering Buildings
 
 ### [A3] Building System Growth
 
 [W5](Agile/Schedule/05) System Growth |
-* Meta disciplinary systems
+* Meta Disciplinary systems
 * Meta Disciplinary elements
 
 [W6](Agile/Schedule/06) Sys Dev common spec |
-* Combine different stages of systems.
-* Reverse Engineering Buildings
+* Combine different stages of systems
 
 ### [A3] How to Grow a Building
 
@@ -53,19 +53,20 @@
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 
-[W10](Agile/Schedule/10) Trajectories|
+[W10](Agile/Schedule/10) Future Trajectories |
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-[W11](Agile/Schedule/11) Project |
-* Change Building System or Type
+[W11](Agile/Schedule/11) Peer Feedback |
+* Peer feedback in focus groups
   
 [W12](Agile/Schedule/12) Project |
-* Change Building System or Type
+* Tutorials and support
 
 [W13](Agile/Schedule/13) Presentation
-* Final Presentation. 
+* Final Presentation.
 
+### [A5] Reflect
 
 <!-- LINKS -->
 [Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
