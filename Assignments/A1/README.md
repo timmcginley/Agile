@@ -1,15 +1,15 @@
 ![image](/Agile/img/cup.avif)
 
-## A1 - The Cup
+## A1 - How to Grow a Cup
 
-|       |  How to grow a cup   |
-|----   |-----|
-|  Aim  |   learn agile prototyping methods with a simple example  |
-| Tools | Pen and paper|
-| Case | Cup |
+|          |  How to Grow a Cup   |
+|----      |-----|
+|  Aim     |   learn agile prototyping methods with a simple example  |
+| Tools    | Pen and paper|
+| Case     | Cup |
 | Practice | In class activity in week 1 and 2|
-| Output | Drawings|
-| Submit | Digital drawings or photos / scans of physical drawings |
+| Output   | Drawings|
+| Submit   | Digital drawings or photos / scans of physical drawings |
 
 In this assignment you will:
 * Define the functions of a cup
