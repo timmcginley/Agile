@@ -3,13 +3,13 @@
 
 ### [A1] How to Grow a Cup
 
-[W1](Agile/Schedule/01)  Agile Prototypes
+[W1](Agile/Schedule/01)  Agile Prototypes |
 * Future | Problems | Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
 * Previously in Agile ...
 
-[W2](Agile/Schedule/02)  How to grow any Cup
+[W2](Agile/Schedule/02)  How to grow _any_ Cup |
 * Biology
 * Torben Lenau Lecture (DTU Construct) [onsite]
 * Biomimetics | Biomimetic Architecture
@@ -18,16 +18,18 @@
 
 ### [A2] Building System Needs
 
-[W3](Agile/Schedule/03) Building Functions - build system types
-* From cups to buildings
+[W3](Agile/Schedule/03) Meta Disciplinary |
+* From cups to buildings via plants
 * Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
 * Building Design Grid
-* Parametric design
-* Computational Design
+* Design Requirements
+* Building System functions
 
-[W4](Agile/Schedule/04) System Features / Functions |
-* Everyone wants different things
+[W4](Agile/Schedule/04) Building System Features |
 * Reverse Engineering Buildings
+* Building System features
+* Parametric Design
+* Computational Design
 
 ### [A3] Building System Growth
 
@@ -40,7 +42,7 @@
 
 ### [A3] How to Grow a Building
 
-[W7](Agile/Schedule/07) Genes 1 |
+[W7](Agile/Schedule/07) Design Genes |
 * Building Environment
 * Building Phenotype
 * Building Genotype
@@ -53,7 +55,7 @@
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 
-[W10](Agile/Schedule/10) Future Trajectories |
+[W10](Agile/Schedule/10) Futures |
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
@@ -63,7 +65,7 @@
 [W12](Agile/Schedule/12) Project |
 * Tutorials and support
 
-[W13](Agile/Schedule/13) Presentation
+[W13](Agile/Schedule/13) Presentation |
 * Final Presentation.
 
 ### [A5] Reflect
