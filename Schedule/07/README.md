@@ -7,4 +7,4 @@ Lecture
 * Building Phenotype
 * Building Genotype
   
-2.  [Computational Design 3](Agile/Concepts/ComputationalDesign)
+1.  [Computational Design 3](Agile/Concepts/ComputationalDesign)
