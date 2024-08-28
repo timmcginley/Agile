@@ -79,4 +79,10 @@ In this part you will:
 * if not can you align it?
 -->
 
+[A1]: /41934/Assignments/A5
+[A2]: /41934/Assignments/A5
+[A3]: /41934/Assignments/A5
+[A4]: /41934/Assignments/A5
+[A5]: /41934/Assignments/A5
+
 
