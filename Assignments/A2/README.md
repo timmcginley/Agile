@@ -9,21 +9,22 @@
 | Output   | Drawings / digital prototypes (i.e. grasshopper) |
 | Submit   | Markdown file |
 
+For your chosen [focus] area, you need to do the following:
+
 ### 1. Identify the functions
-* Define the functions of a cup
+* Define the functions of your chosen building system.
 * What features of a cup support these functions?
 
 ### 2. Feature variables
-* Imagine a universal cup designing system;
-  * The system could design any cup.
-  * How would the features for different cups
+* Imagine a universal design system for your building system;
+  * How would your building systems features change for different building projects?
   * What variables would these features have?
-  * Could you define the range of the variables that could support any cup?
+  * Could you define the range of the variables that could support any building?
  
 ### 3. Out of order?
-* Thinking procedurally, in what order would we apply those functions to the design?
-* Can we find a universal 'pseudo' developmental sequence for any cup?
-* Which feature would happen first?
+* Thinking procedurally, in what order would we apply functions to the design?
+* Can we find a universal 'pseudo' developmental sequence for your building system?
+* Which feature would appear first?
 
 ### 4. Is is growing?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
@@ -79,4 +80,5 @@ Simple report docuementing the five AFDP stages in [Markdown] format (called A1-
 [Agile Future Design Plan]: /Agile/Concepts/AFDP
 [futures]: /Agile/Futures
 [gene systems]: /Agile/Genes
+[focus]: /Agile/Focus
 [A1]: /Agile/Assignments/A1
