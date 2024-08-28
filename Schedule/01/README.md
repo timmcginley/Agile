@@ -14,13 +14,10 @@
 1. Agile Prototyping - include paper - hit all targets.
 1. Project targets
 
-## Exercise
-* Skylab tour (Digital Lab and Start Up opportunities)
-* Designing in the future with Kristian Brink (present to the future)
-* Choose Planet A or Planet B future.
-* In class presentation of your futures
+## Session Exercise
 
-Detailed Schedule
+
+<!--
 
 ### 8:00 – 8:30
 * Watch introduction video individually - headphones :)
@@ -45,4 +42,5 @@ Detailed Schedule
 * All back in 127, Kristian helps class divide into groups based on their project interests
 * Kristian talking with the groups (tutorials)
 
-## Session Exercise
+
+-->
