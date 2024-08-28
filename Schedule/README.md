@@ -17,6 +17,7 @@
 
 [Week 3](Agile/Schedule/03) Building Functions - build system types
 * From cups to buildings
+* Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
 * Building Design Grid
 * Parametric design
 * Computational Design
@@ -29,7 +30,7 @@
 [Week 5](Agile/Schedule/05) System Growth |
 * Meta disciplinary systems
 * Meta Disciplinary elements
-* 
+
 [Week 6](Agile/Schedule/06) Sys Dev common spec |
 * Combine different stages of systems.
 * Reverse Engineering Buildings
@@ -41,10 +42,11 @@
 * Building Phenotype
 * Building Genotype
 
-[Week 8](Agile/Schedule/08) Genes 2 |
-* Building Genes
+[Week 8](Agile/Schedule/08) Growing as Building |
+* [Petra Gruber] Lecture (Angewandtem, Austria) [online]
 
 [Week 9](Agile/Schedule/09) Design Pasts |
+* Laila Zwisler Lecture (DTU Physics)  [physical]
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 
@@ -63,6 +65,8 @@
 
 
 <!-- LINKS -->
+[Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
+
 [A1]: Agile/Assignments/A1
 [A2]: Agile/Assignments/A2
 [A3]: Agile/Assignments/A3
