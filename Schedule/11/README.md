@@ -1,7 +1,6 @@
-## Week 11 - Project
+## Week 11 - Peer Feedback
 
 *19th November 2024*
 
-1. thing
-2. other thing
+* Peer feedback in focus groups
 
