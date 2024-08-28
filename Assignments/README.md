@@ -6,24 +6,7 @@
 * [A4] How to grow a building
 * [A5] Reflect
 
-
-## A5 - Reflect
-
-|          |  Reflect |
-|----      |-----|
-|  Aim     | Reflect on learning through the course  |
-| Tools    | Critical Reflection |
-| Case     | Learning |
-| Practice | Throughout |
-| Output   | Game (digital or photos of physical), parametric design system or manual |
-| Submit   | Markdown file |
-
-
-[project]: /Agile/Projects
-['Reverse engineer']: /Agile/Concepts/ReverseEngineer
-[gene system]: /Agile/Concepts/Genes
-
-<!--
+<!-- 2023
 
 ## A1 - Future
 In this part you will:
@@ -51,6 +34,11 @@ In this part you will:
 * Consider the link between the 'current' trajectory you defined for your prototype in the previous part and your future scenarios.
 * Is your agile prototype aligned?
 * if not can you align it?
+
+[project]: /Agile/Projects
+['Reverse engineer']: /Agile/Concepts/ReverseEngineer
+[gene system]: /Agile/Concepts/Genes
+
 -->
 
 [A1]: /41934/Assignments/A5
