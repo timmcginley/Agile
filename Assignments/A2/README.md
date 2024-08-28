@@ -1,5 +1,16 @@
 # A2 Building System Needs
 
+|          |  Building Systems Features   |
+|----      |-----|
+|  Aim     |   Define the features of a building system (agile prototype)  |
+| Tools    | Pen and paper / computational design |
+| Case     | Building System (for focus area) |
+| Practice | In class activity in week 3 and 4|
+| Output   | Drawings / digital prototypes (i.e. grasshopper) |
+| Submit   | Markdown file |
+
+
+
 <!--
 ![METHOD_02](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/23c41df7-b987-4d23-9c3a-8144a56c896b)
 
