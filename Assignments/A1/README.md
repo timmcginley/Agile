@@ -27,7 +27,7 @@ In this assignment you will:
 * Can we find a universal 'pseudo' developmental sequence for any cup?
 * Which feature would happen first?
 
-### 4. Is it biological?
+### 4. Is is growing?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
 
 <!--
