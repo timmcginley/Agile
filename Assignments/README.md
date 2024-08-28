@@ -1,15 +1,14 @@
 # Assignments
 
+* [A1] - How to Grow a Cup
+* [A2] - Building System Needs
+* [A3] - Building System Growth
+* [A4] - How to grow a building
+* [A5] - Reflect
+
+
 ## A2 - Building Systems Features
 
-|          |  Building Systems Features   |
-|----      |-----|
-|  Aim     |   Define the features of a building system (agile prototype)  |
-| Tools    | Pen and paper / computational design |
-| Case     | Building System (for focus area) |
-| Practice | In class activity in week 3 and 4|
-| Output   | Drawings / digital prototypes (i.e. grasshopper) |
-| Submit   | Markdown file |
 
 ## A3 - Building System Growth Stages
 
