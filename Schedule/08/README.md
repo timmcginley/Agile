@@ -1,6 +1,7 @@
-# Week 8 - Genes 2
+# Week 8 - Growing as Building
 
 *29th October 2024*
 
-1. thing
-2.  [Computational Design 4](Agile/Concepts/ComputationalDesign)
+* [Petra Gruber] Lecture (Angewandtem, Austria) [online]
+  
+1.  [Computational Design 4](Agile/Concepts/ComputationalDesign)
