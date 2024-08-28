@@ -7,19 +7,6 @@
 * [A5] Reflect
 
 
-
-## A4 - How to Grow a Building
-
-|          |  Building Growth  |
-|----      |-----|
-|  Aim     | Define the growth stage of a building system (agile prototype)  |
-| Tools    | Pen and paper / computational design |
-| Case     | Building |
-| Practice | In class activity in week 7 onwards |
-| Output   | Game (digital or photos of physical), parametric design system or manual |
-| Submit   | DTU Learn / Github repository |
-
-
 ## A5 - Reflect
 
 |          |  Reflect |
