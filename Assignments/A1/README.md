@@ -1,5 +1,3 @@
-![image](/Agile/img/cup.avif)
-
 ## A1 - How to Grow a Cup
 
 |          |  How to Grow a Cup   |
