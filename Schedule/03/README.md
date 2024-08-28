@@ -12,7 +12,8 @@
 5. Choose a system
 6. Introduction to [A2]
 
-
+Guest Lecture
+* Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
 
 [A1]: /Agile/Assignments/A1
 [A2]: /Agile/Assignments/A2
