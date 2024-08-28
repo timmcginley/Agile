@@ -1,4 +1,4 @@
-## Week 10 - Trajectories
+## Week 10 - Futures
 
 *12th November 2024*
 
@@ -6,7 +6,9 @@
    
 Lecture
 * Three Horizons [Future] Framework
-* 3. Science Fiction Prototyping
+* Science Fiction Prototyping
+* Building Type Future Trajectories
+* Building System Future Trajectories
  
 ### Exercise
 How will your system be different from today, based on your prototyped future. What specific problems and challenges will it face?
