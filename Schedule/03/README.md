@@ -5,19 +5,14 @@
 ## Lecture 
 *8:00 - 8:30*
 
-1. Feedback on [A1]
-1. Introduction to [A2]
-2. Meta Disciplinary framework
-
-## Exercise
-*8:30 - 9:30*
-* Identify how we might adapt our current systems to the needs of the future scenario.
-
-*break 9:30 - 9:45*
-## In class Tutorials
+2. Feedback on [A1]
+2. From Cups to Buildings
+3. identify the different elements / systems in a building.
+4. Meta Disciplinary framework
+5. Choose a system
+6. Introduction to [A2]
 
 
-* Group feedback at tables during tutorials
 
 [A1]: /Agile/Assignments/A1
 [A2]: /Agile/Assignments/A2
