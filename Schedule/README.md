@@ -1,4 +1,4 @@
-# Course Schedule  2023
+# Course Schedule  2024
 
 
 ### [A1] How to Grow a Cup
