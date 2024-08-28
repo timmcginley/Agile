@@ -7,16 +7,6 @@
 * [A5] Reflect
 
 
-## A3 - Building System Growth Stages
-
-|          |  Building System Growth Stages   |
-|----      |-----|
-|  Aim     | Define the growth stage of a building system (agile prototype)  |
-| Tools    | Pen and paper / computational design |
-| Case     | Building System (for focus area) |
-| Practice | In class activity in week 5 and 6|
-| Output   | Final spec for the system including the standardized development stages |
-| Submit   | Markdown file |
 
 ## A4 - How to Grow a Building
 
