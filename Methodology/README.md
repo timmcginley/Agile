@@ -7,6 +7,31 @@ Agile Prototyping focuses on
 - Building systems should be 'hot swappable' in a design process.
 - We should make the future design experience we want
 
+The methodology has X steps, which you will gaing experience of in this course.
+
+1. For your chosen [focus] area, you need to do the following:
+
+### 1. Identify the functions
+* Define the functions of your chosen building system.
+* What features of a cup support these functions?
+
+### 2. Feature variables
+* Imagine a universal design system for your building system;
+  * How would your building systems features change for different building projects?
+  * What variables would these features have?
+  * Could you define the range of the variables that could support any building?
+ 
+### 3. Out of order?
+* Thinking procedurally, in what order would we apply functions to the design?
+* Can we find a universal 'pseudo' developmental sequence for your building system?
+* Which feature would appear first?
+
+### 4. Is is growing?
+* Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
+
+
+<!---
+
 The Methodology is derived from future studies. rather than just speculate on what could be it uses the futures literature methods of 
 * Forecasting (looking forward),
 * Backcasting (identifying the implications for today on proposed future),
@@ -35,6 +60,8 @@ We do this in [Assignment 4]. Consider the link between the 'current' trajectory
 
 ## Reflect
 We do this in [Assignment 5]. Does the Prototype support the future? In the end is it a future that you want? would you change this? what does this mean for the building systems that we design today. 
+
+-->
 
 <!-- LINKS -->
 
