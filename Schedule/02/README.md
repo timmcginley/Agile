@@ -5,6 +5,7 @@
 ## Lecture
 * Recap on week 1
 * Torben Lenau Lecture
+* [Biomimicry](Agile/Concepts/Biomimicry)
 * [Parametric Paradox]
 
 
