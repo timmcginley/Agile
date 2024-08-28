@@ -9,7 +9,7 @@
 
 1. Uncertainty
 1. Plan for the course
-2. 2. Overview of the course and questions from the class.
+2. Overview of the course and questions from the class.
 3. Course Schedule
 
 1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
