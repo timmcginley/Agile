@@ -1,4 +1,6 @@
-# A2 Needs
+# A2 Building System Needs
+
+<!--
 ![METHOD_02](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/23c41df7-b987-4d23-9c3a-8144a56c896b)
 
 >Overarching concept for this assignment is the future concept of Backcasting with the purpose of supporting the codesign of solutions.
@@ -39,6 +41,8 @@ Simple report docuementing the five AFDP stages in [Markdown] format (called A1-
 ## Learning Objectives
 3. Identify the ‘phenotypic’ features of a building system or product.
 4. Identify a building system or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
+
+-->
 
 [science fiction prototype]: /Agile/Concepts/ScienceFictionPrototype
 [meta disciplinary analysis]: /Agile/Concepts/MetaDisciplinary
