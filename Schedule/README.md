@@ -5,12 +5,15 @@
 
 [Week 1](Agile/Schedule/01)  Agile Prototypes
 * Future | Problems | Buildings
-* Instant Buildings
+* Instant Buildings?
 * Interdisciplinary Challenge
+* Previously in Agile ...
 
 [Week 2](Agile/Schedule/02)  How to grow any Cup
 * Biology
+* Torben Lenau Lecture (DTU Construct) [onsite]
 * Biomimetics | Biomimetic Architecture
+* Skylab Digital lab introduction talk [onsite]
 * Interdisciplinary solutions?
 
 ### [A2] Building System Needs
@@ -46,7 +49,7 @@
 * [Petra Gruber] Lecture (Angewandtem, Austria) [online]
 
 [Week 9](Agile/Schedule/09) Design Pasts |
-* Laila Zwisler Lecture (DTU Physics)  [physical]
+* Laila Zwisler Lecture (DTU Physics)  [onsite]
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 
