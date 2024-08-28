@@ -3,7 +3,7 @@
 * [A1] How to Grow a Cup
 * [A2] Building System Needs
 * [A3] Building System Growth
-* [A4] How to grow a building
+* [A4] How to Grow a building
 * [A5] Reflect
 
 <!-- 2023
