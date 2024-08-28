@@ -5,11 +5,13 @@
 ## Lecture
 
 1. Architectural engineering in an uncertain future.
-1. Focus Areas Inc. roles
-1. 3 horizons framework
+1. Focus Areas
+
 1. Uncertainty
 1. Plan for the course
-2. Science Fiction Prototyping
+2. 2. Overview of the course and questions from the class.
+3. Course Schedule
+
 1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
 1. Agile Prototyping - include paper - hit all targets.
 1. Project targets
