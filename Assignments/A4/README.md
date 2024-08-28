@@ -1,5 +1,3 @@
-# A4 Change
-
 ## A4 - How to Grow a Building
 
 |          |  Building Growth  |
