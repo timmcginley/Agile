@@ -4,10 +4,10 @@
 
 Generative design starts from zero, it ignores the history of previous designs. Thats crazy, its a waste of a resource of human innovation. So similar to the way we 'mine' biology for design inspiration, could we mine hitory to better understand our designs?
 
-Guest Lecture: Laila Zwisler
-
-1. History of Technology
-2. Socio Technical Systems
+## Guest Lecture
+* Laila Zwisler Lecture (DTU Physics)  [onsite]
+* Building System History as Evolution
+* Roman / Greek and Early 20thC Building Systems
 
 ## Activity
 In our focus groups, we will look at 2 time periods:
