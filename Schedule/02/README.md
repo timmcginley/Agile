@@ -7,14 +7,7 @@
 * Torben Lenau Lecture
 * [Parametric Paradox]
 
-### Exercise
-identify a system that will be different from today, based on your prototyped future. What specific problems and challenges will it face?
 
-* Problem Identification / Themes
-* identify the different elements / systems in a building.
-* identify the system they will focus on for their future.
-* Choosing a [project](Agile-Prototyping/Projects).
-* identify the challenges this element / system will face in the future for the chosen project in all three futures (near, mid and far).
 
 Submit: [A1]: 10th September
 
