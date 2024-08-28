@@ -6,7 +6,7 @@ Great work on submitting your Building System Needs!! in [A3] now hard work begi
 
 Lecture
 
-1. [Biomimicry](Agile/Concepts/Biomimicry)
+
 2. [Morphogenetic Prototyping 2](Agile/Concepts/MorphogeneticPrototyping)
 3. [Computational Design 1](Agile/Concepts/ComputationalDesign)
 
