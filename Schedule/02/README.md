@@ -6,7 +6,7 @@
 * Recap on week 1
 * Overview of the projects and questions from the class.
 * Course Schedule
-* Three Horizons [Future] Framework
+* Torben Lenau Lecture
 * [Parametric Paradox]
 
 ### Exercise
