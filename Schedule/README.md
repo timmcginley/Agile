@@ -41,6 +41,10 @@
 * Combine different stages of systems
 
 ### [A3] How to Grow a Building
+In this assignment you further explore the idea of growing buildings as a 
+* [game]
+* parametric [design system] or
+* user / design [manual]
 
 [W7](Agile/Schedule/07) Design Genes |
 * Building Environment
