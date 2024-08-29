@@ -2,20 +2,17 @@
 
 This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. This year we have 3 options for how you can explore this.
 
-1. As a board game
-2. As a [meta disciplinary] computational design system
-3. As a user manual
+1. As a game
+2. As a computational [design system]
+3. As a user [manual]
+
+[game]: /Agile/Projects/Game
+[design system]: /Agile/Projects/Parametric
+[manual]: /Agile/Projects/Manual
 
 
-<!--This course starts with a finished design and then we work togther to reverse engineer it. This enables us to understand how the same building system can support different building projects.
+<!--
 
-Based on this we can then design the bulding system as a reconfigurable 'agile prototype' that we can integrate with other systems to adapt to different project requirements.
-
--->
-
-<!-- * support each of the 3 futures (near, mid and far) for either the planet A or planet B scenario you defined in [A1](/Agile/Assignments/A1)
-
--->
 ### Agile Protoype
 This does *not mean* that the constructed prototype has to adapt like a transformer...
 
@@ -30,7 +27,9 @@ To acheive this, we will operate on different [building systems](/Agile/Systems/
 Your agile prototype needs to be able to: take a building:
 
 * The designs from the Advanced Building Design Course (41936)
-<!--* The model for the Skylab building on campus.-->
+
+
+* The model for the Skylab building on campus.-->
 
 [Computational]: and Parametric Design: /Agile/Concepts/ComputationalDesign
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
