@@ -9,4 +9,5 @@ For inspiration you could choose a
 
 ## Special considerations
 * Do you imagine one manual for the buidling, or seperate manuals for each system?
+* Manuals often start with tools or how to prepare the work area, what will yours say?
 
