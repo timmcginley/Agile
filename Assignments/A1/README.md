@@ -9,7 +9,7 @@
 | Output   | Drawings|
 | Submit   | Digital drawings or photos / scans of physical drawings |
 
-In this assignment you will follow the Agile Prototyping Method on a Cup.
+In this assignment you will follow the Agile Prototyping Method on a Cup in the following steps:
 
 ### 1. Identify the functions
 * Define the functions of a cup
