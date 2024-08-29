@@ -43,8 +43,8 @@
 ### [A3] How to Grow a Building
 In this assignment you further explore the idea of growing buildings as a 
 * [game]
-* parametric [design system] or
-* user / design [manual]
+* [parametric] design system or
+* [manual] for growing buildings
 
 [W7](Agile/Schedule/07) Design Genes |
 * Building Environment
@@ -83,3 +83,7 @@ In this assignment you further explore the idea of growing buildings as a
 [A4]: Agile/Assignments/A4
 [A5]: Agile/Assignments/A5
 [BIM]: /41934/Concepts/BIM
+
+[game]: /Agile/Projects/Game
+[parametric]: /Agile/Projects/Parametric
+[manual]: /Agile/Projects/Manual
