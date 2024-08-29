@@ -1,11 +1,10 @@
-# Projects 24
+# Projects
 
 This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. This year we have 3 options for how you can explore this.
 
 1. As a board game
 2. As a [meta disciplinary] computational design system
 3. As a user manual
-
 
 
 <!--This course starts with a finished design and then we work togther to reverse engineer it. This enables us to understand how the same building system can support different building projects.
