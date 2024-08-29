@@ -3,7 +3,7 @@
 
 ### [A1] How to Grow a Cup
 
-[W1](Agile/Schedule/01)  Agile Prototypes |
+[W1](Agile/Schedule/01)  Agile Prototypes and the Parametric Paradox |
 * Future | Problems | Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
