@@ -9,4 +9,4 @@ This could be for board game or a physical game. In this way you are demonstrati
 
 
 [phenotype]: /Agile/Concepts/Phenotype
-[Environemnt]: /Agile/Concepts/Environment
+[environemnt]: /Agile/Concepts/Environment
