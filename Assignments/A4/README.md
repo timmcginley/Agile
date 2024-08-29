@@ -13,15 +13,9 @@
 
 This course is backwards.
 
-Starting with finished designs, we work togther to reverse engineer them. 
+Starting with finished designs, we work togther to reverse engineer them. This is difficult so we use biological concepts to mediate the complexity. In the previous assignment you used the Agile Prototyping method to design parametric building systems that could adapt to different projects. We call these parametric systems 'Agile Prototypes' or APs for short.
 
-This is difficult so we use biological concepts to mediate the complexity. 
-
-In the previous assignment you used the Agile Prototyping method to design parametric building systems that could adapt to different projects. We call these parametric systems 'Agile Prototypes' or APs for short.
-
-In this assignment we work out how to integrate the developmental satges and functions of different APs into a multi disciplinary building growth staging method.
-
-This should enable us to 'grow a building'.
+In this assignment we work out how to integrate the developmental satges and functions of different APs into a multi disciplinary building growth staging method. This should enable us to 'grow a building'.
 
 However as noone has ever grown a building before we suggest three projects that would help you explore this idea. Please remember in this assignment, it is more important that you are exploring the idea and seeing where it takes you, than that it is correct.
 
