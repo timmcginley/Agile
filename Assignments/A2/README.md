@@ -26,7 +26,7 @@ For your chosen [focus] area, you need to do the following:
 * Can we find a universal 'pseudo' developmental sequence for your building system?
 * Which feature would appear first?
 
-### 4. Is is growing?
+### 4. Is it growing?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
 
 <!--
