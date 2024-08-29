@@ -5,20 +5,12 @@
       link: /Concepts/Agile
     - name: Biomimetics
       link: /Concepts/Biomimetics
-    - name: Computational Design
-      link: /Concepts/ComputationalDesign
-    - name: Design Experience
-      link: /Concepts/DesignExperience
-    - name: Futures
-      link: /Concepts/Futures
+    - name: Building System
+      link: /Concepts/BuildingSystem
+    - name: Growth
+      link: /Concepts/Growth
     - name: Meta Disciplinary
       link: /Concepts/MetaDisciplinary
-    - name: Morphogenetic Prototyping
-      link: /Concepts/MorphogeneticPrototyping
-    - name: Physical Prototyping
-      link: /Concepts/PhysicalPrototyping
-    - name: Reverse Engineering
-      link: /Concepts/ReverseEngineering
 - name: Projects
   link: /Projects
   dropdown: 
