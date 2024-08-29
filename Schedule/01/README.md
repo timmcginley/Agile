@@ -1,4 +1,4 @@
-# Week 1 - Agile Prototypes
+# Week 1 - Parametric Paradox
 
 *3rd September 2024*
 
