@@ -9,7 +9,7 @@
 | Output   | Game (digital or photos of physical), parametric design system or manual |
 | Submit   | DTU Learn / Github repository |
 
-## Reverse Engineering Buildings
+## Assignment Details
 
 This course is backwards.
 
