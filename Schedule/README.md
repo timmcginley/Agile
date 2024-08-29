@@ -37,7 +37,7 @@
 * Meta Disciplinary systems
 * Meta Disciplinary elements
 
-[W6](Agile/Schedule/06) Sys Dev common spec |
+[W6](Agile/Schedule/06) System Growth Common Specification |
 * Combine different stages of systems
 
 ### [A3] How to Grow a Building
