@@ -9,6 +9,22 @@
 | Output   | Final spec for the system including the standardized development stages |
 | Submit   | Markdown file |
 
+Based on this we can then design the bulding system as a reconfigurable 'agile prototype' that we can integrate with other systems to adapt to different project requirements.
+
+### Agile Protoype
+This does *not mean* that the constructed prototype has to adapt like a transformer...
+
+![transformer image](https://tfwiki.net/mediawiki/images2/thumb/d/dc/OpTransformsSu.jpg/400px-OpTransformsSu.jpg) &nbsp;
+
+but that **the design of the agile prototype can** using [Computational and Parametric Design] techniques described in this course.
+
+To acheive this, we will operate on different [building systems](/Agile/Systems/).
+### This year
+
+Your agile prototype needs to be able to: take a building:
+
+* The designs from the Advanced Building Design Course (41936)
+<!--* The model for the Skylab building on campus.-->
 
 <!--
 # A3 Analyse
