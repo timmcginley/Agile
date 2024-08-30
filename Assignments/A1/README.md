@@ -5,7 +5,7 @@
 |  Aim     | Learn Agile Prototyping Methods with a simple example  |
 | Tools    | Pen and paper|
 | Case     | Cup |
-| Groups   | Groups or 2 to 3 |
+| Groups   | (Group) 2 - 3 People |
 | Practice | In class activity in week 1 and 2|
 | Output   | Drawings|
 | Submit   | Digital drawings or photos / scans of physical drawings |
