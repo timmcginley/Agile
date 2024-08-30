@@ -7,10 +7,10 @@ This has been developed over a number of years and we can now show it here. We a
 ## Stage 1 (Root)
 In this first stage the site, height and envelope and floors are defined. 
 
-### Site
+### S1A Site
 The site is influenced by the [location] gene. This should also include the 'set back' on the site, that determines the maximum foot print of the building. Also need to consider site biodiversity and other factors.
 
-### Height
+### S1B Height
 The height is limited by the constraints of the [project]
 
 ### Envelope.
