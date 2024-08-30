@@ -38,6 +38,7 @@
 
 
 [system]: (/Agile/Systems)
+[stages]: (/Agile/Stages)
 
 [Space]: /Agile/Systems/Space
 [Facade]: /Agile/Systems/Facade
