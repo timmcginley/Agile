@@ -4,17 +4,21 @@ This has been developed over a number of years and we can now show it here. We a
 
 ![DesignGrid](/Agile/img/DesignGrid.PNG)
 
-## Stage 1
+## Stage 1 (Root)
+In this first stage the site, height and envelope and floors are defined. 
 
 ### Site
+The site is influenced by the [location] gene. This should also include the 'set back' on the site, that determines the maximum foot print of the building. Also need to consider site biodiversity and other factors.
 
 ### Height
+The height is limited by the constraints of the [project]
 
-### Envelope
+### Envelope.
+The envelope can be calculated.
 
 ### Storeys
 
-## Stage 2
+## Stage 2 (Space)
 
 ### Space
 
@@ -23,3 +27,6 @@ This has been developed over a number of years and we can now show it here. We a
 ### Bound
 
 ### Plenum
+
+[location]: /Agile/Genes/Location
+[project]: /Agile/Genes/Project
