@@ -5,7 +5,7 @@
 |  Aim     | Define the growth stage of a building system (agile prototype)  |
 | Tools    | Pen and paper / computational design |
 | Case     | Building System (for focus area) |
-| Groups   | 1 submission per system (example all structures systems in one group) |
+| Groups   | (System) 1 system = 7 groups (example: all structures groups together) |
 | Practice | In class activity in week 5 and 6 |
 | Output   | Final spec for the system including the standardized development stages |
 | Submit   | Markdown file, individual system group agreement form |
