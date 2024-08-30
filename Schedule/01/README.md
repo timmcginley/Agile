@@ -5,16 +5,14 @@
 ## Lecture
 
 1. Architectural engineering in an uncertain future.
-1. Focus Areas / System / Meta Discplinary?
-
-1. Uncertainty
-1. Plan for the course
-2. Overview of the course and questions from the class.
-3. Course Schedule
-
-1. Future (provide real case studies to support exercise) - mckinsey reports plus film / comics?
-1. Agile Prototyping - include paper - hit all targets.
-1. Project targets
+2. Biology can grow in homeostasis for free.
+1. How to grow a building?
+    * what would the [stages] be?
+    * What would the [system]s / organs be?
+    * What system would you like to work on this semester?
+    * How could the systems grow together?
+    * would this generate better buildings?
+1. Plan for the course / Schedule and questions from the class.
 
 ## Session Exercise
 
