@@ -16,14 +16,12 @@
 - name: Projects
   link: /Projects
   dropdown: 
-    - name: Roskilde
-      link: /Projects/Roskilde
-    - name: Space
-      link: /Projects/Space
-    - name: Skate
-      link: /Projects/Skate
-    - name: Skylab
-      link: /Projects/Skylab
+    - name: Game
+      link: /Projects/Game
+    - name: Parametric
+      link: /Projects/Paramertric
+    - name: Manual
+      link: /Projects/Manual
 - name: Genes
   link: /Genes
   dropdown: 
