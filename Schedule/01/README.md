@@ -18,6 +18,19 @@
 
 ## Session Exercise
 
+### 0. Choose a [system]
+* Space
+* Facade
+* Core
+* Structure
+* MEP
+* Fire
+* Materials
+
+### 0. System selection
+* Form a group of 2 or 3
+
+
 
 <!--
 
