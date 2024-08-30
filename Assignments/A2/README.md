@@ -5,7 +5,7 @@
 |  Aim     |   Define the features of a building system (agile prototype)  |
 | Tools    | Pen and paper / computational design |
 | Case     | Building System (for focus area) |
-| Groups   | System groups 2 to 3 students per group |
+| Groups   | Same group as A1 (2 to 3 people) |
 | Practice | In class activity in week 3 and 4 |
 | Output   | Drawings / digital prototypes (i.e. grasshopper) |
 | Submit   | Markdown file |
