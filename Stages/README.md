@@ -2,7 +2,7 @@
 
 The main focus of the course is to determine the 'growth stages' of a building. We have been investigating this for many years. here are our best appraoches so far.
 
-# Meta Discipline Development Stages
+# Meta Disciplinary Development Stages
 ![Meta Discipline Development Stages](/Agile/img/MetaDisciplinaryDevelopment.png)
 
 The above diagram from McGinley & Krijnen 2023, describes the conceptual subdivisions a building goes through. This is one way to represent imagine the growth of a building.
