@@ -26,6 +26,8 @@ The methodology has X steps, which you will gaing experience of in this course.
 * Can we find a universal 'pseudo' developmental sequence for your building system?
 * Which feature would appear first?
 
+![Pen and Pencil](/Agile/img/Pen_and_Pencil.png)
+
 ### 4. Is is growing?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
 
