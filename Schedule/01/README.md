@@ -35,7 +35,7 @@
 * Choose your group of 2 to 3 and a number from learn and 
 
 
-[system]: (/Agile/Concepts/BuildingSystem)
+[system]: (/Agile/Systems)
 
 [Space]: /Agile/Systems/Space
 [Facade]: /Agile/Systems/Facade
