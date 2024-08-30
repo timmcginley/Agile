@@ -22,25 +22,25 @@
       link: /Projects/Parametric
     - name: Manual
       link: /Projects/Manual
-- name: Genes
-  link: /Genes
-  dropdown: 
-    - name: GS1 Project
-      link: /Genes/Project
-    - name: GS2 Location
-      link: /Genes/Location
-    - name: GS3 External
-      link: /Genes/External
-    - name: GS4 Function
-      link: /Genes/Function
-    - name: GS5 Structure
-      link: /Genes/Structure
-    - name: GS6 Internal
-      link: /Genes/Internal
-    - name: GS7 Material
-      link: /Genes/Material
-    - name: GS8 Build
-      link: /Genes/Build
+#- name: Genes
+#  link: /Genes
+#  dropdown: 
+#    - name: GS1 Project
+#      link: /Genes/Project
+#    - name: GS2 Location
+#      link: /Genes/Location
+#    - name: GS3 External
+#      link: /Genes/External
+#    - name: GS4 Function
+#      link: /Genes/Function
+#    - name: GS5 Structure
+#      link: /Genes/Structure
+#    - name: GS6 Internal
+#      link: /Genes/Internal
+#    - name: GS7 Material
+#      link: /Genes/Material
+#    - name: GS8 Build
+#      link: /Genes/Build
 - name: Schedule
   link: /Schedule
   dropdown: 
@@ -107,8 +107,8 @@
       link: /Examples/SFP
     - name: Agile X Pavilion
       link: /Examples/AgileXPavilion
-    - name: BOHM
-      link: /Examples/BOHM
+    - name: BHOM
+      link: /Examples/BHOM
     - name: Grasshopper
       link: /Examples/Grasshopper
 - name: Learning

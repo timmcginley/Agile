@@ -1,5 +1,20 @@
 # Building Design Genes
 
+Can we get the genes into the design board?
+
+These are lens that we can apply to help us understand what our systems need to do.
+
+Build
+External / Facade
+Function / Use
+Internal / Space
+Location / Site
+Material
+Project
+Structure
+
+
+
 ## Architectural Genotype
 ‘The [architectural] types that are physically created support and promote the values, social relationships,and patterns of activities that are dominant in that society at that time’ (Franck, 1994, p. 345). Hence it is only when the dominant values of a society change that the types of buildings can change. It therefore matters where the genotype is stored. Is it cultural, inside the user, the environment, the designer or encapsulated in our common understanding of the architectural typology as a conveyer of cultural values? Hillier (2007) presents the idea of architectural genotypes as an underlying spatial logic of architecture. Inthis sense the phenotype is the material architecture. In biology the phenotype is the result of thegenotype and epigenetic and non-inherited environmental factors. The biological phenotype’sevolutionary response is imprinted in the organism’s DNA genotype. In addition, the organism’s‘phenotypic plasticity’ - or ability to adapt to its environment during its development – would need to beaccommodated in a genotypical description of architectural typologies. From an architectural perspective,Gero and Kazakov (1998) presented the idea of ‘design genes’ which they proposed could be used toinform spatial organisation. Architectural genotypes could provide a wholly new way of looking atarchitecture. 
 
