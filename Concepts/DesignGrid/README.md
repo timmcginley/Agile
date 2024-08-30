@@ -4,3 +4,12 @@ This has been developed over a number of years and we can now show it here. We a
 
 ![DesignGrid](/Agile/img/DesignGrid.PNG)
 
+## Stage 1
+
+### Site
+
+### Core
+
+### Building
+
+### Storeys
