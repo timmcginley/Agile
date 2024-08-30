@@ -46,7 +46,7 @@ Due
 [W6](Agile/Schedule/06) System Growth Common Specification |
 * Combine different stages of systems
 
-### [A3] How to Grow a Building
+### [A4] How to Grow a Building
 In this assignment you further explore the idea of growing buildings as a 
 * [game]
 * [parametric] design system or
