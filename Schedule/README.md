@@ -1,5 +1,10 @@
 # Course Schedule  2024
 
+### Room location: 
+B127-H014
+B117-H024
+Session times 8:00 - 12:00 on Tuesdays
+
 
 ### [A1] How to Grow a Cup
 
