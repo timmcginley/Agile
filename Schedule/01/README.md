@@ -4,12 +4,11 @@
 
 ## Lecture
 
-1. Architectural engineering is difficult in an uncertain future
-2. You are experiencing multiple transitions at the same time:
+1. You are experiencing multiple transitions at the same time:
    * Sustainability
    * Digitalisation / Automation
    * Your educational to professional Engineer
-4. We need a radical new approach
+4. Architectural Engineering needs a radical new approach
 5. Biology can grow in homeostasis for free
 1. How could we grow a building?
     * what would the [stages] be?
