@@ -2,6 +2,17 @@
 
 Can we get the genes into the design board?
 
+These are lens that we can apply to help us understand what our systems need to do.
+
+Build
+External / Facade
+Function / Use
+Internal / Space
+Location / Site
+Material
+Project
+Structure
+
 
 
 ## Architectural Genotype
