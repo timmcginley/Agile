@@ -12,7 +12,7 @@ In Agile Prototyping this year we focus on the following building systems based 
 [Facade]: /Agile/Systems/Facade
 [Core]: /Agile/Systems/Core
 [Structure]: /Agile/Systems/Structure
-[Services]: /Agile/Systems/MEP
+[Services]: /Agile/Systems/Services
 [Floor]: /Agile/Systems/Floor
 
 [meta disciplinary elements]: /Agile/Concepts/MetaDisciplinary
