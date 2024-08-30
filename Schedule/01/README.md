@@ -4,10 +4,10 @@
 
 ## Lecture
 
-1. You are experiencing multiple transitions at the same time:
-   * Sustainability
-   * Digitalisation / Automation
-   * Your educational to professional Engineer
+1. You are experiencing and supporting multiple transitions at the same time:
+   * the Sustainability transition
+   * the Digitalisation / Automation transition
+   * your own transition from student to professional Engineer
 4. Architectural Engineering needs a radical new approach
 5. Biology can grow in homeostasis for free
 1. How could we grow a building?
