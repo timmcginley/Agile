@@ -5,7 +5,7 @@
 ## Lecture
 
 1. Architectural engineering in an uncertain future.
-1. Focus Areas / System
+1. Focus Areas / System / Meta Discplinary?
 
 1. Uncertainty
 1. Plan for the course
