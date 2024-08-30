@@ -19,13 +19,11 @@
 ## Session Exercise
 
 ### 0. Choose a [system]
-* [Space]
-* [Facade]
-* [Core]
-* [Structure]
-* [MEP]
-* [Fire]
-* [Materials]
+* [Space](/Agile/Systems/Space)
+* [Facade](/Agile/Systems/Facade)
+* [Core](/Agile/Systems/Core)
+* [Structure](/Agile/Systems/Structure)
+* [Services](/Agile/Systems/Services)
 
 ### 0. System selection
 * Subdivide the system groups into groups of between 2 and 3.
