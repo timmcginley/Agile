@@ -7,6 +7,17 @@ The main focus of the course is to determine the 'growth stages' of a building. 
 
 The above diagram from McGinley & Krijnen 2023, describes the conceptual subdivisions a building goes through. This is one way to represent imagine the growth of a building.
 
+1. Project
+2. Site
+3. Building
+4. Skin [(Facade)](/Agile/Systems/Facade)
+5. [Core](/Agile/Systems/Facade)
+6. [Space](/Agile/Systems/Space)
+7. [Structure](/Agile/Systems/Structure) and [Services](/Agile/Systems/Services)
+8. Stuff
+
+Unfortunately the MDDS only inlcudes a single floor, so it is not given explicitly as a stage, but it would ould probably go after building and before skin (facade).
+
 # Morphogenetic Architecture Framework
 ![BioBIM](/Agile/img/MorphogeneticArchitectureFramework.png)
 
