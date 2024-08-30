@@ -7,6 +7,7 @@ Session times 8:00 - 12:00 on Tuesdays
 
 
 ### [A1] How to Grow a Cup
+Due 
 
 [W1](Agile/Schedule/01)  Parametric Paradox |
 * Future | Problems | Buildings
@@ -88,6 +89,20 @@ In this assignment you further explore the idea of growing buildings as a
 [A4]: Agile/Assignments/A4
 [A5]: Agile/Assignments/A5
 [BIM]: /41934/Concepts/BIM
+
+[W1]: /41934/Schedule/01
+[W2]: /41934/Schedule/02
+[W3]: /41934/Schedule/03
+[W4]: /41934/Schedule/04
+[W5]: /41934/Schedule/05
+[W6]: /41934/Schedule/06
+[W7]: /41934/Schedule/07
+[W8]: /41934/Schedule/08
+[W9]: /41934/Schedule/09
+[W10]: /41934/Schedule/10
+[W11]: /41934/Schedule/11
+[W12]: /41934/Schedule/12
+[W13]: /41934/Schedule/13
 
 [game]: /Agile/Projects/Game
 [parametric]: /Agile/Projects/Parametric
