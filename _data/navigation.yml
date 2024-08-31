@@ -100,16 +100,16 @@
       link: /Assignments/A4
     - name: A5 Reflect
       link: /Assignments/A5
-- name: Examples
-  link: /Examples
-  dropdown: 
-    - name: SFP
-      link: /Examples/SFP
-    - name: Agile X Pavilion
-      link: /Examples/AgileXPavilion
-    - name: BHOM
-      link: /Examples/BHOM
-    - name: Grasshopper
-      link: /Examples/Grasshopper
-- name: Learning
-  link: /LearningObjectives
+#- name: Examples
+#  link: /Examples
+#  dropdown: 
+#    - name: SFP
+#      link: /Examples/SFP
+#    - name: Agile X Pavilion
+#      link: /Examples/AgileXPavilion
+#    - name: BHOM
+#      link: /Examples/BHOM
+#    - name: Grasshopper
+#      link: /Examples/Grasshopper
+#- name: Learning
+#  link: /LearningObjectives
