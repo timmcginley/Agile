@@ -23,8 +23,8 @@ Over 5 assignements we work out:
 [methodology]: Methodology
 [projects]: Projects
 
-[A1]: /41934/Assignments/A5
-[A2]: /41934/Assignments/A5
-[A3]: /41934/Assignments/A5
-[A4]: /41934/Assignments/A5
-[A5]: /41934/Assignments/A5
+[A1]: /Agile/Assignments/A1
+[A2]: /Agile/Assignments/A2
+[A3]: /Agile/Assignments/A3
+[A4]: /Agile/Assignments/A4
+[A5]: /Agile/Assignments/A5
