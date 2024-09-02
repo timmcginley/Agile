@@ -1,27 +1,18 @@
 # Agile Prototyping
 
-**How can we design buildings for the future, when the future is [unknowable]? 
+>How can we design buildings for the future, when the future is [unknowable]?
 
->Agile Prototyping is a [methodology] for designing building systems in the future. Designing in the future requires 'future tools
->' for an agile, fast and robust approach to; model, adapt and redesign building systems and products.
+Agile Prototyping is a [methodology] for designing building systems in the future. Designing in the future requires an agile, approach to; model, adapt and redesign building systems and products, fast.
 
-In the course over 5 assignements we:
+Agile Prototyping applies a biological science lens to the built environment to extract and modify the ‘genes’ of the built environment. This enable future architectural engineers to hack the pseudo genetic code to analyse and (re)design buildings and their systems, fast. 
 
+Over 5 assignements we work out:
 
-
-1. Forecast a near, mid and far future
-2. Identify the requirements of this future on our building systems.
-3. Reverse engineer existing building systems
-4. Re engineer those systems to their proposed futures.
-
-## Methodology
-The Agile Prototyping methodology synthesises:
-- [agile design processes](Concepts/Agile) 
-- [computational design](Concepts/ComputationalDesign)
-- [biomimetics](Concepts/Biomimetics) / [Morphogenetic Prototyping](Concepts/MorphogeneticPrototyping)
-- [future forecasting](Concepts/Futures)
-
-The course provides participants with a future focused design, analysis and modelling skills in architectural engineering. Agile Prototyping applies a biological science lens to the built environment to extract and modify the ‘genes’ of the built environment. This enable future architectural engineers to hack the pseudo genetic code of our built environment for the fast (re)design and analysis of our built environment. This year we have four exciting [projects] that you can contribute to this semester.
+* [A1] How to Grow a Cup
+* [A2] What a Building System Needs
+* [A3] How a Building System might grow
+* [A4] How to Grow a building
+* [A5] What we learnt.
 
 
 <!-- link -->
@@ -31,3 +22,9 @@ The course provides participants with a future focused design, analysis and mode
 [future]: Concepts/Futures
 [methodology]: Methodology
 [projects]: Projects
+
+[A1]: /41934/Assignments/A5
+[A2]: /41934/Assignments/A5
+[A3]: /41934/Assignments/A5
+[A4]: /41934/Assignments/A5
+[A5]: /41934/Assignments/A5
