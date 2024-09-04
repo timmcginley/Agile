@@ -12,14 +12,29 @@ The methodology has X steps, which you will gaing experience of in this course.
 1. For your chosen [focus] area, you need to do the following:
 
 ### 1. Identify the artefact (the simpler the better)
+![Step 1](/Agile/img/Methodology/01.PNG)
 ### 2. Check for symmetry / primary axis
+![Step 2](/Agile/img/Methodology/02.PNG)
 ### 3. Identify segments 
+![Step 3](/Agile/img/Methodology/03.PNG)
 ### 4. Define the scope of the study (smaller the better)
+![Step 4](/Agile/img/Methodology/04.PNG)
 ### 5. Identify artefact features and their affordances
+![Step 5](/Agile/img/Methodology/05.PNG)
 ### 6. Reverse engineer an instance of the system / artefact
+![Step 6a](/Agile/img/Methodology/06a.PNG)
+
+![Step 6b](/Agile/img/Methodology/06b.PNG)
+
+![Step 6c](/Agile/img/Methodology/06c.PNG)
+
+![Step 6d](/Agile/img/Methodology/06d.PNG)
 ### 7. Identify stages in the ‘development’ of the instance
+![Step 7](/Agile/img/Methodology/07.PNG)
 ### 8. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+![Step 8](/Agile/img/Methodology/08.PNG)
 ### 9. Having mapped the stages then we can then work out the evolution of the artefact
+![Step 9](/Agile/img/Methodology/09.PNG)
 
 ![image](https://github.com/user-attachments/assets/b57222c4-313e-48d0-9c48-21bb293d400a)
 
