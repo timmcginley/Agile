@@ -19,14 +19,19 @@
     * would this generate better buildings?
 1. Plan for the course / Schedule and questions from the class.
 
-## Session Exercise
+## Activty 1
 
 ### 0. Choose a [system]
-* [Space](/Agile/Systems/Space)
-* [Facade](/Agile/Systems/Facade)
-* [Core](/Agile/Systems/Core)
-* [Structure](/Agile/Systems/Structure)
-* [Services](/Agile/Systems/Services)
+1. [Core](/Agile/Systems/Core)
+2. [Facade](/Agile/Systems/Facade)
+3. [Floor](/Agile/Systems/Floor)
+4. [Services](/Agile/Systems/Services)
+5. [Fire](/Agile/Systems/Fire)
+6. [Space](/Agile/Systems/Space)
+7. [Structure](/Agile/Systems/Structure)
+8. [Materials](/Agile/Systems/Materials)
+9. [Build](/Agile/Systems/Build)
+10. [Site](/Agile/Systems/Site)
 
 ### 0. System selection
 * Subdivide the system groups into groups of between 2 and 3.
