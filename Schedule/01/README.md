@@ -22,16 +22,16 @@
 ## Activty 1
 
 ### 0. Choose a [system]
+1. [Site](/Agile/Systems/Site)
+2. [Floor](/Agile/Systems/Floor)
+1. [Facade](/Agile/Systems/Facade)
 1. [Core](/Agile/Systems/Core)
-2. [Facade](/Agile/Systems/Facade)
-3. [Floor](/Agile/Systems/Floor)
-4. [Services](/Agile/Systems/Services)
-5. [Fire](/Agile/Systems/Fire)
-6. [Space](/Agile/Systems/Space)
-7. [Structure](/Agile/Systems/Structure)
-8. [Materials](/Agile/Systems/Materials)
-9. [Build](/Agile/Systems/Build)
-10. [Site](/Agile/Systems/Site)
+2. [Space](/Agile/Systems/Space)
+1. [Structure](/Agile/Systems/Structure)
+1. [Services](/Agile/Systems/Services)
+1. [Fire](/Agile/Systems/Fire)
+1. [Materials](/Agile/Systems/Materials)
+1. [Build](/Agile/Systems/Build)
 
 ### 0. System selection
 * Subdivide the system groups into groups of between 2 and 3.
