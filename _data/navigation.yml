@@ -22,6 +22,30 @@
       link: /Projects/Parametric
     - name: Manual
       link: /Projects/Manual
+- name: Systems
+  link: /Systems
+  dropdown: 
+    - name: Site
+      link: /Systems/Site
+    - name: Floor
+      link: /Systems/Floor
+    - name: Facade
+      link: /Systems/Facade
+    - name: Core
+      link: /Systems/Core
+    - name: Space
+      link: /Systems/Space
+    - name: Structure
+      link: /Systems/Structure
+    - name: Services
+      link: /Systems/Services
+    - name: Fire
+      link: /Systems/Fire
+    - name: Materials
+      link: /Systems/Materials
+    - name: Build
+      link: /Systems/Build
+      
 #- name: Genes
 #  link: /Genes
 #  dropdown: 
