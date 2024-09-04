@@ -23,7 +23,7 @@ The methodology has X steps, which you will gaing experience of in this course.
 ![Step 5](/Agile/img/Methodology/05.PNG)
 ### 6. Reverse engineer an instance of the system / artefact
 ![Step 6a](/Agile/img/Methodology/06a.PNG)
-#### 6b. Find the starting point - a tube?
+#### 6b. What is the 'egg' stage of your artefact / System?
 ![Step 6b](/Agile/img/Methodology/06b.PNG)
 #### 6c. Find feature A.
 ![Step 6c](/Agile/img/Methodology/06c.PNG)
