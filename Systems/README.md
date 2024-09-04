@@ -5,6 +5,8 @@ In Agile Prototyping this year we focus on the following building systems based 
 ![metadisiscplinary elements](/Agile/img/meta-disc-elements.jpg)
 Figure 1. Meta Disciplinary Objects.
 
+In week [1] you will choose one of the following systems to work with this semester.
+
 1. [Site]
 2. [Floor] (This was missing in the orginal paper) (Including Storeys, slabs and the plenum)
 1. [Facade] (named skin in Figure 1)
@@ -16,6 +18,7 @@ Figure 1. Meta Disciplinary Objects.
 1. [Materials] (This system is not included in Figure 1.)
 1. [Build] (This system is not included in Figure 1.)
 
+[1]: /Schedule/01
 
 [Site]: /Agile/Systems/Site
 [Floor]: /Agile/Systems/Floor
