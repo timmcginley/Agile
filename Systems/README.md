@@ -2,7 +2,7 @@
 
 In Agile Prototyping this year we focus on the following building systems based on the [meta disciplinary elements] from [A framework for meta-disciplinary building analysis] (McGinley & Krijnen 2022).
 
-![metadisiscplinary elements](/img/meta-disc-elements.jpg)
+![metadisiscplinary elements](/Agile/img/meta-disc-elements.jpg)
 Figure 1. Meta Disciplinary Objects.
 
 1. [Site]
