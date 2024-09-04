@@ -11,6 +11,19 @@ The methodology has X steps, which you will gaing experience of in this course.
 
 1. For your chosen [focus] area, you need to do the following:
 
+### 1. Identify the artefact (the simpler the better)
+### 2. Check for symmetry / primary axis
+### 3. Identify segments 
+### 4. Define the scope of the study (smaller the better)
+### 5. Identify artefact features and their affordances
+### 6. Reverse engineer an instance of the system / artefact
+### 7. Identify stages in the ‘development’ of the instance
+### 8. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+### 9. Having mapped the stages then we can then work out the evolution of the artefact
+
+![image](https://github.com/user-attachments/assets/b57222c4-313e-48d0-9c48-21bb293d400a)
+
+
 ### 1. Identify the functions
 * Define the functions of your chosen building system.
 * What features of a cup support these functions?
