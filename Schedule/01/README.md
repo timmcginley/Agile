@@ -39,8 +39,11 @@
 ### 1. Add your group in Learn
 * Add your group of 2 or 3 people to group in learn
 * Add yourself to a system group in [Learn](https://learn.inside.dtu.dk/d2l/lms/group/group_list.d2l?ou=215386&categoryId=21009) Eve
+* Choose your group of 2 to 3 and a number from learn and
 
-* Choose your group of 2 to 3 and a number from learn and 
+### 2. Growing a cup.
+* Use the [Agile Protoyping methodology] outlined in the presentation and [here]. To identify the stages of growth of the cup. For this exercise we will follow stages 1 - 7.
+
 
 
 [system]: (/Agile/Systems)
@@ -53,6 +56,8 @@
 [MEP]: /Agile/Systems/MEP
 [Fire]: /Agile/Systems/Fire
 [Materials]: /Agile/Systems/Materials
+
+[Agile Prototyping Methodology]: /Agile/Methodology
 
 <!--
 
