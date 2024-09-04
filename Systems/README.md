@@ -1,4 +1,4 @@
-# Building Systems
+# Agile Building Systems
 
 In Agile Prototyping this year we focus on the following building systems based on the [meta disciplinary elements] from [A framework for meta-disciplinary building analysis] (McGinley & Krijnen 2022).
 
