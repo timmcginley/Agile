@@ -6,9 +6,9 @@
 
 ### AP5-3 fill the gaps
 
-### AP5-4 run it
+### AP5-4 Check it works
 
-### AP5-5 Reflect
+### AP5-5 Explain it
 
 
 <!--## Evolutionary Search - similar to AP4...
