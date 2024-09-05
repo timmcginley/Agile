@@ -13,6 +13,21 @@
       link: /Concepts/MetaDisciplinary
     - name: Design Grid
       link: /Concepts/DesignGrid
+- name: Methodology
+  link: /Methodology
+  dropdown: 
+    - name: AP1 - Features
+      link: /Methodology/01
+    - name: AP2 - Stages
+      link: /Methodology/02
+    - name: AP3 - Biomimetics
+      link: /Methodology/03
+    - name: AP4 - Mapping
+      link: /Methodology/04
+    - name: AP5 - Evolution
+      link: /Methodology/05
+    - name: AP6 - Architecture
+      link: /Methodology/06
 - name: Projects
   link: /Projects
   dropdown: 
