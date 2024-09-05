@@ -6,7 +6,7 @@
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
 ### AP[1] Features
-Record the features and 'segments' of the system or artefact you are studying.
+Identify the axis, 'segments', features and scope of the system or artefact you are studying.
 - Explore Part 1 steps [here](/Agile/Methodology/01)
 
 ### AP[2] Stages
