@@ -4,14 +4,22 @@
 ### Biology as a lens to support metadisciplinary building analysis
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Obviously buildings do not 'really' have genes. However before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
 
-
-they used to AP adapts pre genetic sequencing comparative biology techniques to infer:
+### What does Agile Prototyping do?
+We use it in this course to infer:
 - the features and functions,
 - genes and growth (developmental) stages, 
-- and evolution of systems and artefacts.
+- and evolution of building systems.
 
-AP then uses these to support a 
-- to support a fast, informed and agile design experience of artificial systems for the 21st century.
+### Why would we want to do that?
+If we know these things it will enable us to
+- Easily transplant materials and building systems
+- Dyamically reconfigure both the design and the design process
+- Reuse and improve on existing designs
+- Support metadisciplinary modelling and anlysis
+- Reverse, rewind, edit and playback the design process.
+- Expand the accessible design space from a single phenotype stage to multiple design stages.
+- Inspire new design tools, interactions and opportunities to collaborate
+- A new design experience for the 21st Century.
 
 ### Where did it come from?
 Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
