@@ -3,10 +3,7 @@
 
 **Agile Prototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
 
-Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
-
-## How you can use it?
-Agile Prototyping has four parts:
+Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 4 parts:
 
 ### Part 1. Identify the Features and 'Segments'
 Record the features and 'segments' of the system or artefact you are studying
@@ -16,19 +13,17 @@ Record the features and 'segments' of the system or artefact you are studying
 Imagining it had really grown, in what order would the features appear, what is their function? The stages allow us to translate linear design space into multiple parallel reversible tracks.
 - Explore Part 2 steps [here](/)
 
-### Biomimetic Inspiration
-Gain biomimetic inspiration for new solutions for each growth stage (S3)
-- Biomimetic Inspiration (Stage B1-B5)
+### Part 3. Biomimetic Inspiration
+Gain biomimetic inspiration for new solutions for the functions in each growth stage.
+- Explore Part 3 steps [here](/)
 
-### Compare systems
-4. Identify and **compare** stages in similar systems (S4)
-5. - Support [meta disciplinary] modelling and analysis
-   - It then asks you to compare or integrate this with the growth of other systems or artefacts.
+### Part 4. Compare similar systems
+Compare or integrate th stages with the growth of other systems or artefacts to support [meta disciplinary] modelling and analysis.
+- Explore Part 4 steps [here](/)
 
-### Dynamically recombine adn reconfigure systems
-- Easily transplant materials and building systems at any stage in the design process.
-- Inspire new design tools, interactions and opportunities to collaborate
-- - A new design experience for the 21st Century.
+### Dynamically recombine and reconfigure systems
+Easily transplant materials and building systems at any stage in the design process. This part will require new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
+- Explore Part 5 steps [here](/)
 
 ### Model system evolution
 Model the evolution of building systems
