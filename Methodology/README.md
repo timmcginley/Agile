@@ -6,7 +6,7 @@
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
 ### Part 1. Identify Features
-Record the features and 'segments' of the system or artefact you are studying
+Record the features and 'segments' of the system or artefact you are studying.
 - Explore Part 1 steps [here](/Agile/Methodology/01)
 
 ### Part 2. Identify Stages
@@ -33,10 +33,10 @@ Transplant materials and building systems at any stage in the design process. Th
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
 Therefore in this course we use the method in the following ways:
 
-1. [A1] your first experience with the method focusing on a cup (PART 1, 2, 3 and 4 or 5)
-2. [A2] your second experience (PART 1 and 2) this time with a building system
-3. [A3] your third experience (PART 3, 4 and 5) this time with a building system
-4. [A4] your fourth experience (PART 6) this time with a complete building
+1. [A1] your first experience with the method focusing on a cup (PART [1], [2], [3] and [4] or [5])
+2. [A2] your second experience (PART [1] and [2]) this time with a building system
+3. [A3] your third experience (PART [3], [4] and [5]) this time with a building system
+4. [A4] your fourth experience (PART [6]) this time with a complete building
 5. [A5] reflect on your learning through these spirals.
 
 
@@ -137,6 +137,16 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [A3]: /Agile/Assignments/A3
 [A4]: /Agile/Assignments/A4
 [A5]: /Agile/Assignments/A5
+
+[1]: /Agile/Methodology/01
+[2]: /Agile/Methodology/02
+[3]: /Agile/Methodology/03
+[4]: /Agile/Methodology/04
+[5]: /Agile/Methodology/05
+[6]: /Agile/Methodology/06
+
+
+
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 ['reverse engineers']: /Agile/Concepts/ReverseEngineer
 [Agile Future Design Plan (AFDP)]: /Agile/Concepts/AFDP
