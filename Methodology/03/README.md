@@ -1,8 +1,7 @@
 ## Agile Prototyping Part 3 - Biomimetic Search
 Please note that this part is iterative, for inspiration we should look to Lenau 2009
 
-This part relies on already completely parts [1] and [2].
-
+This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
 #### AP3.1 Asknature
 Next we can take the function and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
