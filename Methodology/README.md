@@ -5,27 +5,27 @@
 
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
-### Part 1. Identify Features
+### AP[1] Features
 Record the features and 'segments' of the system or artefact you are studying.
 - Explore Part 1 steps [here](/Agile/Methodology/01)
 
-### Part 2. Identify Stages
+### AP[2] Stages
 Imagining it had really grown, in what order would the features appear, what is their function? The stages allow us to translate linear design space into multiple parallel reversible tracks.
 - Explore Part 2 steps [here](/Agile/Methodology/02)
 
-### Part 3. Biomimetic Inspiration
-Gain biomimetic inspiration for new solutions for the functions in each growth stage.
+### AP[3] Biomimetics
+Gain biomimetic inspiration for new solutions for the functions you have identified in each growth stage.
 - Explore Part 3 steps [here](/Agile/Methodology/03)
 
-### Part 4. Map Systems
+### AP[4] Mapping
 Compare or integrate the stages with the growth of other systems or artefacts to support [meta disciplinary] analysis.
 - Explore Part 4 steps [here](/Agile/Methodology/04)
 
-### Part 5. System Evolution
+### AP[5] Evolution
 Model the evolution of the building system to help us reuse, improve and learn from previous designs.
 - Explore Part 5 steps [here](/Agile/Methodology/05)
 
-### Part 6. Combine systems
+### AP[6] Orchestration
 Transplant materials and building systems at any stage in the design process. This part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
 - Explore Part 6 steps [here](/Agile/Methodology/06)
 
