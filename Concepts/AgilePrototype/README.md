@@ -7,10 +7,11 @@ Agile Prototypes (AP)s therefore need to be:
 * Clearly Bounded
 * Transportable
 * Replaceable
-* Every AP should fit into one of the 8 
+* Every AP is a specific [building system]
 * Every AP should have its own set of clearly defined growth stages.
 * Each AP stage should be responsive to specific [genes] the AP should function if the gene is present and or triggered or not.
 * Can be non lethally decoupled from other APs.
+* Each AP should have access to a record of its own performance in different building projects.
 
 # Carving
 Having created standardised modularised Agile Prototypes, to realise the potential gain in design speed and flexibility a new building discipline is required to compile and integrate APs for diffferent Building Systems. This new discipline is called [carving]. They work in parallel wiht [coders] which are responsible for encoding, maintaining and sequencing the APs genes. 
