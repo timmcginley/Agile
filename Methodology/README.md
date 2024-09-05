@@ -40,21 +40,6 @@ Therefore in this course we use the method in the following ways:
 5. [A5] reflect on your learning through these spirals.
 
 
-
-
-## Evolutionary Search
-
-#### E1. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
-
-![Step 08](/Agile/img/Methodology/08.PNG)
-
-#### E2. Having mapped the stages then we can then work out the evolution of the artefact
-
-![Step 09](/Agile/img/Methodology/09.PNG)
-
-#### E3. Having mapped the stages then we can then work out the evolution of the artefact
-![Step 10](/Agile/img/Methodology/09.PNG)
-
 ### Where did it come from?
 Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
 
