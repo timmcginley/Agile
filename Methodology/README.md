@@ -134,11 +134,11 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 
 <!-- LINKS -->
 
-[Assignment 1]: /Agile/Assignments/A1
-[Assignment 2]: /Agile/Assignments/A2
-[Assignment 3]: /Agile/Assignments/A3
-[Assignment 4]: /Agile/Assignments/A4
-[Assignment 5]: /Agile/Assignments/A5
+[A1]: /Agile/Assignments/A1
+[A2]: /Agile/Assignments/A2
+[A3]: /Agile/Assignments/A3
+[A4]: /Agile/Assignments/A4
+[A5]: /Agile/Assignments/A5
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 ['reverse engineers']: /Agile/Concepts/ReverseEngineer
 [Agile Future Design Plan (AFDP)]: /Agile/Concepts/AFDP
