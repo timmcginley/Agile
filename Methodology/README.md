@@ -76,15 +76,18 @@ Consider if the design was 'growing' at would stage would feature B 'express' it
 The Agile prototyping method raises many questions including and not limited to:
 * The future design experience
  * [Carving Morphogenetic Prototypes (2015)](https://www.researchgate.net/publication/282664175_MorphoCarve_Carving_Morphogenetic_Prototypes)
- * [A Katana Design Experience](https://www.researchgate.net/publication/323319333_A_Katana_Design_Experience)
+ * [A Katana Design Experience (2018)](https://www.researchgate.net/publication/323319333_A_Katana_Design_Experience)
 * The role of designers and engineers in the future
- * [A Morphogenetic Architecture for Intelligent Buildings](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
+ * [A Morphogenetic Architecture for Intelligent Buildings (2015)](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
 
  * The relationship between design / engineering and biology
- * [Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture](https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture)
+ * [Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture (2016)](https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture)
 
  * A new theory of design
- * [From Hopeful Monsters to Morphogenetic Prototypes](https://www.researchgate.net/publication/304613962_From_Hopeful_Monsters_to_Morphogenetic_Prototypes)
+ * [From Hopeful Monsters to Morphogenetic Prototypes (2016)](https://www.researchgate.net/publication/304613962_From_Hopeful_Monsters_to_Morphogenetic_Prototypes)
+
+How this can feedback into biology
+* [Morphogenetic Prototyping: Towards 5D Transdisciplinary Ontogenetical Models](https://www.researchgate.net/publication/283889718_Morphogenetic_Prototyping_Towards_5D_Transdisciplinary_Ontogenetical_Models)
 
 
 ### 1. Identify the functions
