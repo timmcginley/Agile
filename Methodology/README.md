@@ -4,34 +4,51 @@
 ### Obviously buildings don't 'really' have genes, but...
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
 
-### identify the Features and 'Segments'
+## The Process
+So how does it work?
 
-
-
-### Stages
-
-Similarly Agile Prototyping works by:
-1. Identifying the features and 'segments' of the phenotype (S1)
-2. Imagining it had really grown, in what order would the features appear, what is their function? (S2)
-3. Gain biomimetic inspiration for new solutions for each growth stage (S3)
-4. Identify and **compare** stages in similar systems (S4)
-5. Model the evolution of building systems
-
-### What does Agile Prototyping do?
-We use it in this course to infer:
+### Identify the Features and 'Segments'
+Identifying the features and 'segments' of the phenotype (S1)
 - The segments and features (Stage S1-S5)
-- The stages and functions (Stage S6-S10)
-- Biomimetic Inspiration (Stage B1-B5)
+Explore the steps [here](/)
 
-### Why would we want to do that?
-If we know these things it will enable us to
-- Easily transplant materials and building systems at any stage in the design process.
-- Reuse, improve and learn from previous designs
-- Support [meta disciplinary] modelling and analysis
+
+
+### Identify the Stages
+Imagining it had really grown, in what order would the features appear, what is their function? (S2)
+- The stages and functions (Stage S6-S10)
 - Reverse, rewind, edit and playback the design process.
 - Translate linear design space into multiple parallel reversible tracks.
+
+Explore the steps [here](/)
+
+### Biomimetic Inspiration
+Gain biomimetic inspiration for new solutions for each growth stage (S3)
+- Biomimetic Inspiration (Stage B1-B5)
+
+### Compare systems
+4. Identify and **compare** stages in similar systems (S4)
+5. - Support [meta disciplinary] modelling and analysis
+
+### Dynamically recombine adn reconfigure systems
+- Easily transplant materials and building systems at any stage in the design process.
 - Inspire new design tools, interactions and opportunities to collaborate
-- A new design experience for the 21st Century.
+- - A new design experience for the 21st Century.
+
+### Model system evolution
+Model the evolution of building systems
+Reuse, improve and learn from previous designs
+
+
+
+
+
+
+
+
+
+
+
 
 ### How you can use it?
 Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
