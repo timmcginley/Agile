@@ -4,7 +4,7 @@
 
 >It imagines we are biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved). It adapts pre genetic sequencing comparative biology techniques to infer the growth stages, genes and evolution of systems and artefacts to support fast, informed and agile design experience for the 21st century.
 
-### How you can use it
+### How you can use it?
 Agile Prototyping (fka Morphogenetic Prototyping) provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
 
 ### Sounds complicated?
