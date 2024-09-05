@@ -47,53 +47,53 @@ Great! Just follow these steps For your chosen [focus] area:
 ### D1. Identify artefact / system
 If this is your first time working wiht this methodology, it is best to start from something simple, here we use the example of a pencil. 
 
-![Step 01](/Agile/img/Methodology/01.PNG)
+![Step 01](/Agile/img/Methodology/S_01.PNG)
 
 ### D2. Check for symmetry / primary axis
 Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
-![Step 02](/Agile/img/Methodology/02.PNG)
+![Step 02](/Agile/img/Methodology/S_02.PNG)
 
 ### D3. Identify segments 
 Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
 
-![Step 03](/Agile/img/Methodology/03.PNG)
+![Step 03](/Agile/img/Methodology/S_03.PNG)
 
 ### D4. Define the scope of the study (smaller the better)
 you may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
 
-![Step 04](/Agile/img/Methodology/04.PNG)
+![Step 04](/Agile/img/Methodology/S_04.PNG)
 
 ### D5. Identify artefact features and their affordances
 Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
 
-![Step 05](/Agile/img/Methodology/05.PNG)
+![Step 05](/Agile/img/Methodology/S_05.PNG)
 
-### D6. Reverse engineer an instance of the system / artefact
-Until now we have made observations about  the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. For the next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
-Having annotated / listed the features for each segment. Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
+### D6. identify stages
+Until now we have made observations about the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. The next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
+Having annotated / listed the features for each segment. To prepare for the next step, draw rows below your phenotype that Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
 
-![Step 06a](/Agile/img/Methodology/06a.PNG)
+![Step 06a](/Agile/img/Methodology/S_06.PNG)
 
-#### D6b. What is the 'egg' stage of your artefact / scoped system?
+#### D7. identify the proto stage
 This is the conceptual platonic start for your object. If it has a clear symmetry it is probably a tube rotated around the axis, but it could also be a plane. The first stage will might have little functional, geometric or material proximity to the phenotype.
 
-![Step 06b](/Agile/img/Methodology/06b.PNG)
+![Step 06b](/Agile/img/Methodology/S_07.PNG)
 
-#### D6c. Find feature A.
+#### D8. Find feature A
 Identify the first feature of the phenotype that you think should be included in the growth process. This first feature should be placed in between the start (proto) stage and the phenotype.
 
-![Step 06c](/Agile/img/Methodology/06c.PNG)
+![Step 08](/Agile/img/Methodology/S_08.PNG)
 
-#### D6d. Find feature B.
+#### D9. Find feature B (Reapeat until complete)
 Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d until you have arranged all the features you have found for the system / artefact into a sequence, that describes the conceptual development (growth) of the design. Congratulations! you have defined the growth stages of your system!
 
-![Step 06d](/Agile/img/Methodology/06d.PNG)
+![Step 09](/Agile/img/Methodology/S_09.PNG)
 
-### D7. Identify the functions
+### D10. Identify the functions
 For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
 
-![Step 07](/Agile/img/Methodology/07.PNG)
+![Step 10](/Agile/img/Methodology/S_10.PNG)
 
 ## Biomimetic Search
 
