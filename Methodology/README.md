@@ -1,27 +1,130 @@
-# Agile Prototyping Methodology
+# Agile Prototyping (AP) Methodology
+>Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
 
-Agile Prototyping focuses on
+### Obviously buildings don't 'really' have genes, but...
+Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
 
-- '[meta disciplinary]' Building Elements / systems
-- identification of common analysis methods
-- Building systems should be 'hot swappable' in a design process.
-- We should make the future design experience we want
+### What does Agile Prototyping do?
+We use it in this course to infer:
+- the features and functions,
+- genes and growth (developmental) stages, 
+- and evolution of building systems.
 
-The methodology has X steps, which you will gaing experience of in this course.
+### Why would we want to do that?
+If we know these things it will enable us to
+- Easily transplant materials and building systems
+- Dyamically reconfigure both the design and the design process
+- Reuse and improve on existing designs
+- Support metadisciplinary modelling and anlysis
+- Reverse, rewind, edit and playback the design process.
+- Expand the accessible design space from a single phenotype stage to multiple design stages.
+- Inspire new design tools, interactions and opportunities to collaborate
+- A new design experience for the 21st Century.
 
-1. For your chosen [focus] area, you need to do the following:
+### Where did it come from?
+Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
 
-### 1. Identify the artefact (the simpler the better)
+### How you can use it?
+Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
+
+### Sounds complicated?
+Not really :) We have broken the methodology into 10 Analysis steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. Stages 5 - 10 encourage you to use your imagination to order the stages you fit the features and functions yout idenitfy into. It then asks you to compare or integrate this with the growth of other systems or artefacts.
+
+### How are we going to learn all that?
+The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
+Therefore in this course we use the method in the following ways:
+1. [A1] your first experience wiht teh method focusing on a cup (All steps)
+2. [A2] your second experience (Steps 1 - 5) this time with a building system
+3. [A3] your third experience (Steps 6 - 10) this time with a building system
+4. [A4] your fourth experience (all stages) this time with a complete building
+5. [A5] reflect on your learning through these spirals.
+
+### Ok, lets go, how do we do it?
+Great! Just follow these steps For your chosen [focus] area:
+
+### 1. Identify artefact / system
+If this is your first time doing this, it is best to start from something simple, here we use the example of a pencil.
+
+![Step 01](/Agile/img/Methodology/01.PNG)
 ### 2. Check for symmetry / primary axis
-### 3. Identify segments 
-### 4. Define the scope of the study (smaller the better)
-### 5. Identify artefact features and their affordances
-### 6. Reverse engineer an instance of the system / artefact
-### 7. Identify stages in the ‘development’ of the instance
-### 8. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
-### 9. Having mapped the stages then we can then work out the evolution of the artefact
+Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
-![image](https://github.com/user-attachments/assets/b57222c4-313e-48d0-9c48-21bb293d400a)
+![Step 02](/Agile/img/Methodology/02.PNG)
+### 3. Identify segments 
+Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
+
+![Step 03](/Agile/img/Methodology/03.PNG)
+
+### 4. Define the scope of the study (smaller the better)
+you may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
+
+![Step 04](/Agile/img/Methodology/04.PNG)
+
+### 5. Identify artefact features and their affordances
+Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
+
+![Step 05](/Agile/img/Methodology/05.PNG)
+
+### 6. Reverse engineer an instance of the system / artefact
+Until now we have made observations about  the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. For the next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
+Having annotated / listed the features for each segment. Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
+
+![Step 06a](/Agile/img/Methodology/06a.PNG)
+
+#### 6b. What is the 'egg' stage of your artefact / scoped system?
+
+![Step 06b](/Agile/img/Methodology/06b.PNG)
+
+#### 6c. Find feature A.
+
+![Step 06c](/Agile/img/Methodology/06c.PNG)
+
+#### 6c. Find feature B.
+Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d.
+
+![Step 06d](/Agile/img/Methodology/06d.PNG)
+
+### 7. Identify stages in the ‘development’ of the instance
+
+![Step 07](/Agile/img/Methodology/07.PNG)
+
+
+### 8. Identify the functions of each stage.
+For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
+
+
+### 9. Biomimetic Strategy
+Next we can take the function and try and match it to a biomimetic example using asknature.org. For instance for the provide grip function we can find an example of how [seahorse] tails are square to help grip.
+
+
+### 9. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+
+![Step 08](/Agile/img/Methodology/08.PNG)
+
+### 09. Having mapped the stages then we can then work out the evolution of the artefact
+
+![Step 09](/Agile/img/Methodology/09.PNG)
+
+### 10. Having mapped the stages then we can then work out the evolution of the artefact
+![Step 10](/Agile/img/Methodology/09.PNG)
+
+
+## Next steps
+The Agile prototyping method raises many questions including and not limited to:
+* The future design experience
+ * [Carving Morphogenetic Prototypes (2015)](https://www.researchgate.net/publication/282664175_MorphoCarve_Carving_Morphogenetic_Prototypes)
+ * [A Katana Design Experience (2018)](https://www.researchgate.net/publication/323319333_A_Katana_Design_Experience)
+* The role of designers and engineers in the future
+ * [A Morphogenetic Architecture for Intelligent Buildings (2015)](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
+
+ * The relationship between design / engineering and biology
+ * [Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture (2016)](https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture)
+
+ * A new theory of design
+ * [From Hopeful Monsters to Morphogenetic Prototypes (2016)](https://www.researchgate.net/publication/304613962_From_Hopeful_Monsters_to_Morphogenetic_Prototypes)
+
+How this can feedback into biology
+* [Morphogenetic Prototyping: Towards 5D Transdisciplinary Ontogenetical Models](https://www.researchgate.net/publication/283889718_Morphogenetic_Prototyping_Towards_5D_Transdisciplinary_Ontogenetical_Models)
 
 
 ### 1. Identify the functions
@@ -80,11 +183,16 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 
 <!-- LINKS -->
 
-[Assignment 1]: /Agile/Assignments/A1
-[Assignment 2]: /Agile/Assignments/A2
-[Assignment 3]: /Agile/Assignments/A3
-[Assignment 4]: /Agile/Assignments/A4
-[Assignment 5]: /Agile/Assignments/A5
+[A1]: /Agile/Assignments/A1
+[A2]: /Agile/Assignments/A2
+[A3]: /Agile/Assignments/A3
+[A4]: /Agile/Assignments/A4
+[A5]: /Agile/Assignments/A5
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 ['reverse engineers']: /Agile/Concepts/ReverseEngineer
 [Agile Future Design Plan (AFDP)]: /Agile/Concepts/AFDP
+[phenotype]: /Agile/Concepts/Phenotype
+[genotype]: /Agile/Concepts/Genotype
+[biomimetics]: /Agile/Concepts/Biomimetics
+
+[seahorse]: /https://asknature.org/strategy/the-seahorse-has-a-square-tail-to-help-it-grip-objects/
