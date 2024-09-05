@@ -3,13 +3,13 @@
 
 **Agile Prototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
 
-Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 4 parts:
+Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
-### Part 1. Identify the Features and 'Segments'
+### Part 1. Identify Features
 Record the features and 'segments' of the system or artefact you are studying
 - Explore Part 1 steps [here](/)
 
-### Part 2. Identify the Stages
+### Part 2. Identify Stages
 Imagining it had really grown, in what order would the features appear, what is their function? The stages allow us to translate linear design space into multiple parallel reversible tracks.
 - Explore Part 2 steps [here](/)
 
@@ -17,62 +17,30 @@ Imagining it had really grown, in what order would the features appear, what is 
 Gain biomimetic inspiration for new solutions for the functions in each growth stage.
 - Explore Part 3 steps [here](/)
 
-### Part 4. Compare similar systems
-Compare or integrate th stages with the growth of other systems or artefacts to support [meta disciplinary] modelling and analysis.
+### Part 4. Compare systems
+Compare or integrate the stages with the growth of other systems or artefacts to support [meta disciplinary] analysis.
 - Explore Part 4 steps [here](/)
 
-### Dynamically recombine and reconfigure systems
-Easily transplant materials and building systems at any stage in the design process. This part will require new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
+### Part 5. Model evolution
+Model the evolution of the building system to help us reuse, improve and learn from previous designs.
 - Explore Part 5 steps [here](/)
 
-### Model system evolution
-Model the evolution of building systems
-Reuse, improve and learn from previous designs
+### Part 6. Combine systems
+Transplant materials and building systems at any stage in the design process. This part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
+- Explore Part 6 steps [here](/)
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
 Therefore in this course we use the method in the following ways:
 
-1. [A1] your first experience with the method focusing on a cup (All steps)
-2. [A2] your second experience (Steps 1 - 5) this time with a building system
-3. [A3] your third experience (Steps 6 - 10) this time with a building system
-4. [A4] your fourth experience (all stages) this time with a complete building
+1. [A1] your first experience with the method focusing on a cup (PART 1, 2, 3 and 4 or 5)
+2. [A2] your second experience (PART 1 and 2) this time with a building system
+3. [A3] your third experience (PART 3, 4 and 5) this time with a building system
+4. [A4] your fourth experience (PART 6) this time with a complete building
 5. [A5] reflect on your learning through these spirals.
 
-### Ok, lets go, how do we do it?
-Great! Just follow these steps For your chosen [focus] area:
 
-* Identify the Features
-* Identify the Stages
-* Biomimetic Search
-* 
 
-## Developmental Search
-
-### D1. Identify Artefact / System
-If this is your first time working with this methodology, it is best to start from something simple, here we use the example of a pencil. 
-
-![Step 01](/Agile/img/Methodology/S_01.PNG)
-
-### D2. Check for Symmetry / Primary Axis
-Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
-
-![Step 02](/Agile/img/Methodology/S_02.PNG)
-
-### D3. Identify Segments 
-Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
-
-![Step 03](/Agile/img/Methodology/S_03.PNG)
-
-### D4. Define the Scope of the Study (smaller the better)
-You may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
-
-![Step 04](/Agile/img/Methodology/S_04.PNG)
-
-### D5. Identify Artefact Features and Their Affordances
-Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
-
-![Step 05](/Agile/img/Methodology/S_05.PNG)
 
 ### D6. Identify Stages
 Until now we have made observations about the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. The next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
