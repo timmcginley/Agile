@@ -88,7 +88,16 @@ Consider if the design was 'growing' at would stage would feature B 'express' it
 
 ![Step 07](/Agile/img/Methodology/07.PNG)
 
-### 8. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+
+### 8. Identify the functions of each stage.
+For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
+
+
+### 9. Biomimetic Strategy
+Next we can take the function and try and match it to a biomimetic example using asknature.org. For instance for the provide grip function we can find an example of how [seahorse] tails are square to help grip.
+
+
+### 9. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
 
 ![Step 08](/Agile/img/Methodology/08.PNG)
 
@@ -185,3 +194,5 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [phenotype]: /Agile/Concepts/Phenotype
 [genotype]: /Agile/Concepts/Genotype
 [biomimetics]: /Agile/Concepts/Biomimetics
+
+[seahorse]: /https://asknature.org/strategy/the-seahorse-has-a-square-tail-to-help-it-grip-objects/
