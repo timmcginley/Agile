@@ -24,19 +24,18 @@ If we know these things it will enable us to
 - Inspire new design tools, interactions and opportunities to collaborate
 - A new design experience for the 21st Century.
 
-### Where did it come from?
-Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
-
 ### How you can use it?
 Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
 
 ### Sounds complicated?
-Not really :) We have broken the methodology into 10 Analysis steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. Stages 5 - 10 encourage you to use your imagination to order the stages you fit the features and functions yout idenitfy into. It then asks you to compare or integrate this with the growth of other systems or artefacts.
+Not really :) We have broken the methodology into 10 Analysis steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. 
+Stages 5 - 10 encourage you to use your imagination to order the stages you fit the features and functions yout idenitfy into. It then asks you to compare or integrate this with the growth of other systems or artefacts.
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
 Therefore in this course we use the method in the following ways:
-1. [A1] your first experience wiht teh method focusing on a cup (All steps)
+
+1. [A1] your first experience with the method focusing on a cup (All steps)
 2. [A2] your second experience (Steps 1 - 5) this time with a building system
 3. [A3] your third experience (Steps 6 - 10) this time with a building system
 4. [A4] your fourth experience (all stages) this time with a complete building
@@ -45,40 +44,45 @@ Therefore in this course we use the method in the following ways:
 ### Ok, lets go, how do we do it?
 Great! Just follow these steps For your chosen [focus] area:
 
-## Developmental search
+* Identify the Features
+* Identify the Stages
+* Biomimetic Search
+* 
 
-### D1. Identify artefact / system
-If this is your first time working wiht this methodology, it is best to start from something simple, here we use the example of a pencil. 
+## Developmental Search
+
+### D1. Identify Artefact / System
+If this is your first time working with this methodology, it is best to start from something simple, here we use the example of a pencil. 
 
 ![Step 01](/Agile/img/Methodology/S_01.PNG)
 
-### D2. Check for symmetry / primary axis
+### D2. Check for Symmetry / Primary Axis
 Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
 ![Step 02](/Agile/img/Methodology/S_02.PNG)
 
-### D3. Identify segments 
+### D3. Identify Segments 
 Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
 
 ![Step 03](/Agile/img/Methodology/S_03.PNG)
 
-### D4. Define the scope of the study (smaller the better)
-you may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
+### D4. Define the Scope of the Study (smaller the better)
+You may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
 
 ![Step 04](/Agile/img/Methodology/S_04.PNG)
 
-### D5. Identify artefact features and their affordances
+### D5. Identify Artefact Features and Their Affordances
 Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
 
 ![Step 05](/Agile/img/Methodology/S_05.PNG)
 
-### D6. identify stages
+### D6. Identify Stages
 Until now we have made observations about the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. The next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
 Having annotated / listed the features for each segment. To prepare for the next step, draw rows below your phenotype that Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
 
 ![Step 06a](/Agile/img/Methodology/S_06.PNG)
 
-#### D7. identify the proto stage
+#### D7. Identify the Proto Stage
 This is the conceptual platonic start for your object. If it has a clear symmetry it is probably a tube rotated around the axis, but it could also be a plane. The first stage will might have little functional, geometric or material proximity to the phenotype.
 
 ![Step 06b](/Agile/img/Methodology/S_07.PNG)
@@ -93,32 +97,38 @@ Consider if the design was 'growing' at would stage would feature B 'express' it
 
 ![Step 09](/Agile/img/Methodology/S_09.PNG)
 
-### D10. Identify the functions
+#### D10. Identify the functions
 For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
 
 ![Step 10](/Agile/img/Methodology/S_10.PNG)
 
 ## Biomimetic Search
 
-### B1. Biomimetic Strategy
+#### B1. Biomimetic Strategy
 Next we can take the function and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
 
-### B2. Create new features for each stage
+![Step B1](/Agile/img/Methodology/B_01.PNG)
+
+#### B2. Create new features for each stage
 Inspired by the examples from your biomimetic search, design new features that could satisfy the same function. Adjust the upper stages to reflect the changes your new features make and the resulting phenotype.
+
+![Step B2](/Agile/img/Methodology/B_02.PNG)
 
 ## Evolutionary Search
 
-### E1. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+#### E1. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
 
 ![Step 08](/Agile/img/Methodology/08.PNG)
 
-### E2. Having mapped the stages then we can then work out the evolution of the artefact
+#### E2. Having mapped the stages then we can then work out the evolution of the artefact
 
 ![Step 09](/Agile/img/Methodology/09.PNG)
 
-### E3. Having mapped the stages then we can then work out the evolution of the artefact
+#### E3. Having mapped the stages then we can then work out the evolution of the artefact
 ![Step 10](/Agile/img/Methodology/09.PNG)
 
+### Where did it come from?
+Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
 
 ## Next steps
 The Agile prototyping method raises many questions including and not limited to:
