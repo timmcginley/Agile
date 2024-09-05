@@ -4,12 +4,13 @@
 
 ### AP5-2 bring 2 together at a time following the first three steps of AP4 (evolve).
 
-### AP5-3 fill the gaps
+### AP5-3 Map to [Design grid]
 
-### AP5-4 Check it works
+### AP5-4 Search for common stages
 
 ### AP5-5 Communicate
 
+[Design grid]: /Agile/Concepts/DesignGrid
 
 <!--## Evolutionary Search - similar to AP4...
 
