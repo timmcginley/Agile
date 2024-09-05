@@ -7,9 +7,14 @@ Agile Prototyping focuses on
 - Building systems should be 'hot swappable' in a design process.
 - We should make the future design experience we want
 
-The methodology has X steps, which you will gaing experience of in this course.
+The methodology has 10 steps, which you will gaing experience in this course. The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. Therefore in this course we use the method in the following ways:
+1. [A1] your first experience wiht teh method focusing on a cup (All steps)
+2. [A2] your second experience (Steps 1 - 5) this time with a building system
+3. [A3] your third experience (Steps 6 - 10) this time with a building system
+4. [A4] your fourth experience (all stages) this time with a complete building
+5. [A5] reflect on your learning through these spirals.
 
-1. For your chosen [focus] area, you need to do the following:
+For your chosen [focus] area, you need to do the following:
 
 ### 1. Identify artefact / system
 If this is your first time doing this, it is best to start from something simple, here we use the example of a pencil.
