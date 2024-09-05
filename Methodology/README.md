@@ -17,26 +17,22 @@ Imagining it had really grown, in what order would the features appear, what is 
 Gain biomimetic inspiration for new solutions for the functions you have identified in each growth stage.
 - Explore Part 3 steps [here](/Agile/Methodology/03)
 
-### AP[4] Mapping
-Compare or integrate the stages with the growth of other systems or artefacts to support [meta disciplinary] analysis.
+### AP[4] Evolution
+Model the evolution of the building system to help us reuse, improve and learn from previous designs. Try and imagine what new systems might emerge in the future, based on your study.
 - Explore Part 4 steps [here](/Agile/Methodology/04)
 
-### AP[5] Evolution
-Model the evolution of the building system to help us reuse, improve and learn from previous designs.
-- Explore Part 5 steps [here](/Agile/Methodology/05)
-
-### AP[6] Architecture
+### AP[5] Architecture
 Transplant materials and building systems at any stage in the design process. This part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
-- Explore Part 6 steps [here](/Agile/Methodology/06)
+- Explore Part 6 steps [here](/Agile/Methodology/05)
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
 Therefore in this course we use the method in the following ways:
 
-1. [A1] your first experience with the method focusing on a cup (PART [1], [2], [3] and [4] or [5])
+1. [A1] your first experience with the method focusing on a cup (PART [1], [2], [3] and [4])
 2. [A2] your second experience (PART [1] and [2]) this time with a building system
-3. [A3] your third experience (PART [3], [4] and [5]) this time with a building system
-4. [A4] your fourth experience (PART [6]) this time with a complete building
+3. [A3] your third experience (PART [3] and [4]) this time with a building system
+4. [A4] your fourth experience (PART [5]) this time with a complete building
 5. [A5] reflect on your learning through these spirals.
 
 
