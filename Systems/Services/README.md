@@ -10,5 +10,5 @@ This includes:
 * [How Trees Lift Water With Little Effort](https://asknature.org/strategy/xylem-conduits-transport-water/)
 * [Vascular Systems Transport Fluids and Solutes](https://asknature.org/strategy/vascular-systems-transport-fluids-and-solutes/)
 * [Pressure Makes Air Move](https://asknature.org/strategy/pressure-makes-air-move/)
-* [Body Pores Open and Close to
-Push Breath Through Cockroaches](https://asknature.org/strategy/body-pores-open-and-close-to-push-breath-through-cockroaches/)
+* [Body Pores Open and Close to Push Breath Through Cockroaches](https://asknature.org/strategy/body-pores-open-and-close-to-push-breath-through-cockroaches/)
+
