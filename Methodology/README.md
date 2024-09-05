@@ -1,15 +1,18 @@
 # Agile Prototyping (AP) Methodology
->Agile Prototyping is a [meta disciplinary] comparative design and analysis method for buildings and their systems. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
+>Agile Prototyping is a [meta disciplinary] comparative design and analysis method for buildings and their systems. As if biologists were trying to make sense of artificial design when they have only seen biological design before. 
 
 ### Obviously buildings don't 'really' have genes, but...
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
 
-## The Process
-So how does it work?
+## How you can use it?
+Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. We have broken the methodology into 4 parts:
 
-### Identify the Features and 'Segments'
+
+### Part 1. Identify the Features and 'Segments'
 Identifying the features and 'segments' of the phenotype (S1)
 - The segments and features (Stage S1-S5)
+The first part only require you to observe and think about the functions and features of the system or artefact you are applying this to. 
+- 
 Explore the steps [here](/)
 
 
@@ -29,6 +32,7 @@ Gain biomimetic inspiration for new solutions for each growth stage (S3)
 ### Compare systems
 4. Identify and **compare** stages in similar systems (S4)
 5. - Support [meta disciplinary] modelling and analysis
+   - It then asks you to compare or integrate this with the growth of other systems or artefacts.
 
 ### Dynamically recombine adn reconfigure systems
 - Easily transplant materials and building systems at any stage in the design process.
@@ -38,24 +42,6 @@ Gain biomimetic inspiration for new solutions for each growth stage (S3)
 ### Model system evolution
 Model the evolution of building systems
 Reuse, improve and learn from previous designs
-
-
-
-
-
-
-
-
-
-
-
-
-### How you can use it?
-Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
-
-### Sounds complicated?
-Not really :) We have broken the methodology into 10 Analysis steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. 
-Stages 5 - 10 encourage you to use your imagination to order the stages you fit the features and functions yout idenitfy into. It then asks you to compare or integrate this with the growth of other systems or artefacts.
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
