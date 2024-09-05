@@ -1,14 +1,22 @@
-# Agile Prototyping Methodology
+# Agile Prototyping (AP) Methodology
+>Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
 
->Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts.
+AP therefore adapts pre genetic sequencing comparative biology techniques to infer:
+- the features and functions,
+- genes and growth (developmental) stages, 
+- and evolution of systems and artefacts.
 
->It imagines we are biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved). It adapts pre genetic sequencing comparative biology techniques to infer the growth stages, genes and evolution of systems and artefacts to support fast, informed and agile design experience for the 21st century.
+AP then uses these to support a 
+- to support a fast, informed and agile design experience of artificial systems for the 21st century.
+
+### Where did it come from?
+Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
 
 ### How you can use it?
-Agile Prototyping (fka Morphogenetic Prototyping) provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
+Agile Prototyping provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
 
 ### Sounds complicated?
-Not really :) We have broken the methodology into 10 steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. Stages 5 - 10 encourage you to use your imagination to order the stages that these features and functions express. It then asks you to compare this to other days.
+Not really :) We have broken the methodology into 10 Analysis steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. Stages 5 - 10 encourage you to use your imagination to order the stages you fit the features and functions yout idenitfy into. It then asks you to compare or integrate this with the growth of other systems or artefacts.
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
@@ -27,7 +35,7 @@ If this is your first time doing this, it is best to start from something simple
 
 ![Step 01](/Agile/img/Methodology/01.PNG)
 ### 2. Check for symmetry / primary axis
-Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. the axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
+Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
 ![Step 02](/Agile/img/Methodology/02.PNG)
 ### 3. Identify segments 
