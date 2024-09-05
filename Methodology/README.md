@@ -17,11 +17,11 @@ Imagining it had really grown, in what order would the features appear, what is 
 Gain biomimetic inspiration for new solutions for the functions in each growth stage.
 - Explore Part 3 steps [here](/Agile/Methodology/03)
 
-### Part 4. Compare systems
+### Part 4. Map Systems
 Compare or integrate the stages with the growth of other systems or artefacts to support [meta disciplinary] analysis.
 - Explore Part 4 steps [here](/Agile/Methodology/04)
 
-### Part 5. Model evolution
+### Part 5. System Evolution
 Model the evolution of the building system to help us reuse, improve and learn from previous designs.
 - Explore Part 5 steps [here](/Agile/Methodology/05)
 
