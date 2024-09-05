@@ -43,13 +43,15 @@ Therefore in this course we use the method in the following ways:
 Great! Just follow these steps For your chosen [focus] area:
 
 ### 1. Identify artefact / system
-If this is your first time doing this, it is best to start from something simple, here we use the example of a pencil.
+If this is your first time working wiht this methodology, it is best to start from something simple, here we use the example of a pencil. 
 
 ![Step 01](/Agile/img/Methodology/01.PNG)
+
 ### 2. Check for symmetry / primary axis
 Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
 ![Step 02](/Agile/img/Methodology/02.PNG)
+
 ### 3. Identify segments 
 Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
 
@@ -79,8 +81,8 @@ Having annotated / listed the features for each segment. Next you need to idenit
 
 ![Step 06c](/Agile/img/Methodology/06c.PNG)
 
-#### 6c. Find feature B.
-Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d.
+#### 6d. Find feature B.
+Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d until you have arranged all the features you have found for the system / artefact into a sequence, that describes the conceptual development (growth) of the design.
 
 ![Step 06d](/Agile/img/Methodology/06d.PNG)
 
