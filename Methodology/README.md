@@ -42,72 +42,78 @@ Therefore in this course we use the method in the following ways:
 ### Ok, lets go, how do we do it?
 Great! Just follow these steps For your chosen [focus] area:
 
-### 1. Identify artefact / system
+## Developmental search
+
+### D1. Identify artefact / system
 If this is your first time working wiht this methodology, it is best to start from something simple, here we use the example of a pencil. 
 
 ![Step 01](/Agile/img/Methodology/01.PNG)
 
-### 2. Check for symmetry / primary axis
+### D2. Check for symmetry / primary axis
 Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
 ![Step 02](/Agile/img/Methodology/02.PNG)
 
-### 3. Identify segments 
+### D3. Identify segments 
 Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
 
 ![Step 03](/Agile/img/Methodology/03.PNG)
 
-### 4. Define the scope of the study (smaller the better)
+### D4. Define the scope of the study (smaller the better)
 you may be more interested in some segments than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should still be contiguous. If not it might be better to divide the study into seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
 
 ![Step 04](/Agile/img/Methodology/04.PNG)
 
-### 5. Identify artefact features and their affordances
+### D5. Identify artefact features and their affordances
 Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
 
 ![Step 05](/Agile/img/Methodology/05.PNG)
 
-### 6. Reverse engineer an instance of the system / artefact
+### D6. Reverse engineer an instance of the system / artefact
 Until now we have made observations about  the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. For the next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
 Having annotated / listed the features for each segment. Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
 
 ![Step 06a](/Agile/img/Methodology/06a.PNG)
 
-#### 6b. What is the 'egg' stage of your artefact / scoped system?
+#### D6b. What is the 'egg' stage of your artefact / scoped system?
+This is the conceptual platonic start for your object. If it has a clear symmetry it is probably a tube rotated around the axis, but it could also be a plane. The first stage will might have little functional, geometric or material proximity to the phenotype.
 
 ![Step 06b](/Agile/img/Methodology/06b.PNG)
 
-#### 6c. Find feature A.
+#### D6c. Find feature A.
+Identify the first feature of the phenotype that you think should be included in the growth process. This first feature should be placed in between the start (proto) stage and the phenotype.
 
 ![Step 06c](/Agile/img/Methodology/06c.PNG)
 
-#### 6d. Find feature B.
-Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d until you have arranged all the features you have found for the system / artefact into a sequence, that describes the conceptual development (growth) of the design.
+#### D6d. Find feature B.
+Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d until you have arranged all the features you have found for the system / artefact into a sequence, that describes the conceptual development (growth) of the design. Congratulations! you have defined the growth stages of your system!
 
 ![Step 06d](/Agile/img/Methodology/06d.PNG)
 
-### 7. Identify stages in the ‘development’ of the instance
+### D7. Identify the functions
+For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
 
 ![Step 07](/Agile/img/Methodology/07.PNG)
 
+## Biomimetic Search
 
-### 8. Identify the functions of each stage.
-For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
+### B1. Biomimetic Strategy
+Next we can take the function and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
 
+### B2. Create new features for each stage
+Inspired by the examples from your biomimetic search, design new features that could satisfy the same function. Adjust the upper stages to reflect the changes your new features make and the resulting phenotype.
 
-### 9. Biomimetic Strategy
-Next we can take the function and try and match it to a biomimetic example using asknature.org. For instance for the provide grip function we can find an example of how [seahorse] tails are square to help grip.
+## Evolutionary Search
 
-
-### 9. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
+### E1. Identify ‘genes’ on other ‘species’ that are closely related to your artefact using ‘comparative biology’
 
 ![Step 08](/Agile/img/Methodology/08.PNG)
 
-### 09. Having mapped the stages then we can then work out the evolution of the artefact
+### E2. Having mapped the stages then we can then work out the evolution of the artefact
 
 ![Step 09](/Agile/img/Methodology/09.PNG)
 
-### 10. Having mapped the stages then we can then work out the evolution of the artefact
+### E3. Having mapped the stages then we can then work out the evolution of the artefact
 ![Step 10](/Agile/img/Methodology/09.PNG)
 
 
