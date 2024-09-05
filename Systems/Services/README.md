@@ -6,3 +6,4 @@ This includes:
 
 ## Biomimetic Inspriration
 * [How the Lymph System Pumps With No Pump](https://asknature.org/strategy/how-the-lymph-system-pumps-with-no-pump/)
+* [Nanostructures Help Transmit Light](https://asknature.org/strategy/nanostructures-help-transmit-light/)
