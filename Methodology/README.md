@@ -1,11 +1,9 @@
 # Agile Prototyping Methodology
 
-Agile Prototyping focuses on
+Agile Prototyping provides a common comparative design analysis method for physical systems and artefacts. It imagines that we are pre genetic sequencing biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved) in hopes they could change them or make more of their own.
 
-- '[meta disciplinary]' Building Elements / systems
-- identification of common analysis methods
-- Building systems should be 'hot swappable' in a design process.
-- We should make the future design experience we want
+In reality it provides a framework for designers and engineers to instantly analyse, guide and reconfigure designs based on their disciplinary expertise. 
+
 
 The methodology has 10 steps, which you will gaing experience in this course. The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. Therefore in this course we use the method in the following ways:
 1. [A1] your first experience wiht teh method focusing on a cup (All steps)
@@ -70,12 +68,23 @@ Consider if the design was 'growing' at would stage would feature B 'express' it
 
 ![Step 09](/Agile/img/Methodology/09.PNG)
 
-### 09. Having mapped the stages then we can then work out the evolution of the artefact
+### 10. Having mapped the stages then we can then work out the evolution of the artefact
 ![Step 10](/Agile/img/Methodology/09.PNG)
 
 
+## Next steps
+The Agile prototyping method raises many questions including and not limited to:
+* The future design experience
+ * [Carving Morphogenetic Prototypes (2015)](https://www.researchgate.net/publication/282664175_MorphoCarve_Carving_Morphogenetic_Prototypes)
+ * [A Katana Design Experience](https://www.researchgate.net/publication/323319333_A_Katana_Design_Experience)
+* The role of designers and engineers in the future
+ * [A Morphogenetic Architecture for Intelligent Buildings](https://www.researchgate.net/publication/268449100_A_Morphogenetic_Architecture_for_Intelligent_Buildings)
 
+ * The relationship between design / engineering and biology
+ * [Suburban Mutations: Towards the Multi-Dimensional Appropriation of Science in Architecture](https://www.researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture)
 
+ * A new theory of design
+ * [From Hopeful Monsters to Morphogenetic Prototypes](https://www.researchgate.net/publication/304613962_From_Hopeful_Monsters_to_Morphogenetic_Prototypes)
 
 
 ### 1. Identify the functions
