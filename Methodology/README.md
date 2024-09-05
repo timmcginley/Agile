@@ -7,27 +7,27 @@ Biologists call a fully grown organism the [phenotype] and the genetic code that
 
 ### Part 1. Identify Features
 Record the features and 'segments' of the system or artefact you are studying
-- Explore Part 1 steps [here](/)
+- Explore Part 1 steps [here](/Agile/Methodology/01)
 
 ### Part 2. Identify Stages
 Imagining it had really grown, in what order would the features appear, what is their function? The stages allow us to translate linear design space into multiple parallel reversible tracks.
-- Explore Part 2 steps [here](/)
+- Explore Part 2 steps [here](/Agile/Methodology/02)
 
 ### Part 3. Biomimetic Inspiration
 Gain biomimetic inspiration for new solutions for the functions in each growth stage.
-- Explore Part 3 steps [here](/)
+- Explore Part 3 steps [here](/Agile/Methodology/03)
 
 ### Part 4. Compare systems
 Compare or integrate the stages with the growth of other systems or artefacts to support [meta disciplinary] analysis.
-- Explore Part 4 steps [here](/)
+- Explore Part 4 steps [here](/Agile/Methodology/04)
 
 ### Part 5. Model evolution
 Model the evolution of the building system to help us reuse, improve and learn from previous designs.
-- Explore Part 5 steps [here](/)
+- Explore Part 5 steps [here](/Agile/Methodology/05)
 
 ### Part 6. Combine systems
 Transplant materials and building systems at any stage in the design process. This part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
-- Explore Part 6 steps [here](/)
+- Explore Part 6 steps [here](/Agile/Methodology/06)
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
@@ -39,34 +39,6 @@ Therefore in this course we use the method in the following ways:
 4. [A4] your fourth experience (PART 6) this time with a complete building
 5. [A5] reflect on your learning through these spirals.
 
-
-
-
-### D6. Identify Stages
-Until now we have made observations about the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. The next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
-Having annotated / listed the features for each segment. To prepare for the next step, draw rows below your phenotype that Next you need to idenitfy the 'order' that these features conceptually express in the these features would 
-
-![Step 06a](/Agile/img/Methodology/S_06.PNG)
-
-#### D7. Identify the Proto Stage
-This is the conceptual platonic start for your object. If it has a clear symmetry it is probably a tube rotated around the axis, but it could also be a plane. The first stage will might have little functional, geometric or material proximity to the phenotype.
-
-![Step 06b](/Agile/img/Methodology/S_07.PNG)
-
-#### D8. Find feature A
-Identify the first feature of the phenotype that you think should be included in the growth process. This first feature should be placed in between the start (proto) stage and the phenotype.
-
-![Step 08](/Agile/img/Methodology/S_08.PNG)
-
-#### D9. Find feature B (Reapeat until complete)
-Consider if the design was 'growing' at would stage would feature B 'express' itself, would it be before or after the other features. Repeat steps 6c and 6d until you have arranged all the features you have found for the system / artefact into a sequence, that describes the conceptual development (growth) of the design. Congratulations! you have defined the growth stages of your system!
-
-![Step 09](/Agile/img/Methodology/S_09.PNG)
-
-#### D10. Identify the functions
-For each of the stages identify the function that the feature is performing. You can start by writing this as a sentence and then write it verb, noun form as in the image below.
-
-![Step 10](/Agile/img/Methodology/S_10.PNG)
 
 ## Biomimetic Search
 
