@@ -4,17 +4,23 @@
 
 >It imagines we are biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved). It adapts pre genetic sequencing comparative biology techniques to infer the growth stages, genes and evolution of systems and artefacts to support fast, informed and agile design experience for the 21st century.
 
-In reality it provides a framework for designers and engineers to instantly analyse, guide and reconfigure designs based on their disciplinary expertise. 
+### How you can use it
+Agile Prototyping (fka Morphogenetic Prototyping) provides a framework to analyse, guide and reconfigure designs based on your disciplinary expertise. 
 
+### Sounds complicated?
+Not really :) We have broken the methodology into 10 steps. The first five only require you to observe and think about the functions and features of the system or artefact you are applying this to. Stages 5 - 10 encourage you to use your imagination to order the stages that these features and functions express. It then asks you to compare this to other days.
 
-The methodology has 10 steps, which you will gaing experience in this course. The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. Therefore in this course we use the method in the following ways:
+### How are we going to learn all that?
+The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. 
+Therefore in this course we use the method in the following ways:
 1. [A1] your first experience wiht teh method focusing on a cup (All steps)
 2. [A2] your second experience (Steps 1 - 5) this time with a building system
 3. [A3] your third experience (Steps 6 - 10) this time with a building system
 4. [A4] your fourth experience (all stages) this time with a complete building
 5. [A5] reflect on your learning through these spirals.
 
-For your chosen [focus] area, you need to do the following:
+### Ok, lets go, how do we do it?
+Great! Just follow these steps For your chosen [focus] area:
 
 ### 1. Identify artefact / system
 If this is your first time doing this, it is best to start from something simple, here we use the example of a pencil.
