@@ -1,6 +1,8 @@
 # Agile Prototyping Methodology
 
->Agile Prototyping is a comparative design analysis method for physical systems and artefacts. It imagines that we are pre genetic sequencing biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved) in hopes they could change them or make more of their own. It adapts comparative biology techniques to infer the growth stages, genes and evolution of systems and artefacts to support fast, informed and agile design experience for the 21st century.
+>Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts.
+
+>It imagines we are biologicsts who have never seen artificial products before and are trying to make sense of where they came from (how they grew and evolved). It adapts pre genetic sequencing comparative biology techniques to infer the growth stages, genes and evolution of systems and artefacts to support fast, informed and agile design experience for the 21st century.
 
 In reality it provides a framework for designers and engineers to instantly analyse, guide and reconfigure designs based on their disciplinary expertise. 
 
