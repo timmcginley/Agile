@@ -40,17 +40,7 @@ Therefore in this course we use the method in the following ways:
 5. [A5] reflect on your learning through these spirals.
 
 
-## Biomimetic Search
 
-#### B1. Biomimetic Strategy
-Next we can take the function and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
-
-![Step B1](/Agile/img/Methodology/B_01.PNG)
-
-#### B2. Create new features for each stage
-Inspired by the examples from your biomimetic search, design new features that could satisfy the same function. Adjust the upper stages to reflect the changes your new features make and the resulting phenotype.
-
-![Step B2](/Agile/img/Methodology/B_02.PNG)
 
 ## Evolutionary Search
 
