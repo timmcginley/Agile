@@ -6,7 +6,10 @@ Biologists call a fully grown organism the [phenotype] and the genetic code that
 
 ### What does Agile Prototyping do?
 We use it in this course to infer:
-- the features and functions,
+- The segments and features (Stage S1-S5)
+- The stages and functions (Stage S6-S10)
+- Biomimetic Inspiration (Stage B1-B5)
+- Comparative 
 - genes and growth (developmental) stages, 
 - and evolution of building systems.
 
