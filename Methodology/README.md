@@ -182,3 +182,6 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 ['reverse engineers']: /Agile/Concepts/ReverseEngineer
 [Agile Future Design Plan (AFDP)]: /Agile/Concepts/AFDP
+[phenotype]: /Agile/Concepts/Phenotype
+[genotype]: /Agile/Concepts/Genotype
+[biomimetics]: /Agile/Concepts/Biomimetics
