@@ -1,8 +1,11 @@
 # Morphogenetic Prototyping
 
-Morphogenetic Prototyping is the methodology that we use to define our [Agile Prototypes]. We divide the building into [meta-disciplinary] elements. These are then organised in [Gene Systems]. Morphogenetic Prototyping enables us to then go forwards and backwards in the pseudo developmental stages of the agile prototypes. Thereby enabling the designer to jump forwards and backwards in 'design time'.
+Morphogenetic Prototyping was the original name for the method we now call [Agile Prototyping] to define our [Agile Prototypes]. 
 
-## Morphogenesis
+We divide the building into [meta-disciplinary] elements. These are then organised in [Gene Systems]. Morphogenetic Prototyping enables us to then go forwards and backwards in the pseudo developmental stages of the agile prototypes. Thereby enabling the designer to jump forwards and backwards in 'design time'.
+
+## Why call it Morphogenetic, and why change the name now?
+
 >" Morphogenesis which is derived from the Greek, morphê (form) and genesis(creation). In developmental biology morphogenesis describes how a single cell organism can self-organise and grow into a complex multicellular organism that is capable of a variety of functions. "
 >
 >McGinley (2015).
@@ -63,6 +66,7 @@ This course identifies the genes of building design and categorises them in one 
 <!-- links --->
 
 [Agile Prototypes]: /Agile/Concepts/AgilePrototype
+[Agile Prototyping]: /Agile/Methodology
 [Building Development Stage]: /Agile/Concepts/DevelopmentStage
 [developmental stages]: /Agile/Concepts/DevelopmentStage
 [computational processes]: /Agile/Concepts/ComputationalDesign
