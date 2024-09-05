@@ -6,3 +6,7 @@ Should include:
 * Vertical Structure
 * Bracing
 * Fire evacuation
+
+## Biomimetic Inspiration
+* [Stem Grows Tall](https://asknature.org/strategy/stem-grows-tall/)
+* [Large Trunks and Thick Bark Prevent Buckling](https://asknature.org/strategy/large-trunks-and-thick-bark-prevent-buckling/)
