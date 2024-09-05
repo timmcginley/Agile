@@ -21,7 +21,7 @@ You may be more interested in some segments than others. It can be a good idea t
 
 ![Step 04](/Agile/img/Methodology/AP1-4.PNG)
 
-### AP2.5 Identify Artefact Features and Their Affordances
+### AP2.5 Identify Artefact Features
 Having identified the axis, segments and scope(s) of your study. You can now start to break identify specific features that are expressed in that segment. 
 
 ![Step 05](/Agile/img/Methodology/AP1-5.PNG)
