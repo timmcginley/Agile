@@ -1,7 +1,7 @@
 # Agile Prototyping (AP) Methodology
 >Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
 
-### Biology as a lens to support metadisciplinary building analysis
+### Obviously buildings don't 'really' have genes, but...
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Obviously buildings do not 'really' have genes. However before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
 
 ### What does Agile Prototyping do?
