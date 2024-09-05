@@ -1,26 +1,35 @@
 # Agile Prototyping (AP) Methodology
->Agile Prototyping is a [meta disciplinary] comparative design and analysis method for physical systems and artefacts. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
+>Agile Prototyping is a [meta disciplinary] comparative design and analysis method for buildings and their systems. It imagines that we are biologists trying to make sense of artificial design when have only seen biological design before. 
 
 ### Obviously buildings don't 'really' have genes, but...
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes of the organism, this did not work brilliantly as observable traits in the phenotype are rarely the result of a single gene, however it did get them started. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems.
+
+### identify the Features and 'Segments'
+
+
+
+### Stages
+
+Similarly Agile Prototyping works by:
+1. Identifying the features and 'segments' of the phenotype (S1)
+2. Imagining it had really grown, in what order would the features appear, what is their function? (S2)
+3. Gain biomimetic inspiration for new solutions for each growth stage (S3)
+4. Identify and **compare** stages in similar systems (S4)
+5. Model the evolution of building systems
 
 ### What does Agile Prototyping do?
 We use it in this course to infer:
 - The segments and features (Stage S1-S5)
 - The stages and functions (Stage S6-S10)
 - Biomimetic Inspiration (Stage B1-B5)
-- Comparative 
-- genes and growth (developmental) stages, 
-- and evolution of building systems.
 
 ### Why would we want to do that?
 If we know these things it will enable us to
-- Easily transplant materials and building systems
-- Dyamically reconfigure both the design and the design process
-- Reuse and improve on existing designs
-- Support metadisciplinary modelling and anlysis
+- Easily transplant materials and building systems at any stage in the design process.
+- Reuse, improve and learn from previous designs
+- Support [meta disciplinary] modelling and analysis
 - Reverse, rewind, edit and playback the design process.
-- Expand the accessible design space from a single phenotype stage to multiple design stages.
+- Translate linear design space into multiple parallel reversible tracks.
 - Inspire new design tools, interactions and opportunities to collaborate
 - A new design experience for the 21st Century.
 
