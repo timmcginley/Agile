@@ -25,7 +25,7 @@ Compare or integrate the stages with the growth of other systems or artefacts to
 Model the evolution of the building system to help us reuse, improve and learn from previous designs.
 - Explore Part 5 steps [here](/Agile/Methodology/05)
 
-### AP[6] Orchestration
+### AP[6] Architecture
 Transplant materials and building systems at any stage in the design process. This part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
 - Explore Part 6 steps [here](/Agile/Methodology/06)
 
