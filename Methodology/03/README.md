@@ -4,7 +4,7 @@ Please note that this part is iterative, for inspiration we should look to Lenau
 This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
 #### AP3.1 Asknature
-Next we can take the function and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
+Next we select a stage and take the function for that stage previously expressed in step AP2-5 and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
 
 ![Step 3-1](/Agile/img/Methodology/AP3-1.PNG)
 
