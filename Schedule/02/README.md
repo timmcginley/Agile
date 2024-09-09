@@ -1,4 +1,4 @@
-# Week 2 - Biomimetics
+# Week 2 - Biologically Inspired Design
 
 *10th September 2024*
 
