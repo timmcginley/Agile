@@ -5,7 +5,7 @@ B127-H014
 B117-H024
 Session times 8:00 - 12:00 on Tuesdays
 
-
+_________________
 ### [A1] How to Grow a Cup
 Due 15th September
 
@@ -21,7 +21,7 @@ Due 15th September
 * Biomimetics / Biomimetic Architecture
 * Skylab Digital lab introduction talk [onsite]
 * Interdisciplinary solutions?
-
+_________________
 ### [A2] Building System Needs
 Due 29th September
 
@@ -38,7 +38,7 @@ Due 29th September
 * Building System features
 * Parametric Design
 * Computational Design
-
+_________________
 ### [A3] Building System Growth
 Due 20th October
 
@@ -48,7 +48,7 @@ Due 20th October
 
 #### [W6] Common System Growth Specification |
 * Combine different stages of systems
-
+_________________
 ### [A4] How to Grow a Building
 Due 1st December
 
@@ -82,7 +82,7 @@ In this assignment you further explore the idea of growing buildings as a
 
 #### [W13] Presentation |
 * Final Presentation.
-
+_________________
 ### [A5] Reflect
 Due 09th December
 
