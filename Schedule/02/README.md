@@ -10,7 +10,7 @@
 
 
 
-Submit: [A1]: 10th September
+Submit: [A1]: 15th September
 
 ## Detailed Schedule
 *8:00 – 9:00*
