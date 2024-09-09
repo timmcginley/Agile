@@ -1,4 +1,4 @@
-## Week 6 - System Growth Common Specification (SGCS)
+## Week 6 - Common System Growth Specification
 
 *8th October 2024*
 
