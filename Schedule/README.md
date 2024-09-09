@@ -9,13 +9,13 @@ Session times 8:00 - 12:00 on Tuesdays
 ### [A1] How to Grow a Cup
 Due 15th September
 
-[W1] Parametric Paradox |
+[W1] Agile Prototyping |
 * Future | Problems | Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
 * Previously in Agile ...
 
-[W2] How to grow _any_ Cup |
+[W2] Biologically Inspired Design |
 * Biology
 * Torben Lenau Lecture (DTU Construct) [onsite]
 * Biomimetics | Biomimetic Architecture
@@ -41,11 +41,11 @@ Due 29th September
 ### [A3] Building System Growth
 Due 20th October
 
-[W5] System Growth |
+[W5] Building System Growth |
 * Meta Disciplinary systems
 * Meta Disciplinary elements
 
-[W6] System Growth Common Specification |
+[W6] Common System Growth Specification |
 * Combine different stages of systems
 
 ### [A4] How to Grow a Building
