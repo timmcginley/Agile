@@ -85,27 +85,27 @@
   dropdown: 
     - name: 01 - Agile Prototyping
       link: /Schedule/01
-    - name: 02 - Cup Development
+    - name: 02 - Biologically Inspired Design
       link: /Schedule/02
-    - name: 03 - Building / System Functions
+    - name: 03 - Building System Needs
       link: /Schedule/03
-    - name: 04 - System Features
+    - name: 04 - Building System Features
       link: /Schedule/04
-    - name: 05 - System Growth
+    - name: 05 - Building System Growth
       link: /Schedule/05
     - name: 06 - Common System Growth Specification
       link: /Schedule/06
-    - name: 07 - System Integration
+    - name: 07 - Design Genes
       link: /Schedule/07
-    - name: 08 - Tutorials 1
+    - name: 08 - Growing as Building
       link: /Schedule/08
-    - name: 09 - Interaction
+    - name: 09 - Design Pasts
       link: /Schedule/09
-    - name: 10 - Tutorials 2
+    - name: 10 - Futures
       link: /Schedule/10
     - name: 11 - Peer Feedback
       link: /Schedule/11
-    - name: 12 - Tutorials 3
+    - name: 12 - Project
       link: /Schedule/12
     - name: 13 - Presentation
       link: /Schedule/13
