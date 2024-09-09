@@ -25,7 +25,8 @@ Due 15th September
 ### [A2] Building System Needs
 Due 29th September
 
-[W3] Meta Disciplinary |
+[W3] Building System Needs |
+* Meta Disciplinary 
 * From cups to buildings via plants
 * Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
 * Building Design Grid
