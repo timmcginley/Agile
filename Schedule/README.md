@@ -1,6 +1,6 @@
 # Course Schedule  2024
 
-### Room location: 
+## Room location: 
 B127-H014
 B117-H024
 Session times 8:00 - 12:00 on Tuesdays
@@ -9,23 +9,23 @@ Session times 8:00 - 12:00 on Tuesdays
 ### [A1] How to Grow a Cup
 Due 15th September
 
-[W1] Agile Prototyping |
-* Future | Problems | Buildings
+#### [W1] Agile Prototyping |
+* Future / Problems / Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
 * Previously in Agile ...
 
-[W2] Biologically Inspired Design |
+#### [W2] Biologically Inspired Design |
 * Biology
 * Torben Lenau Lecture (DTU Construct) [onsite]
-* Biomimetics | Biomimetic Architecture
+* Biomimetics / Biomimetic Architecture
 * Skylab Digital lab introduction talk [onsite]
 * Interdisciplinary solutions?
 
 ### [A2] Building System Needs
 Due 29th September
 
-[W3] Building System Needs |
+#### [W3] Building System Needs |
 * Meta Disciplinary 
 * From cups to buildings via plants
 * Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
@@ -33,7 +33,7 @@ Due 29th September
 * Design Requirements
 * Building System functions
 
-[W4] Building System Features |
+#### [W4] Building System Features |
 * Reverse Engineering Buildings
 * Building System features
 * Parametric Design
@@ -42,11 +42,11 @@ Due 29th September
 ### [A3] Building System Growth
 Due 20th October
 
-[W5] Building System Growth |
+#### [W5] Building System Growth |
 * Meta Disciplinary systems
 * Meta Disciplinary elements
 
-[W6] Common System Growth Specification |
+#### [W6] Common System Growth Specification |
 * Combine different stages of systems
 
 ### [A4] How to Grow a Building
@@ -57,30 +57,30 @@ In this assignment you further explore the idea of growing buildings as a
 * [parametric] design system or
 * [manual] for growing buildings
 
-[W7] Design Genes |
+#### [W7] Design Genes |
 * Building Environment
 * Building Phenotype
 * Building Genotype
 
-[W8] Growing as Building |
+#### [W8] Growing as Building |
 * [Petra Gruber] Lecture (Angewandtem, Austria) [online]
 
-[W9] Design Pasts |
+#### [W9] Design Pasts |
 * Laila Zwisler Lecture (DTU Physics)  [onsite]
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 
-[W10] Futures |
+#### [W10] Futures |
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-[W11] Peer Feedback |
+#### [W11] Peer Feedback |
 * Peer feedback in focus groups
   
-[W12] Project |
+#### [W12] Project |
 * Tutorials and support
 
-[W13] Presentation |
+#### [W13] Presentation |
 * Final Presentation.
 
 ### [A5] Reflect
