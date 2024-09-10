@@ -12,9 +12,18 @@
 
 In this assignment you will follow the Agile Prototyping Method on a Cup in the following steps:
 
-### 1. Identify the functions
+Follow the in class steps and submit:
+
+1. Your 'How to group a cup biomimetic inspiration sheet'.
+2. An A3 inspiration drawing for each stage you focussed on.
+
+Scanned / photographed and submitted on DTU Learn by Sunday.
+
+<!-- ### 1. Identify the functions
 * Define the functions of a cup
 * What features of a cup support these functions?
+
+### 2. Ide
 
 ### 2. Feature variables
 * Imagine a universal cup designing system;
@@ -30,6 +39,7 @@ In this assignment you will follow the Agile Prototyping Method on a Cup in the 
 
 ### 4. Is is growing?
 * Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
+-->
 
 <!--
 # A1 Future
