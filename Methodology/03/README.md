@@ -66,13 +66,12 @@ In this case not really, the pencil would no longer fit in a pencil sharpener an
 
 -->
 
-
-
-
+<!--
 #### B2. Create new features for each stage
 
-
 ![Step B2](/Agile/img/Methodology/B_02.PNG)
+
+-->
 
 [1]: /Agile/Methodology/01
 [2]: /Agile/Methodology/02
