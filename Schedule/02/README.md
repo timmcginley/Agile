@@ -1,28 +1,32 @@
-# Week 2 - Future Problems
+# Week 2 - Biologically Inspired Design
 
 *10th September 2024*
 
-## Lecture
-* Recap on week 1
+## Lecture Part 1
+* The Agile Prototyping Methodology
+* Recap on week 1 - Common Cup Stages
+* Can we really grow a cup?
+* Cups Everywhere?
+
+## Lecture Part 2
 * Torben Lenau Lecture
-* [Biomimicry](Agile/Concepts/Biomimicry)
-* [Parametric Paradox]
+* [Biomimicry]
+* introduction to [Asknature.org]
+* Functions (Verb and Noun)
+
+## Activity
+* Review the common cup stages
+* Define verbs and nouns to each stage (Maybe zero is not possible?)
+* Search [Asknature.org]
+
+## Skylab Introduction talk 10.00
+* Thomas Vain will talk with you about opportunities to use Skylab and their Digital Lab
+
+## Important Dates
+* Submit: [A1]: 15th September
 
 
-
-Submit: [A1]: 10th September
-
-## Detailed Schedule
-*8:00 – 9:00*
-* Follow up on last weeks exercise
-*9:00 – 9:30*
-* For those without a group: form a group For those with a group: Start working with your future and project
-*9:30 – 10:00*
-* L2 - Lecture
-*10:00 – 12:00*
-* Finalise Futures Assignment ([A1])
-* Support from Tim and Kristian
-
-
+[Asknature.org]: http://Asknature.org
 [A1]: Agile/Assignments/A1
+[Biomimicry]: Agile/Concepts/Biomimicry
 [Parametric Paradox]: Agile/Concepts/ParametricParadox
