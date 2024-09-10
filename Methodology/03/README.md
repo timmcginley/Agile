@@ -1,19 +1,29 @@
-## Agile Prototyping Part 3 - Biomimetic Search
+# Agile Prototyping Part 3 - Biomimetic Search
 Please note that this part is iterative, for inspiration we should look to Lenau 2009
 
 This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
+## The steps
+
 ### 1. Make functional tree
+In this step you take the function you defined in the the last step of AP2 
 
 ### 2. Specificaiton
+This step results in the requirements that need to be satisfied to 
 
 ### 3. Search
+You can do this in a number of ways:
+* Brainstorm ideas from memory or experience, where does Biology also offer that function.
 
 ### 4. Focus
-reflect on the proximity to the requirements you identified in step 2.
+reflect on the proximity to the requirements you identified in step 2 for each biomimetic concept. Select one that best satisifies the requirements and inspires you with 'design' ideas / neww solutions.
 
 ### 5. Design and Test
-Check against requirements 
+* Apply the biological inspiration to a specific growth stage in system. y
+* There is no specific way to do this stage.
+* Choose an approach that works for you.
+* Check against requirements, does it satisfy the requirements from step 2?
+* The output of this is probably a drawing, but this is also a case of waht works for you.
 
 <!--
 
