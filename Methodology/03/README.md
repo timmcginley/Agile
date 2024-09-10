@@ -1,7 +1,7 @@
 # Agile Prototyping Part 3 - Biomimetic Search
 Please note that this part is iterative, for inspiration we should look to Lenau 2009. This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
-## AP3 steps
+## The steps
 
 ### 1. Functional analysis
 In this step you take the function you defined in the the last step of AP2.
@@ -9,17 +9,24 @@ In this step you take the function you defined in the the last step of AP2.
 * Use the functions table to fill out the functional tree, carfully seperating functions and means.
 * Relate this back to stages you defined in AP2.
 
+![Step 3-1](/Agile/img/Methodology/AP3-1.PNG)
+
 ### 2. Specificaiton
 This step results in the requirements that need to be focus the biomimetic search and test your design.
 * Apply these to the stages you identified in AP2.
-* 
+
+![Step 3-2](/Agile/img/Methodology/AP3-2.PNG)
 
 ### 3. Search
 You can do this in a number of ways:
 * Brainstorm ideas from memory or experience, where does Biology also offer that function.
 
+![Step 3-3](/Agile/img/Methodology/AP3-3.PNG)
+
 ### 4. Focus
 reflect on the proximity to the requirements you identified in step 2 for each biomimetic concept. Select one that best satisifies the requirements and inspires you with 'design' ideas / neww solutions.
+
+![Step 3-4](/Agile/img/Methodology/AP3-4.PNG)
 
 ### 5. Design and Test
 * Apply the biological inspiration to a specific growth stage in system. y
@@ -27,6 +34,8 @@ reflect on the proximity to the requirements you identified in step 2 for each b
 * Choose an approach that works for you.
 * Check against requirements, does it satisfy the requirements from step 2?
 * The output of this is probably a drawing, but this is also a case of waht works for you.
+
+![Step 3-5](/Agile/img/Methodology/AP3-5.PNG)
 
 <!--
 
