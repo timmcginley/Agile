@@ -3,6 +3,20 @@ Please note that this part is iterative, for inspiration we should look to Lenau
 
 This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
+### 1. Make functional tree
+
+### 2. Specificaiton
+
+### 3. Search
+
+### 4. Focus
+reflect on the proximity to the requirements you identified in step 2.
+
+### 5. Design and Test
+Check against requirements 
+
+<!--
+
 #### AP3.1 Asknature
 Next we select a stage and take the function for that stage previously expressed in step AP2-5 and try and match it to a biomimetic example using [asknature.org](Http://asknature.org). For instance for the _provide grip_ function we can find an example of how square [seahorse] tails help it grip.
 
@@ -28,7 +42,7 @@ In this case not really, the pencil would no longer fit in a pencil sharpener an
 
 ![Step 3-2](/Agile/img/Methodology/AP3-5.PNG)
 
-
+-->
 
 
 
