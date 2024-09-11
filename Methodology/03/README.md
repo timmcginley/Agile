@@ -1,7 +1,7 @@
 # Agile Prototyping Part 3 - Biomimetic Search
 Please note that this part is iterative, for inspiration we should look to Lenau 2009. This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
-## The steps
+## The Steps
 
 ### 1. Functional analysis
 In this step you take the function you defined in the the last step of AP2.
@@ -11,7 +11,7 @@ In this step you take the function you defined in the the last step of AP2.
 
 ![Step 3-1](/Agile/img/Methodology/AP3-1.PNG)
 
-### 2. Specificaiton
+### 2. Specification
 This step results in the requirements that need to be focus the biomimetic search and test your design.
 * Apply these to the stages you identified in AP2.
 
