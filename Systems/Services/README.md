@@ -30,6 +30,16 @@ Next you should scope your investigation of the SERVICE system segments. This is
 
 Here you need to identify the features for each of the SERVICE system segments that are in the scope of your study. 
 
+[site]: /Agile/Systems/Site
+[floor]: /Agile/Systems/Floor
+[facade]: /Agile/Systems/Facade
+[core]: /Agile/Systems/Core
+[space]: /Agile/Systems/Space
+[structure]: /Agile/Systems/Structure
+[services]: /Agile/Systems/Services
+[fire]: /Agile/Systems/Fire
+[materials]: /Agile/Systems/Materials
+[build]: /Agile/Systems/Build
 
 ## Biomimetic Inspriration
 * [How the Lymph System Pumps With No Pump](https://asknature.org/strategy/how-the-lymph-system-pumps-with-no-pump/)
