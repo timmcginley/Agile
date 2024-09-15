@@ -8,7 +8,6 @@ This system includes:
 
 The site system has a unique growth perspective because it is the origin of the building. The growth of every element in the building has its origin in the site. The function of the site is to support load from the strcuture and supply the spaces with their needs.
 
-
 ## AP1.1 Element
 > Identify Element, Artefact or System
 
@@ -22,7 +21,7 @@ The site system has many elements. In this stage please focus on the system and 
 <!--
 * Alternatively it could be the growth of the evacuation route through the building.
 * Perhaps it could also be the protective growth of fire insulating material around an element. This would grow in symbiosis with the elements material system.
-
+-->
 ## AP1.3 Segments
 > Identify Segments or Zones
 
