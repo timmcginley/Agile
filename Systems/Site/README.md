@@ -22,8 +22,8 @@ The site system has many elements. In this stage please focus on the system and 
 ## AP1.3 Segments
 > Identify Segments or Zones
 
-* This would be the layers of the floor including the finished surface, the sturctural slab, the structure (beams) and services as well as any suspended ceilings or raised floors.
-* Similar to the facade this would also include the spatial organisaiton of the floor including the location of the core for instance.
+* This would be the layers of the SITE including the landscaped or paved surface, any agregate, the soil below or under the bulding, the foudations.
+* This would also include the spatial organisaiton of the site which determines the location of the building and all of its systems.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
