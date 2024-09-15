@@ -20,14 +20,14 @@ The space system is best represented as a graph. So that each space is a node re
 > Identify Segments or Zones
 
 * This would be the vertical layers of the SPACE or
-* This could be the spatial organisaiton of each space.
+* This could be the spatial organisation of each space.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
 
-Next you should scope your investigation of the SITE layers, segments and zones. This is up to you to define.
+Next you should scope your investigation of the SPACE layers, segments and zones. This is up to you to define.
 
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the site layers included in your study as well as features in the 'plan view' spatial organisation. 
+Here you need to identify the features for each of the SPACE layers / segments / zones included in your study.
