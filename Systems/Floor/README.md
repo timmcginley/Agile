@@ -12,7 +12,7 @@ The floor system has many elements. In this stage please focus on the system and
 ## AP1.2 Line
 > Check for Organising Line or Surface
 
-* Similar to the facade the floor is organised by layers of surface and the segmentation on that surface. These points connect to each other in the building. Triggering other responses. In this way the growth system could be the growth of the fire detection system
+* Similar to the facade the floor is organised by layers of surface and the segmentation on that surface.
 * Alternatively it could be the growth of the evacuation route through the building.
 * Perhaps it could also be the protective growth of fire insulating material around an element. This would grow in symbiosis with the elements material system.
 
