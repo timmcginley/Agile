@@ -17,20 +17,17 @@ In this case the 'organising line' is the safe circualation, supply and processi
 ## AP1.3 Segments
 > Identify Segments or Zones
 
-What are the segments / zones of the core, this might be both in laterally and ventrally.
-
-Feel free to scope your investigation of the core / circulation system. You may for instance want to focus on the energy systems, fire safety / pressurised area. This is up to you to define. You are also welcome to include all the segments 
+What are the segments / zones of the core, this might be both in laterally and ventrally. This should include the energy systems, fire safety / pressurised area, structure, stairs, (fire) lifts and many more things. 
 
 ## AP1.4 Scope
 > Define the Scope of the Study
 
-It is probably not possible to study all the processes you have identified in detail. 
+Next you should scope your investigation of the core / circulation system. You may for instance want to focus on the energy systems, fire safety / pressurised area. This is up to you to define. You are also welcome to include all the segments 
 
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be a facade elment being fixed to a floor slab. It might be the decision to move an element with a crane or inside the building. It might be applying a protective cover to the element to protect it on site.
-
+Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be that the fire lift is in a pressurised shaft. It might be thickness of the core walls, this is up to you to identify.
 
 ## AP3 Biomimetic Inspiration
 * [Stem Grows Tall](https://asknature.org/strategy/stem-grows-tall/)
