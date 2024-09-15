@@ -22,8 +22,10 @@ The next stage is to define the segments or zones within the line, surface or vo
 
 It is probably not possible to study all the processes you have identified in detail. 
 
-## AP1.4 Features
+## AP1.5 Features
 > Identify Features
+
+Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be a facade elment being fixed to a floor slab. It might be the decision to move an element with a crane or inside the building. It might be applying a protective cover to the element to protect it on site.
 
 
 
