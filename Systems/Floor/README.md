@@ -2,7 +2,9 @@
 
 >This system includes: The plenum, horizontal structure and services
 
-The fire system has a unique growth perspective because it 'grows' in response to the needs of their systems in the building. It is incorporated into the main nervous / sensing system of the building, it grows with the spaces. It provides protection in a similar way to the way that the facade does but for the use case of fire. It needs to alert users to the danger. Offer a safe route out of the building. Reinforce critical structural elments to make sure they do not fail before the users can evacuate and remove smoke and heat from the building. Finally it should compartmentalise the fire and or smoke to avoid it spreading.
+The floor system has a unique growth perspective because it is the first major segmentation of the building. It then 'grows' structure and services by branching them from the core in response to the needs of the spatial systems the floor supports.
+
+It is incorporated into the main nervous / sensing system of the building, it grows with the spaces. It provides protection in a similar way to the way that the facade does but for the use case of fire. It needs to alert users to the danger. Offer a safe route out of the building. Reinforce critical structural elments to make sure they do not fail before the users can evacuate and remove smoke and heat from the building. Finally it should compartmentalise the fire and or smoke to avoid it spreading.
 
 
 ## AP1.1 Element
