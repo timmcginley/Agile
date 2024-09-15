@@ -16,8 +16,8 @@ Having defined the axis in the previous step, if the system exhibits symmetry yo
 
 ![Step 03](/Agile/img/Methodology/AP1-3.PNG)
 
-### AP1.4 Define the Scope of the Study
-You may be more interested in some segments or zones more than others. It can be a good idea to scope your study by reducing the number of segments you will study. It is recommended that the study area should be contiguous, if not, it might be better to make seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
+### AP1.4 Scope Analysis
+Some segments or zones may be more relevant to your analysis than others. It is a good idea to scope your analysis by reducing the number of segments you will study. It is recommended that the study area should be contiguous, if not, it might be better to make seperate studies for each contiguous area. The scoped area below of x1 and x2 is contiguous.
 
 ![Step 04](/Agile/img/Methodology/AP1-4.PNG)
 
