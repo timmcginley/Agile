@@ -15,22 +15,19 @@ The floor system has many elements. In this stage please focus on the system and
 * Similar to the facade the floor is organised by layers of surface and the segmentation on that surface. These points connect to each other in the building. Triggering other responses. In this way the growth system could be the growth of the fire detection system
 * Alternatively it could be the growth of the evacuation route through the building.
 * Perhaps it could also be the protective growth of fire insulating material around an element. This would grow in symbiosis with the elements material system.
-<!--
+
 ## AP1.3 Segments
 > Identify Segments or Zones
 
-* this could be the fire compartments in a building
-* segments of an evacuation route..
-* the sequence of fire detection, alert and sprinkling in a building.
+* This would be the layers of the floor including the finished surface, the sturctural slab, the structure (beams) and services as well as any suspended ceilings or raised floors.
+* Similar to the facade this would also include the spatial organisaiton of the floor including the location of the core for instance.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
 
-Next you should scope your investigation of the fire compartments / evacuation route or detection sequence. This is up to you to define.
+Next you should scope your investigation of the floor layers and spatial system. This is up to you to define.
 
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the fire compartments / evacuation route or detection sequence that are in the scope of your study. 
-
--->
+Here you need to identify the features for each of the floor layers included in your study as well as features in the 'plan view' spatial organisation. 
