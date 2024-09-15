@@ -2,15 +2,12 @@
 
 >This system includes: The plenum, horizontal structure and services
 
-The floor system has a unique growth perspective because it is the first major segmentation of the building. It then 'grows' structure and services by branching them from the core in response to the needs of the spatial systems the floor supports.
-
-It is incorporated into the main nervous / sensing system of the building, it grows with the spaces. It provides protection in a similar way to the way that the facade does but for the use case of fire. It needs to alert users to the danger. Offer a safe route out of the building. Reinforce critical structural elments to make sure they do not fail before the users can evacuate and remove smoke and heat from the building. Finally it should compartmentalise the fire and or smoke to avoid it spreading.
-
+The floor system has a unique growth perspective because it is the first major segmentation of the building. It then 'grows' structure and services by branching them from the core in response to the needs of the spatial systems the floor supports. In this way the function of the floor is to support and supply the spaces with their needs.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
 
-The fire system has many elements. In this stage please focus on the system and its element you wish to study further. It could be anything from the sprinkler and detection units to the fire evacuation routes in the building.
+The floor system has many elements. In this stage please focus on the system and its element you wish to study further. It could be anything from the slab to the servicing, fire safety or structural elements.
 
 ## AP1.2 Line
 > Check for Organising Line or Surface
