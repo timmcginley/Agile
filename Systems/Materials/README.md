@@ -1,7 +1,7 @@
 # Materials
 
 Material systems have a unique growth perspective. The focus here is either on:
-* The growth of the material specification that can be used to define the most appropriate material for each element in the building.
+* The heirachical 'growth' of the material specification that can be used to define the most appropriate material for each element in the building.
 * Similar to the build perspective exploring the complete lifecycle of the material from raw or reuse through to end of life. This lifecycle system, can start of vague and then grows in certainty with the growth of the building. 
 
 Similar to a build system, material system can be attached (and dettached) to each element in the building. The material system should be carefully considered with its implications for the selection of build systems for each element.
@@ -12,8 +12,9 @@ Similar to a build system, material system can be attached (and dettached) to ea
 Each element in the building has its own material system to descirbe and satisfy its unique material requirements.  These material systems combine to create a total material system for all elements in the building. 
 * Choose one of the building systems.
 * Then choose an element in that system. 
-* Consider either the lifecylce of the element or the heirachical breakdown of its requirements using a fuction tree.
+* Consider either the material requrirements of the element for each stage of its lifecylce.
 
+<!--
 ## AP1.2 Line
 > Check for Organising Line or Surface
 
@@ -32,7 +33,8 @@ It is probably not possible to study all the processes you have identified in de
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be a facade elment being fixed to a floor slab. It might be the decision to move an element with a crane or inside the building. It might be applying a protective cover to the element to protect it on site.
+Here you need to identify the features for each of the segments that are in the scope of your study. For instance a feature might be a facade elment being fixed to a floor slab. It might be the decision to move an element with a crane or inside the building. It might be applying a protective cover to the element to protect it on site.
 
 ## AP3 Biomimetic Inspiration
 * [High Performance Materials](https://asknature.org/collection/high-performance-materials/)
+-->
