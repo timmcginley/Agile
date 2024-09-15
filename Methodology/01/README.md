@@ -6,7 +6,7 @@ If this is your first time working with this methodology, it is best to start fr
 
 ![Step 01](/Agile/img/Methodology/AP1-1.PNG)
 
-### AP1.2 Check for Symmetry / Primary Axis {AP1.2}
+### AP1.2 Check for Organising Line or Surface
 Not all artefacts / systems will have a primary axis. In this case the axis is more important than the symmetry. The axis defines a front and back or an up and down. This will help us to understand the distribution of features along the artefact. In animals the HOX genes (a set of genes that express major features such as the head and torso, appear in the same sequence in DNA that they do in the axis of the animal). So in this exercise you are also starting to organise the genetic code of the artefact.
 
 ![Step 02](/Agile/img/Methodology/AP1-2.PNG)
