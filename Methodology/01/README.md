@@ -1,7 +1,7 @@
 ## Agile Prototyping Part 1
 
 
-### AP1.1 Identify Artefact / System {AP1.1}
+### AP1.1 Identify Artefact / System {#AP1-1} 
 If this is your first time working with this methodology, it is best to start from something simple, here we use the example of a pencil. 
 
 ![Step 01](/Agile/img/Methodology/AP1-1.PNG)
