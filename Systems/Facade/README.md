@@ -17,19 +17,17 @@ It is worth taking a step back to consider what you consider the facade to inclu
 > Identify Segments or Zones
 
 * We have said above that the facade has layers, which should be further explored here.
-* In addition we the facade lies on a surface. What are the segments / zones of the core, this might be both in laterally and ventrally. This should include the energy systems, fire safety / pressurised area, structure, stairs, (fire) lifts and many more things. 
+* Additionally the facade lies on a surface. What are the segments / zones of the facade surface.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
 
-Next you should scope your investigation of the core / circulation system. You may for instance want to focus on the energy systems, fire safety / pressurised area. This is up to you to define. You are also welcome to include all the segments 
+Next you should scope your investigation of the facade layers / surface. You may for instance want to focus on the daylight, fire safety and or insulation. This is up to you to define.
 
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be that the fire lift is in a pressurised shaft. It might be thickness of the core walls, this is up to you to identify.
-
-
+Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be that the glazing is shaded or that the verticality of the structure is expressed, or the design of ventilation ducts in the facade. 
 
 ## Biomimetic Inspirtation
 * [Lens-Shaped Leaves Harvest Light](https://asknature.org/strategy/crystals-draw-sunlight-into-plant/)
