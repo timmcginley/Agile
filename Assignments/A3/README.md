@@ -10,6 +10,15 @@
 | Output   | Final spec for the system including the standardized development stages |
 | Submit   | Markdown file, individual system group agreement form |
 
+## Assignment
+* Complete [AP2] steps for your selected [building system]
+
+[AP2]: /Agile/Methodology/02
+[building system]: /Agile/Systems
+
+
+<!--
+
 Based on this we can then design the bulding system as a reconfigurable 'agile prototype' that we can integrate with other systems to adapt to different project requirements.
 
 ### Agile Protoype
