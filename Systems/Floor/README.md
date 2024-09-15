@@ -12,10 +12,10 @@ The floor system has many elements. In this stage please focus on the system and
 ## AP1.2 Line
 > Check for Organising Line or Surface
 
-* The fire system could be sampling the air for smoke and heat in a space. These points connect to each other in the building. Triggering other responses. In this way the growth system could be the growth of the fire detection system
+* Similar to the facade the floor is organised by layers of surface and the segmentation on that surface. These points connect to each other in the building. Triggering other responses. In this way the growth system could be the growth of the fire detection system
 * Alternatively it could be the growth of the evacuation route through the building.
 * Perhaps it could also be the protective growth of fire insulating material around an element. This would grow in symbiosis with the elements material system.
-
+<!--
 ## AP1.3 Segments
 > Identify Segments or Zones
 
@@ -33,3 +33,4 @@ Next you should scope your investigation of the fire compartments / evacuation r
 
 Here you need to identify the features for each of the fire compartments / evacuation route or detection sequence that are in the scope of your study. 
 
+-->
