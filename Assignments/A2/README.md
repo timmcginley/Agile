@@ -12,23 +12,10 @@
 
 For your chosen [focus] area, you need to do the following:
 
-### 1. Identify the functions
-* Define the functions of your chosen building system.
-* What features of a cup support these functions?
+1. Complete [AP1] steps for your selected [building system]
 
-### 2. Feature variables
-* Imagine a universal design system for your building system;
-  * How would your building systems features change for different building projects?
-  * What variables would these features have?
-  * Could you define the range of the variables that could support any building?
- 
-### 3. Out of order?
-* Thinking procedurally, in what order would we apply functions to the design?
-* Can we find a universal 'pseudo' developmental sequence for your building system?
-* Which feature would appear first?
-
-### 4. Is it growing?
-* Could we consider these functional variables to be a bit like the suppression and expression of genes in a growing organism?
+[AP1]: /Agile/Methodology/01
+[building system]: /Agile/Systems
 
 <!--
 ![METHOD_02](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/23c41df7-b987-4d23-9c3a-8144a56c896b)
