@@ -1,11 +1,15 @@
 # Materials
 
-Material systems has a unique growth perspective. The focus here is on the growth of the material specification that can be used to define the most appropriate material for each element in the building. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the build system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The build system should be carefully considered with the selected material system for each element.
+Material systems has a unique growth perspective. The focus here is either on 
+* The growth of the material specification that can be used to define the most appropriate material for each element in the building.
+* Similar to the build perspective exploring the complete lifecycle of the material from raw or reuse through to end of life. This lifecycle system, can start of vague and then grows in certainty with the growth of the building. 
+
+Similar to a build system, material system can be attached (and dettached) to each element in the building. The material system should be carefully considered with its implications for the selection of build systems for each element.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
 
-Each element in the building has its own build system to describes its unique construction process (physical growth). These build systems combine to create an construction sequence for all the elements in the building. 
+Each element in the building has its own material system to descirbe and satisfy its unique material requirements.  These material systems combine to create a total material system for all elements in the building. 
 * Choose one of the build systems (not material system).
 * Then choose an element in that system. 
 * Consider how the element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
