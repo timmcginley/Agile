@@ -21,20 +21,18 @@ The structural system includes the slabs, core, columns, beams, bracing and othe
 > Identify Segments or Zones
 
 * This might be the floors of the building, other spatial zones that segment the structural concept for the building
-* or zones of compression and tension difference in the elements for instance.
-
-<!--
+* or zones of compression and tension that provide the difference in the elements for instance.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
 
-Next you should scope your investigation of the service system segments. This is up to you to define.
+Next you should scope your investigation of the structural system or element segments. This is up to you to define.
 
 ## AP1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the fire segments that are in the scope of your study. 
+Here you need to identify the features for each of the structural segments that are in the scope of your study. 
 
--->
+
 ## AP3 Biomimetic Inspiration
 * [Hole Structure Strengthens Bone](https://asknature.org/strategy/hole-structure-strengthens-bone/)
