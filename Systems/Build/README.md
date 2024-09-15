@@ -5,7 +5,10 @@ The build system has a unique growth perspective. The focus here is on the _proc
 ## AP1.1 Element
 > Identify Element, Artefact or System
 
-Here you will study how a specific element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
+Each element in the building has its own build system to describes its unique construction process (physical growth). These build systems combine to create an construction sequence for all the elements in the building. 
+* Choose one of the build systems (not material system).
+* Then choose an element in that system. 
+* Consider how the element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
 
 ## AP1.2 Line
 > Check for Organising Line or Surface
