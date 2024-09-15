@@ -11,7 +11,7 @@ Not all artefacts / systems will have a primary axis. In this case the axis is m
 
 ![Step 02](/Agile/img/Methodology/AP1-2.PNG)
 
-### AP1.3 Identify Segments or Zones
+### AP1.3 Identify Segments, Zones or Phases
 Having defined the axis in the previous step, if the system exhibits symmetry you can divide it into segments along the axis, there may be some overlap between these segments. To start with you are observing segments that you can see from the outside. But in some instances we may need to include features that would only be visible if the artefact was transparent. Sidenote: I googled but couldn't find an xray of a pencil...
 
 ![Step 03](/Agile/img/Methodology/AP1-3.PNG)
