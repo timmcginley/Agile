@@ -10,7 +10,7 @@ Similar to a build system, material system can be attached (and dettached) to ea
 > Identify Element, Artefact or System
 
 Each element in the building has its own material system to descirbe and satisfy its unique material requirements.  These material systems combine to create a total material system for all elements in the building. 
-* Choose one of the build systems (not material system).
+* Choose one of the building systems.
 * Then choose an element in that system. 
 * Consider how the element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
 
