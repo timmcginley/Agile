@@ -3,7 +3,7 @@
 The build system has a unique growth perspective. The focus here is on the _process of construction_. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the build system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The build system should be carefully considered with the selected material system for each element.
 
 ## AP1.1 Element
-> Identify Artefact or System
+> Identify Element, Artefact or System
 
 Here you will study how a specific element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
 
