@@ -34,5 +34,5 @@ It is probably not possible to study all the processes you have identified in de
 
 Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be a facade elment being fixed to a floor slab. It might be the decision to move an element with a crane or inside the building. It might be applying a protective cover to the element to protect it on site.
 
-## AP3 Biommimetic Inspiration
+## AP3 Biomimetic Inspiration
 * [High Performance Materials](https://asknature.org/collection/high-performance-materials/)
