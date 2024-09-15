@@ -10,9 +10,9 @@
 | Output   | Drawings / digital prototypes (i.e. grasshopper) |
 | Submit   | Markdown file |
 
-For your chosen [focus] area, you need to do the following:
+## Assignment
 
-## Complete [AP1] steps for your selected [building system]
+* Complete [AP1] steps for your selected [building system]
 
 [AP1]: /Agile/Methodology/01
 [building system]: /Agile/Systems
