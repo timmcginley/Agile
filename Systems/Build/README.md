@@ -1,14 +1,14 @@
 # AP Build 
 
-The build system has a unique growth perspective. The focus here is on the _process of construction_. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the build system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The build system should be carefully considered with the selected material system for each element.
+The BUILD system has a unique growth perspective. The focus here is on the _process of construction_. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the BUILD system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The BUILD system should be carefully considered with the selected material system for each element.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
 
-Each element in the building has its own build system to describes its unique construction process (physical growth). These build systems combine to create an construction sequence for all the elements in the building. 
+Each element in the building has its own BUILD system to describes its unique construction process (physical growth). These BUILD systems combine to create an construction sequence for all the elements in the building. 
 * Choose one of the building systems (not material system).
 * Then choose an element in that system. 
-* Consider how the element arrives on site and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
+* Consider how the element arrives on [site] and is processed until it is installed in its final location in the building. As a starting point you could take the traditional process, but imagine that the element 'floats' through the site into its final position.
 
 ## AP1.2 Line
 > Check for Organising Line or Surface
