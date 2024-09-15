@@ -1,4 +1,4 @@
-# AP Core System
+# Core
 
 > Includes: Circulation, Services, Structure, Bracing, Fire evacuation
 
