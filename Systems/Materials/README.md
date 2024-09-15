@@ -1,6 +1,6 @@
 # Materials
 
-Material systems has a unique growth perspective. The focus here is on the _process of construction_. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the build system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The build system should be carefully considered with the selected material system for each element.
+Material systems has a unique growth perspective. The focus here is on the growth of the material specification that can be used to define the most appropriate material for each element in the building. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the build system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The build system should be carefully considered with the selected material system for each element.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
