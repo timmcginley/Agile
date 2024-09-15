@@ -18,6 +18,7 @@ The services system has many elements. In this stage please focus on the system 
 > Identify Segments or Zones
 
 * this could be the segments in a HVAC system. It might inlcude the inlets and outlets.
+* It could also be a study of gradients in pressure or heat within a system or element.
 
 ## AP1.4 Scope
 > Define the Scope of the Study
