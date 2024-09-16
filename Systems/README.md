@@ -6,7 +6,7 @@ In Agile Prototyping this year we focus on the following building systems based 
 
 Figure 1. Meta Disciplinary Objects.
 
-In week [1] you will choose one of the following systems to work with this semester. 
+In week [1] you will choose one of the following systems to work with this semester. Each system contains examples of how to apply the Agile Prototyping Methodology Part 1 to it.
 
 1. [Site]
 2. [Floor] (This was missing in the orginal paper) (Including Storeys, slabs and the plenum)
