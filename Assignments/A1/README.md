@@ -7,7 +7,7 @@
 | Case     | Cup |
 | Groups   | (Group) 2 - 3 People |
 | Practice | In class activity in week 1 and 2|
-| Output   | Drawings|
+| Output   | Drawings |
 | Submit   | Digital drawings or photos / scans of physical drawings |
 
 In this assignment you will follow the Agile Prototyping Method on a Cup in the following steps:
