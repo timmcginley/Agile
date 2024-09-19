@@ -8,18 +8,20 @@
 | Groups   | Same group as A1 (2 to 3 people) |
 | Practice | In class activity in week 3 and 4 |
 | Output   | Drawings / digital prototypes (i.e. grasshopper) |
-| Submit   | Markdown file + final drawing demonstrating completion of AP1 |
+| Submit   | Markdown file + final drawing demonstrating completion of AP1 (including 'line', 'segments' and 'features') |
 
 ## Assignment
 
 * Complete [AP1] steps for your selected [building system]
 * As disciplinary experts in your selected system we expect you to be able to go further than you managed in the first assingment with cup.
-* Once you have completed your first iteration of AP1 for your selected system, you should apply it to the 'real' building example.
+* Once you have completed your first iteration of [AP1] for your selected [system], you should apply it to the 'real' building example. This will help you to identify the features that we might expect to see in each segment. You can also note the functions, but please keep them seperate. In this case we identify the features so that we can reverse engineer the functions in the staging process in the next assignment [A3].
 * Now adapt your line, segment and feature diagram so that it works also works in the case of the provided building.
-* This adapted final line is the one that you should submit.
+* This adapted final line, segment and feature drawing is the one that you should submit.
 
 [AP1]: /Agile/Methodology/01
 [building system]: /Agile/Systems
+[system]: /Agile/Systems
+[A3]: /Agile/Assignments/A3
 
 <!--
 ![METHOD_02](https://github.com/timmcginley/Agile-Prototyping/assets/1415855/23c41df7-b987-4d23-9c3a-8144a56c896b)
