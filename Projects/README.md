@@ -2,9 +2,11 @@
 
 This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. This year we have 3 options for how you can explore this.
 
-1. As a game
+1. As a [game]
 2. As a computational [design system]
-3. As a user [manual]
+3. As a user [manual] 
+
+We will provide as a case study a previous project from the Advanced Building Design Course. You can then use that building to analyse and test your agile prototypes and your ideas for your Agile Prototyping projects for this semester, remember that you do not need to create a new design for a building, you are creating an agile prototype of a building system that can be combined in your selected project ([game], [design system] or [manual]) to help future building designers to understand how to grow a building.
 
 [game]: /Agile/Projects/Game
 [design system]: /Agile/Projects/Parametric
