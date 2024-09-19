@@ -4,9 +4,11 @@ This year we will explore how to grow a building. You are not expected to 'reall
 
 1. As a [Game]
 2. As a Computational (Parametric) [Design System]
-3. As a User [Manual] 
+3. As a User [Manual]
 
-We will provide as a case study a previous project from the Advanced Building Design Course. [Enrolled students only]. You can then use that building to analyse and test your agile prototypes and your ideas for your Agile Prototyping projects for this semester, remember that you do not need to create a new design for a building, you are creating an agile prototype of a building system that can be combined in your selected project ([Game], [Design System] or [Manual]) to help future building designers to understand how to grow a building.
+_Wildcard option_ - Scaled physical model(s) (exhibition quality)
+
+We will provide as a case study a previous project from the Advanced Building Design Course. [Enrolled students only]. You can then use that building to analyse and test your agile prototypes and your ideas for your Agile Prototyping projects for this semester, remember that you do not need to create a new design for a building, you are creating an agile prototype of a building system that can be combined in your selected project ([Game], [Design System] or [Manual]) or the wildcard option to help future building designers to understand how to grow a building.
 
 [Game]: /Agile/Projects/Game
 [Design System]: /Agile/Projects/Parametric
