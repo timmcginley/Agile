@@ -13,6 +13,9 @@ This year we will explore how to grow a building. You are not expected to 'reall
 
 <!--
 
+[Computational]: /Agile/Concepts/ComputationalDesign
+[meta disciplinary]: /Agile/Concepts/MetaDisciplinary
+
 ### Agile Protoype
 This does *not mean* that the constructed prototype has to adapt like a transformer...
 
@@ -31,8 +34,7 @@ Your agile prototype needs to be able to: take a building:
 
 * The model for the Skylab building on campus.-->
 
-[Computational]: /Agile/Concepts/ComputationalDesign
-[meta disciplinary]: /Agile/Concepts/MetaDisciplinary
+
 
 <!--
 
