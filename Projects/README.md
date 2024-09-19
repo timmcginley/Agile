@@ -1,6 +1,6 @@
 # Projects
 
-This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. This year we have 3 options for how you can explore this.
+This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. This year we have 3 options plus a wildcar option for how you can explore this.
 
 1. As a [Game]
 2. As a Computational (Parametric) [Design System]
