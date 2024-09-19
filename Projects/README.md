@@ -31,7 +31,7 @@ Your agile prototype needs to be able to: take a building:
 
 * The model for the Skylab building on campus.-->
 
-[Computational]: and Parametric Design: /Agile/Concepts/ComputationalDesign
+[Computational]: /Agile/Concepts/ComputationalDesign
 [meta disciplinary]: /Agile/Concepts/MetaDisciplinary
 
 <!--
