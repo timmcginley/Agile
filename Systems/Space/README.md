@@ -40,6 +40,9 @@ Here you need to identify the features for each of the SPACE layers / segments /
 * Andreea-Carla Buzea and Mathias Barner Hanquist Gammelgaard (2019) [**Automated generation of activity-based spatial requirements using empirical virtual user models**](https://findit.dtu.dk/en/catalog/5d3d833ed9001d32f558c129)
 * Katerine Godsvig Laursen (2020) [**Integration of client requirements into early stages of building design**](https://findit.dtu.dk/en/catalog/5e5cf806d9001d01632c0024)
 
+## References
+Franck, K.A. (1994) Types are Us. In K. Franck and L. Schneekloth (Eds.), Ordering Space: Types in Architecture andDesign (pp. 345–372). New York: Van Nostrand Reinhold. 
+Hillier, B. (2007) Space is the machine - a configurational theory of architecture. Space Syntax - UCL.
 
 [site]: /Agile/Systems/Site
 [floor]: /Agile/Systems/Floor
