@@ -40,10 +40,13 @@ Here you need to identify the features for each of the segments that are in the 
 [materials]: /Agile/Systems/Materials
 [Build]: /Agile/Systems/Build
 
-## Biomimetic Inspirtation
+## Biomimetic Inspiration
 * [Lens-Shaped Leaves Harvest Light](https://asknature.org/strategy/crystals-draw-sunlight-into-plant/)
 * [Leaves Channel Water](https://asknature.org/strategy/leaves-channel-water/)
 * [Body Changes Shape](https://asknature.org/strategy/body-changes-shape/)
 * [Pores Allow Gas Exchange](https://asknature.org/strategy/pores-allow-gas-exchange/)
 * [Desert Plants Offer New Twist on Gathering Water From Air](https://asknature.org/strategy/leaves-gather-water/)
 * [Hairs Prevent Entry of Water](https://asknature.org/strategy/hairs-prevent-entry-of-water/)
+
+## Thesis
+* Claudia Moreno Romero (2023) [**Investigation of PVT systems**](https://findit.dtu.dk/en/catalog/64ebe5ac0cdb922052ae2a72)
