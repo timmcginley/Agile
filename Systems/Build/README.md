@@ -1,5 +1,9 @@
 # AP Build 
 
+* What is the path of elements on site from arrival to installation?
+* What processing occurs to these elements on site?
+* What is the construction sequence of the building for different construction methods?
+
 The BUILD system has a unique growth perspective. The focus here is on the _process of construction_. Measured from the point an elements raw materials arrive on site to the validation of their correct installation in the building. So the BUILD system is best thought of the process that each element goes through as it is processed through the site and building. In this way a build system can be attached (and dettached) to each element in the building. The BUILD system should be carefully considered with the selected material system for each element.
 
 ## AP1.1 Element
