@@ -1,19 +1,15 @@
 # Building Design Genes
 
-Can we get the genes into the design board?
+>In previous years we started by trying to find the genes, but we think it makes sense that this comes after you have familiarised your selves with the [systems]. Therefore this year we have defined 10 [systems] for you to grow.
 
-These are lens that we can apply to help us understand what our systems need to do.
+We are making progess with identifying the genes of buildings, but there is still a lot of work to do:
+* What is the relationship between systems, stages and genes?
+* What is the realtionship between genes and morphogens?
+* Which of these elements map to the [Design Grid]?
 
-Build
-External / Facade
-Function / Use
-Internal / Space
-Location / Site
-Material
-Project
-Structure
-
-
+In this course we have defined the systems
+* In [A2] defined the lines, segments and features of your systems
+* In [A3] you defined the stages of your systems.
 
 ## Architectural Genotype
 ‘The [architectural] types that are physically created support and promote the values, social relationships,and patterns of activities that are dominant in that society at that time’ (Franck, 1994, p. 345). Hence it is only when the dominant values of a society change that the types of buildings can change. It therefore matters where the genotype is stored. Is it cultural, inside the user, the environment, the designer or encapsulated in our common understanding of the architectural typology as a conveyer of cultural values? Hillier (2007) presents the idea of architectural genotypes as an underlying spatial logic of architecture. Inthis sense the phenotype is the material architecture. In biology the phenotype is the result of thegenotype and epigenetic and non-inherited environmental factors. The biological phenotype’sevolutionary response is imprinted in the organism’s DNA genotype. In addition, the organism’s‘phenotypic plasticity’ - or ability to adapt to its environment during its development – would need to beaccommodated in a genotypical description of architectural typologies. From an architectural perspective,Gero and Kazakov (1998) presented the idea of ‘design genes’ which they proposed could be used toinform spatial organisation. Architectural genotypes could provide a wholly new way of looking atarchitecture. 
@@ -119,6 +115,9 @@ The project Gene Space contains genes that respond to the cost and time of the p
 
 
 <!-- links -->
+[systems]: /Agile/Systems
+[Design Grid]: /Agile/Concepts/DesignGrid
+
 [McGinley et. al, 2016]: researchgate.net/publication/311454828_Suburban_Mutations_Towards_the_Multi-Dimensional_Appropriation_of_Science_in_Architecture
 [morphogenetic prototyping]: /Agile/Concepts/MorphogeneticPrototyping
 [Morphogenetic Prototyping]: /Agile/Concepts/MorphogeneticPrototyping
