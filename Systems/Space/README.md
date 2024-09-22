@@ -1,5 +1,9 @@
 # Space
 
+The Space system grows in response to the functional / space requirements of the project. These include requirements for inividual spaces and much more.
+* What building functions does the project ask for?
+* How do these spaces map to [floors] in your project (if you have multiple floors)
+
 The SPACE system has a unique growth perspective because it provide the function and use for the building. The growth of every element in the building if because a SPACE needs it. The function of the SPACE is to support the needs of the users of the building and contain the stuff they need for that function.
 
 ## AP1.1 Element
@@ -39,6 +43,7 @@ Here you need to identify the features for each of the SPACE layers / segments /
 
 [site]: /Agile/Systems/Site
 [floor]: /Agile/Systems/Floor
+[floors]: /Agile/Systems/Floor
 [facade]: /Agile/Systems/Facade
 [core]: /Agile/Systems/Core
 [space]: /Agile/Systems/Space
