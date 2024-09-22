@@ -1,5 +1,7 @@
 # Materials
 
+* How does it maximise local material use?
+
 Material systems have a unique growth perspective. The focus here is either on:
 * The heirachical 'growth' of the MATERIAL specification that can be used to define the most appropriate material for each element in the building.
 * Similar to the build perspective exploring the complete lifecycle of the material from raw or reuse through to end of life. This lifecycle system, can start of vague and then grows in certainty with the growth of the building. 
