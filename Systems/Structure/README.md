@@ -1,6 +1,11 @@
 # Structure
 
->includes horizontal and veritcal structure.
+>includes horizontal and vertical structure.
+
+* How high should the core / structural frame be to house the required spaces?
+* How much load is coming from the spaces?
+* What is the self load?
+* How can this be safely transferred to the ground?
 
 The STRUCTURES system has a unique growth perspective because it 'grows' in response to the loads applied on it, initially from the spaces and then all the systems of the building. It transfers the loads of the builidng to the [site].
 
