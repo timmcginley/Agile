@@ -32,6 +32,10 @@ Next you should scope your investigation of the SPACE layers, segments and zones
 
 Here you need to identify the features for each of the SPACE layers / segments / zones included in your study.
 
+## Thesis
+* Andreea-Carla Buzea and Mathias Barner Hanquist Gammelgaard (2019) [**Automated generation of activity-based spatial requirements using empirical virtual user models**](https://findit.dtu.dk/en/catalog/5d3d833ed9001d32f558c129)
+
+
 [site]: /Agile/Systems/Site
 [floor]: /Agile/Systems/Floor
 [facade]: /Agile/Systems/Facade
