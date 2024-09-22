@@ -2,6 +2,9 @@
 
 This includes the skin concept. Biologically it is the 'blastoderm'.
 * How does it keep the weather outside?
+* How does it keep the heat in?
+* How does it let the heat out?
+* How does it control moisture?
 * How does it attract people to visit it?
 * How does it communicate what it is?
 * How does it know that the envelope is the right size?
