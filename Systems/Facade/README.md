@@ -1,6 +1,12 @@
 # Facade
 
-The FACADE system has a unique growth perspective because it 'grows' on teh skin of the building. Its conceptual growth is therefore intently informed by the growth of the other systems. Whilst the FACADE decides lots of important features of a building susch as how much light it receives, in its growth process we could also say that it is the main sense of the building, sensing, where light is coming from throughout the year, moisture and air pressure levels outside. Therefore it would be good to think that the FACADE 'has time' to grow in its conceptual growth - at least a year, so it can experience all the conditions it will be expected to perform against in its final form. This is similar to the way that the space system should be 'grown' on the occupancy data of similar spaces. The most important thing for the facade system is to consider that it is the 'skin' of the building. The FACADE should be really good at sensing the outside, but also excel at adpating to the 'growing' needs of the building. It is probable that the FACADE is one of the last systems to activate its [material] system.
+This includes the skin concept. Biologically it is the 'blastoderm'.
+* how does it keep the weather outside?
+* how does it attract people to visit it?
+* how does it communicate what it is?
+* how does it know that the envelope is the right size?
+
+The FACADE system has a unique growth perspective because it 'grows' on the skin of the building. Its conceptual growth is therefore intently informed by the growth of the other systems. Whilst the FACADE decides lots of important features of a building susch as how much light it receives, in its growth process we could also say that it is the main sense of the building, sensing, where light is coming from throughout the year, moisture and air pressure levels outside. Therefore it would be good to think that the FACADE 'has time' to grow in its conceptual growth - at least a year, so it can experience all the conditions it will be expected to perform against in its final form. This is similar to the way that the space system should be 'grown' on the occupancy data of similar spaces. The most important thing for the facade system is to consider that it is the 'skin' of the building. The FACADE should be really good at sensing the outside, but also excel at adpating to the 'growing' needs of the building. It is probable that the FACADE is one of the last systems to activate its [material] system.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
