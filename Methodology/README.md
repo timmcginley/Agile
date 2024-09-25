@@ -1,7 +1,7 @@
-# Agile Prototyping (AP) Methodology
+# Morphogenetic Prototyping
 >What if a biologist had never seen artificial design before?
 
-**Agile Prototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
+**Morphogenetic Protototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
 
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
