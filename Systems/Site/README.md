@@ -12,7 +12,7 @@ The SITE system includes:
 * The resistor and transferer of structural load from the building
 * Control water runoff, capture, cleaning and cloud burst scenarios
 
-The SITE system has a unique growth perspective because it is the origin of the building. The growth of every element in the building has its origin in the site. The function of the site is to support load from the [strcuture] and supply the [space]s with their needs.
+The SITE system has a unique growth perspective because it is the origin of the building. The growth of every element in the building has its origin in the site. The function of the site is to support load from the [structure] and supply the [space]s with their needs.
 
 ## AP1.1 Element
 > Identify Element, Artefact or System
