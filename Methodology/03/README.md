@@ -1,10 +1,10 @@
-# MP3 - Biomimetic Search
+# M3 - Biomimetic Search
 We can't embed videos in markdown so please click the image below to listen to the awesome Janine Benyus introduce the concept of biomimicry.
 [![image](https://github.com/user-attachments/assets/3d3f5c7e-f34b-47c4-ba10-63fb203f2d45)](https://www.youtube.com/watch?v=M_5Xxy2T3kA&ab_channel=EllenMacArthurFoundation)
 
 Please note that this part is iterative, for inspiration we should look to Lenau 2009. This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
-## MP3.1 Functional analysis
+## M3.1 Functional analysis
 In this step you take the function you defined in the the last step of AP2.
 * Fill in the 'functions' table.
 * Use the functions table to fill out the functional tree, carfully seperating functions and means.
@@ -12,24 +12,24 @@ In this step you take the function you defined in the the last step of AP2.
 
 ![Step 3-1](/Agile/img/Methodology/AP3-1.PNG)
 
-## MP3.2 Specification
+## M3.2 Specification
 This step results in the requirements that need to be focus the biomimetic search and test your design.
 * Apply these to the stages you identified in AP2.
 
 ![Step 3-2](/Agile/img/Methodology/AP3-2.PNG)
 
-## MP3.3 Search
+## M3.3 Search
 You can do this in a number of ways:
 * Brainstorm ideas from memory or experience, where does Biology also offer that function.
 
 ![Step 3-3](/Agile/img/Methodology/AP3-3.PNG)
 
-## MP3.4 Focus
+## M3.4 Focus
 reflect on the proximity to the requirements you identified in step 2 for each biomimetic concept. Select one that best satisifies the requirements and inspires you with 'design' ideas / neww solutions.
 
 ![Step 3-4](/Agile/img/Methodology/AP3-4.PNG)
 
-## MP3.5 Design and Test
+## M3.5 Design and Test
 * Apply the biological inspiration to a specific growth stage in system. y
 * There is no specific way to do this stage.
 * Choose an approach that works for you.
