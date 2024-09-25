@@ -1,14 +1,14 @@
-## MP5 Architecture
+## M5 Architecture
 
-### MP5.1 Identify the systems you wish to bring together
+### M5.1 Identify the systems you wish to bring together
 
-### MP5.2 bring 2 together at a time following the first three steps of MP4 (evolve).
+### M5.2 bring 2 together at a time following the first three steps of M4 (evolve).
 
-### MP5.3 Map to [Design grid]
+### M5.3 Map to [Design grid]
 
-### MP5.4 Search for common stages
+### M5.4 Search for common stages
 
-### MP5.5 Communicate
+### M5.5 Communicate
 
 [Design grid]: /Agile/Concepts/DesignGrid
 
