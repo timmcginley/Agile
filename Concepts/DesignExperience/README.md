@@ -19,4 +19,4 @@ To support this we define the design experience as a unique experience and the f
 [McGinley et. al, 2015]: https://www.researchgate.net/publication/282664175_MorphoCarve_Carving_Morphogenetic_Prototypes
 
 ## Thesis
-Maria Yanez Adades (2021) [**An investigation of information technologies applied in regenerative design. A design proposal for Nordkronen Havnesilo in Stavanger, Norway**](https://findit.dtu.dk/en/catalog/60f55d9bd9001d0162248997)
+Maria Yanez Adades and Bjørn-Tore Johannesen (2021) [**An investigation of information technologies applied in regenerative design. A design proposal for Nordkronen Havnesilo in Stavanger, Norway**](https://findit.dtu.dk/en/catalog/60f55d9bd9001d0162248997)
