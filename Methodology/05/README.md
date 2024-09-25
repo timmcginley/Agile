@@ -1,14 +1,14 @@
-## AP5 Architecture
+## MP5 Architecture
 
-### AP5-1 Identify the systems you wish to bring together
+### MP5.1 Identify the systems you wish to bring together
 
-### AP5-2 bring 2 together at a time following the first three steps of AP4 (evolve).
+### MP5.2 bring 2 together at a time following the first three steps of MP4 (evolve).
 
-### AP5-3 Map to [Design grid]
+### MP5.3 Map to [Design grid]
 
-### AP5-4 Search for common stages
+### MP5.4 Search for common stages
 
-### AP5-5 Communicate
+### MP5.5 Communicate
 
 [Design grid]: /Agile/Concepts/DesignGrid
 
