@@ -1,8 +1,8 @@
 # Site
 
-The SITE system respondS to site and contextual requirements. They will inform the extents of the bounding conditions and the form of the building.
-* We prefer to think of the site as the 'platform' for the building. This true for existing building extensions or to the refurbishment of an offshore oil platform. 
-* Where is the site centre? It does not need to be the exact centre, but it is where the core will grow from.
+The SITE system responds to SITE and contextual requirements. They will inform the extents of the bounding conditions and the form of the building.
+* We prefer to think of the SITE as the 'platform' for the building. This true for existing building extensions as it is to the refurbishment of disused oil or gas platforms. 
+* Where is the SITE centre? It does not need to be the exact centre, but it is where the core will grow from.
 * If there is an existing building, what will be your project's relationship to this?
 
 The SITE system includes:
