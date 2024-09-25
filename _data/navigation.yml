@@ -16,15 +16,15 @@
 - name: Methodology
   link: /Methodology
   dropdown: 
-    - name: AP1 - Features
+    - name: M1 - Features
       link: /Methodology/01
-    - name: AP2 - Stages
+    - name: M2 - Stages
       link: /Methodology/02
-    - name: AP3 - Biomimetics
+    - name: M3 - Biomimetics
       link: /Methodology/03
-    - name: AP4 - Evolution
+    - name: M4 - Evolution
       link: /Methodology/04
-    - name: AP5 - Architecture
+    - name: M5 - Architecture
       link: /Methodology/05
 - name: Projects
   link: /Projects
