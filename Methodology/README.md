@@ -1,4 +1,4 @@
-# Morphogenetic Prototyping
+# Morphogenetic Prototyping v0.5
 >What if a biologist had never seen artificial design before?
 
 **Morphogenetic Protototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
