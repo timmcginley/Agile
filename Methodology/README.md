@@ -5,19 +5,19 @@
 
 Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Morphogenetic Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
-### AP[1] Features
+### [M1] Features
 Identify the axis, 'segments', features and scope of the system or artefact you are studying.
 - Explore Part 1 steps [here](/Agile/Methodology/01)
 
-### AP[2] Stages
+### [M2] Stages
 Imagining it had really grown, in what order would the features appear, what is their function? The stages allow us to translate linear design space into multiple parallel reversible tracks.
 - Explore Part 2 steps [here](/Agile/Methodology/02)
 
-### AP[3] Biomimetics
+### [M3] Biomimetics
 Gain biomimetic inspiration for new solutions for the functions you have identified in each growth stage.
 - Explore Part 3 steps [here](/Agile/Methodology/03)
 
-### AP[4] Evolution
+### [M4] Evolution
 Model the evolution of the building system to help us reuse, improve and learn from previous designs. Try and imagine what new systems might emerge in the future, based on your study.
 - Explore Part 4 steps [here](/Agile/Methodology/04)
 
@@ -119,12 +119,12 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [A4]: /Agile/Assignments/A4
 [A5]: /Agile/Assignments/A5
 
-[1]: /Agile/Methodology/01
-[2]: /Agile/Methodology/02
-[3]: /Agile/Methodology/03
-[4]: /Agile/Methodology/04
-[5]: /Agile/Methodology/05
-[6]: /Agile/Methodology/06
+[M1]: /Agile/Methodology/01
+[M2]: /Agile/Methodology/02
+[M3]: /Agile/Methodology/03
+[M4]: /Agile/Methodology/04
+[M5]: /Agile/Methodology/05
+[M6]: /Agile/Methodology/06
 
 
 
