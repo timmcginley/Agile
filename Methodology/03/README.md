@@ -1,4 +1,7 @@
 # Agile Prototyping Part 3 - Biomimetic Search
+We can't embed videos in markdown so please click the image below to listen to the awesome Janine Benyus introduce the concept of biomimicry.
+[![image](https://github.com/user-attachments/assets/3d3f5c7e-f34b-47c4-ba10-63fb203f2d45)](https://www.youtube.com/watch?v=M_5Xxy2T3kA&ab_channel=EllenMacArthurFoundation)
+
 Please note that this part is iterative, for inspiration we should look to Lenau 2009. This part relies on you already having completed parts [1] and [2] and having a staged development diagram with functions expressed in nouns and verbs.
 
 ## The Steps
