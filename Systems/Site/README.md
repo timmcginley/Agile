@@ -14,47 +14,51 @@ The SITE system includes:
 
 The SITE system has a unique growth perspective because it is the origin of the building. The growth of every element in the building has its origin in the site. The function of the site is to support load from the [structure] and supply the [space]s with their needs.
 
-## AP1.1 Element
+## AP1
+
+### AP1.1 Element
 > Identify Element, Artefact or System
 
 The SITE system has many elements. In this step please focus on the system and its element you wish to study further. It could be anything from its biodiversity, fire truck access, foundation systems or site drainage.
 
-## AP1.2 Line
+### AP1.2 Line
 > Check for Organising Line or Surface
 
 * Similar to the [facade] and the [floor] the SITE is organised on a surface.
 * It is also built up of layers on the surface which have a line tangential to the surface.
 
-## AP1.3 Segments
+### AP1.3 Segments
 > Identify Segments or Zones
 
 * This would be the layers of the SITE including the landscaped or paved surface, any aggregate, the soil below ...
 * or, under the bulding, the foundations, services and any basements etc.
 * This would also include the spatial organisatIon of the SITE which determines the location of the building and all of its systems.
 
-## AP1.4 Scope
+### AP1.4 Scope
 > Define the Scope of the Study
 
 Next you should scope your investigation of the SITE layers, segments and zones. This is up to you to define.
 
-## AP1.5 Features
+### AP1.5 Features
 > Identify Features
 
 Here you need to identify the features for each of the SITE layers included in your study as well as features in the 'plan view' spatial organisation. 
 
-## AP2.1 Stages
+## AP2
+
+### AP2.1 Stages
 > Identify Stages
 
-## AP2.2 Proto Stages
+### AP2.2 Proto Stages
 > Identify the Proto Stage
 
-## AP2.3 Feature A
+### AP2.3 Feature A
 > Find Feature A
 
-## AP2.4 Feature B
+### AP2.4 Feature B
 > Find Feature B (Repeat until complete)
 
-## AP2.5 Functions
+### AP2.5 Functions
 > Identify functions
 
 
