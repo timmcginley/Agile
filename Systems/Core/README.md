@@ -4,7 +4,7 @@
 
 The CORE system has a unique growth perspective. It is similar to the development process of the central nervous system in vertebrates. We can therefore think of it as the spine of the building. Many buildings do not have this configuration, but here we primarily focus on tall buildings that do have a clearly defined CORE. The core defines the anterior and posterior of the building. It processes the flow of loads, nutrients, information and people safely through a building, connecting it to its [site]. The CORE is responsible for connecting, carrying and supplying all the building systems of the building. The configuration of the CORE(s) is critical to the success of a project, but due to having many deep disciplinary dependencies it is normally defined too late when it is to difficult to change.
 
-## M1
+## M1 - Core
 
 ### 1.1 Element
 > Identify Element, Artefact or System
