@@ -1,14 +1,14 @@
 ## M5 Architecture
 
-### M5.1 Identify the systems you wish to bring together
+### 5.1 Identify the systems you wish to bring together
 
-### M5.2 bring 2 together at a time following the first three steps of M4 (evolve).
+### 5.2 bring 2 together at a time following the first three steps of M4 (evolve).
 
-### M5.3 Map to [Design grid]
+### 5.3 Map to [Design grid]
 
-### M5.4 Search for common stages
+### 5.4 Search for common stages
 
-### M5.5 Communicate
+### 5.5 Communicate
 
 [Design grid]: /Agile/Concepts/DesignGrid
 
