@@ -23,17 +23,7 @@ Wouldn't it be cool if we could control this process and apply it in the design,
 <https://www.researchgate.net/publication/308466538_Carving_Morphogenetic_Prototypes_with_a_Katana>
 
 ## Morphogenetic Protoyping Lab
-In 2016 I co-founded the [Morphogenetic Protootyping Lab](https://www.youtube.com/watch?v=Jn2irE3RV3EZ) with colleagues at UNISA in Australia. Whilst in Denamrk I have been working on how these ideas fit into contemporary design and engineering systems. This Agile Prototyping Course is the result of these experiments.
-
-## DesignGenes
-This course identifies the genes of building design and categorises them in one of 8 [Gene Systems] :
-* Project
-* Location
-* Exterior
-* Function / Space
-* interior
-* Material
-* Build
+In 2016 I co-founded the [Morphogenetic Protootyping Lab](https://www.youtube.com/watch?v=Jn2irE3RV3EZ) with colleagues at UNISA in Australia. Whilst in Denmark I have been working on how these ideas fit into contemporary design and engineering systems. This Agile Prototyping Course is the result of these experiments. In future iterations we will change the name of the course to Morphogenetic Prototyping.
 
 ## Glossary of terms
 
