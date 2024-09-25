@@ -42,6 +42,22 @@ Next you should scope your investigation of the SITE layers, segments and zones.
 
 Here you need to identify the features for each of the SITE layers included in your study as well as features in the 'plan view' spatial organisation. 
 
+## AP2.1 Stages
+> Identify Stages
+
+## AP2.2 Proto Stages
+> Identify the Proto Stage
+
+## AP2.3 Feature A
+> Find Feature A
+
+## AP2.4 Feature B
+> Find Feature B (Repeat until complete)
+
+## AP2.5 Functions
+> Identify functions
+
+
 [site]: /Agile/Systems/Site
 [floor]: /Agile/Systems/Floor
 [facade]: /Agile/Systems/Facade
