@@ -51,7 +51,8 @@ Here you need to identify the features for each of the segments that are in the 
 [materials]: /Agile/Systems/Materials
 [Build]: /Agile/Systems/Build
 
-## Biomimetic Inspiration
+## M3
+Biomimetic Inspiration
 * [Lens-Shaped Leaves Harvest Light](https://asknature.org/strategy/crystals-draw-sunlight-into-plant/)
 * [Leaves Channel Water](https://asknature.org/strategy/leaves-channel-water/)
 * [Body Changes Shape](https://asknature.org/strategy/body-changes-shape/)
