@@ -1,6 +1,6 @@
 # Morphogenetic Prototyping
 
-Morphogenetic Prototyping was the original name for the method we now call [Agile Prototyping] to define our [Agile Prototypes]. 
+Morphogenetic Prototyping was the original name for the method we use here to define our [Agile Prototypes]. In future iterations of the course, it will just be called Morphogenetic Prototyping.
 
 We divide the building into [meta-disciplinary] elements. These are then organised in [Gene Systems]. Morphogenetic Prototyping enables us to then go forwards and backwards in the pseudo developmental stages of the agile prototypes. Thereby enabling the designer to jump forwards and backwards in 'design time'.
 
