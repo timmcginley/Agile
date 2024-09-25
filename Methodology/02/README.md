@@ -1,4 +1,4 @@
-## Agile Prototyping Part 2
+## AP2 - Identify Stages
 
 ### AP2.1 Identify Stages
 Until now we have made observations about the physical pencil. The final design object. What biologists would call the 'phenotype'. It is the adult, fully grown organism. The next steps you need to use a mixture of imagination and logic to determine the 'growth stages' of the artfact / system. Starting with the final stage (the 'real' pencil / artefact / system)
