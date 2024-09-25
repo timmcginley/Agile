@@ -9,6 +9,8 @@ Read more about exactly what BOHM is *and isn't* [here](https://bhom.xyz/documen
 * We want technology to be *open* and accessible for all.
 * And we think that by working *together* we can solve harder more impactful problems for the world.
 
-## Gene Systems currently covered by BOHM
+## Building Systems currently covered by BHOM
+
+[FILL THIS OUT]
 
 
