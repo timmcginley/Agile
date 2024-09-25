@@ -22,12 +22,10 @@
       link: /Methodology/02
     - name: AP3 - Biomimetics
       link: /Methodology/03
-    - name: AP4 - Mapping
+    - name: AP4 - Evolution
       link: /Methodology/04
-    - name: AP5 - Evolution
+    - name: AP5 - Architecture
       link: /Methodology/05
-    - name: AP6 - Architecture
-      link: /Methodology/06
 - name: Projects
   link: /Projects
   dropdown: 
