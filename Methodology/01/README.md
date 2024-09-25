@@ -19,7 +19,7 @@ Some segments or zones may be more relevant to your analysis than others. It is 
 
 ![Step 04](/Agile/img/Methodology/AP1-4.PNG)
 
-## M1.5 Identify Features
+## 1.5 Identify Features
 Having identified the organising line or surface, segments and scope(s) of your study. You can now start to identify specific features that are expressed for each segment. 
 
 ![Step 05](/Agile/img/Methodology/AP1-5.PNG)
