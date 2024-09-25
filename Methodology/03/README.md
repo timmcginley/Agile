@@ -1,4 +1,4 @@
-# Agile Prototyping Part 3 - Biomimetic Search
+# AP3 - Biomimetic Search
 We can't embed videos in markdown so please click the image below to listen to the awesome Janine Benyus introduce the concept of biomimicry.
 [![image](https://github.com/user-attachments/assets/3d3f5c7e-f34b-47c4-ba10-63fb203f2d45)](https://www.youtube.com/watch?v=M_5Xxy2T3kA&ab_channel=EllenMacArthurFoundation)
 
