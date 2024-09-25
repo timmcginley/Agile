@@ -3,7 +3,7 @@
 
 **Morphogenetic Protototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
 
-Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Agile Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
+Biologists call a fully grown organism the [phenotype] and the genetic code that created it the [genotype]. Before biologists could understand the genes of an organism from genetic sequencing, they used comparative biology (measuring, drawing and inferring differences between species) to 'guess' the genes that encoded the organism. Morphogenetic Prototyping applies the same approach to guess and sequence the 'genes' of building systems. The method has 6 parts:
 
 ### AP[1] Features
 Identify the axis, 'segments', features and scope of the system or artefact you are studying.
@@ -37,7 +37,7 @@ Therefore in this course we use the method in the following ways:
 
 
 ### Where did it come from?
-Agile Prototyping, combines the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, with a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. MP was for buildings Whereas [Agile Prototyping] is intended for building systems, their integration into buildings and, in future iterations, other products.
+Morphogenetic Prototyping, originates in the [morphogenetic Prototyping] (MP) methods I developed between 2014 and 2018 in Australia, at DTU irt has been refined to have a clearer interface to traditional [biomimetics] and a better understanding of systems engineering. Originally focused on Architectural design tasks it has been extended here to focus on building systems, their integration into buildings and, in future iterations, other products.
 
 ## Next steps
 The Agile prototyping method raises many questions including and not limited to:
