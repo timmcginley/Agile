@@ -18,6 +18,11 @@ Identify the first feature of the phenotype that you think should be included in
 #### 2.4 Find feature B (Repeat until complete)
 Consider if the design was 'growing', at would stage would feature B 'express' itself? would it be before or after the feature A? Repeat steps 2.3 and 2.4 (this one) until you have arranged all the features you have found for the system / artefact into a sequence. Congratulation you can now define the conceptual growth stages of your system!
 
+* Check the that you have included the segments for each stage and that it is clear to see how the segments subdivide through the stages.
+* Are there different types of stages?
+* Have you left any 'gap' stages that will be filled by other systems?
+* Check the Phenotype stage is at the top of the drawing.
+
 ![Step AP2-4](/Agile/img/Methodology/AP2-4.PNG)
 
 #### 2.5 Identify the functions
