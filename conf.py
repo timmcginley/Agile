@@ -15,9 +15,9 @@ import shutil
 # shutil.copytree('../../notebooks', 'notebooks', dirs_exist_ok=True)
 
 project = 'Agile Prototyping'
-copyright = '2035-2025, Tim McGinley'
+copyright = '2035-2015, Hacking the future since 2035'.
 author = 'Tim McGinley'
-version = release = '41938-25'
+version = release = '2025'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
