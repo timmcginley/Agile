@@ -7,23 +7,23 @@ Biologists call a fully grown organism the [phenotype] and the genetic code that
 
 ### [M1] Features
 Identify the axis, 'segments', features and scope of the system or artefact you are studying.
-- Explore Part 1 steps [here](/Agile/Methodology/01)
+- Explore Part 1 steps [here](01.md)
 
 ### [M2] Stages
 Imagining it had really grown, in what order would the features appear and what is their function? The stages allow us to expand the linear design space into multiple parallel reversible tracks.
-- Explore Part 2 steps [here](/Agile/Methodology/02)
+- Explore Part 2 steps [here](02.md)
 
 ### [M3] Biomimetics
 Gain biomimetic inspiration for new solutions for the functions you have identified in each growth stage in [M2].
-- Explore Part 3 steps [here](/Agile/Methodology/03)
+- Explore Part 3 steps [here](03.md)
 
 ### [M4] Evolution
 Model the evolution of the building system to help us reuse, improve and learn from previous designs. Try and imagine what new systems might emerge in the future, based on your study.
-- Explore Part 4 steps [here](/Agile/Methodology/04)
+- Explore Part 4 steps [here](04.md)
 
 ### AP[5] Architecture / Carve
 Transplant materials and building systems at any stage in the design process. This final part requires new design experiences, tools, interfaces and collaboration opportunities for the 21st century.
-- Explore Part 6 steps [here](/Agile/Methodology/05)
+- Explore Part 6 steps [here](05.md)
 
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. Therefore in this course we use the method in the following ways:
