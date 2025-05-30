@@ -1,5 +1,13 @@
 # Building Design Genes
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
+
 >In previous years we started by trying to find the genes, but we think it makes sense that this comes after you have familiarised your selves with the [systems]. Therefore this year we have defined 10 [systems] for you to grow.
 
 We are making progess with identifying the genes of buildings, but there is still a lot of work to do:
