@@ -1,5 +1,13 @@
 # Projects
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
+
 This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. The initial hard work is to develop your own understanding of how to grow a building, then to develop a consensus on what this means, the best way is to try and explain it as a group. Thererfore, this year we have 3 options plus a wildcard option for how you to explain to future building designers how to grow a building.
 
 1. As a [Game]
