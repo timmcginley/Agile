@@ -15,10 +15,6 @@ import shutil
 # shutil.copytree('../../notebooks', 'notebooks', dirs_exist_ok=True)
 
 project = 'Agile Prototyping'
-copyright = '2025, DTU'
-author = 'Agile Prototyping'
-
-project = 'Test Project'
 copyright = '2035-2025, Tim McGinley'
 author = 'Tim McGinley'
 version = release = '41938-25'
