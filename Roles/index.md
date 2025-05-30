@@ -1,4 +1,12 @@
-# Roles
+# Roles.
+
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 Architectural Engineering roles in the future will be different from today. This section describes 5 emerging roles that you could consider in your future. The roles below are derived from two papers:
 
 * Morphogenetic Architecture for Intelligent Buildings [(McGinley, 2015)]
