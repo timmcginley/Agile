@@ -18,6 +18,11 @@ project = 'Agile Prototyping'
 copyright = '2025, DTU'
 author = 'Agile Prototyping'
 
+project = 'Test Project'
+copyright = '2035-2025, Tim McGinley'
+author = 'Tim McGinley'
+version = release = '41938-25'
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
