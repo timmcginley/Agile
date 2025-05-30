@@ -6,11 +6,11 @@
 * [A4] How to Grow a building
 * [A5] Reflect
 
-[A1]: /Agile/Assignments/A1
-[A2]: /Agile/Assignments/A2
-[A3]: /Agile/Assignments/A3
-[A4]: /Agile/Assignments/A4
-[A5]: /Agile/Assignments/A5
+[A1]: A1.md
+[A2]: A2.md
+[A3]: A3.md
+[A4]: A4.md
+[A5]: A5.md
 
 <!-- 2023
 
