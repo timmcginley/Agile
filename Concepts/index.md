@@ -1,4 +1,4 @@
-# Agile Prototyping Concepts
+# Concepts
 
 ```{toctree}
 :hidden:
