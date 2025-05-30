@@ -1,5 +1,12 @@
 # Agile Prototyping Concepts
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 Can be grouped as follows
 * Biology
 * Future
