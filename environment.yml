@@ -12,5 +12,6 @@ dependencies:
     - sphinx-press-theme
     - sphinx-book-theme
     - insegel
+    - sphinx-typo3-theme
     - myst-parser
     - sphinx-design
