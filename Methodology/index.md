@@ -118,12 +118,12 @@ We do this in [Assignment 5]. Does the Prototype support the future? In the end 
 [A4]: /Agile/Assignments/A4
 [A5]: /Agile/Assignments/A5
 
-[M1]: /Agile/Methodology/01
-[M2]: /Agile/Methodology/02
-[M3]: /Agile/Methodology/03
-[M4]: /Agile/Methodology/04
-[M5]: /Agile/Methodology/05
-[M6]: /Agile/Methodology/06
+[M1]: 01.md
+[M2]: 02.md
+[M3]: 03.md
+[M4]: 04.md
+[M5]: 05.md
+[M6]: 06.md
 
 
 
