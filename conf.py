@@ -50,8 +50,8 @@ myst_heading_anchors = 3
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 # html_theme = 'alabaster'
-html_theme = 'press'
-# html_theme = 'sphinx_book_theme'
+# html_theme = 'press'
+html_theme = 'sphinx_book_theme'
 # html_theme = 'insegel'
 # html_theme = 'sphinx_typo3_theme'
 
