@@ -55,7 +55,7 @@ myst_heading_anchors = 3
 # html_theme = 'insegel'
 
 GITHUB_URL ="https://github.com/timmcginley/41938"
-html_theme = 'typo3'
+html_theme = 'sphinx_typo3_theme'
 html_theme_options = {
     "repository_url": GITHUB_URL,
     "use_repository_button": True,
