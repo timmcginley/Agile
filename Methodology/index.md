@@ -1,4 +1,11 @@
 # Morphogenetic Prototyping v0.5
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 >What if a biologist had never seen artificial design before?
 
 **Morphogenetic Protototyping is a [meta disciplinary] design and analysis method for buildings and their systems.**
