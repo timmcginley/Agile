@@ -1,5 +1,12 @@
-
 # Learning Objectives
+
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 
 [Agile](/)
 
