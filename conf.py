@@ -14,9 +14,9 @@ import shutil
 # Copy notebooks
 # shutil.copytree('../../notebooks', 'notebooks', dirs_exist_ok=True)
 
-project = 'Advanced Building Design'
+project = 'Agile Prototyping'
 copyright = '2025, DTU'
-author = 'Advanced Building Design Lab'
+author = 'Agile Prototyping'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -51,8 +51,9 @@ myst_heading_anchors = 3
 
 # html_theme = 'alabaster'
 # html_theme = 'press'
-GITHUB_URL ="https://github.com/timmcginley/41936"
-html_theme = 'sphinx_book_theme'
+# html_theme = 'sphinx_book_theme'
+GITHUB_URL ="https://github.com/timmcginley/41938"
+# html_theme = 'insegel'
 html_theme_options = {
     "repository_url": GITHUB_URL,
     "use_repository_button": True,
