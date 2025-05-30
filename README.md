@@ -20,7 +20,7 @@ Over 5 assignements we work out:
 [unknowable]: Concepts/Futures
 [uncertainty]: Concepts/uncertainty
 [future]: Concepts/Futures
-[methodology]: /Methodology
+[methodology]: /Methodology/index.md
 [projects]: Projects
 
 [A1]: /Agile/Assignments/A1
