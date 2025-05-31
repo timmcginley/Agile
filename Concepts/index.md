@@ -21,7 +21,7 @@ Can be grouped as follows
 ## Tools
 [BHOM] | [Speckle] | [MarkDown] | [Grasshopper]
 
-## Building Design
+## Design
 [Architecture Machine] | [Uncertainty] | [Parametric Paradox] | [Design Experience] | [Physical Prototype] 
 
 
