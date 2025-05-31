@@ -1,4 +1,4 @@
-# Morphogenetic Prototyping v0.5
+# Methodology
 ```{toctree}
 :hidden:
 :glob:
