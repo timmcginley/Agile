@@ -1,13 +1,5 @@
 # Learning Objectives
 
-```{toctree}
-:hidden:
-:glob:
-*
-*/index
-```
-
-
 [Agile](/)
 
 1. Identify a [building system] or product that has or could address a current or emerging disciplinary problem in the architecture, engineering and construction industry.
