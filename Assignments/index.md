@@ -1,4 +1,10 @@
 # Assignments
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
 
 * [A1] How to Grow a Cup
 * [A2] Building System Needs
