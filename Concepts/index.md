@@ -8,13 +8,6 @@
 ```
 
 Can be grouped as follows
-* Biology
-* Future
-* Agile Prototyping
-* Tools
-* Building Design
-
-
 
 ## Biology
 [Genes] | [Pheontype] | [Meme] | [Morphogenetic Prototyping] | [Biomimetics] 
@@ -34,29 +27,29 @@ Can be grouped as follows
 
 
 
-[Biomimetics]: /Agile/Concepts/Biomimetics
-[Science Fiction Prototyping]: /Agile/Concepts/Biomimetics
-[Methodology]: /Agile/Concepts/Methodology
-[Physical Prototype]: /Agile/Concepts/PhysicalPrototype
-[Morphogenetic Prototyping]: /Agile/Concepts/MorphogeneticPrototyping
-[DSRM]: /Agile/Concepts/DSRM
-[Genes]: /Agile/Concepts/Genes
-[Pheontype]: /Agile/Concepts/Pheontype
-[Meme]: /Agile/Concepts/Meme
-[Futures]: /Agile/Concepts/Futures
-[Singularity]: /Agile/Concepts/Singularity
-[Agile]: /Agile/Concepts/Agile
-[Reverse Engineering]: /Agile/Concepts/ReverseEngineering
-[Requirements]: /Agile/Concepts/Requirements
-[Building System]: /Agile/Concepts/BuildingSystem
-[BHOM]: /Agile/Concepts/BHOM
-[Speckle]: /Agile/Concepts/Speckle
-[MarkDown]: /Agile/Concepts/MarkDown
-[Grasshopper]: /Agile/Concepts/Grasshopper
-[Architecture Machine]: /Agile/Concepts/ArchitectureMachine
-[Uncertainty]: /Agile/Concepts/Uncertainty
-[Parametric Paradox]: /Agile/Concepts/ParametricParadox
-[Design Experience]: /Agile/Concepts/DesignExperience
-[AFDP]: /Agile/Concepts/AFDP
-[Agile Prototype]: /Agile/Concepts/AgilePrototype
+[Biomimetics]: ../Concepts/Biomimetics
+[Science Fiction Prototyping]: ../Concepts/Biomimetics
+[Methodology]: ../Concepts/Methodology
+[Physical Prototype]: ../Concepts/PhysicalPrototype
+[Morphogenetic Prototyping]: ../Concepts/MorphogeneticPrototyping
+[DSRM]: ../Concepts/DSRM
+[Genes]: ../Concepts/Genes
+[Pheontype]: ../Concepts/Pheontype
+[Meme]: ../Concepts/Meme
+[Futures]: ../Concepts/Futures
+[Singularity]: ../Concepts/Singularity
+[Agile]: ../Concepts/Agile
+[Reverse Engineering]: ../Concepts/ReverseEngineering
+[Requirements]: ../Concepts/Requirements
+[Building System]: ../Concepts/BuildingSystem
+[BHOM]: ../Concepts/BHOM
+[Speckle]: ../Concepts/Speckle
+[MarkDown]: ../Concepts/MarkDown
+[Grasshopper]: ../Concepts/Grasshopper
+[Architecture Machine]: ../Concepts/ArchitectureMachine
+[Uncertainty]: ../Concepts/Uncertainty
+[Parametric Paradox]: ../Concepts/ParametricParadox
+[Design Experience]: ../Concepts/DesignExperience
+[AFDP]: ../Concepts/AFDP
+[Agile Prototype]: ../Concepts/AgilePrototype
 
