@@ -7,6 +7,17 @@
 ```
 
 > going forwards and backwards at the same time...
+projects
+DTU Mars
+
+Prototypes - ISS. - Reverse engineer this... ESA Mars base.
+DTU Building
+
+[DTU Research Facilities]
+
+
+## Look back or forwards...
+In groups of two decide if you are doing to look to the past or the future?
 
 ## [A1] How to Grow a Cup
 * Id the problem and set ambitious requirements to solve it (build sys needs)
@@ -32,9 +43,7 @@
 [A4]: A4.md
 [A5]: A5.md
 
-
-
-
+[DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
 
 <!-- 2023
 
