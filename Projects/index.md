@@ -8,13 +8,13 @@
 ```
 With unprecented global pressure on the education, industry and housing, this year we will aply the agile prototyping [methodology] focus on their future in the following projects:
 
-* DTU Mars
+* DTU Lunar
 * Future Factory
 * GrowHouse
 
 [methodology]: ../Methodology/index.md
 
-## DTU Mars
+## DTU Lunar
 Examples include:
 research facilities
 * <https://www.aqua.dtu.dk/english/facilities/research-vessel-dana-v>
