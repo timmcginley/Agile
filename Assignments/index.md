@@ -6,11 +6,23 @@
 */index
 ```
 
-* [A1] How to Grow a Cup
-* [A2] Building System Needs
-* [A3] Building System Growth
-* [A4] How to Grow a building
-* [A5] Reflect
+## [A1] How to Grow a Cup
+* Id the problem and set ambitious requirements to solve it (build sys needs)
+- learn method (cup / anything) - this we define.
+
+## [A2] Building System Needs
+* inspiration / research / reverse
+
+## [A3] Prototype: 
+* Building System Growth ()
+* design something you think could do better (grow a building system)
+
+## [A4] Test: 
+* How to Grow a building
+* test it - (does it work really)
+
+## [A5] Reflect
+* (did it work - how to do it better)
 
 [A1]: A1.md
 [A2]: A2.md
@@ -19,14 +31,9 @@
 [A5]: A5.md
 
 don't forget the basics.
-* Id the problem and set ambitious requirements to solve it (build sys needs)
-- learn method (cup / anything) - this we define.
-* inspiration / research / reverse
-* design something you think could do better (grow a building system)
-* test it
-(does it work really)
-* reflect.
-(did it work - how to do it better)
+
+
+
 
 how does this map to future method?
 
