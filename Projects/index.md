@@ -14,6 +14,10 @@ With unprecented global pressure on the education, industry and housing, this ye
 
 [methodology]: ../Methodology/index.md
 
+## Future Factory
+We 
+Examples include: <https://www.kt.dtu.dk/research/pilot-plant>
+
 
 <!--- 2024
 
