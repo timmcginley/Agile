@@ -6,7 +6,16 @@
 *
 */index
 ```
+With unprecented global pressure on the education, industry and housing, this year we will aply the agile prototyping [methodology] focus on their future in the following projects:
 
+* DTU Mars
+* Future Factory
+* GrowHouse
+
+[methodology]: Methodology/index.md
+
+
+<!--- 2024
 
 This year we will explore how to grow a building. You are not expected to 'really' grow a building, we want you to explore the idea to see where it goes. The initial hard work is to develop your own understanding of how to grow a building, then to develop a consensus on what this means, the best way is to try and explain it as a group. Thererfore, this year we have 3 options plus a wildcard option for how you to explain to future building designers how to grow a building.
 
@@ -22,6 +31,7 @@ We will provide as a case study a previous project from the Advanced Building De
 [Design System]: /Agile/Projects/Parametric
 [Manual]: /Agile/Projects/Manual
 
+-->
 
 <!--
 
