@@ -18,6 +18,24 @@
 [A4]: A4.md
 [A5]: A5.md
 
+don't forget the basics.
+* Id the problem and set ambitious requirements to solve it (build sys needs)
+- learn method (cup / anything) - this we define.
+* inspiration / research / reverse
+* design something you think could do better (grow a building system)
+* test it
+(does it work really)
+* reflect.
+(did it work - how to do it better)
+
+how does this map to future method?
+
+currently
+
+
+
+
+
 <!-- 2023
 
 ## A1 - Future
