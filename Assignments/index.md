@@ -6,6 +6,8 @@
 */index
 ```
 
+> going forwards and backwards at the same time...
+
 ## [A1] How to Grow a Cup
 * Id the problem and set ambitious requirements to solve it (build sys needs)
 - learn method (cup / anything) - this we define.
@@ -29,15 +31,6 @@
 [A3]: A3.md
 [A4]: A4.md
 [A5]: A5.md
-
-don't forget the basics.
-
-
-
-
-how does this map to future method?
-
-currently
 
 
 
