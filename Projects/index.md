@@ -12,7 +12,7 @@ With unprecented global pressure on the education, industry and housing, this ye
 * Future Factory
 * GrowHouse
 
-[methodology]: Methodology/index.md
+[methodology]: ../Methodology/index.md
 
 
 <!--- 2024
