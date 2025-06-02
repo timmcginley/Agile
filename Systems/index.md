@@ -1,4 +1,10 @@
-# Agile Building Systems
+# Systems
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
 
 In Agile Prototyping this year we focus on the following building systems based on the [meta disciplinary elements] from [A framework for meta-disciplinary building analysis] (McGinley & Krijnen 2022).
 
