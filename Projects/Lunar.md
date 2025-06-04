@@ -6,6 +6,15 @@ The journey to earth like planets outside of our solar system is not possible to
 The first step requires a moon base. Your task will therefore be to adapt your agile prototype you develop in this course to support a building system on a moon base.
 Of course this will be a DTU base...
 
+## lOCATION
+we arE elooking at three differnt locastiuons this year
+
+* lunar landing Apollo 17
+* LAVA TUBES
+* SOUTH POLE
+
+  
+
 The Lunar Base Must:
 
 ### 01. Accommodate 8 Astronauts:
