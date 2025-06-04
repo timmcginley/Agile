@@ -13,7 +13,28 @@ we arE elooking at three differnt locastiuons this year
 * LAVA TUBES
 * SOUTH POLE
 
-Requirements
+## Requirements
+
+use these to develop new features
+
+### protection from outside
+* dust
+* meteriorites
+* radiation
+* temperature
+### keeping air in
+
+Site (location)
+Floor (This was missing in the orginal paper) (Including Storeys, slabs and the plenum)
+Facade (named skin in Figure 1)
+
+Core
+Space (Including circulation and Fire evacuation)
+Structure
+Services (Including Fire Sprinklers etc.)
+Fire (Included in services in Figure 1)
+Materials (This system is not included in Figure 1.)
+Build (This system is not included in Figure 1.)
 
 Materials 
 
