@@ -14,7 +14,7 @@ Figure 1. Meta Disciplinary Objects.
 
 In week [1] you will choose one of the following systems to work with this semester. Each system contains examples of how to apply the Agile Prototyping Methodology Part 1 to it.
 
-1. [Site]
+1. [Site] (location)
 2. [Floor] (This was missing in the orginal paper) (Including Storeys, slabs and the plenum)
 1. [Facade] (named skin in Figure 1)
 1. [Core]
