@@ -6,8 +6,8 @@ B117-H024
 Session times 8:00 - 12:00 on Tuesdays
 
 _________________ 
-### Chaos 
-#### [W1] Agile Prototyping & System Feautures |
+## Chaos 
+### [W1] Agile Prototyping & System Feautures |
 * Future / Problems / Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
@@ -15,13 +15,13 @@ _________________
 * Idenitfying Feautures
 * Building System features
 
-#### [W2] Biologically Inspired Design & System Functions |
+### [W2] Biologically Inspired Design & System Functions |
 * Biology
 * Torben Lenau Lecture (DTU Construct) [onsite]
 * Biomimetics / Biomimetic Architecture
 * Interdisciplinary solutions?
 
-#### [W3] System Futures |
+### [W3] System Futures |
 * Reverse Engineering Buildings
 * Parametric Design
 * Computational Design
