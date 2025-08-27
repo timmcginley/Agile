@@ -5,53 +5,56 @@ B127-H014
 B117-H024
 Session times 8:00 - 12:00 on Tuesdays
 
-_________________
-### [A1] How to Grow a Cup
-Due 15th September
-
-#### [W1] Agile Prototyping |
+#### [W1] Agile Prototyping & System Feautures |
 * Future / Problems / Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
 * Previously in Agile ...
+  
+* Idenitfying Feautures
+* Building System features
 
-#### [W2] Biologically Inspired Design |
+#### [W2] Biologically Inspired Design & System Functions |
 * Biology
 * Torben Lenau Lecture (DTU Construct) [onsite]
 * Biomimetics / Biomimetic Architecture
-* Skylab Digital lab introduction talk [onsite]
 * Interdisciplinary solutions?
-_________________
-### [A2] Building System Needs
-Due 29th September
 
-#### [W3] Building System Needs |
-* Meta Disciplinary 
-* From cups to buildings via plants
-* Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
-* Building Design Grid
-* Design Requirements
-* Building System functions
-
-#### [W4] Building System Features |
+#### [W3] System Futures |
 * Reverse Engineering Buildings
-* Building System features
 * Parametric Design
 * Computational Design
+
+#### [W4] System Needs |
+
+* Building Design Grid
+* Link to different systems
+* "What's missing"
+
 _________________
-### [A3] Building System Growth
-Due 20th October
+### [A1] How to grow a tent?
+Due 28th September
+
 
 #### [W5] Building System Growth |
 * Meta Disciplinary systems
 * Meta Disciplinary elements
+* Meta Disciplinary 
+* From cups to buildings via plants
+* Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
+
+* Design Requirements
+* Building System functions
+*  3 Scenarios
+* Guest Lecture
+* Feedback 
 
 #### [W6] Common System Growth Specification |
 * Combine different stages of systems
-_________________
-### [A4] How to Grow a Building
-Due 1st December
 
+_________________
+### [A2] Building System Needs
+Due 12th October
 In this assignment you further explore the idea of growing buildings as a 
 * [game]
 * [parametric] design system or
@@ -65,6 +68,10 @@ In this assignment you further explore the idea of growing buildings as a
 #### [W8] Growing as Building |
 * [Petra Gruber] Lecture (Angewandtem, Austria) [online]
 
+_________________
+### [A3] Building System Growth
+Due 2nd November
+
 #### [W9] Design Pasts |
 * Laila Zwisler Lecture (DTU Physics)  [onsite]
 * Building System History as Evolution
@@ -76,6 +83,9 @@ In this assignment you further explore the idea of growing buildings as a
 
 #### [W11] Peer Feedback |
 * Peer feedback in focus groups
+_________________
+### Not[A4] How to Grow a Building
+Due 23rd November
   
 #### [W12] Project |
 * Tutorials and support
@@ -83,8 +93,8 @@ In this assignment you further explore the idea of growing buildings as a
 #### [W13] Presentation |
 * Final Presentation.
 _________________
-### [A5] Reflect
-Due 09th December
+### [A4] Reflect
+Due 07th December
 
 <!-- LINKS -->
 [Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
