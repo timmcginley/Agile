@@ -11,7 +11,6 @@ _________________
 * Instant Buildings?
 * Interdisciplinary Challenge
 * Previously in Agile ...
-  
 * Idenitfying Feautures
 * Building System features
 
@@ -32,51 +31,52 @@ _________________
 * Link to different systems
 * "What's missing"
 
-
 ### [A1] How to grow a tent?
 Due 28th September
 _________________
 
-#### [W5] Building System Growth |
-* Meta Disciplinary systems
-* Meta Disciplinary elements
-* Meta Disciplinary 
-* From cups to buildings via plants
-* Amanda Rasmussen Lecture (Univeristy of Nottingham) [online]
 
+#### [W5] Discover |
 * Design Requirements
 * Building System functions
-*  3 Scenarios
-* Guest Lecture
-* Feedback 
+* 3 Scenarios
+* TBD Guest Lecture
+* Feedback on Chaos Sprint
 
 #### [W6] Common System Growth Specification |
 * Combine different stages of systems
-
-
-### [A2] Building System Needs
-Due 12th October
-In this assignment you further explore the idea of growing buildings as a 
-* [game]
-* [parametric] design system or
-* [manual] for growing buildings
-_________________
-#### [W7] Design Genes |
+* Joni Lecture on Growth Stages
+* Reverse genes
 * Building Environment
 * Building Phenotype
 * Building Genotype
+* The gap is how...
 
-#### [W8] Growing as Building |
-* [Petra Gruber] Lecture (Angewandtem, Austria) [online]
+
+### [A2] System Needs
+Due 12th October
+
+_________________
+#### [W7] Design Pasts |
+* Laila Zwisler Lecture (DTU Physics)  [onsite]
+* Building System History as Evolution
+* Roman / Greek and Early 20thC Building Systems
+* Design for Disassembly
+
+#### [W8] Growing as a HYPERtent |
+* What could the tent become?
+* What's missing ?
 
 
 ### [A3] Building System Growth
 Due 2nd November
+In this assignment you further explore the idea of growing a tent to be used as  
+* Space Habitat
+* Musuem
+* Work Space
 _________________
-#### [W9] Design Pasts |
-* Laila Zwisler Lecture (DTU Physics)  [onsite]
-* Building System History as Evolution
-* Roman / Greek and Early 20thC Building Systems
+#### [W9] Gene Build Design |
+* Fernanda & Joni Lecture on Gene Build
 
 #### [W10] Futures |
 * Building Type Future Trajectories
@@ -88,7 +88,7 @@ _________________
 ### Not[A4] How to Grow a Building
 Due 23rd November
 _________________
-#### [W12] Project |
+#### [W12] How to apply to a real building |
 * Tutorials and support
 
 #### [W13] Presentation |
