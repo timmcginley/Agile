@@ -5,6 +5,7 @@ B127-H014
 B117-H024
 Session times 8:00 - 12:00 on Tuesdays
 
+_________________ 
 #### [W1] Agile Prototyping & System Feautures |
 * Future / Problems / Buildings
 * Instant Buildings?
@@ -31,10 +32,10 @@ Session times 8:00 - 12:00 on Tuesdays
 * Link to different systems
 * "What's missing"
 
-_________________
+
 ### [A1] How to grow a tent?
 Due 28th September
-
+_________________
 
 #### [W5] Building System Growth |
 * Meta Disciplinary systems
@@ -52,14 +53,14 @@ Due 28th September
 #### [W6] Common System Growth Specification |
 * Combine different stages of systems
 
-_________________
+
 ### [A2] Building System Needs
 Due 12th October
 In this assignment you further explore the idea of growing buildings as a 
 * [game]
 * [parametric] design system or
 * [manual] for growing buildings
-
+_________________
 #### [W7] Design Genes |
 * Building Environment
 * Building Phenotype
@@ -68,10 +69,10 @@ In this assignment you further explore the idea of growing buildings as a
 #### [W8] Growing as Building |
 * [Petra Gruber] Lecture (Angewandtem, Austria) [online]
 
-_________________
+
 ### [A3] Building System Growth
 Due 2nd November
-
+_________________
 #### [W9] Design Pasts |
 * Laila Zwisler Lecture (DTU Physics)  [onsite]
 * Building System History as Evolution
@@ -83,19 +84,19 @@ Due 2nd November
 
 #### [W11] Peer Feedback |
 * Peer feedback in focus groups
-_________________
+
 ### Not[A4] How to Grow a Building
 Due 23rd November
-  
+_________________
 #### [W12] Project |
 * Tutorials and support
 
 #### [W13] Presentation |
 * Final Presentation.
-_________________
+
 ### [A4] Reflect
 Due 07th December
-
+_________________
 <!-- LINKS -->
 [Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
 
