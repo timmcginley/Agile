@@ -6,6 +6,7 @@ B117-H024
 Session times 8:00 - 12:00 on Tuesdays
 
 _________________ 
+### Chaos 
 #### [W1] Agile Prototyping & System Feautures |
 * Future / Problems / Buildings
 * Instant Buildings?
@@ -34,16 +35,16 @@ _________________
 ### [A1] How to grow a tent?
 Due 28th September
 _________________
+### Discover 
 
-
-#### [W5] Discover |
+#### [W5] System Genes |
 * Design Requirements
 * Building System functions
 * 3 Scenarios
 * TBD Guest Lecture
 * Feedback on Chaos Sprint
 
-#### [W6] Common System Growth Specification |
+#### [W6] System Growth Specification |
 * Combine different stages of systems
 * Joni Lecture on Growth Stages
 * Reverse genes
@@ -57,6 +58,7 @@ _________________
 Due 12th October
 
 _________________
+### Vector 
 #### [W7] Design Pasts |
 * Laila Zwisler Lecture (DTU Physics)  [onsite]
 * Building System History as Evolution
@@ -75,6 +77,7 @@ In this assignment you further explore the idea of growing a tent to be used as
 * Musuem
 * Work Space
 _________________
+### Future
 #### [W9] Gene Build Design |
 * Fernanda & Joni Lecture on Gene Build
 
@@ -85,16 +88,17 @@ _________________
 #### [W11] Peer Feedback |
 * Peer feedback in focus groups
 
-### Not[A4] How to Grow a Building
+### Pre-[A4] How to Grow a Building
 Due 23rd November
 _________________
+### Order
 #### [W12] How to apply to a real building |
 * Tutorials and support
 
 #### [W13] Presentation |
 * Final Presentation.
 
-### [A4] Reflect
+### [A4] How to Grow a Building
 Due 07th December
 _________________
 <!-- LINKS -->
