@@ -90,9 +90,9 @@ _Sep 16 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Reverse Engineer by Torben Lenau **|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1 **<br> Futures |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2 **<br> Rules |
+| 8:15 - 8:45 | 117/024 | **Reverse Engineer by Torben Lenau**|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Futures |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Rules |
 
 
 ### Concept Introduction 
@@ -114,9 +114,9 @@ _Sep 16 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:45 | 117/024 | **Concept Introduction**|
-| 9:00 - 10:00 | 117/024 | **Activity 1 **<br> What's Missing|
-| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2 **<br> Identifying Needs |
-| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3 **<br> Fail |
+| 9:00 - 10:00 | 117/024 | **Activity 1**<br> What's Missing|
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Needs |
+| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Fail |
 
 
 ### Concept Introduction 
@@ -180,7 +180,7 @@ _Sep 30 2025 08:00 - 12:00_
 * The gap is how....
 
 ### Activity 1: Building Phenotype & Genotype
-*  Combine different stages of systems
+* Combine different stages of systems
 
 ### Activity 2: Reverse Genes
 * TBD
@@ -196,7 +196,7 @@ _Oct 21 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Lecture on Design Pasts by Laila Zwisler **|
+| 8:15 - 8:45 | 117/024 | **Lecture on Design Pasts by Laila Zwisler**|
 | 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Past scenarios |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where were we? |
 
@@ -229,7 +229,6 @@ _Oct 28 2025 08:00 - 12:00_
 ### Concept Introduction 
 
 ### Guest Lecture TBD
-* 
 
 ### Activity 1: TBD
 * TBD
@@ -258,7 +257,7 @@ _Nov 4 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Lecture on GeneBuild by Joni & Fernanda **|
+| 8:15 - 8:45 | 117/024 | **Lecture on GeneBuild by Joni & Fernanda**|
 | 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> TBD |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
 
