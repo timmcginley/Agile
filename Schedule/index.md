@@ -73,7 +73,7 @@ Please bring
 
 ### Concept Introduction 
 * Functions
-### Guest Lecture
+### Functions Lecture by Torben Lenau
 * Biologic Inspiration
 * Biomimetics / Biomimetic Architecture
 * Functions 
@@ -97,7 +97,7 @@ _Sep 16 2025 08:00 - 12:00_
 
 ### Concept Introduction 
 * Forecase Futures
-### Guest Lecture
+### Reverse Engineer Lecture by Torben Lenau
 * Reverse Engineer
 * Manufacturing
 * Analyse
