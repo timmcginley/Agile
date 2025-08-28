@@ -51,7 +51,7 @@ Please bring
 In this first activity you will be asked to .....deconstruct a tent
 
 
-### Activity 2:  Discover Genes
+### Activity 2: Discover Genes
 * Idenitfying Feautures
 * Identifying Growth Stages
 
@@ -124,7 +124,7 @@ _Sep 16 2025 08:00 - 12:00_
 
 
 ### Concept Introduction 
-*  Building Design Grid
+* Building Design Grid
 * Link to different systems
 * "What's missing"
 
@@ -135,31 +135,61 @@ _Sep 16 2025 08:00 - 12:00_
 
 ## [A1] How to grow a tent?
 Due 28th September
-_________________ 
+
+# Part 2 - Discover 
+## Week 05 - Forecast Futures |
+
+_Sep 30 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction & Feedback**|
+| 8:30 - 9:00 | 117/024 | **Guest Lecture**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Future scenarios |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>Each team identifies features and stages of their prototype |
 
 
-
-_________________
-### Discover 
-
-#### [W5] System Genes |
+### Concept Introduction 
 * Design Requirements
 * Building System functions
 * 3 Scenarios
-* TBD Guest Lecture
+* Guest Lecture
 * Feedback on Chaos Sprint
 
-#### [W6] System Growth Specification |
-* Combine different stages of systems
-* Joni Lecture on Growth Stages
+### Activity 1: Future Scenarios
+* TBD
+
+### Activity 2: Discover Genes
+* TBD
+
+## Week 05 - System Growth |
+
+_Sep 30 2025 08:00 - 12:00_
+
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 8:30 - 9:00 | 117/024 | **Growth Stages Lecture by Joni**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Future scenarios |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>Each team identifies features and stages of their prototype |
+
+
+### Concept Introduction 
+* Growth Stages
 * Reverse genes
 * Building Environment
 * Building Phenotype
 * Building Genotype
 * The gap is how...
 
+### Activity 1: Building Phenotype & Genotype
+*  Combine different stages of systems
 
-### [A2] System Needs
+### Activity 2: Reverse Genes
+* TBD
+
+## [A2] System Needs
 Due 12th October
 
 _________________
