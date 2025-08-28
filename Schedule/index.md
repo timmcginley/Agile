@@ -16,8 +16,9 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 
 We will meet for the first session in **Building 117 Room 024**
 _Sep 2 2025 08:00 - 12:00_
+
 ```{hint}
-Please bring<br>
+Please bring
 * A pencil / pen to sketch and help you communicate and explore ideas with your team.
 * Scissors / scalpel etc. to deconstruct the prototypes
 ```
@@ -58,9 +59,10 @@ In this first activity you will be asked to .....deconstruct a tent
 ## Week 02 - Biologically Inspired Design & System Functions
 Location: Building 117 Room 024 / Building 127 Room 014
 
-_Feb 10 2025 13:00 - 17:00_
+_Sep 09 2025 08:00 - 12:00_
+
 ```{hint}
-Please bring<br>
+Please bring
 * A pencil / pen to sketch and help you communicate and explore ideas with your team.
 * Scissors / scalpel etc. to deconstruct the prototypes
 ```
@@ -68,9 +70,9 @@ Please bring<br>
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Functions by Torben Lenau **|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1 **<br> Functions, features, and stages |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2 **<br> Continue on Prototypes |
+| 8:15 - 8:45 | 117/024 | **Functions by Torben Lenau**|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Functions, features, and stages |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Continue on Prototypes |
 
 
 ### Concept Introduction 
@@ -80,31 +82,63 @@ Please bring<br>
 * Biomimetics / Biomimetic Architecture
 * Functions 
 
-### Activity 1
-* Identifying functions
+### Activity 1: Identifying functions
 
-### Acitivty 2 
-* Prototyping
-_________________ 
+### Acitivty 2: Prototyping
+
+## Week 03 - Reverse Engineering & System Futures
+Location: Building 117 Room 024 / Building 127 Room 014
+
+_Sep 16 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **Reverse Engineer by Torben Lenau **|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1 **<br> Futures |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2 **<br> Rules |
 
 
-### [W2] Biologically Inspired Design & System Functions |
+### Concept Introduction 
+* Forecase Futures
+### Guest Lecture
+* Reverse Engineer
+* Manufacturing
+* Analyse
+
+### Activity 1: Identifying futures
+
+### Acitivty 2: Set the rules
+
+## Week 04 - What's Missing & System Needs
+Location: Building 117 Room 024 / Building 127 Room 014
+
+_Sep 16 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:45 | 117/024 | **Concept Introduction**|
+| 9:00 - 10:00 | 117/024 | **Activity 1 **<br> What's Missing|
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2 **<br> Identifying Needs |
+| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3 **<br> Fail |
 
 
-
-### [W3] System Futures |
-* Reverse Engineering Buildings
-* Parametric Design
-* Computational Design
-
-#### [W4] System Needs |
-
-* Building Design Grid
+### Concept Introduction 
+*  Building Design Grid
 * Link to different systems
 * "What's missing"
 
-### [A1] How to grow a tent?
+
+### Activity 1: Identifying Needs
+
+### Acitivty 2: Fail!
+
+## [A1] How to grow a tent?
 Due 28th September
+_________________ 
+
+
+
 _________________
 ### Discover 
 
