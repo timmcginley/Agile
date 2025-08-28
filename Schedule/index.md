@@ -162,7 +162,7 @@ _Sep 30 2025 08:00 - 12:00_
 ### Activity 2: Discover Genes
 * TBD
 
-## Week 05 - System Growth |
+## Week 06 - System Reverse |
 
 _Sep 30 2025 08:00 - 12:00_
 
@@ -171,8 +171,8 @@ _Sep 30 2025 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
 | 8:30 - 9:00 | 117/024 | **Growth Stages Lecture by Joni**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Future scenarios |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>Each team identifies features and stages of their prototype |
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Building Phenotype & Genotype |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Reverse Genes |
 
 
 ### Concept Introduction 
@@ -181,7 +181,7 @@ _Sep 30 2025 08:00 - 12:00_
 * Building Environment
 * Building Phenotype
 * Building Genotype
-* The gap is how...
+* The gap is how....
 
 ### Activity 1: Building Phenotype & Genotype
 *  Combine different stages of systems
@@ -189,51 +189,168 @@ _Sep 30 2025 08:00 - 12:00_
 ### Activity 2: Reverse Genes
 * TBD
 
-## [A2] System Needs
+## [A2] System Needs & Past
 Due 12th October
 
-_________________
-### Vector 
-#### [W7] Design Pasts |
-* Laila Zwisler Lecture (DTU Physics)  [onsite]
+# Part 3 - Vector 
+## Week 07 - Design Pasts |
+
+_Oct 21 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **Lecture on Pasts by Laila Zwisler **|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Past scenarios |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where are we going? |
+
+
+### Concept Introduction 
+
+### Guest Lecture Laila Zwisler
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
 * Design for Disassembly
 
-#### [W8] Growing as a HYPERtent |
-* What could the tent become?
-* What's missing ?
+### Activity 1: Past Scenarios
+* TBD
+
+### Activity 2: Where are we going?
+* HyperTent
+
+## Week 08 - Growing as a HYPERtent |
+
+_Oct 28 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **TBD Guest Lecture**|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br>  |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where are we going? |
 
 
-### [A3] Building System Growth
+### Concept Introduction 
+
+### Guest Lecture TBD
+* 
+
+### Activity 1: TBD
+* TBD
+
+### Activity 2: Where are we going?
+* What could the prototype become?
+* HyperTent
+
+## [A3]  Building System Growth
 Due 2nd November
+
 In this assignment you further explore the idea of growing a tent to be used as  
 * Space Habitat
 * Musuem
-* Work Space
-_________________
-### Future
-#### [W9] Gene Build Design |
-* Fernanda & Joni Lecture on Gene Build
+* Work/ Study Space
 
-#### [W10] Futures |
+
+# Part 4 - Future 
+## Week 09 - GeneBuild Design |
+
+_Nov 4 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **Lecture on GeneBuild by Joni & Fernanda **|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> TBD |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
+
+
+### Concept Introduction 
+
+### Lecture on GeneBuild by Joni & Fernanda
+* Building System History as Evolution
+* Roman / Greek and Early 20thC Building Systems
+* Design for Disassembly
+
+### Activity 1: TBD
+* TBD
+
+### Activity 2: TBD
+* HyperTent
+
+## Week 10 - What happens when Bio & Now merge ? |
+
+_Nov 11 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **Lecture on GeneBuild by Joni & Fernanda **|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> TBD |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
+
+
+### Concept Introduction 
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-#### [W11] Peer Feedback |
-* Peer feedback in focus groups
+### Lecture on GeneBuild by Joni & Fernanda
+* 
 
-### Pre-[A4] How to Grow a Building
+### Activity 1: TBD
+* TBD
+
+### Activity 2: TBD
+* TBD
+
+## Week 11 - How to grow a building ? |
+
+_Nov 11 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> How to grow a building |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
+
+
+### Concept Introduction 
+* Building Type Future Trajectories
+* Building System Future Trajectories
+
+### Activity 1: How to grow a building
+* TBD
+
+### Activity 2: Peer Feedback
+* TBD
+
+## Pre-[A4] How to Grow a Building
 Due 23rd November
-_________________
-### Order
-#### [W12] How to apply to a real building |
+
+# Part 5 - Order 
+## Week 12 - How to apply to a real building |
+
+_Nov 4 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Introduction**|
+| 8:15 - 12:00 | 117/024 | **Tutorials and Support**|
+
+### Concept Introduction 
 * Tutorials and support
 
-#### [W13] Presentation |
-* Final Presentation.
+## Week 13 - How to apply to a real building |
 
-### [A4] How to Grow a Building
+_Nov 4 2025 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 12:00 | 117/024 | **Final Presentation**|
+
+### Activity
+* Final Presentation
+
+## [A4] How to Grow a Building
 Due 07th December
 _________________
 <!-- LINKS -->
