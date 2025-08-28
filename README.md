@@ -8,11 +8,11 @@ Agile Prototyping applies a biological science lens to extract and modify the â€
 
 Over 5 assignements we work out:
 
-* [A1] How to Grow a Cup
-* [A2] What a Building System Needs
-* [A3] How a Building System might grow
-* [A4] How to Grow a building
-* [A5] What we learnt.
+* [A1] How to Grow a Tent, Bench, or Desk
+* [A2] Systems Needs & Past
+* [A3] Building System Growth Now
+* Pre-[A4] How to Grow a Building for the Future
+* [A4] How to Grow a Building for a Better Now!
 
 
 <!-- link -->
