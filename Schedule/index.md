@@ -1,11 +1,6 @@
 # Schedule
 
-```{toctree}
-:hidden:
-:glob:
-*
-*/index
-```
+
 Welcome to Agile Prototyping 2025!
 
 Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 024 & Building 127 Room 014 
@@ -15,6 +10,7 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 ## Week 01 - Agile Prototyping & System Feautures |
 
 We will meet for the first session in **Building 117 Room 024**
+
 _Sep 2 2025 08:00 - 12:00_
 
 ```{hint}
@@ -47,8 +43,8 @@ Please bring
 
 ### Activity 1: Team Building
 * Team formation ( 2-3 people per team MAX)
-* Find interests ( tent, bench, or TBD)
-In this first activity you will be asked to .....deconstruct a tent
+* Find interests ( tent, bench, or desk)
+In this first activity you will be asked to .....deconstruct your prototype
 
 
 ### Activity 2: Discover Genes
