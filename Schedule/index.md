@@ -1,25 +1,96 @@
-# Course Schedule  2025
+# Schedule
 
-## Room location: 
-B127-H014
-B117-H024
-Session times 8:00 - 12:00 on Tuesdays
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+Welcome to Agile Prototyping 2025!
 
-_________________ 
-## Chaos 
-### [W1] Agile Prototyping & System Feautures |
+Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 024 & Building 127 Room 014 
+
+
+# Part 1 - Chaos 
+## Week 01 - Agile Prototyping & System Feautures |
+
+We will meet for the first session in **Building 117 Room 024**
+_Sep 2 2025 08:00 - 12:00_
+```{hint}
+Please bring<br>
+* A pencil / pen to sketch and help you communicate and explore ideas with your team.
+* Scissors / scalpel etc. to deconstruct the prototypes
+```
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:30 | 117/024 | **Course Introduction**|
+| 8:30 - 9:00 | 117/024 | **Concept  Introduction**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 3 people |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Discover Genes**<br>Each team identifies features and stages of their prototype |
+
+
+### Course Introduction 
 * Future / Problems / Buildings
 * Instant Buildings?
 * Interdisciplinary Challenge
-* Previously in Agile ...
-* Idenitfying Feautures
 * Building System features
+* Previously in Agile ...
+
+### Concept Introduction 
+* Morphogenetic Prototyping
+* Three Horizons Framework
+* Elise Boulding 200 Year Present
+* Science Fiction Prototyping
+* Method ( M1-M5)
+
+### Activity 1: Team Building
+* Team formation ( 2-3 people per team MAX)
+* Find interests ( tent, bench, or TBD)
+In this first activity you will be asked to .....deconstruct a tent
+
+
+### Activity 2:  Discover Genes
+* Idenitfying Feautures
+* Identifying Growth Stages
+
+
+## Week 02 - Biologically Inspired Design & System Functions
+Location: Building 117 Room 024 / Building 127 Room 014
+
+_Feb 10 2025 13:00 - 17:00_
+```{hint}
+Please bring<br>
+* A pencil / pen to sketch and help you communicate and explore ideas with your team.
+* Scissors / scalpel etc. to deconstruct the prototypes
+```
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 8:45 | 117/024 | **Functions by Torben Lenau **|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1 **<br> Functions, features, and stages |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2 **<br> Continue on Prototypes |
+
+
+### Concept Introduction 
+* Functions
+### Guest Lecture
+* Biologic Inspiration
+* Biomimetics / Biomimetic Architecture
+* Functions 
+
+### Activity 1
+* Identifying functions
+
+### Acitivty 2 
+* Prototyping
+_________________ 
+
 
 ### [W2] Biologically Inspired Design & System Functions |
-* Biology
-* Torben Lenau Lecture (DTU Construct) [onsite]
-* Biomimetics / Biomimetic Architecture
-* Interdisciplinary solutions?
+
+
 
 ### [W3] System Futures |
 * Reverse Engineering Buildings
