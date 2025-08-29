@@ -19,6 +19,48 @@ DTU Building
 ## Look back or forwards...
 In groups of two decide if you are doing to look to the past or the future?
 
+## [A1] How to Grow a a tent, bench, or table?
+* Id the problem and set ambitious requirements to solve it (build sys needs)
+- learn method (cup / anything) - this we define.
+
+## [A2] System Needs & Past
+* inspiration / research / reverse
+
+## [A3] Building System Growth Now: 
+* Building System Growth ()
+* design something you think could do better (grow a building system)
+
+## Pre- [A4] How to Grow a Building for the Future: 
+* How to Grow a building
+* test it - (does it work really)
+
+## [A4] How to Grow a Building for a Better Now!
+* (did it work - how to do it better)
+
+[A1]: A1.md
+[A2]: A2.md
+[A3]: A3.md
+[A4]: A4.md
+[A5]: A5.md
+
+[DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
+
+
+<!-- 2024
+
+> going forwards and backwards at the same time...
+projects
+DTU Mars
+
+Prototypes - ISS. - Reverse engineer this... ESA Mars base.
+DTU Building
+
+[DTU Research Facilities]
+
+
+## Look back or forwards...
+In groups of two decide if you are doing to look to the past or the future?
+
 ## [A1] How to Grow a Cup
 * Id the problem and set ambitious requirements to solve it (build sys needs)
 - learn method (cup / anything) - this we define.
@@ -44,7 +86,7 @@ In groups of two decide if you are doing to look to the past or the future?
 [A5]: A5.md
 
 [DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
-
+-->
 <!-- 2023
 
 ## A1 - Future
