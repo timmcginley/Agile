@@ -23,8 +23,8 @@ Over 5 assignements we work out:
 [methodology]: /Methodology/index.md
 [projects]: Projects
 
-[A1]: A1.md
-[A2]: /Agile/Assignments/A2
-[A3]: /Agile/Assignments/A3
-[A4]: /Agile/Assignments/A4
-[A5]: /Agile/Assignments/A5
+[A1]: /Agile/Assignments/A1.md
+[A2]: /Agile/Assignments/A2.md
+[A3]: /Agile/Assignments/A3.md
+[A4]: /Agile/Assignments/A4.md
+[A5]: /Agile/Assignments/A5.md
