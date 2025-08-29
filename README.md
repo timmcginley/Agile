@@ -11,8 +11,8 @@ Over 5 assignements we work out:
 * [A1] How to Grow a Tent, Bench, or Desk
 * [A2] Systems Needs & Past
 * [A3] Building System Growth Now
-* Pre-[A4] How to Grow a Building for the Future
-* [A4] How to Grow a Building for a Better Now!
+* [A4] How to Grow a Building for the Future (Part A)
+* [A4] How to Grow a Building for a Better Now! (Part B)
 
 
 <!-- link -->
