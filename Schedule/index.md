@@ -318,7 +318,7 @@ _Nov 11 2025 08:00 - 12:00_
 ### Activity 2: Peer Feedback
 * TBD
 
-## Pre-[A4] How to Grow a Building for the Future
+## [A4] How to Grow a Building for the Future (Part A)
 Due 23rd November
 
 # Part 5 - Order 
@@ -345,7 +345,7 @@ _Nov 4 2025 08:00 - 12:00_
 ### Activity
 * Final Presentation
 
-## [A4] How to Grow a Building for a Better Now!
+## [A4] How to Grow a Building for a Better Now! ( Part B)
 Due 07th December
 _________________
 <!-- LINKS -->
