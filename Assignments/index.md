@@ -20,22 +20,23 @@ DTU Building
 In groups of two decide if you are doing to look to the past or the future?
 
 ## [A1] How to Grow a a tent, bench, or table?
-* Id the problem and set ambitious requirements to solve it (build sys needs)
-- learn method (cup / anything) - this we define.
+* Is the problem and set ambitious requirements to solve it (build system needs)
+- learn method (tent / anything) - this we define.
+- Morphogenetic Prototyping Sprint
 
 ## [A2] System Needs & Past
 * inspiration / research / reverse
 
 ## [A3] Building System Growth Now: 
 * Building System Growth ()
-* design something you think could do better (grow a building system)
+* Design something you think could do better (grow a building system)
 
 ## [A4] How to Grow a Building for the Future (Part A)
 * How to Grow a building
-* test it - (does it work really)
+* Test it - (does it work really)
 
 ## [A4] How to Grow a Building for a Better Now! (Part B)
-* (did it work - how to do it better)
+* Present it (did it work - how to do it better)
 
 [A1]: A1.md
 [A2]: A2.md
