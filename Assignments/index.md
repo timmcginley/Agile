@@ -30,11 +30,11 @@ In groups of two decide if you are doing to look to the past or the future?
 * Building System Growth ()
 * design something you think could do better (grow a building system)
 
-## Pre- [A4] How to Grow a Building for the Future: 
+## [A4] How to Grow a Building for the Future (Part A)
 * How to Grow a building
 * test it - (does it work really)
 
-## [A4] How to Grow a Building for a Better Now!
+## [A4] How to Grow a Building for a Better Now! (Part B)
 * (did it work - how to do it better)
 
 [A1]: A1.md
