@@ -23,7 +23,7 @@ Please bring
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Course Introduction**|
 | 8:30 - 9:00 | 117/024 | **Concept  Introduction**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 3 people |
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 2 people |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Discover Genes**<br>Each team identifies features and stages of their prototype |
 
 
@@ -48,9 +48,10 @@ In this first activity you will be asked to .....deconstruct your prototype
 
 
 ### Activity 2: Discover Genes
-* Idenitfying Feautures
+* Idenitfying Features
 * Identifying Growth Stages
-
+  
+<hr>
 
 ## Week 02 - Biologically Inspired Design & System Functions
 Location: Building 117 Room 024 / Building 127 Room 014
@@ -81,6 +82,7 @@ Please bring
 ### Activity 1: Identifying functions
 
 ### Acitivty 2: Prototyping
+<hr>
 
 ## Week 03 - Reverse Engineering & System Futures
 Location: Building 117 Room 024 / Building 127 Room 014
@@ -132,7 +134,10 @@ _Sep 16 2025 08:00 - 12:00_
 ## [A1] How to grow a tent, bench, or table?
 Due 28th September
 
+<hr>
+
 # Part 2 - Discover 
+
 ## Week 05 - Forecast Futures |
 
 _Sep 30 2025 08:00 - 12:00_
@@ -248,6 +253,7 @@ In this assignment you further explore the idea of growing the prototype to be u
 * Musuem
 * Work/ Study Space
 
+<hr>
 
 # Part 4 - Future 
 ## Week 09 - GeneBuild Design |
@@ -320,6 +326,8 @@ _Nov 11 2025 08:00 - 12:00_
 
 ## [A4] How to Grow a Building for the Future (Part A)
 Due 23rd November
+
+<hr>
 
 # Part 5 - Order 
 ## Week 12 - How to apply to a real building |
