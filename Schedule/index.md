@@ -351,7 +351,7 @@ _________________
 <!-- LINKS -->
 [Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
 
-[A1]: /Agile/Assignments/A1
+[A1]: Assignments/A1.md
 [A2]: /Agile/Assignments/A2
 [A3]: /Agile/Assignments/A3
 [A4]: /Agile/Assignments/A4
