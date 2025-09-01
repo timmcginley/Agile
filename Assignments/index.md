@@ -5,7 +5,7 @@
 *
 */index
 ```
-
+<!--
 > going forwards and backwards at the same time...
 projects
 DTU Mars
@@ -15,9 +15,7 @@ DTU Building
 
 [DTU Research Facilities]
 
-
-## Look back or forwards...
-In groups of two decide if you are doing to look to the past or the future?
+-->
 
 ## [A1] How to Grow a a tent, bench, or table?
 * Is the problem and set ambitious requirements to solve it (build system needs)
