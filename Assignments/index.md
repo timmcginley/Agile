@@ -39,8 +39,8 @@ DTU Building
 [A1]: A1.md
 [A2]: A2.md
 [A3]: A3.md
-[A4]: A4A.md
-[A5]: A4B.md
+[A4A]: A4A.md
+[A4B]: A4B.md
 
 [DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
 
