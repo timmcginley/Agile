@@ -324,7 +324,7 @@ _Nov 11 2025 08:00 - 12:00_
 ### Activity 2: Peer Feedback
 * TBD
 
-## [A4] How to Grow a Building for the Future (Part A)
+## [A4-A] How to Grow a Building for the Future (Part A)
 Due 23rd November
 
 <hr>
@@ -353,7 +353,7 @@ _Nov 4 2025 08:00 - 12:00_
 ### Activity
 * Final Presentation
 
-## [A4] How to Grow a Building for a Better Now! ( Part B)
+## [A4-B] How to Grow a Building for a Better Now! ( Part B)
 Due 07th December
 _________________
 <!-- LINKS -->
@@ -362,8 +362,8 @@ _________________
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
 [A3]: /Assignments/A3.md
-[A4]: /Assignments/A4.md
-[A5]: /Assignments/A5.md
+[A4]: /Assignments/A4-A.md
+[A5]: /Assignments/A4-B.md
 [BIM]: /41934/Concepts/BIM
 
 [W1]: /Agile/Schedule/01
