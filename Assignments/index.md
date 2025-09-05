@@ -29,18 +29,18 @@ DTU Building
 * Building System Growth ()
 * Design something you think could do better (grow a building system)
 
-## [A4] How to Grow a Building for the Future (Part A)
+## [A4.A] How to Grow a Building for the Future
 * How to Grow a building
 * Test it - (does it work really)
 
-## [A4] How to Grow a Building for a Better Now! (Part B)
+## [A4.B] How to Grow a Building for a Better Now!
 * Present it (did it work - how to do it better)
 
 [A1]: A1.md
 [A2]: A2.md
 [A3]: A3.md
-[A4]: A4.md
-[A5]: A5.md
+[A4]: A4A.md
+[A5]: A4B.md
 
 [DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
 
