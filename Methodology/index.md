@@ -35,7 +35,7 @@ Transplant materials and building systems at any stage in the design process. Th
 ### How are we going to learn all that?
 The course uses a spiral learning technique, wherein you repeat the same method with increasing levels of complexity inorder to master it and be able to use it independently. Therefore in this course we use the method in the following ways:
 
-1. [A1] your first experience with the method focusing on a cup (PART [M1], [M2], [M3] and [M4])
+1. [A1] your first experience with the method focusing on a tent, table or bench (PART [M1], [M2], [M3] and [M4])
 2. [A2] your second experience (PART [M1]) this time with a building system
 3. [A3] your third experience (PART [M2] and [M3]) this time with a building system
 4. [A4] your fourth experience (All Parts) this time with a complete building.
