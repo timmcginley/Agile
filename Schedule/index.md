@@ -4,7 +4,8 @@
 [AP1]: /Methodology/02.md
 [AP2]: /Methodology/02.md
 [AP3]: /Methodology/03.md
-
+[AP4]: /Methodology/04.md
+[AP5]: /Methodology/05.md
 
 Welcome to Agile Prototyping 2025!
 
@@ -115,7 +116,7 @@ _Sep 16 2025 08:00 - 12:00_
 * Analyse
 
 ### Activity 1: Identifying futures
-
+* [AP3] Biominetics
 ### Acitivty 2: Set the rules
 
 ## Week 04 - What's Missing & System Needs
