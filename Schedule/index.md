@@ -1,5 +1,9 @@
 # Schedule
 
+[Method]: /Methodology/index.md
+[AP2]: /Methodology/02.md
+[AP3]: /Methodology/03.md
+
 
 Welcome to Agile Prototyping 2025!
 
@@ -39,7 +43,7 @@ Please bring
 * Three Horizons Framework
 * Elise Boulding 200 Year Present
 * Science Fiction Prototyping
-* Method ( M1-M5)
+* [Method] (AP1-AP5)
 
 ### Activity 1: Team Building
 * Team formation ( 2-3 people per team MAX)
@@ -50,7 +54,9 @@ In this first activity you will be asked to .....deconstruct your prototype
 ### Activity 2: Discover Genes
 * Idenitfying Features
 * Identifying Growth Stages
-  
+
+
+
 <hr>
 
 ## Week 02 - Biologically Inspired Design & System Functions
@@ -68,12 +74,15 @@ Please bring
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:45 | 117/024 | **Functions by Torben Lenau**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Functions, features, and stages |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Continue on Prototypes |
+| 9:00 - 10:45 | 117/024 or 127/014 |  **Activity 1**<br> Functions, features, and stages |
+| 11:00 - 11:15 | 117/024 or 127/014 |  **Thermaform by Berin Seta** |
+| 11:14 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Continue on Prototypes |
 
 
 ### Concept Introduction 
 * Functions
+* [AP2] Stages
+* [AP3] Biominetics (Week 3)
 ### Functions Lecture by Torben Lenau
 * Biologic Inspiration
 * Biomimetics / Biomimetic Architecture
