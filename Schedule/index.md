@@ -54,7 +54,6 @@ In this first activity you will be asked to .....deconstruct your prototype
 
 ### Activity 2: Discover Genes
 * [AP1] : Idenitfying Features
-* Identifying Growth Stages
 
 
 
@@ -90,7 +89,8 @@ Please bring
 * Functions 
 
 ### Activity 1: Identifying functions
-
+* [AP2] Identifying Growth Stages
+* Identifying functions
 ### Acitivty 2: Prototyping
 <hr>
 
