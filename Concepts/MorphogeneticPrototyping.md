@@ -55,10 +55,10 @@ In 2016 I co-founded the [Morphogenetic Protootyping Lab](https://www.youtube.co
 
 <!-- links --->
 
-[Agile Prototypes]: /Agile/Concepts/AgilePrototype.md
-[Agile Prototyping]: /Agile/Methodology.md
-[Building Development Stage]: /Agile/Concepts/DevelopmentStage.md
-[developmental stages]: /Agile/Concepts/DevelopmentStage.md
-[computational processes]: /Agile/Concepts/ComputationalDesign.md
-[Gene Systems]: /Agile/Genes.md
-[meta-disciplinary]: /Agile/Concepts/MetaDisciplinary.md
+[Agile Prototypes]: /AConcepts/AgilePrototype.md
+[Agile Prototyping]: /Methodology.md
+[Building Development Stage]: /Concepts/DevelopmentStage.md
+[developmental stages]: /Concepts/DevelopmentStage.md
+[computational processes]: /Concepts/ComputationalDesign.md
+[Gene Systems]: /Genes.md
+[meta-disciplinary]: /Concepts/MetaDisciplinary.md
