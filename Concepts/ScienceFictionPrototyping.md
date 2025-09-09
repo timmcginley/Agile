@@ -10,4 +10,4 @@ You can read more about SFP [here](https://en.wikipedia.org/wiki/Science_fiction
 
 Also the original [Morphogenetic Prototyping] paper
 
-[Morphogenetic Prototyping]: /Agile/Concepts/MorphogeneticPrototyping
+[Morphogenetic Prototyping]: /Concepts/MorphogeneticPrototyping.md
