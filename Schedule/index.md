@@ -1,6 +1,7 @@
 # Schedule
 
 [Method]: /Methodology/index.md
+[AP1]: /Methodology/02.md
 [AP2]: /Methodology/02.md
 [AP3]: /Methodology/03.md
 
@@ -52,7 +53,7 @@ In this first activity you will be asked to .....deconstruct your prototype
 
 
 ### Activity 2: Discover Genes
-* Idenitfying Features
+* [AP1] : Idenitfying Features
 * Identifying Growth Stages
 
 
