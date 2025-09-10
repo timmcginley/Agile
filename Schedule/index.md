@@ -176,7 +176,7 @@ _Sep 30 2025 08:00 - 12:00_
 
 ## Week 06 - System Reverse |
 
-_Sep 30 2025 08:00 - 12:00_
+_Oct 07 2025 08:00 - 12:00_
 
 
 | **Time**      | **Location** |**Activity**   |
