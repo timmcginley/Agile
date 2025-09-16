@@ -105,7 +105,7 @@ _Sep 16 2025 08:00 - 12:00_
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:45 | 117/024 | **Reverse Engineer by Torben Lenau**|
 | 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Continue on Prototypes |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Rules |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Features |
 
 
 ### Concept Introduction 
@@ -115,7 +115,8 @@ _Sep 16 2025 08:00 - 12:00_
 * Manufacturing
 * Analyse
 
-
+### Activity 2: Identifying futures
+* [AP3] Biominetics
 
 ## Week 04 - What's Missing & System Needs
 Location: Building 117 Room 024 / Building 127 Room 014
@@ -135,8 +136,7 @@ _Sep 16 2025 08:00 - 12:00_
 * Link to different systems
 * "What's missing"
 
-### Activity 1: Identifying futures
-* [AP3] Biominetics
+
   
 ### Activity 2: Identifying Needs ( What's Missing)
 
