@@ -125,7 +125,8 @@ _Sep 16 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:45 | 117/024 | **Concept Introduction**|
+| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:15 - 9:00 | 117/024 | **Changing Futures by Fernanda Guasselli**|
 | 9:00 - 10:00 | 117/024 | **Activity 1**<br> What's Missing|
 | 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Needs |
 | 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Fail |
@@ -135,12 +136,10 @@ _Sep 16 2025 08:00 - 12:00_
 * Building Design Grid
 * Link to different systems
 * "What's missing"
-
-
   
-### Activity 2: Identifying Needs ( What's Missing)
+### Activity 1: Identifying Needs ( What's Missing)
 
-### Acitivty 3: Fail!
+### Acitivty 2: Fail!
 
 ### Acitivty 3: Set the rules
 
