@@ -128,8 +128,8 @@ _Sep 16 2025 08:00 - 12:00_
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 9:00 | 117/024 | **Changing Futures by Fernanda Guasselli**|
 | 9:00 - 10:00 | 117/024 | **Activity 1**<br> What's Missing|
-| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Needs |
-| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Fail |
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Fail! |
+| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Set the Rules |
 
 
 ### Concept Introduction 
