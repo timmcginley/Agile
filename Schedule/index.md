@@ -156,24 +156,20 @@ _Sep 30 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction & Feedback**|
-| 8:30 - 9:00 | 117/024 | **Guest Lecture**|
+| 8:00 - 9:00 | 117/024 | **Concept Introduction & A1 Feedback Session**|
 | 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Future scenarios |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>Each team identifies features and stages of their prototype |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Discover Genes |
 
 
-### Concept Introduction 
+### Concept Introduction & Feedback Session
 * Design Requirements
 * Building System functions
 * 3 Scenarios
-* Guest Lecture
 * Feedback on Chaos Sprint
 
 ### Activity 1: Future Scenarios
-* TBD
 
 ### Activity 2: Discover Genes
-* TBD
 
 ## Week 06 - System Reverse |
 
