@@ -210,7 +210,8 @@ _Oct 21 2025 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:45 | 117/024 | **Lecture on Design Pasts by Laila Zwisler**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Past scenarios |
+| 9:00 - 9:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
+| 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Past scenarios |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where were we? |
 
 
