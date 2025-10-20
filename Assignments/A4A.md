@@ -1,17 +1,18 @@
-## A4.A - How to Grow a Building for the Future
+## A4.A - How to Grow a Building in Space
 
 |          |  Building Growth  |
 |----      |-----|
-|  Aim     | Define the growth stage of a building system (agile prototype)  |
+|  Aim     |  |
 | Tools    | Pen and paper / computational design |
 | Case     | Building |
-| Groups   | Building groups (1 x building group = 4 x system groups) |
-| Practice | In class activity in week 7 onwards |
-| Output   | Game (digital or photos of physical), parametric design system or manual |
+| Groups   | |
+| Practice | In class activity in week 9,10,11 |
+| Output   | |
 | Submit   | DTU Learn / Github repository |
 
 ## Assignment Details
 
+<!-- Assignment 2024
 This course is backwards.
 
 Starting with finished designs, we work togther to reverse engineer them. This is difficult so we use biological concepts to mediate the complexity. In the previous assignment you used the Agile Prototyping method to design parametric building systems that could adapt to different projects. We call these parametric systems 'Agile Prototypes' or APs for short.
@@ -21,6 +22,7 @@ In this assignment we want you (in your building groups) to work out how to inte
 However as noone has ever grown a building before we suggest three projects that would help you explore this idea. Please remember in this assignment, it is more important that you are exploring the idea and seeing where it takes you, than that it is correct.
 
 You have time later to make it right, now you just need to make it.
+-->
 
 <!-- dead links 2024
 [Computational]: and Parametric Design: /Agile/Concepts/ComputationalDesign
