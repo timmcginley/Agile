@@ -211,8 +211,8 @@ _Oct 21 2025 08:00 - 12:00_
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:45 | 117/024 | **Lecture on Design Pasts by Laila Zwisler**|
 | 9:00 - 9:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
-| 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Past scenarios |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where were we? |
+| 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Sequencing |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
 
 
 ### Concept Introduction 
@@ -220,15 +220,14 @@ _Oct 21 2025 08:00 - 12:00_
 ### Guest Lecture Laila Zwisler
 * Building System History as Evolution
 * Roman / Greek and Early 20thC Building Systems
-* Design for Disassembly
 
-### Activity 1: Past Scenarios
-* TBD
+### Activity 1: Sequencing
+* Sequencing the systems activity by Fernanda
 
-### Activity 2: Where were we?
-* HyperTent
+### Activity 2: Pyramid
+* Integrating the same systems with other groups
 
-## Week 08 - Growing as a HYPER-prototype |
+## Week 08 - Growing as a HYPER-prototype in Space|
 
 _Oct 28 2025 08:00 - 12:00_
 
@@ -236,25 +235,21 @@ _Oct 28 2025 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:45 | 117/024 | **TBD Guest Lecture**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br>  |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Where are we going? |
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Systems in Space |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Design Proposal |
 
 
 ### Concept Introduction 
 
 ### Guest Lecture TBD
 
-### Activity 1: TBD
-* TBD
+### Activity 1: Systems in Space
 
 ### Activity 2: Where are we going?
 * What could the prototype become?
-* Design for Disassembly
-* HyperTent
-* HyperDesk
-* HyperBench
+* Starting the design process and proposal
 
-## [A3]  Building System Growth Now
+## [A3]  Building System Growth 
 Due 2nd November
 
 In this assignment you further explore the idea of growing the prototype to be used as a
@@ -333,7 +328,7 @@ _Nov 11 2025 08:00 - 12:00_
 ### Activity 2: Peer Feedback
 * TBD
 
-## [A4A] How to Grow a Building for the Future (Part A)
+## [A4A] How to Grow a Building in Space
 Due 23rd November
 
 <hr>
@@ -362,7 +357,7 @@ _Nov 4 2025 08:00 - 12:00_
 ### Activity
 * Final Presentation
 
-## [A4B] How to Grow a Building for a Better Now! ( Part B)
+## [A4B] Apply Now
 Due 07th December
 _________________
 <!-- LINKS -->
