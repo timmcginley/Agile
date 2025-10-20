@@ -1,4 +1,4 @@
-## A4.A - How to Grow a Building in Space
+## A4.a - How to Grow a Building in Space
 
 |          |  Building Growth  |
 |----      |-----|
