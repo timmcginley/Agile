@@ -1,4 +1,4 @@
-## A4.B - How to Grow a Building for a Better Now
+## A4.B - Apply Now
 
 |          |  Reflect |
 |----      |-----|
@@ -6,9 +6,11 @@
 | Tools    | Critical Reflection |
 | Case     | Learning |
 | Practice | Throughout |
-| Output   | Game (digital or photos of physical), parametric design system or manual |
+| Output   |  |
 | Submit   | Markdown file |
 
+
+<!-- Assignemnt 2024
 
 Peer Review considerations from Week 13: 
   1. How have the developmental stages and functions of different APs been integrated into the project? <br />
@@ -29,7 +31,7 @@ You should individually reflect on the following: <br />
 Peer review and Individual reflection submitted together in **one file**. Make sure your name and student number is written at the top of the individual reflection when submitting. <br />
 
 Submit: Markdown in DTU Learn / Github link
-
+-->
 
 <!--
 In this final assignment you will give a class presentation where you give an outline of:
