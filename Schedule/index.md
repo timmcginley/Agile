@@ -260,29 +260,28 @@ In this assignment you further explore the idea of growing the prototype to be u
 <hr>
 
 # Part 4 - Future 
-## Week 09 - GeneBuild Design |
+## Week 09 - Designing your space |
 
 _Nov 4 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Lecture on GeneBuild by Joni & Fernanda**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> TBD |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
+| 8:15 - 8:45 | 117/024 | **Activity 1**<br> Your chosen space|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Space Station |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Space Habitat |
 
 
 ### Concept Introduction 
 
-### Lecture on GeneBuild by Joni & Fernanda
+### Activity 1: Your chosen space
+* Model your chosen space in the space station in 1:20 
 
-
-
-### Activity 1: TBD
-* TBD
-
-### Activity 2: TBD
-* Hyper Prototype
+### Activity 2: Space Station
+* Model the space station 1:20
+  
+### Activity 3: Space Habitat
+* Model the low orbit space habitat in 1:20
 
 ## Week 10 - What happens when Bio & Now merge ? |
 
@@ -309,7 +308,7 @@ _Nov 11 2025 08:00 - 12:00_
 
 ## Week 11 - How to grow a building ? |
 
-_Nov 11 2025 08:00 - 12:00_
+_Nov 18 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
@@ -336,7 +335,7 @@ Due 23rd November
 # Part 5 - Order 
 ## Week 12 - How to apply to a real building |
 
-_Nov 4 2025 08:00 - 12:00_
+_Nov 25 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
@@ -348,7 +347,7 @@ _Nov 4 2025 08:00 - 12:00_
 
 ## Week 13 - How to apply to a real building |
 
-_Nov 4 2025 08:00 - 12:00_
+_Dec 2 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
