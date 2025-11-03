@@ -275,13 +275,15 @@ _Nov 4 2025 08:00 - 12:00_
 ### Concept Introduction 
 
 ### Activity 1: Your chosen space
+
+* Sketch your spaces as if you are in a space station
 * Model your chosen space in the space station in 1:20 
 
 ### Activity 2: Space Station
-* Model the space station 1:20
+* Model the in orbit space station 1:20
   
 ### Activity 3: Space Habitat
-* Model the low orbit space habitat in 1:20
+* Model the space habitat on the moon in 1:20
 
 ## Week 10 - What happens when Bio & Now merge ? |
 
