@@ -279,7 +279,7 @@ _Nov 4 2025 08:00 - 12:00_
 * Model your chosen space in the space station in 1:20 
 
 ### Activity 2: Space Station
-* Model the low orbit space station 1:20
+* Model the low orbit space station 1:1
 
 
 ## Week 10 - What happens when Bio & Now merge ? |
@@ -289,18 +289,15 @@ _Nov 11 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **TBD **|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> TBD |
+| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Space Station |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
 
 
 ### Concept Introduction 
 
-### TBD
+### Activity 1: Space Station
+* Contiue modeling your space and connections in the low orbit space station 1:1
 
-
-### Activity 1: TBD
-* TBD
 
 ### Activity 2: TBD
 * TBD
