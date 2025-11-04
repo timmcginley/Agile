@@ -267,9 +267,8 @@ _Nov 4 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Activity 1**<br> Your chosen space|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Space Station |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Space Habitat |
+| 8:15 - 9:45 | 117/024 | **Activity 1**<br> Your chosen space|
+| 10:00 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Space Station |
 
 
 ### Concept Introduction 
@@ -280,10 +279,8 @@ _Nov 4 2025 08:00 - 12:00_
 * Model your chosen space in the space station in 1:20 
 
 ### Activity 2: Space Station
-* Model the in orbit space station 1:20
-  
-### Activity 3: Space Habitat
-* Model the space habitat on the moon in 1:20
+* Model the low orbit space station 1:20
+
 
 ## Week 10 - What happens when Bio & Now merge ? |
 
