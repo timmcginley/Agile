@@ -288,19 +288,21 @@ _Nov 11 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
+| 8:00 - 8:15 | 117/024 | **Introduction**|
 | 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Space Station |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Integration, & Communication |
 
 
-### Concept Introduction 
-
+### Introduction 
+* Students presenting space station design
+  
 ### Activity 1: Space Station
 * Contiue modeling your space and connections in the low orbit space station 1:1
 
 
 ### Activity 2: Integration and Communication
-* Integration and connecting the spaces between one another 
+* Integration and connecting the spaces between one another
+NB! Design for Dissampably, you need to be able to dissassemble your models from week to week
 
 ## Week 11 - How to grow a building ? |
 
