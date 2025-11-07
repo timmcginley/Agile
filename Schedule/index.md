@@ -290,7 +290,7 @@ _Nov 11 2025 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Space Station |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> TBD |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Integration, & Communication |
 
 
 ### Concept Introduction 
@@ -299,8 +299,8 @@ _Nov 11 2025 08:00 - 12:00_
 * Contiue modeling your space and connections in the low orbit space station 1:1
 
 
-### Activity 2: TBD
-* TBD
+### Activity 2: Integration and Communication
+* Integration and connecting the spaces between one another 
 
 ## Week 11 - How to grow a building ? |
 
