@@ -302,7 +302,7 @@ _Nov 11 2025 08:00 - 12:00_
 
 ### Activity 2: Integration and Communication
 * Integration and connecting the spaces between one another
-NB! Design for Dissampably, you need to be able to dissassemble your models from week to week
+* NB! Design for Dissampably, you need to be able to dissassemble your models from week to week
 
 ## Week 11 - How to grow a building ? |
 
