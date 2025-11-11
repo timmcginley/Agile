@@ -311,7 +311,7 @@ _Nov 18 2025 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> How to grow a building |
+| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> How to grow a building for the future|
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
 
 
@@ -319,11 +319,11 @@ _Nov 18 2025 08:00 - 12:00_
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-### Activity 1: How to grow a building
+### Activity 1: 
 * TBD
 
 ### Activity 2: Peer Feedback
-* TBD
+* In your smaller groups, find one other group
 
 ## [A4A] How to Grow a Building in Space
 Due 23rd November
