@@ -6,9 +6,41 @@
 | Tools    | Critical Reflection |
 | Case     | Learning |
 | Practice | Throughout |
-| Output   |  |
+| Output   | Presentation and Reflection |
 | Submit   | Markdown file |
 
+### Presentation   <br />
+
+10 minutes presentations per space group, including: 
+
+
+1. Previous work (individual systems and work, summary of learnings) 
+
+2. Space system 
+
+  *  Your space and how you have developed it based on your own learnings 
+
+3. Growth table of your space in the space station 
+
+  * Identify how morphogenetic principles (evolution, staged growth, phenotypic plasticity) improve your application strategy 
+
+4. Reflect on your learning through the process, see below for details. 
+
+ 
+
+#### NB: If you are presenting, then other group members must answer the questions.  When the first group is presenting, group 2 needs to ask two relevant questions, and when group 2 is presenting group 3 will ask question, this pattern is for all presentations. 
+
+ 
+
+### Assignment Reflection   
+
+Now that you've designed your space within the space station, apply your chosen system to the full space station. 
+
+  * For example, how your chosen roof system from A3 could integrate into the space station through the growth table. 
+
+Write a short reflection on multidisciplinary teamwork: Compare working in silos (your smaller groups) vs collaborating in the bigger space groups. 
+
+#### NB: Submit both your presentation and the assignment reflection in your space group just like A4 part A. 
 
 <!-- Assignemnt 2024
 
