@@ -349,7 +349,8 @@ _Dec 2 2025 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 12:00 | 117/024 | **Final Presentation**|
+| 8:00 - 9:00 | 117/024 | **Work on Models and Presentations**|
+| 9:00 - 12:00 | 117/024 | **Present prototype (model) and presentation**|
 
 ### Activity
 * Final Presentation
