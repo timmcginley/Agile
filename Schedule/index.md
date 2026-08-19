@@ -10,8 +10,8 @@
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
 [A3]: /Assignments/A3.md
-[A4]: /Assignments/A4.md
-[A5]: /Assignments/A5.md
+[A4]: /Assignments/A4A.md
+[A5]: /Assignments/A4B.md
 
 ```{note}
 Attendance is a course requirement: you should participate in **12 of the 13** sessions.
@@ -410,8 +410,8 @@ _________________
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
 [A3]: /Assignments/A3.md
-[A4A]: /Assignments/A4A.md
-[A4B]: /Assignments/A4B.md
+[A4]: /Assignments/A4A.md
+[A5]: /Assignments/A4B.md
 [BIM]: /41934/Concepts/BIM
 
 [W1]: /Agile/Schedule/01
