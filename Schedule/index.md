@@ -1,23 +1,54 @@
 # Schedule
 
+
 [Method]: /Methodology/index.md
 [AP1]: /Methodology/02.md
 [AP2]: /Methodology/02.md
 [AP3]: /Methodology/03.md
 [AP4]: /Methodology/04.md
 [AP5]: /Methodology/05.md
+[A1]: /Assignments/A1.md
+[A2]: /Assignments/A2.md
+[A3]: /Assignments/A3.md
+[A4]: /Assignments/A4.md
+[A5]: /Assignments/A5.md
 
-Welcome to Agile Prototyping 2025!
+```{note}
+Attendance is a course requirement: you should participate in **12 of the 13** sessions.
+```
+
+Welcome to Agile Prototyping 2026!
 
 Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 024 & Building 127 Room 014 
 
+## Contents
 
-# Part 1 - Chaos 
-## Week 01 - Agile Prototyping & System Feautures |
+| Part | Weeks | Jump to |
+|---|---|---|
+| Part 1 - Backcasting | 01 - 03 | [Part 1](#part-1-backcasting) |
+| Part 2 - Discover | 04 - 06 | [Part 2](#part-2-discover) |
+| Part 3 - Forecasting | 07 - 09 | [Part 3](#part-3-forecasting) |
+| Part 4 - Prototyping | 10 - 13 | [Part 4](#part-4-prototyping) |
+
+| Assignment | Due | Link |
+|---|---|---|
+| A1 - How to Grow a Tent, Bench, or Desk? | Sun 27 Sep 2026 | [A1] |
+| A2 - Building System Needs | Sun 11 Oct 2026 | [A2] |
+| A3 - Building System Growth | Sun 01 Nov 2026 | [A3] |
+| A4 - How to Grow a Building in Space | Sun 29 Nov 2026 | [A4] |
+| A5 - Apply Now | Sun 06 Dec 2026 | [A5] |
+
+
+<hr>
+
+<a id="part-1-backcasting"></a>
+# Part 1 - Backcasting
+## Week 01 - Intro - Teams - Genes |
 
 We will meet for the first session in **Building 117 Room 024**
 
-_Sep 2 2025 08:00 - 12:00_
+_Sep 1 2026 08:00 - 12:00_
+
 
 ```{hint}
 Please bring
@@ -27,17 +58,15 @@ Please bring
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Course Introduction**|
-| 8:30 - 9:00 | 117/024 | **Concept  Introduction**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 2 people |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Discover Genes**<br>Each team identifies features and stages of their prototype |
+| 8:00 - 9:00 | 117/024 | **Course Introduction**|
+| 9:15 - 9:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 2-3 people |
+| 9:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> What's criteria for a shelter? |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Dismantle & Analyse Tent Mutations |
 
 
 ### Course Introduction 
 * Future / Problems / Buildings
 * Instant Buildings?
-* Interdisciplinary Challenge
-* Building System features
 * Previously in Agile ...
 
 ### Concept Introduction 
@@ -46,142 +75,143 @@ Please bring
 * Elise Boulding 200 Year Present
 * Science Fiction Prototyping
 * [Method] (AP1-AP5)
+* Cup to Tent
+* Reverse Engineer
 
-### Activity 1: Team Building
-* Team formation ( 2-3 people per team MAX)
-* Find interests ( tent, bench, or desk)
-In this first activity you will be asked to .....deconstruct your prototype
+### Activity 1: What's criteria for a shelter?
+* What does a shelter need to be a shelter?
 
 
-### Activity 2: Discover Genes
+
+### Activity 2: Dismantle & Analyse Tent Mutations 
+* In this activity you will be given tent assembly instructions, however every tent is different!
+* Dismantle and analyse your tent. Does it qualify as a shelter ? 
 * [AP1] : Idenitfying Features
 
 
 
 <hr>
 
-## Week 02 - Biologically Inspired Design & System Functions
+## Week 02 - System Functions & Affordances
 Location: Building 117 Room 024 / Building 127 Room 014
 
-_Sep 09 2025 08:00 - 12:00_
+_Sep 8 2026 08:00 - 12:00_
 
-```{hint}
-Please bring
-* A pencil / pen to sketch and help you communicate and explore ideas with your team.
-* Scissors / scalpel etc. to deconstruct the prototypes
-```
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Functions by Torben Lenau**|
-| 9:00 - 10:45 | 117/024 or 127/014 |  **Activity 1**<br> Functions, features, and stages |
-| 11:00 - 11:15 | 117/024 or 127/014 |  **Thermaform by Berin Seta** |
-| 11:14 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Continue on Prototypes |
+| 8:00 - 8:45 | 117/024 | **Functions by Torben Lenau**|
+| 9:00 - 9:15 | 117/024 | **Concept Introduction**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Tent Functions and Features |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Building Functions and Features|
 
 
-### Concept Introduction 
-* Functions
-* [AP2] Stages
-* [AP3] Biominetics (Week 3)
 ### Functions Lecture by Torben Lenau
 * Biologic Inspiration
 * Biomimetics / Biomimetic Architecture
-* Functions 
+* Functions
 
-### Activity 1: Identifying functions
+### Concept Introduction 
+* Functions
+* Different way of building analysis
+
+### Activity 1: Identifying functions of a tent
 * [AP2] Identifying Growth Stages
 * Identifying functions
-### Acitivty 2: Prototyping
-<hr>
 
-## Week 03 - Reverse Engineering & System Futures
-Location: Building 117 Room 024 / Building 127 Room 014
-
-_Sep 16 2025 08:00 - 12:00_
-
-| **Time**      | **Location** |**Activity**   |
-|---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Reverse Engineer by Torben Lenau**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Continue on Prototypes |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Features |
-
-
-### Concept Introduction 
-* Forecase Futures
-### Reverse Engineer Lecture by Torben Lenau
-* Reverse Engineer
-* Manufacturing
-* Analyse
-
-### Activity 2: Identifying futures
-* [AP3] Biominetics
-
-## Week 04 - What's Missing & System Needs
-Location: Building 117 Room 024 / Building 127 Room 014
-
-_Sep 16 2025 08:00 - 12:00_
-
-| **Time**      | **Location** |**Activity**   |
-|---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 9:00 | 117/024 | **Changing Futures by Fernanda Guasselli**|
-| 9:00 - 10:00 | 117/024 | **Activity 1**<br> What's Missing|
-| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Fail! |
-| 11:00 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Set the Rules |
-
-
-### Concept Introduction 
-* Building Design Grid
-* Link to different systems
-* "What's missing"
-  
-### Activity 1: Identifying Needs ( What's Missing)
-
-### Acitivty 2: Fail!
-
-### Acitivty 3: Set the rules
-
-## [A1] How to grow a tent, bench, or table?
-Due 28th September
+### Acitivty 2: Identifying Building Functions & Futures
+* Mapping fron tent features to building feautures
+* Mapping from tent functions to building functions
 
 <hr>
 
-# Part 2 - Discover 
+## Week 03 - System Elements & Needs using Existing B308 
+Location: Building 117 Room 024 / Building 127 Room 014
 
-## Week 05 - Forecast Futures |
-
-_Sep 30 2025 08:00 - 12:00_
+_Sep 15 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 9:00 | 117/024 | **Concept Introduction & A1 Feedback Session**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Future scenarios |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Discover Genes |
+| 8:00 - 8:45 | 117/024 | **Design Pasts by Laila  Zwisler*|
+| 9:00 - 9:15 | 117/024 | **Concept Introduction**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Existing B308 Pack Analysis (Elements and Spaces) |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Design Grid & Requirements |
 
+### Guest Lecture Laila Zwisler
+* Building System History as Evolution
+* Roman / Greek and Early 20thC Building Systems
 
-### Concept Introduction & Feedback Session
-* Design Requirements
-* Building System functions
-* 3 Scenarios
-* Feedback on Chaos Sprint
+### Concept Introduction 
+* Building system elements
 
-### Activity 1: Future Scenarios
+### Activity 1: Existing B308 Pack Analysis (Elements and Spaces)
+* Analysing existing 308
 
-### Activity 2: Discover Genes
+### Activity 2: Design Grid & Requirements
+* Define a set of requirements
 
-## Week 06 - System Reverse |
+<hr>
 
-_Oct 07 2025 08:00 - 12:00_
+<a id="part-2-discover"></a>
+# Part 2 - Discover
+## Week 04 - Stages and Scale
+
+Location: Building 117 Room 024 / Building 127 Room 014
+
+_Sep 22 2026 08:00 - 12:00_
 
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
-| 8:30 - 9:00 | 117/024 | **Growth Stages Lecture by Joni**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Building Phenotype & Genotype |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Reverse Genes |
+| 8:45 - 10:00 | 117/024 | **Activity 1**<br> Proposed B308 Pack Analysis from Future 2045|
+| 10:15 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Reverse Engineer Floor Plans and Pattern Identification |
+
+
+### Concept Introduction 
+* Stages
+  
+### Activity 1: Proposed B308 Pack Analysis from Future 2045
+
+### Acitivty 2: Reverse Engineer Floor Plans and Pattern Identification
+
+
+
+## [A1] How to grow a tent, bench, or table?
+Due Sunday 27th September 2026
+
+<hr>
+
+
+## Week 05 - Sequences and Building Growth |
+
+_Sep 29 2026 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 9:00 | 117/024 | **Concept Introduction & A1 Feedback Session**|
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Growth, Meta-Disciplinary Mapping |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Web-Based Mapping|
+
+
+### Concept Introduction & Feedback Session
+* Sequencing
+* Feedback on A1
+
+### Activity 1: Proposed Building Growth, Meta-Disciplinary Mapping
+
+### Activity 2: Web-Based Mapping
+
+## Week 06 - Correlation and Gaps  |
+
+_Oct 6 2026 08:00 - 12:00_
+
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Correlation |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Identify Gaps |
 
 
 ### Concept Introduction 
@@ -192,148 +222,153 @@ _Oct 07 2025 08:00 - 12:00_
 * Building Genotype
 * The gap is how....
 
-### Activity 1: Building Phenotype & Genotype
+### Activity 1: Correlation 
 * Combine different stages of systems
 
-### Activity 2: Reverse Genes
+### Activity 2: Identify Gaps
 * TBD
 
 ## [A2] System Needs & Past
-Due 12th October
+Due Sunday 11th October 2026
 
-# Part 3 - Vector 
-## Week 07 - Design Pasts |
+**Autumn Holiday** - Week of 13th October 2026, no session.
 
-_Oct 21 2025 08:00 - 12:00_
+<hr>
+
+<a id="part-3-forecasting"></a>
+# Part 3 - Forecasting
+## Week 07 - Evaluation, Set, Matrix |
+
+_Oct 20 2026 08:00 - 12:00_
+
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **Lecture on Design Pasts by Laila Zwisler**|
-| 9:00 - 9:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
+| 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
 | 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Sequencing |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
 
 
 ### Concept Introduction 
-
-### Guest Lecture Laila Zwisler
-* Building System History as Evolution
-* Roman / Greek and Early 20thC Building Systems
-
-### Activity 1: Sequencing
-* Sequencing the systems activity by Fernanda
-
-### Activity 2: Pyramid
-* Integrating the same systems with other groups
-
-## Week 08 - Growing as a HYPER-prototype in Space|
-
-_Oct 28 2025 08:00 - 12:00_
-
-| **Time**      | **Location** |**Activity**   |
-|---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:45 | 117/024 | **TBD Guest Lecture**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Systems in Space |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Design Proposal |
+* Hypothesis: In an uncertain future, to solve ...... by 2045 we should
 
 
-### Concept Introduction 
+### Activity 1: Matrix Framework CURE x Systems
 
-### Guest Lecture TBD
+|   | **ARCH** | **STR** | **MAT** | **MEP** |
+|---|---|---|---|---|
+| **C** | Space Design<br>Flow<br>Flexible Design | Design of system | Material Characteristics | U-values<br>Energy Frame |
+| **U** | All People<br>Same Affordance<br>Abilities by buildings | Load | Finite Stock | Load<br>Comfort<br>Pattern |
+| **R** | Presevation of existing material and building | Material Processes/Choices<br>Flexibility, agility | What are the actual materials | Energy |
+| **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
 
-### Activity 1: Systems in Space
 
-### Activity 2: Where are we going?
-* What could the prototype become?
-* Starting the design process and proposal
+### Activity 2: Integrate All Disciplines and Identify Gaps
 
-## [A3]  Building System Growth 
-Due 2nd November
-
-In this assignment you further explore the idea of growing the prototype to be used as a
-* Space Habitat
-* Musuem
-* Work/ Study Space
 
 <hr>
 
-# Part 4 - Future 
-## Week 09 - Designing your space |
+## Week 08 - How Do We Change Future Environment |
 
-_Nov 4 2025 08:00 - 12:00_
+_Oct 27 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 9:45 | 117/024 | **Activity 1**<br> Your chosen space|
-| 10:00 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Space Station |
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Develop Own Hypothesis Using Gaps Found and CURE  |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
 
 
 ### Concept Introduction 
+* Introduce CURE and systems
 
-### Activity 1: Your chosen space
+### Activity 1: Develop Own Hypothesis Using Gaps Found and CURE 
+* 
 
-* Sketch your spaces as if you are in a space station
-* Model your chosen space in the space station in 1:20 
-
-### Activity 2: Space Station
-* Model the low orbit space station 1:1
+### Activity 2: Where are we going?
+* What could we analyse and experimental prototype become?
 
 
-## Week 10 - What happens when Bio & Now merge ? |
+## [A3]  Building System Growth 
+Due Sunday 1st November 2026
 
-_Nov 11 2025 08:00 - 12:00_
+
+<hr>
+
+## Week 09 - Hypothesis 2045; (Does 17 work 308.1, 308.2 ... ) |
+
+_Nov 3 2026 08:00 - 12:00_
+
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Introduction**|
-| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Space Station |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Integration, & Communication |
-
-
-### Introduction 
-* Students presenting space station design
-  
-### Activity 1: Space Station
-* Contiue modeling your space and connections in the low orbit space station 1:1
-
-
-### Activity 2: Integration and Communication
-* Integration and connecting the spaces between one another
-* NB! Design for Dissampably, you need to be able to dissassemble your models from week to week
-
-## Week 11 - How to grow a building ? |
-
-_Nov 18 2025 08:00 - 12:00_
-
-| **Time**      | **Location** |**Activity**   |
-|---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> How to grow a building for the future|
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 8:30 - 10:00 | 117/024 | **Activity 1**<br> Futuring|
+| 10:00 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>  |
 
 
 ### Concept Introduction 
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-### Activity 1: 
-* TBD
+### Activity 1: Futuring
 
-### Activity 2: Peer Feedback
-* In your smaller groups, find one other group
 
-## [A4A] How to Grow a Building in Space
-Due 23rd November
+### Activity 2: TBD
 
 <hr>
 
-# Part 5 - Order 
-## Week 12 - How to apply to a real building |
+<a id="part-4-prototyping"></a>
+# Part 4 - Prototyping
+## Week 10 - Experimental Set Up |
 
-_Nov 25 2025 08:00 - 12:00_
+_Nov 10 2026 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:15 | 117/024 | **Experiment Introduction**|
+| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Experiment Brainstorming |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Develop Prototype Idea and Get Approval  |
+
+
+### Introduction 
+Experimental ideas:
+* Arch: Fire evacation sequencing / Distances between rooms and entrances
+* Str: A system of retrofitting & load capacity / Agile structural design
+* MEP: Heat mapping using floor plans / room location based on light
+* MAT: Characteristics of materials in existing and proposed rather than the material / remodeling based on characteristics of a material
+  
+### Activity 1: Experiment Brainstorming
+
+
+
+### Activity 2: Develop Prototype Idea and Get Approval
+
+
+## Week 11 - Agile Testing |
+
+_Nov 17 2026 08:00 - 12:00_
+
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Team work on prototype |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
+
+
+### Concept Introduction 
+* Agile Prototyping
+
+### Activity 1: Prototype time
+* TBD
+
+### Activity 2: Peer Feedback
+
+
+## Week 12 - Agile Prototyping|
+
+_Nov 24 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
@@ -343,20 +378,31 @@ _Nov 25 2025 08:00 - 12:00_
 ### Concept Introduction 
 * Tutorials and support
 
-## Week 13 - How to apply to a real building |
 
-_Dec 2 2025 08:00 - 12:00_
+## [A4] Agile Prototyping 
+Due Sunday 29th November 2026 
+
+<hr>
+
+## Week 13 - Present Your Findings |
+
+_Dec 1 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 9:00 | 117/024 | **Work on Models and Presentations**|
 | 9:00 - 12:00 | 117/024 | **Present prototype (model) and presentation**|
 
-### Activity
-* Final Presentation
+### Activity: Present your diagnosis of the building
+* Present your diagnosis of the building from Design, Material, Use, or Build theme of a 2045 Future
 
-## [A4B] Apply Now
-Due 07th December
+
+
+## [A5] Apply Now
+Due Sunday 6th December 2026
+
+
+
 _________________
 <!-- LINKS -->
 [Petra Gruber]: https://ioa.angewandte.at/news/petra-gruber-appointed-head-of-the-i-oa-department-of-building-construction-at-the-angewandte
