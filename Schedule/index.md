@@ -32,7 +32,7 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 
 | Assignment | Due | Link |
 |---|---|---|
-| A1 - How to Grow a Tent, Bench, or Desk? | Sun 27 Sep 2026 | [A1] |
+| A1 - How to Grow a Tent, Bench, or Desk? | Sun 20 Sep 2026 | [A1] |
 | A2 - Building System Needs | Sun 11 Oct 2026 | [A2] |
 | A3 - Building System Growth | Sun 01 Nov 2026 | [A3] |
 | A4 - How to Grow a Building in Space | Sun 29 Nov 2026 | [A4] |
@@ -77,6 +77,7 @@ Please bring
 * [Method] (AP1-AP5)
 * Cup to Tent
 * Reverse Engineer
+* C.U.R.E.
 
 ### Activity 1: What's criteria for a shelter?
 * What does a shelter need to be a shelter?
@@ -150,6 +151,11 @@ _Sep 15 2026 08:00 - 12:00_
 ### Activity 2: Design Grid & Requirements
 * Define a set of requirements
 
+
+
+## [A1] How to grow a tent, bench, or table?
+Due Sunday 20th September 2026
+
 <hr>
 
 <a id="part-2-discover"></a>
@@ -176,9 +182,6 @@ _Sep 22 2026 08:00 - 12:00_
 ### Acitivty 2: Reverse Engineer Floor Plans and Pattern Identification
 
 
-
-## [A1] How to grow a tent, bench, or table?
-Due Sunday 27th September 2026
 
 <hr>
 
