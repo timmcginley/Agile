@@ -170,42 +170,48 @@ _Sep 22 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
-| 8:45 - 10:00 | 117/024 | **Activity 1**<br> Proposed B308 Pack Analysis from Future 2045|
-| 10:15 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Reverse Engineer Floor Plans and Pattern Identification |
+| 8:45 - 9:45 | 117/024 | **Activity 1**<br> Battleships: Analyse Proposed Grid|
+| 10:00 - 11:00 | 117/024 | **Activity 2**<br> Proposed B308 Pack Analysis from Future 2045|
+| 11:15 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Reverse Engineer Floor Plans and Pattern Identification |
 
 
 ### Concept Introduction 
 * Stages
-  
-### Activity 1: Proposed B308 Pack Analysis from Future 2045
+* Reverse Engineering
 
-### Acitivty 2: Reverse Engineer Floor Plans and Pattern Identification
+### Activity 1: Battleships: Analyse Proposed Grid
+  
+### Activity 2: Proposed B308 Pack Analysis from Future 2045
+
+### Acitivty 3: Reverse Engineer Floor Plans and Pattern Identification
 
 
 
 <hr>
 
 
-## Week 05 - Sequences and Building Growth |
+## Week 05 - Issues and Mapping|
 
 _Sep 29 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 9:00 | 117/024 | **Concept Introduction & A1 Feedback Session**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Growth, Meta-Disciplinary Mapping |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Web-Based Mapping|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction & A1 Feedback Session**|
+
+| 8:45 - 9:45  | 117/024 or 127/014 |  **Activity 1**<br> Battleships: Mapping to Stages and Issue logging|
+
+| 10:00 - 11:00 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing|
 
 
 ### Concept Introduction & Feedback Session
 * Sequencing
 * Feedback on A1
 
-### Activity 1: Proposed Building Growth, Meta-Disciplinary Mapping
 
-### Activity 2: Web-Based Mapping
+### Activity 1: Battleships Mapping to Stages and Issue logging
+### Activity 2: Issue Logging and Sequencing
 
-## Week 06 - Correlation and Gaps  |
+## Week 06 - Building Growth, Sequencing and Gaps  |
 
 _Oct 6 2026 08:00 - 12:00_
 
@@ -213,8 +219,9 @@ _Oct 6 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Correlation |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Identify Gaps |
+| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Growth, Meta-Disciplinary Mapping |
+| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Sequencing |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Identify Gaps |
 
 
 ### Concept Introduction 
@@ -225,7 +232,9 @@ _Oct 6 2026 08:00 - 12:00_
 * Building Genotype
 * The gap is how....
 
-### Activity 1: Correlation 
+### Activity 1: Proposed Building Growth, Meta-Disciplinary Mapping
+
+### Activity 1: Sequencing
 * Combine different stages of systems
 
 ### Activity 2: Identify Gaps
