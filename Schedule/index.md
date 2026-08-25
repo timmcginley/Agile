@@ -32,11 +32,10 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 
 | Assignment | Due | Link |
 |---|---|---|
-| A1 - How to Grow a Tent, Bench, or Desk? | Sun 20 Sep 2026 | [A1] |
+| A1 - Building System Growth | Sun 20 Sep 2026 | [A1] |
 | A2 - Building System Needs | Sun 11 Oct 2026 | [A2] |
-| A3 - Building System Growth | Sun 01 Nov 2026 | [A3] |
-| A4 - How to Grow a Building in Space | Sun 29 Nov 2026 | [A4] |
-| A5 - Apply Now | Sun 06 Dec 2026 | [A5] |
+| A3 - Hypothesis | Sun 01 Nov 2026 | [A3] |
+| A4 - Agile Prototype | Sun 29 Nov 2026 | [A4] |
 
 
 <hr>
@@ -153,7 +152,7 @@ _Sep 15 2026 08:00 - 12:00_
 
 
 
-## [A1] How to grow a tent, bench, or table?
+## [A1] Building System Growth
 Due Sunday 20th September 2026
 
 <hr>
@@ -238,7 +237,7 @@ _Oct 6 2026 08:00 - 12:00_
 ### Activity 2: Identify Gaps
 * TBD
 
-## [A2] System Needs & Past
+## [A2] System Needs 
 Due Sunday 11th October 2026
 
 **Autumn Holiday** - Week of 13th October 2026, no session.
@@ -300,7 +299,7 @@ _Oct 27 2026 08:00 - 12:00_
 * What could we analyse and experimental prototype become?
 
 
-## [A3]  Building System Growth 
+## [A3]  Hypothesis
 Due Sunday 1st November 2026
 
 
@@ -389,7 +388,7 @@ _Nov 24 2026 08:00 - 12:00_
 * Tutorials and support
 
 
-## [A4] Agile Prototyping 
+## [A4] Agile Prototype 
 Due Sunday 29th November 2026 
 
 <hr>
@@ -408,8 +407,6 @@ _Dec 1 2026 08:00 - 12:00_
 
 
 
-## [A5] Apply Now
-Due Sunday 6th December 2026
 
 
 
