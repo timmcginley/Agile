@@ -18,21 +18,28 @@ DTU Building
 -->
 
 ## [A1] How to Grow a Tent?
-* Is the problem and set ambitious requirements to solve it (build system needs)
-- learn method (tent / anything) - this we define.
-- Morphogenetic Prototyping Sprint
 * Building System Growth ()
+* Analyse current state
+* Building Needs and Requirements
+
 
 ## [A2] System Needs 
-* inspiration / research / reverse
+* Analyse proposed building
+* Map previous approaches
+* Sequencing
+* Identify gaps 
 
-## [A3] Hypothesis: 
-* Design something you think could do better (grow a building system)
+## [A3] Hypothesis 2045: 
+* Future Scenarios
+* What is missing for the future of buildings
+* Experiment and Design something you think could do better
+
 
 ## [A4] Agile Prototype
-* How to Grow a building
+* Experiment and Evaluate
 * Test it - (does it work really)
-* Present it (did it work - how to do it better)
+* Present it (did it work, prove it - how to do it better)
+* Individual Reflection 
 
 [A1]: A1.md
 [A2]: A2.md
