@@ -32,9 +32,9 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 
 | Assignment | Due | Link |
 |---|---|---|
-| A1 - Building System Growth | Sun 20 Sep 2026 | [A1] |
+| A1 - How to Grow a Tent? | Sun 20 Sep 2026 | [A1] |
 | A2 - Building System Needs | Sun 11 Oct 2026 | [A2] |
-| A3 - Hypothesis | Sun 01 Nov 2026 | [A3] |
+| A3 - Hypothesis 2045| Sun 01 Nov 2026 | [A3] |
 | A4 - Agile Prototype | Sun 29 Nov 2026 | [A4] |
 
 
