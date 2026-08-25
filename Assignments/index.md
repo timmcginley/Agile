@@ -17,33 +17,33 @@ DTU Building
 
 -->
 
-## [A1] How to Grow a a tent, bench, or table?
+## [A1] How to Grow a Tent?
 * Is the problem and set ambitious requirements to solve it (build system needs)
 - learn method (tent / anything) - this we define.
 - Morphogenetic Prototyping Sprint
+* Building System Growth ()
 
-## [A2] System Needs & Past
+## [A2] System Needs 
 * inspiration / research / reverse
 
-## [A3] Building System Growth Now: 
-* Building System Growth ()
+## [A3] Hypothesis: 
 * Design something you think could do better (grow a building system)
 
-## [A4A] How to Grow a Building for the Future
+## [A4] Agile Prototype
 * How to Grow a building
 * Test it - (does it work really)
-
-## [A4B] How to Grow a Building for a Better Now!
 * Present it (did it work - how to do it better)
 
 [A1]: A1.md
 [A2]: A2.md
 [A3]: A3.md
-[A4A]: A4A.md
-[A4B]: A4B.md
+[A4]: A4.md
+
 
 [DTU Research Facilities]:https://www.dtu.dk/english/research/research-facilities#:~:text=Dana%20is%20Denmark's%20largest%20marine,as%20well%20as%20fishing%20equipment.
-
+<!--## [A4B] How to Grow a Building for a Better Now!
+[A4B]: A4B.md
+-->
 
 <!-- 2024
 
