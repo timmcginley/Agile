@@ -58,7 +58,7 @@ Please bring
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 9:00 | 117/024 | **Course Introduction**|
-| 9:15 - 9:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 2-3 people |
+| 9:15 - 9:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 4 people |
 | 9:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> What's criteria for a shelter? |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Dismantle & Analyse Tent Mutations |
 
