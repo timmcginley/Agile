@@ -14,7 +14,8 @@
 [A5]: /Assignments/A4B.md
 
 ```{note}
-Attendance is a course requirement: you should participate in *12 of the 13* sessions. As all in class activities directly correspond to the following assignment.
+Attendance is a course requirement: you should participate in *12 of the 13* sessions.
+The in class activities directly correspond to the following assignment.
 ```
 
 Welcome to Agile Prototyping 2026!
