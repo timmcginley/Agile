@@ -13,14 +13,16 @@
 [A4]: /Assignments/A4A.md
 [A5]: /Assignments/A4B.md
 
-```{note}
-Attendance is a course requirement: you should participate in *12 of the 13* sessions.
-The in class activities directly correspond to the following assignment.
-```
+
 
 Welcome to Agile Prototyping 2026!
 
 Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 024 & Building 127 Room 014 
+
+```{note}
+Attendance is a course requirement: you should participate in *12 of the 13* sessions.
+The in class activities directly correspond to the following assignment.
+```
 
 ## Contents
 
