@@ -192,7 +192,7 @@ _Sep 22 2026 08:00 - 12:00_
 <hr>
 
 
-## Week 05 - Issues and Mapping|
+## Week 05 - Issues and Mapping |
 
 _Sep 29 2026 08:00 - 12:00_
 
@@ -200,7 +200,7 @@ _Sep 29 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction & A1 Feedback Session**|
 | 8:45 - 9:45  | 117/024 or 127/014 |  **Activity 1**<br> Battleships: Mapping to Stages and Issue logging|
-| 10:00 - 11:00 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing|
+| 10:00 - 11:00 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing with Charlie Neverlien|
 
 
 ### Concept Introduction & Feedback Session
@@ -210,7 +210,7 @@ _Sep 29 2026 08:00 - 12:00_
 
 
 ### Activity 1: Battleships Mapping to Stages and Issue logging
-### Activity 2: Issue Logging and Sequencing
+### Activity 2: Issue Logging and Sequencing with Charlie Neverlien
 
 ## Week 06 - Building Growth, Sequencing and Gaps  |
 
