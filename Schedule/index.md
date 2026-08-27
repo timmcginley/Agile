@@ -37,7 +37,9 @@ Our course runs on Tuesday Mornings in the Autumn semester in Building 117 Room 
 | A3 - Hypothesis 2045| Sun 01 Nov 2026 | [A3] |
 | A4 - Agile Prototype | Sun 29 Nov 2026 | [A4] |
 
-
+```{hint}
+All in class activities directly correspond to the following assignment
+```
 <hr>
 
 <a id="part-1-backcasting"></a>
