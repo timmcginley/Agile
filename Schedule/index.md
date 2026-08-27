@@ -206,6 +206,7 @@ _Sep 29 2026 08:00 - 12:00_
 ### Concept Introduction & Feedback Session
 * Sequencing
 * Feedback on A1
+* Joni's Sequencing
 
 
 ### Activity 1: Battleships Mapping to Stages and Issue logging
