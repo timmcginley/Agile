@@ -64,7 +64,7 @@ Please bring
 | 9:15 - 9:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 4 people |
 | 9:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> What's criteria for a shelter? |
 | 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Dismantle & Analyse Tent Mutations |
-
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Course Introduction 
 * Future / Problems / Buildings
@@ -106,8 +106,8 @@ _Sep 8 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Functions by Torben Lenau**|
 | 9:00 - 9:15 | 117/024 | **Concept Introduction**|
 | 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Tent Functions and Features |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Building Functions and Features|
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Building Functions and Features|
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Functions Lecture by Torben Lenau
 * Biologic Inspiration
@@ -138,7 +138,8 @@ _Sep 15 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Design Pasts by Laila  Zwisler*|
 | 9:00 - 9:15 | 117/024 | **Concept Introduction**|
 | 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Existing B308 Pack Analysis (Elements and Spaces) |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Design Grid & Requirements |
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Design Grid & Requirements |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Guest Lecture Laila Zwisler
 * Building System History as Evolution
@@ -174,8 +175,8 @@ _Sep 22 2026 08:00 - 12:00_
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
 | 8:45 - 9:45 | 117/024 | **Activity 1**<br> Battleships: Analyse Proposed Grid|
 | 10:00 - 11:00 | 117/024 | **Activity 2**<br> Proposed B308 Pack Analysis from Future 2045|
-| 11:15 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Reverse Engineer Floor Plans and Pattern Identification |
-
+| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Reverse Engineer Floor Plans and Pattern Identification |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Stages
@@ -200,8 +201,8 @@ _Sep 29 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction & A1 Feedback Session**|
 | 8:45 - 10:00  | 117/024 or 127/014 |  **Activity 1**<br> Battleships: Mapping to Stages and Issue logging|
-| 10:15 - 12:00 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing with Charlie Neverlien|
-
+| 10:15 - 11:45 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing with Charlie Neverlien|
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction & Feedback Session
 * Sequencing
@@ -222,8 +223,8 @@ _Oct 6 2026 08:00 - 12:00_
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**
 | 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Growth, Meta-Disciplinary Mapping |
 | 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Sequencing |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 3**<br> Identify Gaps |
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Identify Gaps |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Growth Stages
@@ -260,8 +261,8 @@ _Oct 20 2026 08:00 - 12:00_
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
 | 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Sequencing |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Hypothesis: In an uncertain future, to solve ...... by 2045 we should
@@ -290,8 +291,8 @@ _Oct 27 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
 | 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Develop Own Hypothesis Using Gaps Found and CURE  |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Introduce CURE and systems
@@ -318,8 +319,8 @@ _Nov 3 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
 | 8:30 - 10:00 | 117/024 | **Activity 1**<br> Futuring|
-| 10:00 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br>  |
-
+| 10:00 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br>  |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Building Type Future Trajectories
@@ -342,8 +343,8 @@ _Nov 10 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Experiment Introduction**|
 | 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Experiment Brainstorming |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Develop Prototype Idea and Get Approval  |
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Develop Prototype Idea and Get Approval  |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Introduction 
 Experimental ideas:
@@ -367,8 +368,8 @@ _Nov 17 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
 | 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Team work on prototype |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
-
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Agile Prototyping
@@ -404,8 +405,8 @@ _Dec 1 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 9:00 | 117/024 | **Work on Models and Presentations**|
-| 9:00 - 12:00 | 117/024 | **Present prototype (model) and presentation**|
-
+| 9:00 - 11:45 | 117/024 | **Present prototype (model) and presentation**|
+| 11:45 - 12:00 | 117/024 |  **Wrap up** |
 ### Activity: Present your diagnosis of the building
 * Present your diagnosis of the building from Design, Material, Use, or Build theme of a 2045 Future
 
