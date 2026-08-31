@@ -1,11 +1,14 @@
 # Projects
 
+
 ```{toctree}
 :hidden:
 :glob:
 *
 */index
 ```
+
+<!--2025
 With unprecented global pressure on the education, industry and housing, this year we will aply the agile prototyping [methodology] focus on their future in the following projects:
 
 * DTU Lunar
@@ -24,7 +27,7 @@ research facilities
 We 
 Examples include: <https://www.kt.dtu.dk/research/pilot-plant>
 
-
+-->
 
 
 <!--- 2024
