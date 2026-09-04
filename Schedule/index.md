@@ -62,8 +62,8 @@ Please bring
 |---------------|--------------|------------|
 | 8:00 - 9:00 | 117/024 | **Course Introduction**|
 | 9:15 - 9:30 | 117/024 or 127/014 |  **Team Buildings**<br>Whole class divide into interests, and form a team of 4 people |
-| 9:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> What's criteria for a shelter? |
-| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Dismantle & Analyse Tent Mutations |
+| 9:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Features |
+| 10:45 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Stages |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Course Introduction 
@@ -83,7 +83,8 @@ Please bring
 * [AP1] : Idenitfying Features
 
 ### Activity 1: Cup Stages
-
+* [AP2] Identifying Growth Stages
+* HyperStages: Merging with another group to develop a super stage.
 
 
 
@@ -99,8 +100,9 @@ _Sep 8 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:45 | 117/024 | **Functions by Torben Lenau**|
 | 9:00 - 9:15 | 117/024 | **Concept Introduction**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Tent Functions and Features |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Building Functions and Features|
+| 9:15 - 10:00 | 117/024 or 127/014 |  **Activity 1**<br> Criteria for a shelter |
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Tent Functions |
+| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Dismantle & Analyse Tent Mutations |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Functions Lecture by Torben Lenau
@@ -120,21 +122,17 @@ _Sep 8 2026 08:00 - 12:00_
 * What type of functions can the shelter do?
 * What do the systems need to afford ?
 
+### Activity 1: Identifying functions of a tent
+* Identifying functions
 
-### Activity 2: Dismantle & Analyse Tent Mutations 
+### Activity 3: Dismantle & Analyse Tent Mutations 
 * In this activity you will be given tent assembly instructions, however every tent is different!
 * Dismantle and analyse your tent. Does it qualify as a shelter ?
 * How does the tent qualify as a shelter in its current form 
 * [AP1] : Idenitfying Features
  
 
-### Activity 1: Identifying functions of a tent
-* [AP2] Identifying Growth Stages
-* Identifying functions
 
-### Acitivty 2: Identifying Building Functions & Futures
-* Mapping fron tent features to building feautures
-* Mapping from tent functions to building functions
 
 <hr>
 
@@ -147,9 +145,11 @@ _Sep 15 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:45 | 117/024 | **Design Pasts by Laila  Zwisler*|
 | 9:00 - 9:15 | 117/024 | **Concept Introduction**|
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Existing B308 Pack Analysis (Elements and Spaces) |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Design Grid & Requirements |
+| 9:15 - 10:00 | 117/024 or 127/014 |  **Activity 1**<br> Existing B308 Pack Analysis (Elements and Spaces) |
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Building Functions & Futures |
+| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Design Grid & Requirements |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
+
 
 ### Guest Lecture Laila Zwisler
 * Building System History as Evolution
@@ -161,9 +161,12 @@ _Sep 15 2026 08:00 - 12:00_
 ### Activity 1: Existing B308 Pack Analysis (Elements and Spaces)
 * Analysing existing 308
 
-### Activity 2: Design Grid & Requirements
-* Define a set of requirements
+### Acitivty 2: Identifying Building Functions & Futures
+* Mapping fron tent features to building feautures
+* Mapping from tent functions to building functions
 
+### Activity 3: Design Grid & Requirements
+* Define a set of requirements
 
 
 ## [A1] Building System Growth
