@@ -17,7 +17,7 @@ import shutil
 project = 'Agile Prototyping'
 copyright = '2035-2015, Hacking the future since 2035'
 author = 'Tim McGinley'
-version = release = '2025'
+version = release = '2026'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
