@@ -31,16 +31,16 @@
 | [A4] |    |    |    |    |    |    |    |    | X  |  X  |   X |  X  |
 -->
 
-[Reverse engineer]: /Agile/Concepts/ReverseEngineer
-[building system]: /Agile/Concepts/BuildingSystem
-[system]: /Agile/Concepts/BuildingSystem
-[phenotypic]: /Agile/Concepts/Phenotype
-[developmental stages]: /Agile/Concepts/DevelopmentStages
-[features]: /Agile/Concepts/Features
-[Agile Prototype]: /Agile/Concepts/AgilePrototype
-[phylogenetic tree]: /Agile/Concepts/Phylogeny
-[computational modelling]: /Agile/Concepts/ComputationalDesign
-[evolution]: /Agile/Concepts/Evolution
+[Reverse engineer]: /Concepts/ReverseEngineer.md
+[building system]: /Concepts/BuildingSystem.md
+[system]: /Concepts/BuildingSystem.md
+[phenotypic]: /Concepts/Phenotype.md
+[developmental stages]: /Concepts/DevelopmentStages.md
+[features]: /Concepts/Features.md
+[Agile Prototype]: /Concepts/AgilePrototype.md
+[phylogenetic tree]: /Concepts/Phylogeny.md
+[computational modelling]: /Concepts/ComputationalDesign.md
+[evolution]: /Concepts/Evolution.md
 
 [A1]:/Assignments/A1.md
 [A2]:/Assignments/A2.md
