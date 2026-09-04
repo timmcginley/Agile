@@ -84,16 +84,6 @@ Please bring
 
 ### Activity 1: Cup Stages
 
---------
-### Activity 1: What's criteria for a shelter?
-* What does a shelter need to be a shelter?
-
-
-
-### Activity 2: Dismantle & Analyse Tent Mutations 
-* In this activity you will be given tent assembly instructions, however every tent is different!
-* Dismantle and analyse your tent. Does it qualify as a shelter ? 
-* [AP1] : Idenitfying Features
 
 
 
@@ -122,6 +112,21 @@ _Sep 8 2026 08:00 - 12:00_
 ### Concept Introduction 
 * Functions
 * Different way of building analysis
+
+### Activity 1: What's criteria for a shelter?
+* What does a shelter need to be a shelter?
+* Based on the systems, what features and functions of those systems are enabling the shelter
+* A list of what's actually needed to shelter humans
+* What type of functions can the shelter do?
+* What do the systems need to afford
+* Residential, work space, etc
+
+### Activity 2: Dismantle & Analyse Tent Mutations 
+* In this activity you will be given tent assembly instructions, however every tent is different!
+* Dismantle and analyse your tent. Does it qualify as a shelter ?
+* How does the tent qualify as a shelter in its current form 
+* [AP1] : Idenitfying Features
+ 
 
 ### Activity 1: Identifying functions of a tent
 * [AP2] Identifying Growth Stages
