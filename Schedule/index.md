@@ -73,14 +73,18 @@ Please bring
 
 ### Concept Introduction 
 * Morphogenetic Prototyping
-* Three Horizons Framework
 * Elise Boulding 200 Year Present
-* Science Fiction Prototyping
 * [Method] (AP1-AP5)
-* Cup to Tent
+
 * Reverse Engineer
 * C.U.R.E.
 
+### Activity 1: Cup Features
+* [AP1] : Idenitfying Features
+
+### Activity 1: Cup Stages
+
+--------
 ### Activity 1: What's criteria for a shelter?
 * What does a shelter need to be a shelter?
 
@@ -110,6 +114,7 @@ _Sep 8 2026 08:00 - 12:00_
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Functions Lecture by Torben Lenau
+* Cup to Tent
 * Biologic Inspiration
 * Biomimetics / Biomimetic Architecture
 * Functions
