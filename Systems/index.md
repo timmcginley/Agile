@@ -18,6 +18,7 @@ Each system contains examples of how to apply the Agile Prototyping Methodology 
 2. [Floor] (This was missing in the orginal paper) (Including Storeys, slabs and the plenum)
 1. [Facade] (named skin in Figure 1)
 2. [Space] (Including circulation and Fire evacuation)
+3. [Circulation]
 1. [Structure]
 1. [Services] (Including Fire Sprinklers etc.)
 1. [Materials] (This system is not included in Figure 1.)
@@ -28,7 +29,7 @@ Each system contains examples of how to apply the Agile Prototyping Methodology 
 [Site]: /Systems/Site.md
 [Floor]: /Systems/Floor.md
 [Facade]: /Systems/Facade.md
-[Core]: /Systems/Core.md
+[Circulation]: /Systems/Circulation.md
 [Space]: /Systems/Space.md
 [Structure]: /Systems/Structure.md
 [Services]: /Systems/Services.md
