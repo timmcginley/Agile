@@ -29,7 +29,7 @@ Next you should scope your investigation of the circulation system. You may for 
 ### 1.5 Features
 > Identify Features
 
-Here you need to identify the features for each of the segements that are in the scope of your study. For instance a feature might be that the fire lift is in a pressurised shaft. It might be thickness of the CORE walls, this is up to you to identify.
+Here you need to identify the features for each of the segments that are in the scope of your study. For instance a feature might be that the fire lift is in a pressurised shaft. It might be thickness of the CORE walls, this is up to you to identify.
 
 [site]: /Systems/Site
 [floor]: /Systems/Floor
