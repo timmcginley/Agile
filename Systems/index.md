@@ -25,16 +25,16 @@ Each system contains examples of how to apply the Agile Prototyping Methodology 
 
 [1]: /Schedule/01
 
-[Site]: /Agile/Systems/Site
-[Floor]: /Agile/Systems/Floor
-[Facade]: /Agile/Systems/Facade
-[Core]: /Agile/Systems/Core
-[Space]: /Agile/Systems/Space
-[Structure]: /Agile/Systems/Structure
-[Services]: /Agile/Systems/Services
-[Fire]: /Agile/Systems/Fire
-[Materials]: /Agile/Systems/Materials
-[Build]: /Agile/Systems/Build
+[Site]: /Systems/Site.md
+[Floor]: /Systems/Floor.md
+[Facade]: /Systems/Facade.md
+[Core]: /Systems/Core.md
+[Space]: /Systems/Space.md
+[Structure]: /Systems/Structure.md
+[Services]: /Systems/Services.md
+[Fire]: /Systems/Fire.md
+[Materials]: /Systems/Materials.md
+[Build]: /Systems/Build.md
 
 [meta disciplinary elements]: /Agile/Concepts/MetaDisciplinary
 
