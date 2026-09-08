@@ -107,9 +107,12 @@ _Sep 8 2026 08:00 - 12:00_
 
 ### Functions Lecture by Torben Lenau
 * Cup to Tent
+* Functions (Verb and Noun)
 * Biologic Inspiration
-* Biomimetics / Biomimetic Architecture
-* Functions
+* [Biomimicry] / Biomimetic Architecture
+* introduction to [Asknature.org]
+* Define verbs and nouns to each stage (Maybe zero is not possible?)
+* Search [Asknature.org]
 
 ### Concept Introduction 
 * Functions
@@ -456,6 +459,9 @@ _________________
 [game]: /Agile/Projects/Game
 [parametric]: /Agile/Projects/Parametric
 [manual]: /Agile/Projects/Manual
+[Asknature.org]: http://Asknature.org
+[A1]: Agile/Assignments/A1
+[Biomimicry]: Agile/Concepts/Biomimicry
 
 
 <!-- 2024
