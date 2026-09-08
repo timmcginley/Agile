@@ -82,7 +82,7 @@ Please bring
 ### Activity 1: Cup Features
 * [AP1] : Idenitfying Features
 
-### Activity 1: Cup Stages
+### Activity 2: Cup Stages
 * [AP2] Identifying Growth Stages
 * HyperStages: Merging with another group to develop a super stage.
 
@@ -122,7 +122,7 @@ _Sep 8 2026 08:00 - 12:00_
 * What type of functions can the shelter do?
 * What do the systems need to afford ?
 
-### Activity 1: Identifying functions of a tent
+### Activity 2: Identifying functions of a tent
 * Identifying functions
 
 ### Activity 3: Dismantle & Analyse Tent Mutations 
