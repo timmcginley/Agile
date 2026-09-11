@@ -165,11 +165,13 @@ _Sep 15 2026 08:00 - 12:00_
 * Analysing existing 308
 
 ### Activity 2: Identifying Building Functions & Features
-* Mapping from tent features to building feautures
-* Mapping from tent functions to building functions
+* Building 308 feautures
+* Building 308 functions
 
 ### Activity 3: Design Grid & Requirements
-* You will receive a list of model, tool, issues provided from Advanced BIM course
+* You will receive a list of issues provided from Advanced BIM course. These have been classified into model, tool or design issues.
+  * We will focus on design issues.
+* Consider how can the defined issues and defined functions of a building meet the building needs from a systems perspective?
 * Define a set of requirements a building needs to meets its defined functions
 
 
