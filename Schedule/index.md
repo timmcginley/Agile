@@ -149,7 +149,7 @@ _Sep 15 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Design Pasts by Laila  Zwisler*|
 | 9:00 - 9:15 | 117/024 | **Concept Introduction**|
 | 9:15 - 10:00 | 117/024 or 127/014 |  **Activity 1**<br> Existing B308 Pack Analysis (Elements and Spaces) |
-| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Building Functions & Futures |
+| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 2**<br> Identifying Building Functions & Features |
 | 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Design Grid & Requirements |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
@@ -164,12 +164,14 @@ _Sep 15 2026 08:00 - 12:00_
 ### Activity 1: Existing B308 Pack Analysis (Elements and Spaces)
 * Analysing existing 308
 
-### Acitivty 2: Identifying Building Functions & Futures
-* Mapping fron tent features to building feautures
+### Activity 2: Identifying Building Functions & Features
+* Mapping from tent features to building feautures
 * Mapping from tent functions to building functions
 
 ### Activity 3: Design Grid & Requirements
-* Define a set of requirements
+* You will receive a list of model, tool, issues provided from Advanced BIM course
+* Define a set of requirements a building needs to meets its defined functions
+
 
 
 ## [A1] Building System Growth
