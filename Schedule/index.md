@@ -168,12 +168,6 @@ _Sep 15 2026 08:00 - 12:00_
 * Building 308 feautures
 * Building 308 functions
 
-### Activity 3: Design Grid & Requirements
-* You will receive a list of issues provided from Advanced BIM course. These have been classified into model, tool or design issues.
-  * We will focus on design issues.
-* Consider how can the defined issues and defined functions of a building meet the building needs from a systems perspective?
-* Define a set of requirements a building needs to meets its defined functions
-
 
 
 ## [A1] Building System Growth
@@ -201,6 +195,13 @@ _Sep 22 2026 08:00 - 12:00_
 ### Concept Introduction 
 * Stages
 * Reverse Engineering
+
+
+### Activity 1: Design Grid & Requirements
+* You will receive a list of issues provided from Advanced BIM course. These have been classified into model, tool or design issues.
+  * We will focus on design issues.
+* Consider how can the defined issues and defined functions of a building meet the building needs from a systems perspective?
+* Define a set of requirements a building needs to meets its defined functions
 
 ### Activity 1: Battleships: Analyse Proposed Grid
   
