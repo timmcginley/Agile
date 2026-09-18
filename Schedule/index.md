@@ -203,11 +203,11 @@ _Sep 22 2026 08:00 - 12:00_
 * Consider how can the defined issues and defined functions of a building meet the building needs from a systems perspective?
 * Define a set of requirements a building needs to meets its defined functions
 
-### Activity 1: Battleships: Analyse Proposed Grid
+### Activity 2: Battleships: Analyse Proposed Grid
   
-### Activity 2: Proposed B308 Pack Analysis from Future 2045
+### Activity 3: Proposed B308 Pack Analysis from Future 2045
 
-### Acitivty 3: Reverse Engineer Floor Plans and Pattern Identification
+### Acitivty 4: Reverse Engineer Floor Plans and Pattern Identification
 
 
 
