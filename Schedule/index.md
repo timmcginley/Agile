@@ -186,28 +186,30 @@ _Sep 22 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
-| 8:45 - 9:45 | 117/024 | **Activity 1**<br> Battleships: Analyse Proposed Grid|
-| 10:00 - 11:00 | 117/024 | **Activity 2**<br> Proposed B308 Pack Analysis from Future 2045|
-| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Reverse Engineer Floor Plans and Pattern Identification |
+| 8:00 - 8:45 | 117/024 | **Concept Introduction**|
+| 9:00 - 10:30 | 117/024 | **Activity 1**<br> Battleships: Proposed Grid|
+| 10:45 - 11:45 | 117/024 | **Activity 2**<br> Battleships: Proposed Grid|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
+* C.U.R.E.
+<!--
 * Stages
-* Reverse Engineering
+* Reverse Engineering -->
 
-
+<!--
 ### Activity 1: Design Grid & Requirements
 * You will receive a list of issues provided from Advanced BIM course. These have been classified into model, tool or design issues.
   * We will focus on design issues.
 * Consider how can the defined issues and defined functions of a building meet the building needs from a systems perspective?
 * Define a set of requirements a building needs to meets its defined functions
+-->
 
-### Activity 2: Battleships: Analyse Proposed Grid
+### Activity 1: Battleships: Proposed Grid of B308
   
-### Activity 3: Proposed B308 Pack Analysis from Future 2045
+### Activity 2: Battleships: Propose Issues of B308
 
-### Acitivty 4: Reverse Engineer Floor Plans and Pattern Identification
+<!-- ### Acitivty 4: Reverse Engineer Floor Plans and Pattern Identification -->
 
 
 
