@@ -194,9 +194,8 @@ _Sep 22 2026 08:00 - 12:00_
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
-* C.U.R.E?
-* Stages
-* Reverse Engineering
+* Boxbuild introduction
+* Grids
 
 <!--
 ### Activity 1: Design Grid & Requirements
