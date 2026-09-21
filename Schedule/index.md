@@ -186,9 +186,11 @@ _Sep 22 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:45 | 117/024 | **Concept Introduction**|
-| 9:00 - 10:30 | 117/024 | **Activity 1**<br> BoxBuild: Proposed Grid|
-| 10:45 - 11:45 | 117/024 | **Activity 2**<br> BoxBuild: Proposed Grid|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 8:30 - 8:45 | 117/024 | **Content Introduction**|
+| 9:00 - 10:00 | 117/024 | **Activity 1**<br> BoxBuild: Existing Building Grid|
+| 10:00 - 10:45 | 117/024 | **Summary and Manager roles**|
+| 10:45 - 11:45 | 117/024 | **Activity 2**<br> BoxBuild: Proposed Building Grid|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
@@ -204,9 +206,16 @@ _Sep 22 2026 08:00 - 12:00_
 * Define a set of requirements a building needs to meets its defined functions
 -->
 
-### Activity 1: Battleships: Proposed Grid of B308
+### Content Introduction 
+* Building 308 floor plans
+* Client reports
+
+### Activity 1: BoxBuild: Existing Building Grid
+* Using the existing floor plan and reports, map the building floor plans on the boxbuild grid.
   
-### Activity 2: Battleships: Propose Issues of B308
+### Activity 2: BoxBuild: Proposed Building Grid
+* Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid.
+  
 
 <!-- ### Acitivty 4: Reverse Engineer Floor Plans and Pattern Identification -->
 
