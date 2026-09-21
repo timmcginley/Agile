@@ -187,12 +187,12 @@ _Sep 22 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:45 | 117/024 | **Concept Introduction**|
-| 9:00 - 10:30 | 117/024 | **Activity 1**<br> Battleships: Proposed Grid|
-| 10:45 - 11:45 | 117/024 | **Activity 2**<br> Battleships: Proposed Grid|
+| 9:00 - 10:30 | 117/024 | **Activity 1**<br> BoxBuild: Proposed Grid|
+| 10:45 - 11:45 | 117/024 | **Activity 2**<br> BoxBuild: Proposed Grid|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
-* C.U.R.E.
+* C.U.R.E?
 * Stages
 * Reverse Engineering
 
