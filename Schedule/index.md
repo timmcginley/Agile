@@ -193,9 +193,8 @@ _Sep 22 2026 08:00 - 12:00_
 
 ### Concept Introduction 
 * C.U.R.E.
-<!--
 * Stages
-* Reverse Engineering -->
+* Reverse Engineering
 
 <!--
 ### Activity 1: Design Grid & Requirements
