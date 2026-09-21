@@ -210,10 +210,10 @@ _Sep 22 2026 08:00 - 12:00_
 * Client reports
 
 ### Activity 1: BoxBuild: Existing Building Grid
-* Using the existing floor plan and reports, map the building floor plans on the boxbuild grid.
+* Using the existing floor plan and reports, map the building floor plans on the boxbuild grid from your focus area.
   
 ### Activity 2: BoxBuild: Proposed Building Grid
-* Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid.
+* Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
   
 
 <!-- ### Acitivty 4: Reverse Engineer Floor Plans and Pattern Identification -->
