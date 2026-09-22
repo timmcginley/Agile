@@ -209,7 +209,18 @@ _Sep 22 2026 08:00 - 12:00_
 * Building 308 floor plans
 * Client reports
 
-### Activity 1: BoxBuild: Existing Building Grid
+### Activity 1: Analyse existing systems
+Gather data on each of your existing systems including:
+* SITE - conditions under the ground
+* FLR - Floor elevations, F2F, F2C
+* SPC - List of spaces
+* STR - Types of columns etc.
+* FAC - Facade (external wall) types
+* SRV - Location of AHU, Air Terminals etc.
+* MAT - List of materials in the building
+* BLD - Current Issues
+
+### Activity 2: BoxBuild: Existing Building Grid
 * Using the existing floor plan and reports, map the building floor plans on the boxbuild grid from your focus area.
   
 ### Activity 2: BoxBuild: Proposed Building Grid
