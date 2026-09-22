@@ -226,11 +226,11 @@ Gather data on each of your existing systems including:
 * SITE
 
 ### SPC & FAC & MAT
-* go to <https://battlebuild.onrender.com/?role=ARCH>
+* go to <https://boxbuild2.onrender.com/?role=ARCH>
 ### SRV & FLR
-* go to <https://battlebuild.onrender.com/?role=SERV>
+* go to <https://boxbuild2.onrender.com/?role=SERV>
 ### STR & BLD & SIT
-* go to <https://battlebuild.onrender.com/?role=STRU>
+* go to <https://boxbuild2.onrender.com/?role=STRU>
   
 ### Activity 2: BoxBuild: Proposed Building Grid
 * Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
