@@ -177,7 +177,7 @@ Due Sunday 20th September 2026
 
 <a id="part-2-discover"></a>
 # Part 2 - Discover
-## Week 04 - Stages and Scale
+## Week 04 - Element Types
 
 Location: Building 117 Room 024 / Building 127 Room 014
 
@@ -210,7 +210,7 @@ _Sep 22 2026 08:00 - 12:00_
 * Client reports
 
 ### Activity 1: Analyse existing systems
-Gather data on each of your existing systems including:
+Gather data onto on excel sheet on each of your existing systems including:
 * SITE - conditions under the ground
 * FLR - Floor elevations, F2F, F2C
 * SPC - List of spaces
@@ -219,6 +219,7 @@ Gather data on each of your existing systems including:
 * SRV - Location of AHU, Air Terminals etc.
 * MAT - List of materials in the building
 * BLD - Current Issues
+Submit this excel sheet as part of [A2]
 
 ### Activity 2: BoxBuild: Existing Building Grid
 * Using the existing floor plan and reports, map the building floor plans on the boxbuild grid from your focus area.
@@ -249,21 +250,26 @@ _Sep 29 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction & A1 Feedback Session**|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction*|
 | 8:45 - 10:00  | 117/024 or 127/014 |  **Activity 1**<br> Battleships: Mapping to Stages and Issue logging|
 | 10:15 - 11:45 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing with Charlie Neverlien|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction & Feedback Session
-* Sequencing
-* Feedback on A1
-* Joni's Sequencing
+* Parametric Paradox
+* Plasticity
+* Boxbuild
 
+### Activity 1: BoxBuild: Proposed Building Grid
+* Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
+* The goal is a simple representation of the existing and proposed building floor plans from a system perspective
+* Download the grids in svg format to submit as part of [A2] alongside a short descriptive text of explaining your process and  choices
 
-### Activity 1: Battleships Mapping to Stages and Issue logging
-### Activity 2: Issue Logging and Sequencing with Charlie Neverlien
+### Activity 2: Identify design issues and log with Charlie Neverlien
+* An activity with a fellow DTU peer to analyse design issues and the sequence of them.
+* The design issues are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
 
-## Week 06 - Building Growth, Sequencing and Gaps  |
+## Week 06 - Plasticity and Sequencing  |
 
 _Oct 6 2026 08:00 - 12:00_
 
@@ -277,20 +283,29 @@ _Oct 6 2026 08:00 - 12:00_
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
-* Growth Stages
-* Reverse genes
-* Building Environment
-* Building Phenotype
-* Building Genotype
-* The gap is how....
+* Sequencing
+* Plasticity
+* Biological influence on building design
+  * Stain elements
+  * Mutations
+  * Phenotypic Plasticity
 
-### Activity 1: Proposed Building Growth, Meta-Disciplinary Mapping
+### Activity 1: Identify the constraints/ plasticity limits of the current design systems
+ * Go through the 7 projects and find system constraints?
+ *  How do the different constraints limit the design into the proposed solutions
+ * Then find one element that has not changed from a systems perspective? Could it change? Is it fixed? What are the implications of the change?
+ * Make sure your system groups are not all doing the same building element through checking with the system manager
+  * Managers to ensure there are different elements being studied 
+ * The building constraints are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
 
-### Activity 1: Sequencing
-* Combine different stages of systems
 
-### Activity 2: Identify Gaps
-* TBD
+### Activity 2: Sequencing
+  * Determine the order in which systems grow within your building, what comes first and what follows within your group of 4
+ * Identify and justify your sequence mapping at each step
+ * Merge within your entire systems group to develop a universal sequence for each system and consider its plasticity.
+   * Managers to coordinate this
+ * The group sequence and systems universal sequence should be described and defended as part of [A2] 
+
 
 ## [A2] System Needs 
 Due Sunday 11th October 2026
@@ -301,7 +316,7 @@ Due Sunday 11th October 2026
 
 <a id="part-3-forecasting"></a>
 # Part 3 - Forecasting
-## Week 07 - Evaluation, Set, Matrix |
+## Week 07 - How to use CURE Framework to unlock all those constraints to make your building more agile |
 
 _Oct 20 2026 08:00 - 12:00_
 
