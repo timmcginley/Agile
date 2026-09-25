@@ -291,13 +291,14 @@ _Oct 6 2026 08:00 - 12:00_
 ### Activity 1: Identify the constraints/ plasticity limits of the current design systems
 1. Managers to ensure there are different elements being studied, no two groups can study the same element** 
 
-2. Individually, Go through the 7 projects and find system constraints.
-   * Consider how do the different constraints limit the design into the proposed solutions
-3. Find one element that has not changed from a systems perspective?
+2. Individually, Go through the 7 projects assigned by your system manager and find system constraints.
+   * Consider how do the different constraints limit the design into the proposed solutions.
+3. Find one element that from a systems perspective that is relevant:
      * Could it change?
+     * Has it changed?
      * Is it fixed?
      * What are the implications of the change?
-4. Find as many elements as possible to map your entire system ( a minimum of 7 elements is expected)
+4. Find as many elements as possible to map your entire system. Make sure all elements are mapped within your system.
   
 
 ### Activity 2: Tag and Trace
@@ -305,10 +306,8 @@ _Oct 6 2026 08:00 - 12:00_
 6. Tag where that element is in all the designs.
    * For example, column in report 2601 was in A1 grid position but in 2602 its been moved to A2 grid
 7. Repeat that for all reports so that the elements moving, changing, or being removed are traced for all 6 projects.
-8. Use powerpoint or any other software to indicate in the floor plans where the changes are made.
-9. Finally, submit the two activities, building constraints and the tracing activity,  as part of [A2] and will be used to develop your use case in [A3]
-
-
+8. Use powerpoint to indicate in the floor plans where the elements are and the changes that are made.
+9. Finally, submit the two activities, building elements and the tracing activity, as part of [A2] and will be used to develop your use case in [A3]
 
 
 ## [A2] System Needs 
