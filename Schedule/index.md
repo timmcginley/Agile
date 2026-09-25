@@ -319,7 +319,7 @@ Due Sunday 11th October 2026
 
 <a id="part-3-forecasting"></a>
 # Part 3 - Forecasting
-## Week 07 - How to use CURE Framework to unlock all those constraints to make your building more agile |
+## Week 07 - Plasticity: How to use CURE Framework to unlock all those constraints to make your building more agile |
 
 _Oct 20 2026 08:00 - 12:00_
 
