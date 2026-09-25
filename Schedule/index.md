@@ -224,7 +224,6 @@ Submit this excel sheet as part of [A2]
 ### Activity 2: BoxBuild: Existing Building Grid
 * Using the existing floor plan and reports, map the building floor plans on the boxbuild grid from your focus area.
 
-* SITE
 
 ### SPC & FAC & MAT
 * go to <https://boxbuild2.onrender.com/?role=ARCH>
@@ -244,15 +243,15 @@ Submit this excel sheet as part of [A2]
 <hr>
 
 
-## Week 05 - Issues and Mapping |
+## Week 05 - Mapping |
 
 _Sep 29 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction*|
-| 8:45 - 10:00  | 117/024 or 127/014 |  **Activity 1**<br> Battleships: Mapping to Stages and Issue logging|
-| 10:15 - 11:45 | 117/024 | **Activity 2**<br> Issue Logging and Sequencing with Charlie Neverlien|
+| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
+| 8:45 - 10:00  | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Systems Mapping|
+| 10:15 - 11:45 | 117/024 | **Activity 2**<br> Identify design issues and log with Charlie Neverlien|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction & Feedback Session
@@ -260,7 +259,7 @@ _Sep 29 2026 08:00 - 12:00_
 * Plasticity
 * Boxbuild
 
-### Activity 1: BoxBuild: Proposed Building Grid
+### Activity 1: BoxBuild: Proposed Building Systems Mapping
 * Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
 * The goal is a simple representation of the existing and proposed building floor plans from a system perspective
 * Download the grids in svg format to submit as part of [A2] alongside a short descriptive text of explaining your process and  choices
@@ -269,7 +268,7 @@ _Sep 29 2026 08:00 - 12:00_
 * An activity with a fellow DTU peer to analyse design issues and the sequence of them.
 * The design issues are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
 
-## Week 06 - Plasticity and Sequencing  |
+## Week 06 - Tagging and Tracing  |
 
 _Oct 6 2026 08:00 - 12:00_
 
@@ -277,9 +276,7 @@ _Oct 6 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**
-| 9:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Proposed Building Growth, Meta-Disciplinary Mapping |
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Sequencing |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 3**<br> Identify Gaps |
+| 8:30 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Trace Elements |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
@@ -291,20 +288,25 @@ _Oct 6 2026 08:00 - 12:00_
   * Phenotypic Plasticity
 
 ### Activity 1: Identify the constraints/ plasticity limits of the current design systems
- * Go through the 7 projects and find system constraints?
- *  How do the different constraints limit the design into the proposed solutions
- * Then find one element that has not changed from a systems perspective? Could it change? Is it fixed? What are the implications of the change?
- * Make sure your system groups are not all doing the same building element through checking with the system manager
-  * Managers to ensure there are different elements being studied 
- * The building constraints are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
+1. Individually, Go through the 7 projects and find system constraints.
+   * Consider how do the different constraints limit the design into the proposed solutions
+2. Find one element that has not changed from a systems perspective?
+     * Could it change?
+     * Is it fixed?
+     * What are the implications of the change?
+3. Find as many elements as possible to map your entire system ( a minimum of 7 elements is expected)
+  
+ **Managers to ensure there are different elements being studied, no two groups can study the same element** 
+
+### Activity 2: Tag and Trace
+4. Now that you have a list of the elements identified from your system perspective
+5. Tag where that element is in all the designs.
+   * For example, column in report 2601 was in A1 grid position but in 2602 its been moved to A2 grid
+6. Repeat that for all reports so that the elements moving, changing, or being removed are traced for all 6 projects.
+7. Use powerpoint or any other software to indicate in the floor plans where the changes are made.
+8. Finally, submit the two activities, building constraints and the tracing activity,  as part of [A2] and will be used to develop your use case in [A3]
 
 
-### Activity 2: Sequencing
-  * Determine the order in which systems grow within your building, what comes first and what follows within your group of 4
- * Identify and justify your sequence mapping at each step
- * Merge within your entire systems group to develop a universal sequence for each system and consider its plasticity.
-   * Managers to coordinate this
- * The group sequence and systems universal sequence should be described and defended as part of [A2] 
 
 
 ## [A2] System Needs 
@@ -343,7 +345,13 @@ _Oct 20 2026 08:00 - 12:00_
 | **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
 
 
-### Activity 2: Integrate All Disciplines and Identify Gaps
+### Activity 2: Sequencing
+  * Determine the order in which systems grow within your building, what comes first and what follows within your group of 4
+ * Identify and justify your sequence mapping at each step
+ * Merge within your entire systems group to develop a universal sequence for each system and consider its plasticity.
+   * Managers to coordinate this
+ * The group sequence and systems universal sequence should be described and defended as part of [A2] 
+### Activity 3: Integrate All Disciplines and Identify Gaps
 
 
 <hr>
