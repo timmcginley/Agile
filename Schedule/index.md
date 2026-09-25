@@ -354,6 +354,9 @@ _Oct 20 2026 08:00 - 12:00_
  * The group sequence and systems universal sequence should be described and defended as part of [A2] 
 ### Activity 3: Integrate All Disciplines and Identify Gaps
 
+* Sequencing - goal of a universal sequence for each system and plasticity considerations
+* The sequence and systems universal sequence as done in
+* Short description of the plasticity considerations of each step of the sequence
 
 <hr>
 
