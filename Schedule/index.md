@@ -276,7 +276,8 @@ _Oct 6 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**
-| 8:30 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Trace Elements |
+| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity **<br> Identify constraints |
+| 10:30 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Trace Elements |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
