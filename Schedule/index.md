@@ -289,7 +289,7 @@ _Oct 6 2026 08:00 - 12:00_
   * Phenotypic Plasticity
 
 ### Activity 1: Identify the constraints/ plasticity limits of the current design systems
-1. **Managers to ensure there are different elements being studied, no two groups can study the same element** 
+1. **System Managers to ensure there are different elements being studied, no two groups can study the same element** 
 
 2. Individually, Go through the 7 projects assigned by your system manager and find system constraints.
    * Consider how do the different constraints limit the design into the proposed solutions.
