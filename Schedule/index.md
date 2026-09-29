@@ -262,7 +262,17 @@ _Sep 29 2026 08:00 - 12:00_
 ### Activity 1: BoxBuild: Proposed Building Systems Mapping
 * Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
 * The goal is a simple representation of the existing and proposed building floor plans from a system perspective
-* Download the grids in svg format to submit as part of [A2] alongside a short descriptive text of explaining your process and  choices
+* Take screenshots of the 'finished' floors you have contributed to that you can submit as part of [A2] alongside a short descriptive text of explaining your process and choices.
+
+<!--    
+* Download the grids in svg format that you can submit as part of [A2] alongside a short descriptive text of explaining your process and choices.
+-->
+### SPC & FAC & MAT
+* go to <https://boxbuild2.onrender.com/?role=ARCH>
+### SRV & FLR
+* go to <https://boxbuild2.onrender.com/?role=SERV>
+### STR & BLD & SIT
+* go to <https://boxbuild2.onrender.com/?role=STRU>
 
 ### Activity 2: Identify design issues and log with Charlie Neverlien
 * An activity with a fellow DTU peer to analyse design issues and the sequence of them.
