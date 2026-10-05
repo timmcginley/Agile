@@ -285,10 +285,11 @@ _Oct 6 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction**
-| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity **<br> Identify constraints |
-| 10:30 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Trace Elements |
-| 11:45 - 12:00 | 117/024 |  **Wrap up** |
+| 08:00 - 08:15 | 117/024 | **Concept Introduction**
+| 08:15 - 09:45 | 117/024 or 127/014 |  **Activity 1**<br> Model Existing and proposed Buildings |
+| 09.45 - 10.00 | 117/024 or 127/014 |  Break |
+| 10.00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Identify constraints |
+| 10:30 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Trace Elements |
 
 ### Concept Introduction 
 * Sequencing
@@ -297,8 +298,20 @@ _Oct 6 2026 08:00 - 12:00_
   * Stain elements
   * Mutations
   * Phenotypic Plasticity
+ 
+### Activity 1: BoxBuild: Proposed Building Systems Mapping
+* Using the 6 proposed building floor plan pack and reports, map the building floor plans on the boxbuild grid from your focus area.
+* The goal is a simple representation of the existing and proposed building floor plans from a system perspective
+* Take screenshots of the 'finished' floors you have contributed to that you can submit as part of [A2] alongside a short descriptive text of explaining your process and choices.
 
-### Activity 1: Identify the constraints/ plasticity limits of the current design systems
+### SPC & FAC & MAT
+* go to <https://boxbuild2.onrender.com/?role=ARCH>
+### SRV & FLR
+* go to <https://boxbuild2.onrender.com/?role=SERV>
+### STR & BLD & SIT
+* go to <https://boxbuild2.onrender.com/?role=STRU>
+
+### Activity 2: Identify the constraints/ plasticity limits of the current design systems
 1. **System Managers to ensure there are different elements being studied, no two groups can study the same element** 
 
 2. Individually, Go through the 7 projects assigned by your system manager and find system constraints.
@@ -311,7 +324,7 @@ _Oct 6 2026 08:00 - 12:00_
 4. Find as many elements as possible to map your entire system. Make sure all elements are mapped within your system.
   
 
-### Activity 2: Tag and Trace
+### Activity 3: Tag and Trace
 5. Now that you have a list of the elements identified from your system perspective
 6. Tag where that element is in all the designs.
    * For example, column in report 2601 was in A1 grid position but in 2602 its been moved to A2 grid
