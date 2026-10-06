@@ -274,10 +274,6 @@ _Sep 29 2026 08:00 - 12:00_
 ### STR & BLD & SIT
 * go to <https://boxbuild2.onrender.com/?role=STRU>
 
-### Activity 2: Identify design issues and log with Charlie Neverlien
-* An activity with a fellow DTU peer to analyse design issues and the sequence of them.
-* The design issues are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
-
 ## Week 06 - Tagging and Tracing  |
 
 _Oct 6 2026 08:00 - 12:00_
@@ -285,11 +281,17 @@ _Oct 6 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 08:00 - 08:15 | 117/024 | **Concept Introduction**
-| 08:15 - 09:45 | 117/024 or 127/014 |  **Activity 1**<br> Model Existing and proposed Buildings |
+| 08:00 - 08:15 | 117/024 | **Introduction**
+| 08:15 - 09:45 | 117/024 or 127/014 |  **Activity 1** <br> Model and Trace Existing and proposed Buildings |
 | 09.45 - 10.00 | 117/024 or 127/014 |  Break |
-| 10.00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Identify constraints |
-| 10:30 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Trace Elements |
+| 10.00 - 10:30 | 117/024 or 127/014 |   **Activity 2**<br> Identify design issues and log with Charlie Neverlien|
+
+
+
+ <!--
+ | 10.00 - 10:30 | 117/024 or 127/014 |  **Activity 2**<br> Identify constraints |
+ | 10:30 - 12:00 | 117/024 or 127/014 |  **Activity 2**<br> Trace Elements |
+ -->
 
 ### Concept Introduction 
 * Sequencing
@@ -311,7 +313,11 @@ _Oct 6 2026 08:00 - 12:00_
 ### STR & BLD & SIT
 * go to <https://boxbuild2.onrender.com/?role=STRU>
 
-### Activity 2: Identify the constraints/ plasticity limits of the current design systems
+### Activity 2: Identify design issues and log with Charlie Neverlien
+* An activity with a fellow DTU peer to analyse design issues and the sequence of them.
+* The design issues are also to be submitted as part of [A2] and will be used to develop your use case in [A3]
+
+### Activity 3: Identify the constraints/ plasticity limits of the current design systems
 1. **System Managers to ensure there are different elements being studied, no two groups can study the same element** 
 
 2. Individually, Go through the 7 projects assigned by your system manager and find system constraints.
