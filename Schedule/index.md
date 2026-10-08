@@ -361,7 +361,12 @@ _Oct 20 2026 08:00 - 12:00_
 | 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
-### Concept Introduction 
+### Concept Introduction ( Futuring and Plasticity)
+* Original context and future context
+* To transform an already transformed building, has it been designed for retransformation?
+* Total plasticity of the system: Current building has a degree of placidity, does it support the new system and could it support the change
+* Could the future scenario be done with the degree of plasticity
+* Does the existing building satisfy those future? 
 * Hypothesis: In an uncertain future, to solve ...... by 2045 we should
 
 
@@ -402,6 +407,7 @@ _Oct 27 2026 08:00 - 12:00_
 
 ### Concept Introduction 
 * Introduce CURE and systems
+* Does the proposed building satisfy those future? 
 
 ### Activity 1: Develop Own Hypothesis Using Gaps Found and CURE 
 * 
@@ -416,7 +422,7 @@ Due Sunday 1st November 2026
 
 <hr>
 
-## Week 09 - Hypothesis 2045; (Does 17 work 308.1, 308.2 ... ) |
+## Week 09 - Hypothesis 2045; (Does 7 work 308.1, 308.2 ... ) |
 
 _Nov 3 2026 08:00 - 12:00_
 
