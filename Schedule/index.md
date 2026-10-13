@@ -400,9 +400,10 @@ _Oct 27 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:30 | 117/024 | **Concept Introduction**|
-| 9:00 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Develop Own Hypothesis Using Gaps Found and CURE  |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
+| 8:00 - 8:45 | 117/024 | **Concept Introduction**|
+| 9:00 - 10:00 | 117/024 | **Gabriella Rossi from the Royal Danish Academy –Architecture, Design, Conservation**|
+| 10:00 - 10:45 | 117/024 or 127/014 |  **Activity 1**<br> Develop Own Hypothesis Using Gaps Found and CURE  |
+| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
