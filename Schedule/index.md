@@ -388,9 +388,9 @@ _Oct 20 2026 08:00 - 12:00_
 | **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
 
 ### Activity 2: Building Ranking
-1. Using the BOXbuild floor plan tracing, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buiildings.
-2. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity ( capacity for change) to which has the lowest.
-3. Rank them, provide reasonings and descriptions of the systems.
+1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buildings. ( Whole building not just focus area)
+3. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity ( capacity for change) to which has the lowest.
+4. Rank them against the chosen scenarios, provide reasonings and descriptions of the systems plasticity.
 
 <!-- Possible Activity
 ### Activity 2: Sequencing
