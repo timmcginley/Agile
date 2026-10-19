@@ -362,17 +362,26 @@ _Oct 20 2026 08:00 - 12:00_
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction (Futuring and Plasticity)
-* Original context and future context
-* To transform an already transformed building, has it been designed for retransformation?
-* How can we increase plasticity of a system to make it more adaptable ?
-
- 
-* Introduction to C.U.R.E. Methodology
-
- 
-
-### Activity 1: Questionnaire with Matrix Framework CURE x Systems
+* Three horizons framework
+* Future forecasting
 * Hypothesis: In an uncertain future, to solve ...... by 2045 we should
+* What if we had to transform an already transformed building, has it been designed for retransformation?
+* How can we increase plasticity of a system to make it more adaptable to the changes of an uncertain future?
+* Introduction to C.U.R.E. Methodology
+* By applying the CURE lens, can we design systems for more agile solutions
+* Assess plasticity of existing and proposed buildings
+* Analyse different scenarios to measure degree of plasticity
+
+| C.U.R.E.  | **ARCH** | **STR** | **MAT** | **MEP** |
+|---|---|---|---|---|
+| **C** | Space Design<br>Flow<br>Flexible Design | Design of system | Material Characteristics | U-values<br>Energy Frame |
+| **U** | All People<br>Same Affordance<br>Abilities by buildings | Load | Finite Stock | Load<br>Comfort<br>Pattern |
+| **R** | Presevation of existing material and building | Material Processes/Choices<br>Flexibility, agility | What are the actual materials | Energy |
+| **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
+
+ 
+### Activity 1: Questionnaire with Matrix Framework CURE x Systems
+* What do you think the future scenarios could be  in 2028, 2035, 2045?   ?
 * Total plasticity of the system and its degree of plasticity:
     * Does the current building support the new system and the changes
     * Does the existing building satisfy those future scenario?
@@ -380,17 +389,18 @@ _Oct 20 2026 08:00 - 12:00_
     * If we apply C.U.R.E. can we build more agile solutions
 
 
-|   | **ARCH** | **STR** | **MAT** | **MEP** |
-|---|---|---|---|---|
-| **C** | Space Design<br>Flow<br>Flexible Design | Design of system | Material Characteristics | U-values<br>Energy Frame |
-| **U** | All People<br>Same Affordance<br>Abilities by buildings | Load | Finite Stock | Load<br>Comfort<br>Pattern |
-| **R** | Presevation of existing material and building | Material Processes/Choices<br>Flexibility, agility | What are the actual materials | Energy |
-| **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
-
 ### Activity 2: Building Ranking
-1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buildings. ( Whole building not just focus area)
-3. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity ( capacity for change) to which has the lowest.
-4. Rank them against the chosen scenarios, provide reasonings and descriptions of the systems plasticity.
+This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios from Activity 1. 
+
+1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buildings. Note: your focus is on the entire floor plan and building not just your focus area.
+2. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity (capacity for change) to which has the lowest.
+    - Total plasticity of the system and its degree of plasticity:
+        - Does the current building support the new system and the changes
+        - Does the existing building satisfy those future scenario?
+        - Could the future scenario be achieved with the degree of plasticity
+        - If we apply C.U.R.E. can we build more agile solutions
+3. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
+4. Place your ranking in the excel sheet on Teams.
 
 <!-- Possible Activity
 ### Activity 2: Sequencing
