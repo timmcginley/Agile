@@ -357,20 +357,28 @@ _Oct 20 2026 08:00 - 12:00_
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
 | 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
-| 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Sequencing |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Pyramid |
+| 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Questionnaire |
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Building Rank |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
-### Concept Introduction ( Futuring and Plasticity)
+### Concept Introduction (Futuring and Plasticity)
 * Original context and future context
 * To transform an already transformed building, has it been designed for retransformation?
-* Total plasticity of the system: Current building has a degree of placidity, does it support the new system and could it support the change
-* Could the future scenario be done with the degree of plasticity
-* Does the existing building satisfy those future? 
+* How can we increase plasticity of a system to make it more adaptable ?
+
+ 
+* Introduction to C.U.R.E. Methodology
+
+ 
+
+### Activity 1: Questionnaire with Matrix Framework CURE x Systems
 * Hypothesis: In an uncertain future, to solve ...... by 2045 we should
+* Total plasticity of the system and its degree of plasticity:
+    * Does the current building support the new system and the changes
+    * Does the existing building satisfy those future scenario?
+    * Could the future scenario be achieved with the degree of plasticity
+    * If we apply C.U.R.E. can we build more agile solutions
 
-
-### Activity 1: Matrix Framework CURE x Systems
 
 |   | **ARCH** | **STR** | **MAT** | **MEP** |
 |---|---|---|---|---|
@@ -379,7 +387,12 @@ _Oct 20 2026 08:00 - 12:00_
 | **R** | Presevation of existing material and building | Material Processes/Choices<br>Flexibility, agility | What are the actual materials | Energy |
 | **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
 
+### Activity 2: Building Ranking
+1. Using the BOXbuild floor plan tracing, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buiildings.
+2. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity ( capacity for change) to which has the lowest.
+3. Rank them, provide reasonings and descriptions of the systems.
 
+<!-- Possible Activity
 ### Activity 2: Sequencing
   * Determine the order in which systems grow within your building, what comes first and what follows within your group of 4
  * Identify and justify your sequence mapping at each step
@@ -391,7 +404,7 @@ _Oct 20 2026 08:00 - 12:00_
 * Sequencing - goal of a universal sequence for each system and plasticity considerations
 * The sequence and systems universal sequence as done in
 * Short description of the plasticity considerations of each step of the sequence
-
+--> 
 <hr>
 
 ## Week 08 - How Do We Change Future Environment |
@@ -409,7 +422,7 @@ _Oct 27 2026 08:00 - 12:00_
 ### Concept Introduction 
 * Introduce CURE and systems
 * Does the proposed building satisfy those future? 
-
+* Hypothesis to increase plasticity
 ### Activity 1: Develop Own Hypothesis Using Gaps Found and CURE 
 * 
 
