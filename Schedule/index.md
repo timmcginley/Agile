@@ -407,8 +407,7 @@ This activity is to rank the 7 buildings of Building 308 based on the chosen sce
         - Could the future scenario be achieved with the degree of plasticity
         - If we apply C.U.R.E. can we build more agile solutions
 3. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-4. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel. <img width="1423" height="52" alt="image" src="https://github.com/user-attachments/assets/898ca075-7de1-4cb9-852d-a5149bc4fcf7" />
-
+4. Place your ranking onto the physical table sheet from Activity 1 ( or digitally) and upload it to Teams channel.
 
 <!-- Possible Activity
 ### Activity 2: Sequencing
