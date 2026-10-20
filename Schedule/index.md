@@ -397,17 +397,21 @@ _Oct 20 2026 08:00 - 12:00_
 
 
 ### Activity 2: Building Ranking
-This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios from Activity 1. 
 
-1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine the plasticity of the existing and proposed buildings. Note: your focus is on the entire floor plan and building not just your focus area.
-2. Discuss and assess that given different future scenarios which building proposals have the highest degree of plasticity (capacity for change) to which has the lowest.
-    - Total plasticity of the system and its degree of plasticity:
-        - Does the current building support the new system and the changes
-        - Does the existing building satisfy those future scenario?
-        - Could the future scenario be achieved with the degree of plasticity
-        - If we apply C.U.R.E. can we build more agile solutions
+This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios from Activity 1.
+
+1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine for both the the existing and proposed buildings describe and rank
+    * The plasticity of your chosen systems
+    * The inertia of your chosen system 
+    * Note: your focus is on the entire floor plan and building not just your focus area.
+2. For the future scenarios discuss and decide the plastcity rank of each of the building proposals for your chosen system. 
+    * Total plasticity of the system and its degree of plasticity: 
+    * Does the current building support the new system and the changes?
+    * Does the existing building satisfy those future scenario?
+    * Could the future scenario be achieved with the degree of plasticity ?
 3. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-4. Place your ranking onto the physical table sheet from Activity 1 ( or digitally) and upload it to Teams channel.
+4. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel. 
+
 
 <!-- Possible Activity
 ### Activity 2: Sequencing
