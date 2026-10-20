@@ -382,11 +382,8 @@ _Oct 20 2026 08:00 - 12:00_
  
 ### Activity 1: Questionnaire with Matrix Framework CURE x Systems
 * What do you think the future scenarios could be  in 2028, 2035, 2045?   ?
-* Total plasticity of the system and its degree of plasticity:
-    * Does the current building support the new system and the changes
-    * Does the existing building satisfy those future scenario?
-    * Could the future scenario be achieved with the degree of plasticity
-    * If we apply C.U.R.E. can we build more agile solutions
+* Total plasticity of the building and its degree of plasticity:
+* Total interim of the building and its degree of plasticity
 
 #### Three Horizons Scenario Table:
 * What's the scenario?
