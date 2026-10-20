@@ -593,7 +593,7 @@ _________________
 [Asknature.org]: http://Asknature.org
 [A1]: Agile/Assignments/A1
 [Biomimicry]: Agile/Concepts/Biomimicry
-[PESTLE]: Agile/Concepts/Pestle
+[PESTLE]: /Concepts/Pestle
 
 
 <!-- 2024
