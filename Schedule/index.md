@@ -356,7 +356,7 @@ _Oct 20 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next six weeks Lecture **<br> |
+| 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next 3 weeks Lecture **<br> |
 | 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Questionnaire |
 | 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Building Rank |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
@@ -372,6 +372,8 @@ _Oct 20 2026 08:00 - 12:00_
 * Assess plasticity of existing and proposed buildings
 * Analyse different scenarios to measure degree of plasticity
 
+# Activity 1
+You will receive a handout of the CURE framework
 | C.U.R.E.  | **ARCH** | **STR** | **MAT** | **MEP** |
 |---|---|---|---|---|
 | **C** | Space Design<br>Flow<br>Flexible Design | Design of system | Material Characteristics | U-values<br>Energy Frame |
@@ -380,13 +382,14 @@ _Oct 20 2026 08:00 - 12:00_
 | **E** | Design for Dissassembly | Retrofitting of Existing load; 105% or 130% | Delivery to site<br>Extraction to installation | Operation and Maintenance |
 
  
-### Activity 1: Questionnaire with Matrix Framework CURE x Systems
-* What do you think the future scenarios could be  in 2028, 2035, 2045?   ?
+### Activity 2: Questionnaire with Matrix Framework CURE x Systems
+* What do you think the future scenarios could be  in 2028, 2035, 2045?
+* How would you define these in terms of the [PESTLE] framework introduced in the designpasts lecture.
+
+#### Activity 3: Three Horizons Scenario Table:
+* What's the scenario?
 * Total plasticity of the building and its degree of plasticity:
 * Total interim of the building and its degree of plasticity
-
-#### Three Horizons Scenario Table:
-* What's the scenario?
 * Change required by future scenario
 * Capacity for change (Plasticity) Ranking
 * Resistance to Change (Inertia) Ranking
@@ -590,6 +593,7 @@ _________________
 [Asknature.org]: http://Asknature.org
 [A1]: Agile/Assignments/A1
 [Biomimicry]: Agile/Concepts/Biomimicry
+[PESTLE]: Agile/Concepts/Pestle
 
 
 <!-- 2024
