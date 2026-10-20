@@ -388,6 +388,13 @@ _Oct 20 2026 08:00 - 12:00_
     * Could the future scenario be achieved with the degree of plasticity
     * If we apply C.U.R.E. can we build more agile solutions
 
+#### Three Horizons Scenario Table:
+* What's the scenario?
+* Change required by future scenario
+* Capacity for change (Plasticity) Ranking
+* Resistance to Change (Inertia) Ranking
+* Strategy to overcome inertia using Cure framework
+
 
 ### Activity 2: Building Ranking
 This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios from Activity 1. 
@@ -400,7 +407,8 @@ This activity is to rank the 7 buildings of Building 308 based on the chosen sce
         - Could the future scenario be achieved with the degree of plasticity
         - If we apply C.U.R.E. can we build more agile solutions
 3. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-4. Place your ranking in the excel sheet on Teams.
+4. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel. <img width="1423" height="52" alt="image" src="https://github.com/user-attachments/assets/898ca075-7de1-4cb9-852d-a5149bc4fcf7" />
+
 
 <!-- Possible Activity
 ### Activity 2: Sequencing
