@@ -437,8 +437,7 @@ _Oct 27 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Concept Introduction**|
 | 9:00 - 10:00 | 117/024 | **Gabriella Rossi from the Royal Danish Academy –Architecture, Design, Conservation**|
 | 10:00 - 10:15 | 117/024 | **Anna Davies Talk on her AEC River team project and her AEC learning experience**|
-| 10:15 - 11:00 | 117/024 or 127/014 |  **Activity 1**<br> Building Ranking  |
-| 11:00 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Preliminary Hypothesis Proposal |
+| 10:15 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Scenarios  |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
@@ -447,26 +446,48 @@ _Oct 27 2026 08:00 - 12:00_
 * Does the proposed building satisfy those future?
 * Hypothesis to increase plasticity
 
-### Activity 1: Building Ranking
+### Activity: Scenarios
 
-This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios from the three scenarios presented in class; the self improving building, the sharing building, the prepping building.
+#### Part 1: Required Change
+This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios: 
 
-1. Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine for both the the existing and proposed buildings describe and rank
-    * The plasticity of your chosen systems
-    * The inertia of your chosen system 
-    * Note: your focus is on the entire floor plan and building not just your focus area.
-2. For the future scenarios discuss and decide the plastcity rank of each of the building proposals for your chosen system. 
-    * Total plasticity of the system and its degree of plasticity: 
-    * Does the current building support the new system and the changes?
-    * Does the existing building satisfy those future scenario?
-    * Could the future scenario be achieved with the degree of plasticity ?
-3. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-4. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel.
+1. The self improver 
+2. The sharer
+3. The prepper
 
-### Activity 2: Preliminary Hypothesis Proposal
-* Develop Own Hypothesis Using Gaps Found and CURE 
-* Where are we going?
-* What could we analyse and experimental prototype become?
+Look at your chosen scenario from the three horizons: 2028, 2035, 2045
+Note: your study is on your focus area and its relationship to building
+
+Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine for both the the existing and proposed buildings describe and rank 
+the plasticity of your chosen systems
+The inertia of your chosen system 
+Note: your focus is on the entire floor plan and building not just your focus area.
+
+
+
+#### Part 2: Plasticity – Capacity for Change
+2. For the future scenarios discuss and decide the plasticity rank of each of the building proposals for your chosen system. 
+* Total inertia of the system and its degree of plasticity: 
+* Does the current building support the new system and the changes?
+* Does the existing building satisfy those future scenario?
+* Could the future scenario be achieved with the degree of plasticity
+
+#### Part 3: Inertia – Resistance to Change
+3. For the future scenarios discuss and decide the inertia rank of each of the building proposals for your chosen system. 
+* Total inertia of the system and its degree of inertia: 
+* Does the current building support the new system and the changes?
+* Does the existing building satisfy those future scenario?
+* Could the future scenario be achieved with the degree of inertia
+
+
+
+#### Part 4: Strategy to Overcome Inertia
+
+4. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
+5. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel on the excel in week 08. 
+
+
+
 
 
 ## [A3]  Hypothesis
@@ -493,8 +514,10 @@ _Nov 3 2026 08:00 - 12:00_
 
 ### Activity 1: Futuring
 
-
-### Activity 2: TBD
+### Activity 2: Preliminary Hypothesis Proposal
+* Develop Own Hypothesis Using Gaps Found and CURE 
+* Where are we going?
+* What could we analyse and experimental prototype become?
 
 <hr>
 
