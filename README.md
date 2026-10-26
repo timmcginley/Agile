@@ -6,7 +6,7 @@ Agile Prototyping is a [methodology] for designing building systems in the futur
 
 Agile Prototyping applies a biological science lens to extract and modify the ‘genes’ of the built environment. This enables future architectural engineers to analyse and (re)design the the pseudo genetic code of buildings and their systems, fast.  
 
-Over 4 assignements we discover:
+Over 4 assignements we will explore:
 
 * [A1] How to Grow a Tent?
 * [A2] Building System Needs
