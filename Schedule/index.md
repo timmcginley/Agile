@@ -437,7 +437,7 @@ _Oct 27 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Concept Introduction**|
 | 9:00 - 10:00 | 117/024 | **Gabriella Rossi from the Royal Danish Academy –Architecture, Design, Conservation**|
 | 10:00 - 10:15 | 117/024 | **Anna Davies Talk on her AEC River team project and her AEC learning experience**|
-| 10:15 - 11:45 | 117/024 or 127/014 |  **Activity **<br> Scenarios  |
+| 10:15 - 11:45 | 117/024 or 127/014 |  **Activity:**<br> Scenarios  |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
@@ -449,37 +449,28 @@ _Oct 27 2026 08:00 - 12:00_
 ### Activity: Scenarios
 
 #### Part 1: Required Change
-This activity is to rank the 7 buildings of Building 308 based on the chosen scenarios: 
+This activity is to rank the 7 buildings of Building 308 based on a chosen scenarios. Look at your chosen scenario from the three horizons: 2028, 2035, 2045
 
 1. The self improver 
 2. The sharer
 3. The prepper
 
-Look at your chosen scenario from the three horizons: 2028, 2035, 2045
-Note: your study is on your focus area and its relationship to building
-
-Using the BOXbuild floor plan elements, analyse the floor plans and building reports ( found on Learn) to determine for both the the existing and proposed buildings describe and rank 
-the plasticity of your chosen systems
-The inertia of your chosen system 
-Note: your focus is on the entire floor plan and building not just your focus area.
-
+*Note: your study is on your focus area and its relationship to building*
 
 
 #### Part 2: Plasticity – Capacity for Change
 2. For the future scenarios discuss and decide the plasticity rank of each of the building proposals for your chosen system. 
-* Total inertia of the system and its degree of plasticity: 
-* Does the current building support the new system and the changes?
-* Does the existing building satisfy those future scenario?
-* Could the future scenario be achieved with the degree of plasticity
+  * Total inertia of the system and its degree of plasticity: 
+  * Does the current building support the new system and the changes?
+  * Does the existing building satisfy those future scenario?
+  * Could the future scenario be achieved with the degree of plasticity
 
 #### Part 3: Inertia – Resistance to Change
 3. For the future scenarios discuss and decide the inertia rank of each of the building proposals for your chosen system. 
-* Total inertia of the system and its degree of inertia: 
-* Does the current building support the new system and the changes?
-* Does the existing building satisfy those future scenario?
-* Could the future scenario be achieved with the degree of inertia
-
-
+  * Total inertia of the system and its degree of inertia: 
+  * Does the current building support the new system and the changes?
+  * Does the existing building satisfy those future scenario?
+  * Could the future scenario be achieved with the degree of inertia
 
 #### Part 4: Strategy to Overcome Inertia
 
