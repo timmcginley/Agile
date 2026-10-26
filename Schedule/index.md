@@ -437,14 +437,14 @@ _Oct 27 2026 08:00 - 12:00_
 | 8:00 - 8:45 | 117/024 | **Concept Introduction**|
 | 9:00 - 10:00 | 117/024 | **Gabriella Rossi from the Royal Danish Academy –Architecture, Design, Conservation**|
 | 10:00 - 10:15 | 117/024 | **Anna Davies Talk on her AEC River team project and her AEC learning experience**|
-| 10:15 - 11:45 | 117/024 or 127/014 |  **Activity:**<br> Scenarios  |
+| 10:15 - 11:45 | 117/024 or 127/014 |  **Activity:** Scenarios  |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Intelligent Buildings
 * 3 Future scenarios
 * Does the proposed building satisfy those future?
-* Hypothesis to increase plasticity
+* Hypothesize to increase plasticity and decrease inertia
 
 ### Activity: Scenarios
 
@@ -456,7 +456,6 @@ This activity is to rank the 7 buildings of Building 308 based on a chosen scena
 3. The prepper
 
 *Note: your study is on your focus area and its relationship to building*
-
 
 #### Part 2: Plasticity – Capacity for Change
 2. For the future scenarios discuss and decide the plasticity rank of each of the building proposals for your chosen system. 
@@ -475,10 +474,7 @@ This activity is to rank the 7 buildings of Building 308 based on a chosen scena
 #### Part 4: Strategy to Overcome Inertia
 
 4. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-5. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel on the excel in week 08. 
-
-
-
+5. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel on the three horizons excel in folder of week 08. 
 
 
 ## [A3]  Hypothesis
