@@ -356,7 +356,7 @@ _Oct 20 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Concept Introduction**|
-| 8:15 - 8:30 | 117/024 or 127/014 |  ** Plan for next 3 weeks Lecture **<br> |
+| 8:15 - 8:30 | 117/024 or 127/014 |  **Plan for next 3 weeks Lecture**<br> |
 | 9:45 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Questionnaire |
 | 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Building Rank |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
