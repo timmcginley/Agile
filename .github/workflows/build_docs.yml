@@ -46,19 +46,15 @@ jobs:
         
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v3
+      - name: Set up Conda
+        uses: conda-incubator/setup-miniconda@v4.1.0
         with:
-          python-version: '3.11'
-          
-      - name: Add conda to system path
-        run: |
-          # $CONDA is an environment variable pointing to the root of the miniconda directory
-          echo "Conda directory: $CONDA"
-          echo $CONDA/bin >> $GITHUB_PATH
+          miniforge-version: latest
+          activate-environment: ''
+          auto-activate: false
 
-      - name: Init conda
-        run: conda init bash
+      - name: Add conda to system path
+        run: echo "$CONDA/bin" >> "$GITHUB_PATH"
           
       - name: Set cache date and path
         run: |
