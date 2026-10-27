@@ -473,8 +473,9 @@ This activity is to rank the 7 buildings of Building 308 based on a chosen scena
 
 #### Part 4: Strategy to Overcome Inertia
 
-4. Rank them against the chosen scenarios discussed in class, provide reasonings and descriptions of each systems plasticity and of the whole buildings plasticity.
-5. Place your ranking onto the paper table from Activity 1 ( or digitally) and upload it to Teams channel on the three horizons excel in folder of week 08. 
+4. Describe the strategy to overcome inertia, provide reasonings and descriptions of each systems inertia and of the whole buildings inertia.​
+  * (Rank them against the chosen scenarios discussed in class)​
+  * Document your work either on paper table from Activity 1 ( or digitally) and upload it to Teams channel on the excel in week 08 folder. ​
 
 
 ## [A3]  Hypothesis
