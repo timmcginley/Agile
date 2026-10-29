@@ -10,7 +10,7 @@
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
 [A3]: /Assignments/A3.md
-[A4]: /Assignments/A4A.md
+[A4]: /Assignments/A4.md
 [A5]: /Assignments/A4B.md
 
 
@@ -598,7 +598,7 @@ _________________
 [A1]: /Assignments/A1.md
 [A2]: /Assignments/A2.md
 [A3]: /Assignments/A3.md
-[A4]: /Assignments/A4A.md
+[A4]: /Assignments/A4.md
 [A5]: /Assignments/A4B.md
 [BIM]: /41934/Concepts/BIM
 
