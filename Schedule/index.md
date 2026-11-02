@@ -492,20 +492,29 @@ _Nov 3 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:30 | 117/024 | **Concept Introduction**|
-| 8:30 - 10:00 | 117/024 | **Activity 1**<br> Futuring|
-| 10:00 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br>  |
+| 8:30 - 9:15 | 117/024 | **Activity**<br> Part 1 Common Secnario|
+| 9:305 - 10:00 | 117/024 or 127/014 |  **Activity**<br>  Part 2: Original Agile Prototype |
+| 10:00 - 11:45 | 117/024 or 127/014 |  **Activity**<br>  Part 3: Functions & Changes |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Concept Introduction 
 * Building Type Future Trajectories
 * Building System Future Trajectories
 
-### Activity 1: Futuring
+### Activity Part 1: Common Scenario
+* Get in your groups 
+    * The self improver 
+    * The sharer
+    * The prepper
+* Look at your chosen scenario from the three horizons: 2028, 2035, 2045. Develop a common scenario, start from 2028.
+* Think about own system, then think about implications your scenario with respect to other systems
+* What does your system can do in this scenario and how it will collaborate other systems
+* Record the combined version of your scenarios from the three different teams perspective into the shared excel table on Week 09
 
-### Activity 2: Preliminary Hypothesis Proposal
-* Develop Own Hypothesis Using Gaps Found and CURE 
-* Where are we going?
-* What could we analyse and experimental prototype become?
+
+
+### Activity Part 2: Original Agile Prototype
+### Activity Part 3: Functions & Changes 
 
 <hr>
 
@@ -529,8 +538,10 @@ Experimental ideas:
 * MEP: Heat mapping using floor plans / room location based on light
 * MAT: Characteristics of materials in existing and proposed rather than the material / remodeling based on characteristics of a material
   
-### Activity 1: Experiment Brainstorming
-
+### Activity 1: Preliminary Hypothesis Proposal
+* Develop Own Hypothesis Using Gaps Found and CURE 
+* Where are we going?
+* What could we analyse and experimental prototype become?
 
 
 ### Activity 2: Develop Prototype Idea and Get Approval
