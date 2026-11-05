@@ -527,8 +527,8 @@ _Nov 10 2026 08:00 - 12:00_
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
 | 8:00 - 8:15 | 117/024 | **Experiment Introduction**|
-| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Experiment Brainstorming |
-| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Develop Prototype Idea and Get Approval  |
+| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Part 4 |
+| 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Part 5  |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
 ### Introduction 
@@ -537,17 +537,21 @@ Experimental ideas:
 * Str: A system of retrofitting & load capacity / Agile structural design
 * MEP: Heat mapping using floor plans / room location based on light
 * MAT: Characteristics of materials in existing and proposed rather than the material / remodeling based on characteristics of a material
-  
-### Activity 1: Preliminary Hypothesis Proposal
+
+
+### Activity: Part 4 Align with the others
+### Activity: Part 5 Adapt your design to this new state
+### Activity: Part 6 Design Experiment
+### Activity: Part 7 Design it
+
+<!-- ### Activity 2: Develop Prototype Idea and Get Approval
+Preliminary Hypothesis Proposal
 * Develop Own Hypothesis Using Gaps Found and CURE 
 * Where are we going?
-* What could we analyse and experimental prototype become?
+* What could we analyse and experimental prototype become? --> 
 
 
-### Activity 2: Develop Prototype Idea and Get Approval
-
-
-## Week 11 - Agile Testing |
+## Week 11 - Agile Experiment |
 
 _Nov 17 2026 08:00 - 12:00_
 
