@@ -526,23 +526,21 @@ _Nov 10 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 8:00 - 8:15 | 117/024 | **Experiment Introduction**|
-| 8:15 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Part 4 |
+| 8:00 - 8:30 | 117/024 | **Feedback and next part Introduction**|
+| 8:30 - 10:30 | 117/024 or 127/014 |  **Activity 1**<br> Part 4 |
 | 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Part 5  |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
-### Introduction 
-Experimental ideas:
-* Arch: Fire evacation sequencing / Distances between rooms and entrances
-* Str: A system of retrofitting & load capacity / Agile structural design
-* MEP: Heat mapping using floor plans / room location based on light
-* MAT: Characteristics of materials in existing and proposed rather than the material / remodeling based on characteristics of a material
-
+### Concept Introduction 
+* Feedback on Part 1,2,3 and introduction to next parrts
+* For more information on the activites, see the lectures slides uploaded on Learn. 
 
 ### Activity: Part 4 Align with the others
-### Activity: Part 5 Adapt your design to this new state
-### Activity: Part 6 Design Experiment
-### Activity: Part 7 Design it
+
+### Activity: Part 5 Add new stages
+### Activity: Part 6 Adapt your design to this new state
+### Activity: Part 7 Design Experiment
+
 
 <!-- ### Activity 2: Develop Prototype Idea and Get Approval
 Preliminary Hypothesis Proposal
@@ -562,9 +560,13 @@ _Nov 17 2026 08:00 - 12:00_
 | 10:45 - 11:45 | 117/024 or 127/014 |  **Activity 2**<br> Peer Feedback |
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
 
-### Concept Introduction 
-* Agile Prototyping
 
+### Introduction 
+Experimental ideas:
+* Arch: Fire evacation sequencing / Distances between rooms and entrances
+* Str: A system of retrofitting & load capacity / Agile structural design
+* MEP: Heat mapping using floor plans / room location based on light
+* MAT: Characteristics of materials in existing and proposed rather than the material / remodeling based on characteristics of a material
 ### Activity 1: Prototype time
 * TBD
 
