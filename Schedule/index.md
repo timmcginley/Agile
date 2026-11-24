@@ -281,7 +281,7 @@ _Oct 6 2026 08:00 - 12:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 08:00 - 08:15 | 117/024 | **Introduction**
+| 08:00 - 08:15 | 117/024 | **Introduction** |
 | 08:15 - 09:45 | 117/024 or 127/014 |  **Activity 1** <br> Model and Trace Existing and proposed Buildings |
 | 09.45 - 10.00 | 117/024 or 127/014 |  Break |
 | 10.00 - 10:30 | 117/024 or 127/014 |   **Activity 2**<br> Identify design issues and log with Charlie Neverlien|
@@ -584,6 +584,20 @@ _Nov 24 2026 08:00 - 12:00_
 
 ### Concept Introduction 
 * Tutorials and support
+* Finalizing sequence and methodology
+
+### Activity
+* Finalise the table below
+* Focus on specifying the future design and your design solution. It could be a model, a drawing, an elemenent.
+* For the final presentation, present your understanding of the methodology, process and your design solution that meet the needs & constraints of all the years.
+
+|  | Sequence | Capacity for Change | 2028 | 2035 | 2045 | Future Design |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Current situation | B308 | | Needs &amp; Constraints |  | Your design solution |
+| 3 |  |  |  |  |  |  |
+| 2 |  |  |  |  |  |  |
+| 1 |  |  |  |  |  |  |
+| 0 |  |  |  |  |  |  |
 
 
 ## [A4] Agile Prototype 
