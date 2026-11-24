@@ -614,8 +614,9 @@ _Dec 1 2026 08:00 - 12:00_
 | 8:00 - 9:00 | 117/024 | **Work on Models and Presentations**|
 | 9:00 - 11:45 | 117/024 | **Present prototype (model) and presentation**|
 | 11:45 - 12:00 | 117/024 |  **Wrap up** |
-### Activity: Present your diagnosis of the building
-* Present your diagnosis of the building from Design, Material, Use, or Build theme of a 2045 Future
+
+### Activity: Present your future design of the building
+* Present your future design, process, and methodology. You could also present your diagnosis of the building from Design, Material, Use, or Build theme of a 2045 Future
 
 
 
