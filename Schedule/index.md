@@ -38,7 +38,7 @@ The in class activities directly correspond to the following assignment.
 | A1 - How to Grow a Tent? | Sun 20 Sep 2026 | [A1] |
 | A2 - Building System Needs | Sun 11 Oct 2026 | [A2] |
 | A3 - Hypothesis 2045| Sun 01 Nov 2026 | [A3] |
-| A4 - Agile Prototype | Sun 29 Nov 2026 | [A4] |
+| A4 - Agile Prototype | Sun 6 Dec 2026 | [A4] |
 
 
 <hr>
@@ -601,7 +601,7 @@ _Nov 24 2026 08:00 - 12:00_
 
 
 ## [A4] Agile Prototype 
-Due Sunday 29th November 2026 
+Due Sunday 6th December 2026 
 
 <hr>
 
